@@ -14,19 +14,21 @@ Conferences
 ------------------
 * [Eyeo Festival](http://eyeofestival.com/)
 * [Visualized](http://visualized.com/)
+* [Resonate](http://resonate.io/)
 
 Movies
 ------------------
+* [The Art of Creative Coding](http://www.youtube.com/watch?v=eBV14-3LT-g)
 * Indie Game
 
 
 Artists / Companies
 ------------------
-* [Marius Watz](http://mariuswatz.com/)
+* [Marius Watz](http://mariuswatz.com/) :: [@mariuswatz](http://twitter.com/mariuswatz)
 * [Mr. Doob](http://mrdoob.com/)
 * [Robert Hodgin](http://roberthodgin.com/)
 * [Aaron Koblin](http://www.aaronkoblin.com/)
-* [Golan Levin](http://flong.com/)
+* [Golan Levin](http://flong.com/) :: [@golan](http://twitter.com/golan)
 * [Cedric Kiefer](http://www.onformative.com/)
 * [Dave Bollinger](http://www.flickr.com/photos/davebollinger/)
 * [Jared Tarbell](http://www.complexification.net/gallery/)
@@ -34,6 +36,9 @@ Artists / Companies
 * [W:Blut](http://www.wblut.com/constructionsite/)
 * [Inear](http://www.inear.se/)
 * [Steven Witten](http://acko.net/)
+* [Jer Thorp](http://about.me/jerthorp) :: [@blprnt](http://twitter.com/blprnt)
+* [Zach Gage](http://www.stfj.net/) :: [@helvetica](http://twitter.com/helvetica)
+* [Chris O'Shea](http://www.chrisoshea.org/) :: [@chrisoshea](http://twitter.com/chrisoshea)
 * [Nervous System](http://n-e-r-v-o-u-s.com/)
 
 

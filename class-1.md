@@ -3,6 +3,8 @@
 #### What is Creative coding?
 * Discuss this question
 * Who has experience, and with what area?
+* History
+	* [Demoscene](http://www.pouet.net/)
 
 #### Why
 * It's art

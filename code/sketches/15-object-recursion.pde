@@ -1,8 +1,8 @@
 Blocks[] blocks;
-int numBlocks = 36;
+int numBlocks = 100;
 
 void setup() {
-  size(screen.width,screen.height);
+  size(window.innerWidth, window.innerHeight);
   background(0);
   rectMode(CENTER);
 
