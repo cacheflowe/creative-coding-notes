@@ -1,0 +1,34 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Repetition 2</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="stylesheet" href="lib/reset.css">
+</head>
+<body>
+  <script src="./lib/processing-1.4.1.js"></script> 
+  <script type="text/processing" data-processing-target="canvas">
+
+    void setup() {
+      size(window.innerWidth,window.innerHeight);
+      background(0);
+      rectMode(CENTER);
+    }
+
+    void draw(){
+      background(0);
+      int size = 30;
+      int step = 100;
+      for(int col=0; col < width; col += step) {
+        fill(255 * col/width);
+        size += 3;
+        for(int row=0; row < width; row += step) {
+          rect(col, row, size, size);
+        }
+      }
+    }
+
+  </script>
+  <canvas id="canvas"></canvas>
+</body>
+</html>

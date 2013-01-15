@@ -48,12 +48,11 @@
 
 #### Techniques / Building Blocks
 ###### Live coding walkthrough with Processing.js 
-[Explain similarity between Processing, \<canvas\>, iOS]
-
 
 * Shapes
 * Color
-* Motion
+* [Similarities between drawing environments](draw-renctangle.md)
+* Motion (frame-based vs. web rendering)
 * Repetition (for())
 * Iteration
 * Randomness
@@ -61,21 +60,42 @@
 * Better motion
 * Oscillation
 * Basic trigonometry (movement & orientation)
-* 3D / lighting
 * Nature / fractals / Recursion
 * Sound
+* 3D
+	* Shaders ([GLSL](http://en.wikipedia.org/wiki/GLSL)) [1](http://glsl.heroku.com/e#5936.0)
 * Hardware inputs
 	* Mouse
 	* Webcam
 	* Accelerometer (iOS, Wii, Playstation)
 	* Depth camera (Kinect, Xtion)
+	* Arduino
 * Data:
 	* Image
 	* Audio
 	* Data sets
 * Environment
+	* HTML / Ejecta
+	* iOS
+	* Processing
+	* Cinder
+	* VVVV
+* Protocols
+	* HTTP
+	* Web Sockets
+	* OSC
+	* MIDI
 * Haxademic library - more advanced examples
+
+### State-of-the-Art Examples 
 * Imagine the process to acheive more complex projects that we've seen
+* [find examples]
+
+### Kinect
+##### Types of data
+* RGB camera
+* Depth camera
+* Infrared camera
 	
 ###### How to learn & improve
 * Enjoy it
@@ -119,8 +139,4 @@ Open source - OPENNI,
 * Kinect particles flying between skeleton parts [x]
 * A/V installation with live audio processing the environment and kinetic visuals
 
-
-
-### Assignment #1
-students should research the tools, find examples of what they like
 

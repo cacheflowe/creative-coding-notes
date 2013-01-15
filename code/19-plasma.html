@@ -1,0 +1,148 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Color Cycling</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="stylesheet" href="lib/reset.css">
+</head>
+<body>
+  <script src="./lib/processing-1.4.1.js"></script> 
+  <script type="text/processing" data-processing-target="canvas">
+
+    Cell[][] grid;
+
+    int cols = 50;
+    int rows = 50;
+    float startR = random(0,2*PI);
+    float startIncR = random(.001,.05);
+    float incR = random(.0001,.001);
+    float startG = random(0,2*PI);
+    float startIncG = random(.001,.05);
+    float incG = random(.0001,.001);
+    float startB = random(0,2*PI);
+    float startIncB = random(.001,.05);
+    float incB = random(.0001,.001);
+
+    ControlPoint[] cntrls;
+    int numCtrls = 3;
+
+    void setup() {
+      size(window.innerWidth, window.innerHeight, P3D);
+      frameRate(50);
+      colorMode(RGB,1,1,1);
+      
+      // create cells
+      float boxW = ceil( width / cols );
+      float boxH = ceil( height / rows );
+      grid = new Cell[cols][rows];
+      for (int i = 0; i < cols; i++) {
+        for (int j = 0; j < rows; j++) {
+          grid[i][j] = new Cell(i*boxW,j*boxH,boxW,boxH);
+        }
+      }
+      
+      // create control points
+      cntrls = new ControlPoint[numCtrls];
+      for (int i = 0; i < numCtrls; i++) {
+        cntrls[i] = new ControlPoint();
+      }
+    }
+
+    void draw() {
+      background(0);
+      noStroke();
+      
+      // increment the starting points
+      startR += startIncR;
+      float curR = startR;
+      startG += startIncG;
+      float curG = startG;
+      startB += startIncB;
+      float curB = startB;
+      
+      // update control points
+      for (int i = 0; i < numCtrls; i++) {
+        cntrls[i].update();
+      }
+      
+      // Oscillate and display each object
+      for (int i = 0; i < cols; i++) {
+        for (int j = 0; j < rows; j++) {
+          grid[i][j].oscillate( curR, curG, curB );
+          grid[i][j].display();
+          
+          curR += incR;
+          curG += incG * 3;
+          curB += incB;
+        }
+      }
+    }
+
+    class Cell {
+      float x,y;
+      float w,h;
+      float r,g,b;
+      
+      // Cell Constructor
+      Cell(float tempX, float tempY, float tempW, float tempH) {
+        x = tempX;
+        y = tempY;
+        w = tempW;
+        h = tempH;
+      } 
+      
+      // Oscillation means increase angle
+      void oscillate( float redColor, float greenColor, float blueColor ) {
+        r = redColor;
+        g = greenColor;
+        b = blueColor;
+      }
+
+      void display() {
+        // get color based on distance from control points and crazy trig
+        float centerDist = dist(x, y, width/2, height/2);
+        float ctrlPt1 = dist(x, y, cntrls[0].x, cntrls[0].y) * .4;
+        float ctrlPt2 = dist(x, y, cntrls[1].x, cntrls[1].y) * .4;
+        float ctrlPt3 = dist(x, y, cntrls[2].x, cntrls[2].y) * .4;
+        color cellColor = color(
+          .5+.5*sin(r) * cos(ctrlPt1/100) * cos(ctrlPt2/100) * sin(ctrlPt3/100), 
+          .2+.5*sin(g) * sin(ctrlPt1/100) * sin(ctrlPt2/100) * sin(ctrlPt3/100), 
+          .2+.5*cos(b) * sin(ctrlPt1/100) * cos(ctrlPt2/100) * sin(ctrlPt3/100) 
+        );
+        fill(cellColor);
+
+        rect(x,y,w,h); 
+
+        // pushMatrix();
+        // float brightAdjust = brightness( cellColor ) * 600;
+        // translate( 0, 0, -600 + brightAdjust );
+        // rect(x,y,w/2,h/2); 
+        // popMatrix();
+      }
+    }
+
+    class ControlPoint {
+
+      float x, y, incX, incY, incXSpeed, incYSpeed;
+      
+      ControlPoint() {
+        incX = random(0,2*PI);
+        incY = random(0,2*PI);
+        incXSpeed = random(.01,.1);
+        incYSpeed = random(.01,.1);
+        update();
+      } 
+      
+      void update() {
+        incX += incXSpeed;
+        incY += incYSpeed;
+        x = width/2 + width/2 * sin(incX);
+        y = height/2 + height/2 * sin(incY);
+      }
+    }
+
+
+  </script>
+  <canvas id="canvas"></canvas>
+</body>
+</html>

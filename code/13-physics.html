@@ -1,0 +1,76 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Physics</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="stylesheet" href="lib/reset.css">
+</head>
+<body>
+  <script src="./lib/processing-1.4.1.js"></script> 
+  <script type="text/processing" data-processing-target="canvas">
+
+    Block[] blocks;
+
+    void setup() {
+      size(window.innerWidth,window.innerHeight);
+      background(0);
+      rectMode(CENTER);
+
+      int numBlocks = 20;
+      blocks = new Block[numBlocks];
+      for(int i=0; i < numBlocks; i++) {
+        blocks[i] = new Block();
+      }
+    }
+
+    void draw(){
+      fill(random(0,255));
+      for(int i=0; i < blocks.length; i++) {
+        blocks[i].update();
+      }
+    }
+
+    class Block {
+      int size;
+      int x;
+      int y;
+      int color1;
+      int speedX;
+      int speedY;
+      int gravity = 0.03;
+      int drag = 0.03;
+
+      public Block() {
+        size = random(5,40);
+        x = width/2;
+        y = height/2;
+        color1 = color(random(30,255),random(30,255),random(30,255));
+        speedX = random(-3,3);
+        speedY = random(-6,0);
+      }
+
+      void update() {
+        x -= drag;
+        speedY += gravity;
+
+        x += speedX;
+        if(x > width || x < 0) {
+          speedX *= -0.9;
+          x += speedX;
+        }
+
+        y += speedY;
+        if(y > height) {
+          speedY *= -0.8;
+          y += speedY;
+        }
+
+        fill(color1);
+        rect(x, y, size, size);
+      }
+    }
+
+  </script>
+  <canvas id="canvas"></canvas>
+</body>
+</html>

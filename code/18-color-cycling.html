@@ -1,0 +1,87 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Color Cycling</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="stylesheet" href="lib/reset.css">
+</head>
+<body>
+  <script src="./lib/processing-1.4.1.js"></script> 
+  <script type="text/processing" data-processing-target="canvas">
+
+    ColorBox[][] grid;
+
+    int cols = 50;
+    int rows = 200;
+    float startR = random(0,2*PI);
+    float startIncR = random(.001,.05);
+    float incR = random(.00001,.0005);
+    float startG = random(0,2*PI);
+    float startIncG = random(.001,.05);
+    float incG = random(.00001,.0005);
+    float startB = random(0,2*PI);
+    float startIncB = random(.001,.05);
+    float incB = random(.00001,.0005);
+
+    void setup() {
+      size(window.innerWidth, window.innerHeight);
+      frameRate(50);
+      noStroke();
+      // create cell grid
+      float boxW = ceil( width / cols );
+      float boxH = ceil( height / rows );
+      grid = new ColorBox[cols][rows];
+      for (int i = 0; i < cols; i++) {
+        for (int j = 0; j < rows; j++) {
+          grid[i][j] = new ColorBox(i*boxW,j*boxH,boxW,boxH);
+        }
+      }
+    }
+
+    void draw() {
+      background(0);
+      
+      // inrement the starting points
+      startR += startIncR;
+      float curR = startR;
+      startG += startIncG;
+      float curG = startG;
+      startB += startIncB;
+      float curB = startB;
+        
+      for (int i = 0; i < cols; i++) {
+        for (int j = 0; j < rows; j++) {
+          // Oscillate and display each object
+          grid[i][j].display( curR, curG, curB );
+          
+          curR += incR;
+          curG += incG;
+          curB += incB;
+        }
+      }
+    }
+
+    class ColorBox {
+      float x,y;
+      float w,h;
+      float r,g,b;
+      
+      ColorBox(float tempX, float tempY, float tempW, float tempH) {
+        x = tempX;
+        y = tempY;
+        w = tempW;
+        h = tempH;
+      } 
+
+      void display( float r, float g, float b ) {
+        noStroke();
+        // Color calculated using sine wave
+        fill(127+127*sin(r), 127+127*sin(g), 127+127*sin(b));
+        rect(x,y,w,h); 
+      }
+    }
+
+  </script>
+  <canvas id="canvas"></canvas>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Randomness</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="stylesheet" href="lib/reset.css">
+</head>
+<body>
+  <script src="./lib/processing-1.4.1.js"></script> 
+  <script type="text/processing" data-processing-target="canvas">
+
+    void setup() {
+      size(window.innerWidth,window.innerHeight);
+      background(0);
+      rectMode(CENTER);
+    }
+
+    void draw(){
+      background(0);
+      int step = 31;
+      int size = 20;
+      for(int i=0; i < width; i += step) {
+        fill(random(0,255));
+        if(round(random(0,1)) % 2 == 0) {
+          rect(i, height/2, size, size);
+        } else {
+          ellipse(i, height/2, size, size);
+        }
+      }
+    }
+
+  </script>
+  <canvas id="canvas"></canvas>
+</body>
+</html>

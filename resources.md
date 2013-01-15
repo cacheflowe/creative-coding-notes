@@ -25,9 +25,9 @@ Movies
 Artists / Companies
 ------------------
 * [Marius Watz](http://mariuswatz.com/) :: [@mariuswatz](http://twitter.com/mariuswatz)
-* [Mr. Doob](http://mrdoob.com/)
-* [Robert Hodgin](http://roberthodgin.com/)
-* [Aaron Koblin](http://www.aaronkoblin.com/)
+* [Mr. Doob](http://mrdoob.com/) :: [@mrdoob](http://twitter.com/mrdoob)
+* [Robert Hodgin](http://roberthodgin.com/) :: [@flight404](http://twitter.com/flight404)
+* [Aaron Koblin](http://www.aaronkoblin.com/) :: [@aaronkoblin](http://twitter.com/aaronkoblin)
 * [Golan Levin](http://flong.com/) :: [@golan](http://twitter.com/golan)
 * [Cedric Kiefer](http://www.onformative.com/)
 * [Dave Bollinger](http://www.flickr.com/photos/davebollinger/)

@@ -1,0 +1,30 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Lines</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="stylesheet" href="lib/reset.css">
+</head>
+<body>
+  <script src="./lib/processing-1.4.1.js"></script> 
+  <script type="text/processing" data-processing-target="canvas">
+
+    void setup() {
+      size(window.innerWidth,window.innerHeight);
+      background(0);
+      rectMode(CENTER);
+    }
+
+    void draw(){
+      fill(255,0,0);
+      stroke(255);
+      int startX = width/2;
+      int startY = height/2;
+      bezier(startX, startY + 200, startX - 350, startY - 100, startX - 200, startY - 300,  startX, startY - 100);
+      bezier(startX, startY + 200, startX + 350, startY - 100, startX + 200, startY - 300,  startX, startY - 100);
+    }
+
+  </script>
+  <canvas id="canvas"></canvas>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Hello World</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="stylesheet" href="lib/reset.css">
+</head>
+<body>
+  <script src="./lib/processing-1.4.1.js"></script> 
+  <script type="text/processing" data-processing-target="canvas">
+
+    void setup() {
+      size(window.innerWidth,window.innerHeight);
+      background(125);
+      fill(255);
+      noLoop();
+
+      PFont fontA = loadFont("courier");
+      textFont(fontA, 14);  
+    }
+
+    void draw() {
+      text("This is text!",20,20);
+      println("Hello ErrorLog!");
+    }
+
+  </script>
+  <canvas id="canvas"></canvas>
+</body>
+</html>

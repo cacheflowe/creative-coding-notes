@@ -1,0 +1,94 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Object Recursion</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="stylesheet" href="lib/reset.css">
+</head>
+<body>
+  <script src="./lib/processing-1.4.1.js"></script> 
+  <script type="text/processing" data-processing-target="canvas">
+
+    Circle[] circles;
+    int numObjects = 50;
+
+    void setup() {
+      size(window.innerWidth, window.innerHeight);
+      background(0);
+      rectMode(CENTER);
+
+      circles = new Circle[numObjects];
+      for(int i=0; i < numObjects; i++) {
+        circles[i] = new Circle(10);
+      }
+    }
+
+    void draw(){
+      background(0);
+      // fill(0, 8);
+      // rect(width/2, height/2, width, height);
+      noStroke();
+      for(int i=0; i < circles.length; i++) {
+        circles[i].update();
+      }
+    }
+
+    class Circle {
+      int x;
+      int y;
+      int color;
+      int speed;
+      int radians;
+      int radiansOscInc;
+      float size;
+      Circle child;
+
+      public Circle(float newSize) {
+        size = newSize;
+        if(size > 2) child = new Circle(size * 0.95);
+
+        x = width/2;
+        y = height/2;
+        color = random(127, 220);
+        speed = random(2,4);
+        radians = random(0, TWO_PI);
+
+        radiansOscInc = random(0.01, 0.2);
+      }
+
+      void update() {
+        if(child != null) child.updateChild(x, y, radians);
+        x += sin(radians) * speed;
+        y += cos(radians) * speed;
+        radians += sin(radiansOscInc * frameCount) * 0.1;
+        draw();
+
+        // constrain to stage
+        if(x > width) x = 0;
+        if(x < 0) x = width;
+        if(y > height) y = 0;
+        if(y < 0) y = height;
+      }
+
+      void updateChild(parentX, parentY, parentRadians) {
+        if(child != null) child.updateChild(x, y, radians);
+        x = parentX;
+        y = parentY;
+        radians = parentRadians;
+        draw();
+      }
+
+      void draw() {
+        fill(color);
+        pushMatrix();
+        translate(x, y);
+        rotate(-radians);
+        ellipse(0, 0, size, size);
+        popMatrix();
+      }
+    }
+
+  </script>
+  <canvas id="canvas"></canvas>
+</body>
+</html>

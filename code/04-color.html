@@ -1,0 +1,28 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Color</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="stylesheet" href="lib/reset.css">
+</head>
+<body>
+  <script src="./lib/processing-1.4.1.js"></script> 
+  <script type="text/processing" data-processing-target="canvas">
+
+    void setup() {
+      size(window.innerWidth,window.innerHeight);
+      background(0);
+      rectMode(CENTER);
+    }
+
+    void draw(){
+      // draw shape
+      fill(255,0,0);
+      // fill(mouseX/width * 255);
+      rect(width/2, height/2, 100, 100);
+    }
+
+  </script>
+  <canvas id="canvas"></canvas>
+</body>
+</html>
