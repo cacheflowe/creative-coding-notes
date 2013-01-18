@@ -3,7 +3,7 @@
 
 #### Introductions
 * Who are you?
-* Who am I?
+* [Who am I?](https://github.com/cacheflowe/creative-coding-class-notes/blob/master/bio-justin.md)
 
 
 #### What is Creative coding?
