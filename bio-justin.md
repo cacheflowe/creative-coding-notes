@@ -2,15 +2,14 @@ Who am I?
 ---
 #### Employment
 * Clevermedia
-* (random)
 * Factory Labs
 * Mode Set
 
 #### Interests: 
-* Live visuals :: [1](http://www.youtube.com/watch?v=6G1jLZrN1Ig)
+* Live visuals
 * Audio-reactive rendering
-* Mobile web :: [1](https://vimeo.com/52507615)
-* Video games :: 
+* Mobile web
+* Video games
 * Kinect
 * Fractals
 * Physics simulations

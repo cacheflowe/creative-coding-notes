@@ -18,8 +18,8 @@ Conferences
 
 Movies
 ------------------
-* [The Art of Creative Coding](http://www.youtube.com/watch?v=eBV14-3LT-g)
-* Indie Game
+* [The Art of Creative Coding (PBS)](http://www.youtube.com/watch?v=eBV14-3LT-g)
+* [Indie Game The Movie](http://www.indiegamethemovie.com/)
 
 
 Artists / Companies
@@ -29,13 +29,13 @@ Artists / Companies
 * [Robert Hodgin](http://roberthodgin.com/) :: [@flight404](http://twitter.com/flight404)
 * [Aaron Koblin](http://www.aaronkoblin.com/) :: [@aaronkoblin](http://twitter.com/aaronkoblin)
 * [Golan Levin](http://flong.com/) :: [@golan](http://twitter.com/golan)
-* [Cedric Kiefer](http://www.onformative.com/)
+* [Cedric Kiefer](http://www.onformative.com/) :: [@CedricKiefer](http://twitter.com/CedricKiefer)
 * [Dave Bollinger](http://www.flickr.com/photos/davebollinger/)
 * [Jared Tarbell](http://www.complexification.net/gallery/)
 * [Nicolas Barradeau](http://en.nicoptere.net/)
 * [W:Blut](http://www.wblut.com/constructionsite/)
 * [Inear](http://www.inear.se/)
-* [Steven Witten](http://acko.net/)
+* [Steven Witten](http://acko.net/) :: [MathBox](https://github.com/unconed/MathBox.js)
 * [Jer Thorp](http://about.me/jerthorp) :: [@blprnt](http://twitter.com/blprnt)
 * [Zach Gage](http://www.stfj.net/) :: [@helvetica](http://twitter.com/helvetica)
 * [Chris O'Shea](http://www.chrisoshea.org/) :: [@chrisoshea](http://twitter.com/chrisoshea)

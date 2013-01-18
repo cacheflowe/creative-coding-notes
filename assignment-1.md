@@ -13,12 +13,10 @@
 * What are some examples of what you like in the field?
 * Who has experience with creative coding?
 	
-	
-* (find links for each one of these portions)
 
 # Assignment 2
 ###### Create a plan for a:
 * Piece of art (series)
 * Installation
-* advertising / marketing scheme
-* a new form of human/computer interaction
+* Advertising / marketing scheme
+* A new form of human/computer interaction

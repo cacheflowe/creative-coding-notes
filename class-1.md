@@ -1,10 +1,17 @@
 
 # Creative Coding
+
+#### Introductions
+* Who are you?
+* Who am I?
+
+
 #### What is Creative coding?
 * Discuss this question
-* Who has experience, and with what area?
-* History
-	* [Demoscene](http://www.pouet.net/)
+* [Demoscene](http://www.pouet.net/)
+* [The Art of Creative Coding](http://www.youtube.com/watch?v=eBV14-3LT-g)
+* Who has experience, and with what area? Explain your tools & interests
+* What do we want to learn?
 
 #### Why
 * It's art
@@ -24,15 +31,17 @@
 * Web development
 * Mobile app development
 * Video games
-* General UI development
+* Non-web UI development 
+	* Touchscreens
+	* Installations [1](http://www.flickr.com/photos/35528040@N04/4140086468/)
 * ["Join the Creative Class"](http://www.forbes.com/sites/elainepofeldt/2012/12/28/want-to-recession-proof-yourself-join-the-creative-class/)
 
 #### Background
 * Multi-media:
-	* Video :: [1](https://vimeo.com/10902493) [2](https://vimeo.com/9795430)
+	* Video :: [1](https://vimeo.com/10902493) [2](https://vimeo.com/9795430) [3](http://www.youtube.com/watch?v=6G1jLZrN1Ig)
 	* Audio :: [1](https://vimeo.com/23281150) [2](https://vimeo.com/38429577)
 	* Imagery :: 
-	* (Realtime) Data :: 
+	* (Realtime) Data :: [1](http://www.ted.com/talks/aaron_koblin.html) [2](http://vimeo.com/46048177)
 	* Sculpture :: [1](http://mariuswatz.com/2012/05/09/probability-lattice/)
 	* Architecture :: [1](http://mariuswatz.com/2012/02/07/arcs-rockheim/)
 	* Dance [1](https://vimeo.com/38840688)
@@ -57,23 +66,29 @@
 * Iteration
 * Randomness
 * OOP
-* Better motion
+* Physics / better motion [1](http://skeeball.dev/) 
 * Oscillation
 * Basic trigonometry (movement & orientation)
-* Nature / fractals / Recursion
+* Nature / fractals / Recursion [1](http://vimeo.com/12215994)
+* Higher level math [1](http://acko.net/files/fullfrontal/fullfrontal/slides-net/)
 * Sound
+	* Processing (AudioMeshDeform, HaxVisual)
+	* WebAudio [1](http://localhost/html_research/webaudio/apple-demo/) [2](http://localhost/Skeeball/prototypes/threejs/vertex-displace/) [3]([1](http://drop.uncontrol.com/Latest/src/)
+	* ChucK [1](https://github.com/cacheflowe/Rob.Vox)
 * 3D
+	* Meshes [1](http://vimeo.com/50808297) (MeshLoaderDemo)
 	* Shaders ([GLSL](http://en.wikipedia.org/wiki/GLSL)) [1](http://glsl.heroku.com/e#5936.0)
 * Hardware inputs
-	* Mouse
-	* Webcam
-	* Accelerometer (iOS, Wii, Playstation)
-	* Depth camera (Kinect, Xtion)
-	* Arduino
+	* Mouse / tablet
+	* Webcam [1](http://www.soundstep.com/blog/experiments/jsdetection/) (MultipleImageFilters)
+	* Accelerometer (iOS, Wii, Playstation) [1](http://vimeo.com/52507615)
+	* Arduino [1](http://www.youtube.com/watch?v=CqrQmQqpHXc#!)
+	* Depth camera (Kinect, Xtion) [1](http://vimeo.com/56513641) [2](http://vimeo.com/43230920)
 * Data:
-	* Image
-	* Audio
-	* Data sets
+	* Image [1](http://cacheflowe.com/secret/clyfford/experiments/cluster-8-bit-rows/cluster-random.html) [2](http://cacheflowe.com/secret/clyfford/experiments/cluster-8-bit-rows/cluster-rows.html) [3](http://cacheflowe.com/secret/clyfford/experiments/pointillate/pixelate.html) [4](http://cacheflowe.com/secret/clyfford/experiments/histogram/)
+	* Video [1](http://www.youtube.com/watch?v=kHKxOL5cWYs)
+	* Audio [1](http://sphotos-a.xx.fbcdn.net/hphotos-ash4/467486_4825273990540_1542718568_o.jpg)
+	* Data sets [1](http://www.aaronkoblin.com/work/flightpatterns/)
 * Environment
 	* HTML / Ejecta
 	* iOS
@@ -84,59 +99,37 @@
 	* HTTP
 	* Web Sockets
 	* OSC
-	* MIDI
+	* MIDI [1](http://vimeo.com/29517018)
 * Haxademic library - more advanced examples
 
-### State-of-the-Art Examples 
-* Imagine the process to acheive more complex projects that we've seen
-* [find examples]
-
-### Kinect
-##### Types of data
-* RGB camera
-* Depth camera
-* Infrared camera
-	
-###### How to learn & improve
-* Enjoy it
-* Give yourself assignments
-* Play with new techniques
-* Read other developers' code
-	
-###### Physical computing
+### Physical computing
 * New computing paradigms
 * Apple touch/gestures
-* Leap Motion 
+* Leap Motion [1](https://leapmotion.com/)
 * Minority Report [1](http://kolidar.com/Blog/wp-content/uploads/2012/07/Minority-report_2.jpg)
 * Environments / realtime interaction (projection mappings)
 
 
+### Kinect
+* What is the Kinect?
+* Why is it important? (bringing to the masses, accessible, MS developer embrace)
+* Machine learning for MS system [1](http://msdn.microsoft.com/en-us/library/jj131429.aspx)
+* Open source - OPENNI 
 
-* Practice to build skills to make money with fun. 
-* examples via video, etc, arduino & other tech mentions
+##### Types of data
+* RGB camera
+* Depth camera
+* Infrared camera
 
-* tie into PR & advertising for promo & money for your art
-* art for art's sake - artist statements, experiential (VJ application)
-Nature / fractals
-Image processing, frame-by-frame
-image & audio and just data to play with
-building blocks / bag of tricks to achieve what you're going for
-^^ go over these tricks for your bag and why they're important - how can we combine these tricks?
-^^ even more advanced tricks that I don't understand
-
-
-
-Kinect
-What is the Kinect?
-Why is it important? (bringing to the masses, accessible, MS developer embrace)
-More technical : 2D array of datas: RGB, Depth, machine learning for MS brains behind it
-Open source - OPENNI, 
-
-### Demos
-* Kinect user location to Audio location
-* Kinect "wind" experiment - blob tracking accelerates an overall wind force
-* Kinect - particles on blob, flying in direction of blob movement? Or just up
-* Kinect particles flying between skeleton parts [x]
-* A/V installation with live audio processing the environment and kinetic visuals
+##### Demos!
+	
+### How to learn & improve
+* Enjoy it
+* Give yourself assignments
+* Play with new techniques & combine them
+* Read other developers' code
+* Pay attention to new conventions/thinking/techniques
+* Build your bag of tricks
+	
 
 
