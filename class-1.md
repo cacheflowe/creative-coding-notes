@@ -40,7 +40,7 @@
 * Multi-media:
 	* Video :: [1](https://vimeo.com/10902493) [2](https://vimeo.com/9795430) [3](http://www.youtube.com/watch?v=6G1jLZrN1Ig)
 	* Audio :: [1](https://vimeo.com/23281150) [2](https://vimeo.com/38429577)
-	* Imagery :: 
+	* Imagery :: [1](http://www.flickr.com/groups/_aa/pool/)
 	* (Realtime) Data :: [1](http://www.ted.com/talks/aaron_koblin.html) [2](http://vimeo.com/46048177)
 	* Sculpture :: [1](http://mariuswatz.com/2012/05/09/probability-lattice/)
 	* Architecture :: [1](http://mariuswatz.com/2012/02/07/arcs-rockheim/)
@@ -60,7 +60,7 @@
 
 * Shapes
 * Color
-* [Similarities between drawing environments](draw-renctangle.md)
+* [Similarities between drawing environments](https://github.com/cacheflowe/creative-coding-class-notes/blob/master/draw-rectangle.md)
 * Motion (frame-based vs. web rendering)
 * Repetition (for())
 * Iteration
@@ -74,7 +74,7 @@
 * Sound
 	* Processing (AudioMeshDeform, HaxVisual)
 	* WebAudio [1](http://localhost/html_research/webaudio/apple-demo/) [2](http://localhost/Skeeball/prototypes/threejs/vertex-displace/) [3]([1](http://drop.uncontrol.com/Latest/src/)
-	* ChucK [1](https://github.com/cacheflowe/Rob.Vox)
+	* ChucK [1](https://github.com/cacheflowe/Rob.Vox) [2](http://vimeo.com/6025771)
 * 3D
 	* Meshes [1](http://vimeo.com/50808297) (MeshLoaderDemo)
 	* Shaders ([GLSL](http://en.wikipedia.org/wiki/GLSL)) [1](http://glsl.heroku.com/e#5936.0)
@@ -91,13 +91,14 @@
 	* Data sets [1](http://www.aaronkoblin.com/work/flightpatterns/)
 * Environment
 	* HTML / Ejecta
-	* iOS
-	* Processing
+	* iOS / Android
+	* Processing [1](http://vimeo.com/15379147)
 	* Cinder
 	* VVVV
 * Protocols
 	* HTTP
-	* Web Sockets
+	* Web Sockets (Skeeball)
+	* webRTC
 	* OSC
 	* MIDI [1](http://vimeo.com/29517018)
 * Haxademic library - more advanced examples
