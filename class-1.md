@@ -61,7 +61,7 @@
 * Shapes
 * Color
 * [Similarities between drawing environments](https://github.com/cacheflowe/creative-coding-class-notes/blob/master/draw-rectangle.md)
-* Motion (frame-based vs. web rendering)
+* Motion (frame-based vs. web rendering) [1](http://modeset.js.dev/demos/easing_float)
 * Repetition (for())
 * Iteration
 * Randomness
