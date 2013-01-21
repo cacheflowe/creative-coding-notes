@@ -30,6 +30,7 @@ Artists / Companies
 * [Aaron Koblin](http://www.aaronkoblin.com/) :: [@aaronkoblin](http://twitter.com/aaronkoblin)
 * [Golan Levin](http://flong.com/) :: [@golan](http://twitter.com/golan)
 * [Cedric Kiefer](http://www.onformative.com/) :: [@CedricKiefer](http://twitter.com/CedricKiefer)
+* [Memo Akten](http://memo.tv/) :: [@memotv](http://twitter.com/memotv)
 * [Dave Bollinger](http://www.flickr.com/photos/davebollinger/)
 * [Jared Tarbell](http://www.complexification.net/gallery/)
 * [Nicolas Barradeau](http://en.nicoptere.net/)
