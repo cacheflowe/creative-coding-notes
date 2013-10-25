@@ -1,9 +1,10 @@
 Web sites
 ------------------
 * [Creative Applications](http://www.creativeapplications.net/)
-* [The Nature of Code](http://natureofcode.com/book/)
+* [The Nature of Code](http://natureofcode.com/book/) by Daniel Shiffman
 * [Create Digital Motion](http://createdigitalmotion.com/)
 * [http://hackingforartists.com/](http://hackingforartists.com/)
+* [http://openprocessing.org](http://openprocessing.org)
 
 Books
 ------------------
@@ -15,11 +16,16 @@ Conferences
 * [Eyeo Festival](http://eyeofestival.com/)
 * [Visualized](http://visualized.com/)
 * [Resonate](http://resonate.io/)
+* [SIGGRAPH](http://www.siggraph.org/)
+* [Transmediale](http://www.transmediale.de/)
 
-Movies
+Videos
 ------------------
 * [The Art of Creative Coding (PBS)](http://www.youtube.com/watch?v=eBV14-3LT-g)
+* [Demographics: Behind the Scene](http://www.youtube.com/watch?v=Y_Wlju8zL04)
 * [Indie Game The Movie](http://www.indiegamethemovie.com/)
+* [Nature of Code video series](https://vimeo.com/channels/natureofcode)
+* [Introduction to Computational Media](https://vimeo.com/70427341)
 
 
 Artists / Companies
@@ -33,14 +39,17 @@ Artists / Companies
 * [Memo Akten](http://memo.tv/) :: [@memotv](http://twitter.com/memotv)
 * [Dave Bollinger](http://www.flickr.com/photos/davebollinger/)
 * [Jared Tarbell](http://www.complexification.net/gallery/)
-* [Nicolas Barradeau](http://en.nicoptere.net/)
-* [W:Blut](http://www.wblut.com/constructionsite/)
-* [Inear](http://www.inear.se/)
+* [Nicolas Barradeau](http://en.nicoptere.net/) :: [@nicoptere](http://twitter.com/nicoptere)
+* [W:Blut](http://www.wblut.com/constructionsite/) :: [@wblut](http://twitter.com/wblut)
+* [Inear](http://www.inear.se/) :: [@inear](http://twitter.com/inear)
 * [Steven Witten](http://acko.net/) :: [MathBox](https://github.com/unconed/MathBox.js)
 * [Jer Thorp](http://about.me/jerthorp) :: [@blprnt](http://twitter.com/blprnt)
 * [Zach Gage](http://www.stfj.net/) :: [@helvetica](http://twitter.com/helvetica)
 * [Chris O'Shea](http://www.chrisoshea.org/) :: [@chrisoshea](http://twitter.com/chrisoshea)
 * [Nervous System](http://n-e-r-v-o-u-s.com/)
+* [Yoichiro Kawaguchi](http://www.yoichiro-kawaguchi.com/en)
+* [Felix Woitzel](https://github.com/Flexi23) :: [@Flexi23](https://twitter.com/Flexi23)
+* [OutsideOfSociety](http://oos.moxiecode.com/blog/) :: [@Flexi23](https://twitter.com/oosmoxiecode)
 
 
 Creative Coding platforms 
