@@ -49,7 +49,7 @@ Artists / Companies
 * [Nervous System](http://n-e-r-v-o-u-s.com/)
 * [Yoichiro Kawaguchi](http://www.yoichiro-kawaguchi.com/en)
 * [Felix Woitzel](https://github.com/Flexi23) :: [@Flexi23](https://twitter.com/Flexi23)
-* [OutsideOfSociety](http://oos.moxiecode.com/blog/) :: [@Flexi23](https://twitter.com/oosmoxiecode)
+* [OutsideOfSociety](http://oos.moxiecode.com/blog/) :: [@oosmoxiecode](https://twitter.com/oosmoxiecode)
 
 
 Creative Coding platforms 
