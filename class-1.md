@@ -39,8 +39,9 @@
 	* Generative jewelry - [Nervous System](https://vimeo.com/48902614)
 	* Quadcopters - [Meet Your Creator](http://www.youtube.com/watch?v=cseTX_rW3uM)
 	* 3D Printing - [Probability Lattice](http://www.flickr.com/photos/watz/7166887796/in/photostream/)
-	* Robotics + Projection mapping + 3D Motion graphics - [Box](https://vimeo.com/75260457])
+	* Robotics + Projection mapping + 3D Motion graphics - [Box](https://vimeo.com/75260457)
 	* Generative visuals - [Algorithmic Abstractions](http://www.flickr.com/groups/_aa/pool/)
+	* Science! - [Crowdsourced protein folding](http://news.cnet.com/8301-11386_3-57365693-76/crowdsourcing-gamers-best-computers-on-protein-folding/)
 	
 #### My work
 * Client projects
@@ -95,157 +96,20 @@
 * It's important to have a unique skillset
 * It's moving FAST - there's always lots to learn
 
-#### Job opportunities
-* Artist
-* The sciences (G.V.)
-* Designer
-* Architect
-* Data visualization
+#### Job crossover opportunities
+* "Art"
+* The sciences
+* Visual Design
+* Architecture
+* Product design & development [1](https://vimeo.com/41450718) [2](http://n-e-r-v-o-u-s.com/shop/product.php?code=129&tag=jewelry)
+* Games development
+* Data visualization [1](http://www.ted.com/talks/aaron_koblin.html) [2](http://vimeo.com/46048177)
 * Web development
 * Mobile app development
-* Video games
 * Non-web UI development 
-	* Touchscreens
-	* Installations & Projection Mapping [1](http://www.flickr.com/photos/35528040@N04/4140086468/)
-	* * ["Join the Creative Class"](http://www.forbes.com/sites/elainepofeldt/2012/12/28/want-to-recession-proof-yourself-join-the-creative-class/)
-
-#### Summary
-* Multi-media:
-	* Video
-	* Audio
-	* Imagery
-	* Data visualization :: [1](http://www.ted.com/talks/aaron_koblin.html) [2](http://vimeo.com/46048177)
-	* Sculpture
-	* Architecture :: [1](http://mariuswatz.com/2012/02/07/arcs-rockheim/)
-	* Dance 
-	* Jewelry / Products [1](https://vimeo.com/41450718) [2](http://n-e-r-v-o-u-s.com/shop/product.php?code=129&tag=jewelry)
-	* Video games
-* Build fun
-* Integrate disparate technologies
-* Art
-	* A medium that can make money? 
-* Computational design
-* Advertising / PR
-
-#### Techniques / Building Blocks
-###### Live coding walkthrough with Processing.js 
-
-* Shapes
-* Color
-* [Similarities between drawing environments](https://github.com/cacheflowe/creative-coding-class-notes/blob/master/draw-rectangle.md)
-* Motion (frame-based vs. web rendering) [1](http://modeset.js.dev/demos/easing_float)
-* Repetition (for())
-* Iteration
-* Randomness
-* OOP
-* Physics / better motion [1](http://skeeball.dev/) 
-* Oscillation
-* Basic trigonometry (movement & orientation)
-* Nature / fractals / Recursion [1](http://vimeo.com/12215994)
-* Higher level math [1](http://acko.net/files/fullfrontal/fullfrontal/slides-net/)
-* Sound
-	* Processing / ofx / Supercollider
-	* WebAudio 
-		* [Apple WebAudio Demo](http://localhost/html_research/webaudio/apple-demo/)
-	* ChucK
-* 3D
-	* Meshes
-	* Shaders ([GLSL](http://en.wikipedia.org/wiki/GLSL)) [1](http://glsl.heroku.com/e#5936.0)
-	
-	
-#### Hardware inputs
-* Mouse / tablet
-* Webcam [1](http://www.soundstep.com/blog/experiments/jsdetection/)
-* Accelerometer (iOS, Wii, Playstation)
-* Arduino [1](http://www.youtube.com/watch?v=CqrQmQqpHXc#!)
-* Depth camera
-
-#### Data as input
-* Image
-* Video
-* Audio [1](http://sphotos-a.xx.fbcdn.net/hphotos-ash4/467486_4825273990540_1542718568_o.jpg)
-* Data sets
-
-
-#### Environments
-
-* HTML / Ejecta
-* iOS / Android
-* Processing [1](http://vimeo.com/15379147)
-* Cinder
-* Openframeworks
-* VVVV
-* GLSL
-
-#### Protocols
-* HTTP
-* Web Sockets (Skeeball)
-* webRTC
-* OSC
-* MIDI
-* Syphon
-
-#### Graphical algorithms
-* Commons tools & concepts
-	* Easing & interpolation
-	* Physics simulations
-	* Perlin noise for terrain and textures
-	* Reaction-diffusion
-	* Fractals & Mandelbulbs [1](http://fractalfoundation.org/OFC/OFC-10-4.html) [2](http://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension) [3](https://vimeo.com/56546771)
-	* Shaders [1](http://shadertoy.com) [2](http://glsl.heroku.com)
-	* Packing algorithms
-	* Boid flocking
-	* Fluid dynamics & solvers	
-	* Conway’s classic Game of Life / cellular autonoma
-	* Genetic & evolutionary algorithms [1](http://www.youtube.com/watch?v=JBgG_VSP7f8)
-	* Smoothing algorithms (think antialiasing)
-	* Concave & convex hulls
-	* Blob & edge detection
-	* Computer vision (CV) (AR)
-* 3D / spatial concepts
-	* Raymarching
-	* Spherical mathematics, Quaternions and Euler rotation
-	* Bump mapping 
-	* NURBS
-	* Voxels
-	* Ray tracing
-	* Polygon meshes
-	* Ambient occlusion & 3d lighting
-	* Superformula
-* Optimization
-	* Collision detection
-	* Octrees / quadtrees
-	* MIP mapping & optimization
-	* Hardware acceleration
-
-### How to learn & improve
-* Enjoy it
-* Give yourself assignments
-* Play with new techniques & combine them
-* Read other developers' code
-* Pay attention to new conventions/thinking/techniques
-* Build your bag of tricks
-
-### Physical computing
-* New computing paradigms
-* Apple touch/gestures
-* Minority Report [ex.](http://kolidar.com/Blog/wp-content/uploads/2012/07/Minority-report_2.jpg)
-* Environments / realtime interaction (projection mappings)
-
-* Leap Motion
-* Kinect
-	* What is the Kinect?
-	* Why is it important? (bringing to the masses, accessible, MS developer embrace)
-	* Machine learning for MS system [white paper](http://msdn.microsoft.com/en-us/library/jj131429.aspx)
-	* Open source - OPENNI 
-
-##### Types of data
-* RGB camera
-* Depth camera
-* Infrared camera
-
-##### Demos
-* Study up on the Kinect and come back with ideas about what we could make
-	
+	* Touchscreens applications
+	* Physical installations [1](https://vimeo.com/35674495)
+	* Projection Mapping
+* Article: ["Join the Creative Class"](http://www.forbes.com/sites/elainepofeldt/2012/12/28/want-to-recession-proof-yourself-join-the-creative-class/)
 
 
