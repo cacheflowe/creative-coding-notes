@@ -14,6 +14,7 @@ Books
 Conferences
 ------------------
 * [Eyeo Festival](http://eyeofestival.com/)
+* [Inst-int](http://inst-int.com/)
 * [Visualized](http://visualized.com/)
 * [Resonate](http://resonate.io/)
 * [SIGGRAPH](http://www.siggraph.org/)
