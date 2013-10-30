@@ -45,17 +45,18 @@
 	
 #### My work
 * Client projects
-	* [Hip Hop (2000)](http://justinefekt.com/images/game_dayjob_clevermedia_0010_hip-hop_05.jpg)
-	* [Reactor (2001)](http://justinefekt.com/images/game_dayjob_clevermedia_0104_reactor_05.jpg)
-	* [Grandma's Boy (2005)](http://justinefekt.com/images/game_dayjob_factory_0512_grandmas-boy-car-bed-grand-prix_04.jpg)
-	* [Click (2005)](http://justinefekt.com/images/site_dayjob_factory_0605_click-sony_01.jpg)
-	* [Chuck & Larry (2007)](http://justinefekt.com/images/game_dayjob_factory_0704_chuck-and-larry-game_04.jpg)
-	* [Iron Man / Audi (2008)](http://justinefekt.com/images/game_dayjob_factory_0803_audi-iron-man-game_03.jpg)
-	* [Audi driving game (2008)](http://justinefekt.com/images/game_dayjob_factory_0809_audi-a4-game-v2_04.jpg)
-	* [Kinect Matching game (2012)](https://vimeo.com/56513641)
-	* [ParaNorman mobile](https://vimeo.com/52507615)
-	* [KacheOut](https://vimeo.com/43230920)
-	* [Roll It](http:/g.co/rollit)
+	* [Hip Hop](http://justinefekt.com/images/game_dayjob_clevermedia_0010_hip-hop_05.jpg) (2000)
+	* [Reactor](http://justinefekt.com/images/game_dayjob_clevermedia_0104_reactor_05.jpg) (2001)
+	* [Grandma's Boy](http://justinefekt.com/images/game_dayjob_factory_0512_grandmas-boy-car-bed-grand-prix_04.jpg) (2005)
+	* [Click](http://justinefekt.com/images/site_dayjob_factory_0605_click-sony_01.jpg) (2005)
+	* [Chuck & Larry](http://justinefekt.com/images/game_dayjob_factory_0704_chuck-and-larry-game_04.jpg) (2007)
+	* [Iron Man / Audi](http://justinefekt.com/images/game_dayjob_factory_0803_audi-iron-man-game_03.jpg) (2008)
+	* [Audi driving game](http://justinefekt.com/images/game_dayjob_factory_0809_audi-a4-game-v2_04.jpg) (2008)
+	* [Kinect Matching game](https://vimeo.com/56513641) (2012)
+	* [ParaNorman mobile](https://vimeo.com/52507615) (2012)
+	* [KacheOut](https://vimeo.com/43230920) (2012)
+	* [Roll It](http:/g.co/rollit) (2013)
+		* [HTML5Rocks article](http://www.html5rocks.com/en/tutorials/casestudies/roll-it/)
 * Experiments
 	* Interactive
 		* [Cluster 8-bit Rows](http://cacheflowe.com/secret/clyfford/experiments/cluster-8-bit-rows/cluster-random.html)

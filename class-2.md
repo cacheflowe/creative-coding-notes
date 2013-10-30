@@ -16,6 +16,7 @@
 * Oscillation
 * Basic trigonometry (movement & orientation)
 * Nature / fractals / Recursion [1](http://vimeo.com/12215994)
+* Emergence [1](http://en.wikipedia.org/wiki/Conway's_Game_of_Life)
 * Higher level math [1](http://acko.net/files/fullfrontal/fullfrontal/slides-net/)
 * Sound
 	* Processing / ofx
