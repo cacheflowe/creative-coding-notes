@@ -41,6 +41,7 @@
 	* 3D Printing - [Probability Lattice](http://www.flickr.com/photos/watz/7166887796/in/photostream/)
 	* Robotics + Projection mapping + 3D Motion graphics - [Box](https://vimeo.com/75260457)
 	* Generative visuals - [Algorithmic Abstractions](http://www.flickr.com/groups/_aa/pool/)
+	* Generative audio - [The Ballad of the Psychotropic Robots](https://www.youtube.com/watch?v=nhq6wzgFEXc) & [Wiki](http://en.wikipedia.org/wiki/Algorithmic_music)
 	* Science! - [Crowdsourced protein folding](http://news.cnet.com/8301-11386_3-57365693-76/crowdsourcing-gamers-best-computers-on-protein-folding/)
 	
 #### My work
