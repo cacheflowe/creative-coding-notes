@@ -27,6 +27,7 @@
 	* Perlin noise for terrain and textures
 	* Reaction-diffusion
 	* Voronoi [1](http://cs.nyu.edu/~ajsecord/npar2002/html/stipples-img16.png) [2](http://ultimaker.ipbhost.com/uploads/gallery/album_13/gallery_2943_13_8700870.jpg)
+	* Delaunay Triangulation [1](http://mathworld.wolfram.com/images/eps-gif/DelaunayTriangulation_1000.gif)
 	* Fractals & Mandelbulbs [1](http://fractalfoundation.org/OFC/OFC-10-4.html) [2](http://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension) [3](https://vimeo.com/56546771) [4](http://vimeo.com/12215994)
 	* Shaders [1](http://shadertoy.com) [2](http://glsl.heroku.com)
 	* Packing / Space-filling algorithms [1](http://en.wikipedia.org/wiki/Packing_problem) [2](http://www.complexification.net/gallery/machines/boxFitting/boxFittingPRN.jpg)
