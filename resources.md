@@ -1,5 +1,6 @@
 Web sites
 ------------------
+* [Intro to programming @ hello.processing.org](http://hello.processing.org/editor/)
 * [Creative Applications](http://www.creativeapplications.net/)
 * [The Nature of Code](http://natureofcode.com/book/) by Daniel Shiffman
 * [Create Digital Motion](http://createdigitalmotion.com/)
