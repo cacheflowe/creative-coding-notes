@@ -11,6 +11,10 @@
 * Discuss this question
 
 * Computer graphics/art roots
+	* [John Whitney - Catalog (1961)](https://www.youtube.com/watch?v=TbV7loKp69s)
+	* ["How Computer-Generated Animations Were Made, Circa 1964"](https://www.youtube.com/watch?v=_Lmi6cmrq0w)
+	* ["The Incredible Machine" (1968)](https://www.youtube.com/watch?v=crbfSY6vf7s)
+	* [Doris Chase - Circles (1969-1970)](https://www.youtube.com/watch?v=IkNpWG2LypQ)
 	* [John Whitney - Matrix III (1972)](http://www.youtube.com/watch?v=ZrKgyY5aDvA)
 	* [Carla's Island (1981)](http://www.youtube.com/watch?v=kO-JB1WHmRc)
 	* [Calculated Movements by Larry Cuba (1985)](http://www.youtube.com/watch?v=wH0MXZ-T4Js)

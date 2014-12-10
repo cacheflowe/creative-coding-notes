@@ -1,8 +1,9 @@
 Web sites
 ------------------
 * [Intro to programming @ hello.processing.org](http://hello.processing.org/editor/)
-* [Creative Applications](http://www.creativeapplications.net/)
+* [Introduction to Computational Media](http://icm.shiffman.net/)
 * [The Nature of Code](http://natureofcode.com/book/) by Daniel Shiffman
+* [Creative Applications](http://www.creativeapplications.net/)
 * [Create Digital Motion](http://createdigitalmotion.com/)
 * [http://hackingforartists.com/](http://hackingforartists.com/)
 * [http://openprocessing.org](http://openprocessing.org)
@@ -28,6 +29,7 @@ Videos
 * [Indie Game The Movie](http://www.indiegamethemovie.com/)
 * [Nature of Code video series](https://vimeo.com/channels/natureofcode)
 * [Introduction to Computational Media](https://vimeo.com/70427341)
+* [Clouds documentary](http://www.cloudsdocumentary.com/)
 
 
 Artists / Companies
