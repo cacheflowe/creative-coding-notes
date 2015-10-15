@@ -65,21 +65,24 @@
 	* Projection Mapping [1](https://www.youtube.com/watch?v=VrgWH1KUDt4)
 	
 
-#### Environments
+#### Environments & Languages
 
 * HTML / Javascript / canvas
 * THREE.js / PIXI.js
 * iOS / Android
-* Unity
-* Processing [1](http://vimeo.com/15379147)
-* Cinder
-* Openframeworks
-* VVVV
+* [Unity](http://unity3d.com/)
+* [Processing](http://processing.org) [1](http://vimeo.com/15379147)
+	* [p5js](http://p5js.org/)
+	* [Processing.js](http://processingjs.org)
+* [Cinder](http://libcinder.org/)
+* [openFrameworks](http://www.openframeworks.cc/)
+* [VVVV](http://vvvv.org)
+* [Max/MSP](http://cycling74.com/products/max/)
+* [Pure Data](https://puredata.info/)
+* [Touch Designer](http://www.derivative.ca/)
 * GLSL [1](http://glsl.heroku.com) [2](http://shadertoy.com)
 
-
 #### Techniques / Basic building blocks
-###### Live coding with Processing.js 
 
 * Shapes
 * Color
@@ -163,12 +166,12 @@
 
 
 #### Communication Protocols
-* HTTP
-* Web Sockets, webRTC, OSC, UDP
-* MIDI
+* HTTP / webRTC / UDP
+* [MIDI](http://en.wikipedia.org/wiki/MIDI)
+* [OSC](http://en.wikipedia.org/wiki/Open_Sound_Control)
+* [WebSocket](http://en.wikipedia.org/wiki/WebSocket)
 * Syphon
-* Ethernet
-
+* 
 
 #### Physical computing
 Historical devices
@@ -186,19 +189,23 @@ Modern input devices
 * Mouse / tablet
 * Webcam
 * Accelerometer (iOS, Wii, Playstation)
+	* [Playstation Move](http://us.playstation.com/ps3/accessories/playstation-move-motion-controller-ps3.html)
+	* [Nintendo Wiimote](https://en.wikipedia.org/wiki/Wii_Remote)
 * Sensors [1](http://www.adafruit.com/category/35)
 * Conductive Paint [1](http://www.gizmag.com/arduino-electric-ink-bare-conductive-touch-board-maker-faire/32182/)
 * Leap Motion (http://kolidar.com/Blog/wp-content/uploads/2012/07/Minority-report_2.jpg)
+* [Leap Motion](https://www.leapmotion.com/)
+* [Myo](https://www.thalmic.com/myo/)
 * Depth cameras
-	* RGB camera
-	* Depth camera
-	* Infrared camera
-	* Kinect
+	* [Kinect](https://www.microsoft.com/en-us/kinectforwindows/)
 		* What is the Kinect?
 		* Why is it important? (bringing to the masses, accessible, MS developer embrace)
 		* Machine learning for MS system [white paper](http://msdn.microsoft.com/en-us/library/jj131429.aspx)
 		* Open source efforts 
-
+	* [Xtion](https://www.asus.com/Commercial_3D_Sensor/Xtion_PRO/)
+	* [Zed](https://www.stereolabs.com/)
+	* [Structure Sensor for iPad](http://structure.io/)
+	* [Orbbec](http://www.orbbec3d.com/)
 * VR:
 	* [Oculus Rift](https://www.oculus.com/en-us/creators/)
 	* [Morpheus](https://www.playstation.com/en-gb/explore/ps4/features/project-morpheus/)

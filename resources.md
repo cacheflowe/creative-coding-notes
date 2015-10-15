@@ -15,6 +15,7 @@ Books
 
 Conferences
 ------------------
+* [ARS Electronica](http://www.aec.at/festival/en/)
 * [Eyeo Festival](http://eyeofestival.com/)
 * [Inst-int](http://inst-int.com/)
 * [Visualized](http://visualized.com/)
@@ -30,9 +31,14 @@ Videos
 * [Nature of Code video series](https://vimeo.com/channels/natureofcode)
 * [Introduction to Computational Media](https://vimeo.com/70427341)
 * [Clouds documentary](http://www.cloudsdocumentary.com/)
+* [Moleman 2 - Demoscene - The Art of the Algorithms](https://www.youtube.com/watch?v=iRkZcTg1JWU)
+
+Articles
+------------------
+* ["Join the Creative Class"](http://www.forbes.com/sites/elainepofeldt/2012/12/28/want-to-recession-proof-yourself-join-the-creative-class/)
 
 
-Artists / Companies
+Artists / Coders / Companies
 ------------------
 * [Marius Watz](http://mariuswatz.com/) :: [@mariuswatz](http://twitter.com/mariuswatz)
 * [Mr. Doob](http://mrdoob.com/) :: [@mrdoob](http://twitter.com/mrdoob)
@@ -54,42 +60,17 @@ Artists / Companies
 * [Yoichiro Kawaguchi](http://www.yoichiro-kawaguchi.com/en)
 * [Felix Woitzel](https://github.com/Flexi23) :: [@Flexi23](https://twitter.com/Flexi23)
 * [OutsideOfSociety](http://oos.moxiecode.com/blog/) :: [@oosmoxiecode](https://twitter.com/oosmoxiecode)
-
-
-Creative Coding platforms 
-------------------
-###### Java
-* [Processing](http://processing.org)
-
-###### c++
-* [Cinder](http://libcinder.org/)
-* [openFrameworks](http://www.openframeworks.cc/)
-
-###### JavaScript
-* [THREE.JS](http://www.openframeworks.cc/)
-* [Processing.js](http://processingjs.org)
-
-###### Multi-platform
-* [Unity](http://unity3d.com/)
-
-###### Visual/modular 
-* [VVVV](http://vvvv.org)
-* [Max/MSP](http://cycling74.com/products/max/)
-* [Touch Designer](http://www.derivative.ca/)
-
-###### Hardware & Communication
-* [Arduino](http://www.arduino.cc/)
-* [MIDI](http://en.wikipedia.org/wiki/MIDI)
-* [OSC](http://en.wikipedia.org/wiki/Open_Sound_Control)
-* [WebSocket](http://en.wikipedia.org/wiki/WebSocket)
+* [Micah Scott](http://twitter.com/scanlime)
 
 
 Kinect libraries:
 ------------------
 * [http://code.google.com/p/simple-openni/](http://code.google.com/p/simple-openni/)
+* [http://shiffman.net/p5/kinect/](http://shiffman.net/p5/kinect/)
 * [https://github.com/cinder/Cinder-Kinect](https://github.com/cinder/Cinder-Kinect)
 * [http://vvvv.org/contribution/kinect](http://vvvv.org/contribution/kinect)
 * [https://github.com/Sensebloom/OSCeleton](https://github.com/Sensebloom/OSCeleton)
 * [http://code.google.com/p/osc-kinect/](http://code.google.com/p/osc-kinect/) (uses official Windows SDK)
 * [http://kinect.childnodes.com/](http://kinect.childnodes.com/) (uses official Windows SDK for .js access)
 * [https://github.com/doug/depthjs](https://github.com/doug/depthjs) (cross-platform plugin for Webkit browsers)
+
