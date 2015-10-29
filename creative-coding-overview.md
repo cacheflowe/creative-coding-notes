@@ -68,7 +68,7 @@
 #### Environments & Languages
 
 * HTML / Javascript / canvas
-* THREE.js / PIXI.js
+* [THREE.js](http://threejs.org/) / [PIXI.js](http://www.pixijs.com/)
 * iOS / Android
 * [Unity](http://unity3d.com/)
 * [Processing](http://processing.org) [1](http://vimeo.com/15379147)
@@ -80,7 +80,10 @@
 * [Max/MSP](http://cycling74.com/products/max/)
 * [Pure Data](https://puredata.info/)
 * [Touch Designer](http://www.derivative.ca/)
-* GLSL [1](http://glsl.heroku.com) [2](http://shadertoy.com)
+* GLSL 
+	* [GLSL Sandbox](http://glslsandbox.com/)
+	* [Shadertoy](http://shadertoy.com)
+	* [Vertex Shader Art](http://vertexshaderart.com/)
 
 #### Techniques / Basic building blocks
 
