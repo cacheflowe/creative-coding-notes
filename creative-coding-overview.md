@@ -5,6 +5,7 @@
 
 * Computer graphics/art roots
 	* [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake)
+	* [Georg Nees](https://en.wikipedia.org/wiki/Georg_Nees)
 	* [John Whitney - Catalog (1961)](https://www.youtube.com/watch?v=TbV7loKp69s)
 	* ["How Computer-Generated Animations Were Made, Circa 1964"](https://www.youtube.com/watch?v=_Lmi6cmrq0w)
 	* ["The Incredible Machine" (1968)](https://www.youtube.com/watch?v=crbfSY6vf7s)
@@ -13,6 +14,7 @@
 	* [Ed Catmull - first 3D rendered movie (1972)](https://vimeo.com/16292363)
 	* [Carla's Island (1981)](http://www.youtube.com/watch?v=kO-JB1WHmRc)
 	* [Calculated Movements by Larry Cuba (1985)](http://www.youtube.com/watch?v=wH0MXZ-T4Js)
+	* [A brief history of computer drawing](http://golancourses.net/2016/lectures/2-02/)
 * Demoscene
 	* [Yoichiro Kawaguchi](http://uihacker.blogspot.com/2013/07/inspiration-yoichiro-kawaguchi.html)
 	* [Second Reality by Future Crew (1993)](http://www.youtube.com/watch?v=rFv7mHTf0nA)
@@ -84,6 +86,10 @@
 	* [GLSL Sandbox](http://glslsandbox.com/)
 	* [Shadertoy](http://shadertoy.com)
 	* [Vertex Shader Art](http://vertexshaderart.com/)
+	* [Book of Shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/) (+ [Editor](http://editor.thebookofshaders.com/))
+	* [Interactive Shader Format](http://www.interactiveshaderformat.com/)
+	* [editSDF](http://stephaneginier.com/archive/editSDF/)
+	* [WebGL Signed Distance Function Mesher](http://tdhooper.github.io/glsl-marching-cubes/)
 
 #### Techniques / Basic building blocks
 
@@ -104,10 +110,12 @@
 
 #### Graphical algorithms
 
+* A [glossary](http://steve.hollasch.net/cgindex/)
 * Commons tools & concepts
 	* Easing & interpolation [1](http://easings.net/)
 	* Physics simulations 
 	* Perlin noise for terrain and textures
+	* Curl noise [1](http://petewerner.blogspot.com/2015/02/intro-to-curl-noise.html)
 	* Reaction-diffusion [1](http://www.karlsims.com/rd.html)
 	* Voronoi [1](http://cs.nyu.edu/~ajsecord/npar2002/html/stipples-img16.png) [2](http://ultimaker.ipbhost.com/uploads/gallery/album_13/gallery_2943_13_8700870.jpg)
 	* Delaunay Triangulation [1](http://mathworld.wolfram.com/images/eps-gif/DelaunayTriangulation_1000.gif)
@@ -159,6 +167,7 @@
 * [Sonic PI](http://sonic-pi.net/)
 * [Overtone](http://overtone.github.io/)
 * [Alda](http://daveyarwood.github.io/alda/2015/09/05/alda-a-manifesto-and-gentle-introduction/)
+* [EarSketch](http://earsketch.gatech.edu/landing/)
 
 
 #### Data as input
@@ -173,8 +182,8 @@
 * [MIDI](http://en.wikipedia.org/wiki/MIDI)
 * [OSC](http://en.wikipedia.org/wiki/Open_Sound_Control)
 * [WebSocket](http://en.wikipedia.org/wiki/WebSocket)
-* Syphon
-* 
+* Syphon / CamTwist
+
 
 #### Physical computing
 Historical devices
@@ -195,10 +204,16 @@ Modern input devices
 	* [Playstation Move](http://us.playstation.com/ps3/accessories/playstation-move-motion-controller-ps3.html)
 	* [Nintendo Wiimote](https://en.wikipedia.org/wiki/Wii_Remote)
 * Sensors [1](http://www.adafruit.com/category/35)
-* Conductive Paint [1](http://www.gizmag.com/arduino-electric-ink-bare-conductive-touch-board-maker-faire/32182/)
+* [Bare Conductive](http://www.bareconductive.com/) Paint [1](http://www.gizmag.com/arduino-electric-ink-bare-conductive-touch-board-maker-faire/32182/)
 * Leap Motion (http://kolidar.com/Blog/wp-content/uploads/2012/07/Minority-report_2.jpg)
 * [Leap Motion](https://www.leapmotion.com/)
 * [Myo](https://www.thalmic.com/myo/)
+* [Gest](https://gest.co/)
+* Touchscreen
+	* [Ubi Sensor](http://www.ubi-interactive.com/)
+	* [Displax](http://www.displax.com/)
+	* [Monster Devices](http://monsterdev.pl/)
+	* [AirScan](http://www.coolux.de/products/airscan/)
 * Depth cameras
 	* [Kinect](https://www.microsoft.com/en-us/kinectforwindows/)
 		* What is the Kinect?
@@ -211,12 +226,36 @@ Modern input devices
 	* [Orbbec](http://www.orbbec3d.com/)
 * VR:
 	* [Oculus Rift](https://www.oculus.com/en-us/creators/)
+	* [HTC Vive](https://www.htcvive.com/us/)
 	* [Morpheus](https://www.playstation.com/en-gb/explore/ps4/features/project-morpheus/)
 	* [Samsung Gear VR](http://www.samsung.com/global/microsite/gearvr/gearvr_design.html)
 	* [Hololens](https://www.microsoft.com/microsoft-hololens/en-us) [1](https://www.youtube.com/watch?v=29xnzxgCx6I)
 	* [Google Cardboard](https://www.google.com/get/cardboard/)
 
-Beyond the screen
+#### Unique Display setups
+
+Big Displays
+
+* [Watchout](http://www.dataton.com/watchout)
+* [Matrox TripleHead2Go](http://www.matrox.com/graphics/en/products/gxm/th2go/displayport/)
+
+Art Frames
+
+* [openframe](http://openframe.io/)
+* [Electric Objects](https://www.electricobjects.com/)
+* [Framed](https://frm.fm/)
+
+Installation-friendly computers
+
+* [Zotac](https://www.zotac.com/us/)
+* [NUC](http://www.intel.com/content/www/us/en/nuc/overview.html)
+* [Alienware Alpha](http://www.alienware.com/landings/alpha/)
+* [LattePanda](http://www.lattepanda.com/)
+* [Raspberry Pi](https://www.raspberrypi.org/)
+* [Inspiron Micro](http://www.dell.com/us/p/inspiron-3050-micro-desktop/pd)
+
+
+#### Beyond the screen
 
 * Projection mapping
 * LED lights
@@ -226,7 +265,10 @@ Beyond the screen
 * Laser Cutters
 * 3d Printers
 * CNC routers
-* Robotics [1](http://www.willowgarage.com/pages/pr2/overview) [2](https://vimeo.com/129674054)
+* Robotics 
+	* [Cylon.js](http://cylonjs.com/) / [Artoo.rb](http://artoo.io/) / [Gobot](http://gobot.io/)
+	* [Willow Garage](http://www.willowgarage.com/pages/pr2/overview)
+	* ["Penguins Mirror"](https://vimeo.com/129674054)
 * Textiles [1](http://www.creativeapplications.net/processing/pixtil-weaving-generative-patterns-using-traditional-textile-techniques/) [2](http://www.libselliott.com/)
 * Print
 

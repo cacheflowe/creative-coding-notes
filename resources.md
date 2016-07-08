@@ -1,6 +1,6 @@
 Web sites
 ------------------
-* [Intro to programming @ hello.processing.org](http://hello.processing.org/editor/)
+* [Intro to programming @ hello.processing.org](http://hello.processing.org/)
 * [Introduction to Computational Media](http://icm.shiffman.net/)
 * [The Nature of Code](http://natureofcode.com/book/) by Daniel Shiffman
 * [Creative Applications](http://www.creativeapplications.net/)
