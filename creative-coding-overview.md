@@ -13,7 +13,7 @@
 	* [John Whitney - Matrix III (1972)](http://www.youtube.com/watch?v=ZrKgyY5aDvA)
 	* [Ed Catmull - first 3D rendered movie (1972)](https://vimeo.com/16292363)
 	* [Carla's Island (1981)](http://www.youtube.com/watch?v=kO-JB1WHmRc)
-	* [Calculated Movements by Larry Cuba (1985)](http://www.youtube.com/watch?v=wH0MXZ-T4Js)
+	* [Calculated Movements by Larry Cuba (1985)](http://www.youtube.com/watch?v=HcvN1dt0yJo)
 	* [A brief history of computer drawing](http://golancourses.net/2016/lectures/2-02/)
 * Demoscene
 	* [Yoichiro Kawaguchi](http://uihacker.blogspot.com/2013/07/inspiration-yoichiro-kawaguchi.html)
@@ -69,19 +69,12 @@
 
 #### Environments & Languages
 
-* HTML / Javascript / canvas
-* [THREE.js](http://threejs.org/) / [PIXI.js](http://www.pixijs.com/)
-* iOS / Android
-* [Unity](http://unity3d.com/)
-* [Processing](http://processing.org) [1](http://vimeo.com/15379147)
+* Web-based:
+	* HTML / Javascript / canvas
+	* [THREE.js](http://threejs.org/)
+	* [PIXI.js](http://www.pixijs.com/)
+	* [Regl: Functional WebGL](http://regl.party/)
 	* [p5js](http://p5js.org/)
-	* [Processing.js](http://processingjs.org)
-* [Cinder](http://libcinder.org/)
-* [openFrameworks](http://www.openframeworks.cc/)
-* [VVVV](http://vvvv.org)
-* [Max/MSP](http://cycling74.com/products/max/)
-* [Pure Data](https://puredata.info/)
-* [Touch Designer](http://www.derivative.ca/)
 * GLSL 
 	* [GLSL Sandbox](http://glslsandbox.com/)
 	* [Shadertoy](http://shadertoy.com)
@@ -90,6 +83,23 @@
 	* [Interactive Shader Format](http://www.interactiveshaderformat.com/)
 	* [editSDF](http://stephaneginier.com/archive/editSDF/)
 	* [WebGL Signed Distance Function Mesher](http://tdhooper.github.io/glsl-marching-cubes/)
+	* [Fragment Foundry](http://hughsk.io/fragment-foundry/)
+	* [glsl.io](http://transitions.glsl.io/)
+	* [cables.gl](https://cables.gl/)
+* iOS / Android
+* Cross-platform:
+	* [Unity](http://unity3d.com/)
+* Java-based:
+	* [Processing](http://processing.org) [1](http://vimeo.com/15379147)
+* c++:
+	* [Cinder](http://libcinder.org/)
+	* [openFrameworks](http://www.openframeworks.cc/)
+* Node-based:
+	* [VVVV](http://vvvv.org)
+	* [Max/MSP](http://cycling74.com/products/max/)
+	* [Pure Data](https://puredata.info/)
+	* [Touch Designer](http://www.derivative.ca/)
+	* [Praxis](http://www.praxislive.org/)
 
 #### Techniques / Basic building blocks
 
@@ -148,13 +158,15 @@
 	* MIP mapping & optimization
 	* Hardware acceleration
 
-#### Commercial, scriptable software tools 
+#### Scriptable 3d tools 
 
 * [Blender](http://www.blender.org/)
 * [Cinema4d](http://www.maxon.net/)
 * [Meshlab](http://meshlab.sourceforge.net/)
 * [Rhino](https://www.rhino3d.com/) & [Grasshopper](http://www.grasshopper3d.com/)
 * [After Effects](http://www.adobe.com/products/aftereffects.html)
+* [http://www.meshrepair.org/](http://www.meshrepair.org/)
+* [Modo](https://www.thefoundry.co.uk/products/modo/)
 
 
 #### Sound
@@ -214,6 +226,7 @@ Modern input devices
 	* [Displax](http://www.displax.com/)
 	* [Monster Devices](http://monsterdev.pl/)
 	* [AirScan](http://www.coolux.de/products/airscan/)
+	* [ProDisplay](http://prodisplay.com/)
 * Depth cameras
 	* [Kinect](https://www.microsoft.com/en-us/kinectforwindows/)
 		* What is the Kinect?
@@ -234,6 +247,8 @@ Modern input devices
 
 #### Unique Display setups
 
+[Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/) by [@laserpilot](https://twitter.com/laserpilot)
+
 Big Displays
 
 * [Watchout](http://www.dataton.com/watchout)
@@ -253,11 +268,18 @@ Installation-friendly computers
 * [LattePanda](http://www.lattepanda.com/)
 * [Raspberry Pi](https://www.raspberrypi.org/)
 * [Inspiron Micro](http://www.dell.com/us/p/inspiron-3050-micro-desktop/pd)
+* [System](https://system76.com/)
+
+Media players
+
+* [Satechi Cyclone](http://www.satechi.net/index.php/satechi-cyclone-micro-2-1080p-portable-media-mkv-avi-mov-player-adapter-with-sd-sdhc-memory-usb-slot-and-remote-control)
 
 
 #### Beyond the screen
 
 * Projection mapping
+	* [http://www.agisoft.com/](http://www.agisoft.com/)
+	* [https://remake.autodesk.com/about](https://remake.autodesk.com/about)
 * LED lights
 * Augmented Reality
 * Embedded systems
