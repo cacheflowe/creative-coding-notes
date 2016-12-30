@@ -1,8 +1,6 @@
 
 # Creative Coding
 
-===========================================
-
 ## What is Creative coding?
 
 #### Some history
@@ -77,8 +75,6 @@
 * Machine learning & AI
 
 
-===========================================
-
 ## Modern Creative Coding Environments & Libraries
 
 * Web-based:
@@ -138,8 +134,6 @@
 	* Syphon / CamTwist
 
 
-===========================================
-
 ## Creative Coding Multimedia Tools
 
 #### Scriptable 3d tools
@@ -175,8 +169,6 @@
 * imagemagick
 * gifsicle
 
-
-===========================================
 
 ## Graphics concepts
 
@@ -248,8 +240,6 @@
 * Audio [1](http://sphotos-a.xx.fbcdn.net/hphotos-ash4/467486_4825273990540_1542718568_o.jpg)
 * Data sets [1](http://hint.fm/wind/)
 
-
-===========================================
 
 ## Physical computing
 
@@ -330,8 +320,6 @@
 
 * [Satechi Cyclone](http://www.satechi.net/index.php/satechi-cyclone-micro-2-1080p-portable-media-mkv-avi-mov-player-adapter-with-sd-sdhc-memory-usb-slot-and-remote-control)
 
-
-===========================================
 
 ## Beyond the (traditional) screen
 
