@@ -86,16 +86,18 @@
 		* [two.js](https://two.js.org/)
 	* Tools:
 		* GLFX.js
-    * GifLoopCoder
-    * THREE.js + THREEFLOW
-    * ccapture.js
-    * whammy.js
-    * gif.js
-    * rasterizeHTML.js??
-    * CanvasFilters / Canvas UV mapping
+		* GifLoopCoder
+		* THREE.js + THREEFLOW
+		* ccapture.js
+		* whammy.js
+		* gif.js
+		* rasterizeHTML.js??
+		* CanvasFilters / Canvas UV mapping
 * GLSL
 	* [GLSL Sandbox](http://glslsandbox.com/)
 	* [Shadertoy](http://shadertoy.com)
+		* [Raymarching Intro](http://barradeau.com/blog/?p=575)
+		* [Raymarching: more](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
 	* [Vertex Shader Art](http://vertexshaderart.com/)
 	* [Book of Shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/) (+ [Editor](http://editor.thebookofshaders.com/))
 	* [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)
