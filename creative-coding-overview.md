@@ -1,6 +1,11 @@
 
 # Creative Coding
 
+Another great set of links here:
+[https://github.com/terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
+
+[Programming Design Systems](https://programmingdesignsystems.com/)
+
 ## What is Creative coding?
 
 #### Some history
@@ -12,9 +17,12 @@
 	* ["How Computer-Generated Animations Were Made, Circa 1964"](https://www.youtube.com/watch?v=_Lmi6cmrq0w)
 	* ["The Incredible Machine" (1968)](https://www.youtube.com/watch?v=crbfSY6vf7s)
 	* [Doris Chase - Circles (1969-1970)](https://www.youtube.com/watch?v=IkNpWG2LypQ)
+	* [Norman McLaren - Synchromy (1971)](https://www.youtube.com/watch?v=Jqz_tx1-xd4)
+	* [Erkki Kurenniemi - DIMI Ballet (1971)](https://www.youtube.com/watch?v=d-yHULQ2V5c)
 	* [John Whitney - Matrix III (1972)](http://www.youtube.com/watch?v=ZrKgyY5aDvA)
 	* [Ed Catmull - first 3D rendered movie (1972)](https://vimeo.com/16292363)
 	* [Carla's Island (1981)](http://www.youtube.com/watch?v=kO-JB1WHmRc)
+	* [The Road to Point Reyes (1983)](http://lucasmuseum.org/works/detail/asset_id/1292)
 	* [Calculated Movements by Larry Cuba (1985)](http://www.youtube.com/watch?v=HcvN1dt0yJo)
 	* [A brief history of computer drawing](http://golancourses.net/2016/lectures/2-02/)
 * Video Games
@@ -25,7 +33,7 @@
  	* [Pouet](http://www.pouet.net/)
 * Science & research
 	* [Karl Sims - Evolved Virtual Creatures](http://www.youtube.com/watch?v=JBgG_VSP7f8)
-* Flash / web era
+* Flash / web era: interactive motion graphics
 	* GMunk
 	* Robert Penner (easing algorithms)
 	* Grant Skinner
@@ -75,7 +83,7 @@
 * Machine learning & AI
 
 
-## Modern Creative Coding Environments & Libraries
+## Creative Coding Environments & Libraries
 
 * Web-based:
 	* Libraries:
@@ -107,6 +115,7 @@
 	* [F3 App](http://www.syedrezaali.com/f3-mac-app/)
 	* [Fragment Foundry](http://hughsk.io/fragment-foundry/)
 	* [glsl.io](http://transitions.glsl.io/)
+	* [glslb.in](http://glslb.in/)
 	* [cables.gl](https://cables.gl/)
 * Java-based:
 	* [Processing](http://processing.org) [1](http://vimeo.com/15379147)
@@ -170,6 +179,7 @@
 * ffmpeg
 * imagemagick
 * gifsicle
+* [HAP format](http://vdmx.vidvox.net/tutorials/using-the-hap-video-codec)
 
 
 ## Graphics concepts
@@ -177,9 +187,12 @@
 #### Basic Concepts & Building Blocks
 
 * Shapes
-* Color
+* [Color](https://programmingdesignsystems.com/color/color-models-and-color-spaces/)
+	* [Procedural color techniques](https://cis700-procedural-graphics.github.io/files/color_2_14_17.pdf)
+	* [Cosine gradient generator](http://dev.thi.ng/gradients/)
 * [Similarities between drawing environments](https://github.com/cacheflowe/creative-coding-class-notes/blob/master/draw-rectangle.md)
 * Motion (frame-based vs. web rendering)
+	* [Soulwire's Math for Motion](https://soulwire.co.uk/math-for-motion/)
 * Repetition (for())
 * Iteration
 * Randomness
@@ -196,6 +209,7 @@
 #### Graphical algorithms
 
 * [Casual Introduction to Low-Level Graphics Programming](http://stephaniehurlburt.com/blog/2016/10/28/casual-introduction-to-low-level-graphics-programming)
+* [Computational Geometry Tutorial](http://wykobi.com/tutorial.html)
 * A [glossary](http://steve.hollasch.net/cgindex/)
 * Commons tools & concepts
 	* Easing & interpolation [1](http://easings.net/)
@@ -273,6 +287,7 @@
 	* [Monster Devices](http://monsterdev.pl/)
 	* [AirScan](http://www.coolux.de/products/airscan/)
 	* [ProDisplay](http://prodisplay.com/)
+	* [Elo](https://www.elotouch.com/all-products)
 * Depth cameras
 	* [Kinect](https://www.microsoft.com/en-us/kinectforwindows/)
 		* What is the Kinect?
@@ -289,18 +304,22 @@
 	* [Morpheus](https://www.playstation.com/en-gb/explore/ps4/features/project-morpheus/)
 	* [Samsung Gear VR](http://www.samsung.com/global/microsite/gearvr/gearvr_design.html)
 	* [Google Cardboard](https://www.google.com/get/cardboard/)
-* Augemnet/Mixed Reality
+	* [WondaVR](http://www.wondavr.com/)
+* Augmented/Mixed Reality
 	* [Hololens](https://www.microsoft.com/microsoft-hololens/en-us) [1](https://www.youtube.com/watch?v=29xnzxgCx6I)
 	* Magic Leap
 
 #### Unique Display setups
 
 [Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/) by [@laserpilot](https://twitter.com/laserpilot)
+[Volumetric displays](https://www.lookingglassfactory.com/)
+[Transparent displays](http://prodisplay.com/products/transparent-lcd-screen/)
 
 #### Big Displays
 
 * [Watchout](http://www.dataton.com/watchout)
 * [Matrox TripleHead2Go](http://www.matrox.com/graphics/en/products/gxm/th2go/displayport/)
+* [Ambery HDMI multi-screen layout](http://www.ambery.com/2x2hdvgaviwa.html)
 
 #### Art Frames
 
@@ -315,7 +334,7 @@
 * [Alienware Alpha](http://www.alienware.com/landings/alpha/)
 * [LattePanda](http://www.lattepanda.com/)
 * [Raspberry Pi](https://www.raspberrypi.org/)
-* [Inspiron Micro](http://www.dell.com/us/p/inspiron-3050-micro-desktop/pd)
+* [Inspiron Micro](http://www.dell.com/en-us/shop/productdetails/inspiron-3050-micro-desktop) (no longer offered)
 * [System](https://system76.com/)
 
 #### Media players
@@ -329,6 +348,9 @@
 	* [http://www.agisoft.com/](http://www.agisoft.com/)
 	* [https://remake.autodesk.com/about](https://remake.autodesk.com/about)
 * LED lights
+	* [FadeCandy](http://www.misc.name/fadecandy/)
+	* [PixelPusher](http://www.heroicrobotics.com/products/pixelpusher)
+	* http://ledneonflex.com/
 * Augmented & Mixed Reality
 * Embedded systems
 	* [Arduino](http://www.youtube.com/watch?v=CqrQmQqpHXc#!) & Raspberry PI
@@ -340,4 +362,5 @@
 	* [Willow Garage](http://www.willowgarage.com/pages/pr2/overview)
 	* ["Penguins Mirror"](https://vimeo.com/129674054)
 * Textiles [1](http://www.creativeapplications.net/processing/pixtil-weaving-generative-patterns-using-traditional-textile-techniques/) [2](http://www.libselliott.com/)
+* [Water Features](https://en.wikipedia.org/wiki/WET_(company))
 * Print
