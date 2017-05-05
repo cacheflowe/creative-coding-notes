@@ -1,10 +1,10 @@
-### Draw a rectangle in different environments
+### Draw a red rectangle in different environments
 
 ----
-##### Processing(.js)
+##### Processing
 
 `fill(255, 0, 0, 1);`
- 
+
 `rect(50, 50, 100, 100);`
 
 ----
@@ -42,4 +42,3 @@
 `rectangle.graphics.beginFill(0xFF0000);`
 
 `rectangle.graphics.drawRect(50, 50, 100, 100);`
-
