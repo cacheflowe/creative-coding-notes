@@ -89,9 +89,9 @@ Another great set of links here:
 	* Libraries:
 		* [THREE.js](http://threejs.org/)
 		* [PIXI.js](http://www.pixijs.com/)
-		* [Regl: Functional WebGL](http://regl.party/)
 		* [p5js](http://p5js.org/)
 		* [two.js](https://two.js.org/)
+		* [Regl: Functional WebGL](http://regl.party/)
 	* Tools:
 		* GLFX.js
 		* GifLoopCoder
@@ -101,6 +101,7 @@ Another great set of links here:
 		* gif.js
 		* rasterizeHTML.js??
 		* CanvasFilters / Canvas UV mapping
+		* https://github.com/mapbox/delaunator
 * GLSL
 	* [GLSL Sandbox](http://glslsandbox.com/)
 	* [Shadertoy](http://shadertoy.com)
@@ -112,6 +113,7 @@ Another great set of links here:
 	* [Interactive Shader Format](http://www.interactiveshaderformat.com/)
 	* [editSDF](http://stephaneginier.com/archive/editSDF/)
 	* [WebGL Signed Distance Function Mesher](http://tdhooper.github.io/glsl-marching-cubes/)
+	* [Snelly] (https://github.com/portsmouth/snelly)
 	* [F3 App](http://www.syedrezaali.com/f3-mac-app/)
 	* [Fragment Foundry](http://hughsk.io/fragment-foundry/)
 	* [glsl.io](http://transitions.glsl.io/)
@@ -171,6 +173,7 @@ Another great set of links here:
 * [Overtone](http://overtone.github.io/)
 * [Alda](http://daveyarwood.github.io/alda/2015/09/05/alda-a-manifesto-and-gentle-introduction/)
 * [EarSketch](http://earsketch.gatech.edu/landing/)
+* [TidalCycles](https://tidalcycles.org/)
 
 
 #### Video + Image
@@ -208,26 +211,28 @@ Another great set of links here:
 
 #### Graphical algorithms
 
-* [Casual Introduction to Low-Level Graphics Programming](http://stephaniehurlburt.com/blog/2016/10/28/casual-introduction-to-low-level-graphics-programming)
-* [Computational Geometry Tutorial](http://wykobi.com/tutorial.html)
-* A [glossary](http://steve.hollasch.net/cgindex/)
+* Articles
+	* [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/) by kynd
+
+
 * Commons tools & concepts
 	* Easing & interpolation [1](http://easings.net/)
 	* Physics simulations
-	* Perlin noise for terrain and textures
-	* Curl noise [1](http://petewerner.blogspot.com/2015/02/intro-to-curl-noise.html)
-	* Reaction-diffusion [1](http://www.karlsims.com/rd.html)
-	* Voronoi [1](http://cs.nyu.edu/~ajsecord/npar2002/html/stipples-img16.png) [2](http://ultimaker.ipbhost.com/uploads/gallery/album_13/gallery_2943_13_8700870.jpg)
-	* Delaunay Triangulation [1](http://mathworld.wolfram.com/images/eps-gif/DelaunayTriangulation_1000.gif)
-	* Fractals & Mandelbulbs [1](http://fractalfoundation.org/OFC/OFC-10-4.html) [2](http://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension) [3](https://vimeo.com/56546771) [4](http://vimeo.com/12215994)
-	* Shaders [1](http://shadertoy.com) [2](http://glsl.heroku.com)
+	* Noise
+		* Perlin noise for terrain and textures
+		* [Curl noise](http://petewerner.blogspot.com/2015/02/intro-to-curl-noise.html)
+	* [Reaction](http://www.karlsims.com/rd.html)-[diffusion](https://www.shadertoy.com/view/lld3z8)
+	* [Voronoi](http://cs.nyu.edu/~ajsecord/npar2002/html/stipples-img16.png) [2](http://ultimaker.ipbhost.com/uploads/gallery/album_13/gallery_2943_13_8700870.jpg)
+	* [Delaunay Triangulation](http://mathworld.wolfram.com/images/eps-gif/DelaunayTriangulation_1000.gif)
+	* [Fractals](http://fractalfoundation.org/OFC/OFC-10-4.html) & [Mandelbulbs](https://vimeo.com/56546771) [4](http://vimeo.com/12215994)
+		* [List_of_fractals_by_Hausdorff_dimension](http://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
 	* Packing / Space-filling algorithms [1](http://en.wikipedia.org/wiki/Packing_problem) [2](http://www.complexification.net/gallery/machines/boxFitting/boxFittingPRN.jpg)
 	* Boids / flocking & particle systems [1](https://processing.org/examples/flocking.html)[2](https://vimeo.com/55213364)
-	* Fluid dynamics & solvers	[1](http://madebyevan.com/webgl-water/)
-	* Conway’s classic Game of Life / cellular autonoma [1](http://natureofcode.com/book/chapter-7-cellular-automata/)
+	* [Fluid](http://madebyevan.com/webgl-water/) [dynamics](https://www.shadertoy.com/view/XdcXDN) & solvers
+	* Conway’s classic Game of Life / [cellular autonoma](http://natureofcode.com/book/chapter-7-cellular-automata)
 	* Emergence
-	* Genetic & evolutionary algorithms [1](http://www.youtube.com/watch?v=JBgG_VSP7f8)
-	* Smoothing algorithms (think antialiasing)
+	* [Genetic](http://www.youtube.com/watch?v=JBgG_VSP7f8) & evolutionary algorithms
+	* [Anti-aliasing algorithms](https://blog.codinghorror.com/fast-approximate-anti-aliasing-fxaa/)
 	* Concave & convex hulls
 	* Blob & edge detection
 	* Computer vision (CV) (AR)
@@ -243,18 +248,34 @@ Another great set of links here:
 	* Polygon meshes
 	* Ambient occlusion & 3d lighting
 	* Superformula
+	* [Dilation](https://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm) / [Erosion](https://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm)
 * Optimization
 	* Collision detection
 	* Octrees / quadtrees
-	* MIP mapping & optimization
+	* [MIP mapping](https://en.wikipedia.org/wiki/Mipmap) & optimization
 	* Hardware acceleration
+		* [Shaders](http://shadertoy.com)
 
+#### Graphics articles & resources
+
+* [Introduction to VR Graphics Performance](https://docs.google.com/presentation/d/1yJSQy4QtcQxcMjr9Wj6kjMd2R1BLNA1mUebDtnaXDL8/edit#slide=id.p)
+* [Casual Introduction to Low-Level Graphics Programming](http://stephaniehurlburt.com/blog/2016/10/28/casual-introduction-to-low-level-graphics-programming)
+* [Computational Geometry Tutorial](http://wykobi.com/tutorial.html)
+* [Graphics in Plain Language](https://renderdoc.org/blog/Graphics-in-Plain-Language/)
+* A [glossary](http://steve.hollasch.net/cgindex/)
+* [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+* [The Graphics Codex](http://graphicscodex.com/)
+* http://antongerdelan.net/teaching/
+* [Foundations of Game Engine Development Mathematics](https://www.amazon.com/Foundations-Game-Engine-Development-Mathematics/dp/0985811749/ref=asap_bc?ie=UTF8)
+* [GPU Performance for Game Artists](http://fragmentbuffer.com/gpu-performance-for-game-artists/)
+* [Ray Tracing in One Weekend](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8)
+* [NVIDIA - GPU Gems 3](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_pref01.html)
 
 #### Data as input
 * Image
-* Video [1](https://vimeo.com/125927621)
-* Audio [1](http://sphotos-a.xx.fbcdn.net/hphotos-ash4/467486_4825273990540_1542718568_o.jpg)
-* Data sets [1](http://hint.fm/wind/)
+* [Video](https://vimeo.com/125927621)
+* [Audio](http://sphotos-a.xx.fbcdn.net/hphotos-ash4/467486_4825273990540_1542718568_o.jpg)
+* [Science Data](http://hint.fm/wind/)
 
 
 ## Physical computing
@@ -284,11 +305,13 @@ Another great set of links here:
 * Touchscreen
 	* [Ubi Sensor](http://www.ubi-interactive.com/)
 	* [Displax](http://www.displax.com/)
-	* [Monster Devices](http://monsterdev.pl/)
+	* [Monster Devices](http://monsterdev.pl/) (dead)
 	* [AirScan](http://www.coolux.de/products/airscan/)
 	* [ProDisplay](http://prodisplay.com/)
 	* [Elo](https://www.elotouch.com/all-products)
+	* [Ideum](http://ideum.com/touch-walls/)
 * Depth cameras
+	* [Stimulant's depth sensor shootout](https://stimulant.com/depth-sensor-shootout-2/)
 	* [Kinect](https://www.microsoft.com/en-us/kinectforwindows/)
 		* What is the Kinect?
 		* Why is it important? (bringing to the masses, accessible, MS developer embrace)
@@ -298,6 +321,8 @@ Another great set of links here:
 	* [Zed](https://www.stereolabs.com/)
 	* [Structure Sensor for iPad](http://structure.io/)
 	* [Orbbec](http://www.orbbec3d.com/)
+	* [Intel Realsense](https://software.intel.com/en-us/realsense/home)
+	* [Intel Euclid](https://click.intel.com/intelr-euclidtm-development-kit.html)
 * Virtual Reality
 	* [Oculus Rift](https://www.oculus.com/en-us/creators/)
 	* [HTC Vive](https://www.htcvive.com/us/)
@@ -314,6 +339,8 @@ Another great set of links here:
 [Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/) by [@laserpilot](https://twitter.com/laserpilot)
 [Volumetric displays](https://www.lookingglassfactory.com/)
 [Transparent displays](http://prodisplay.com/products/transparent-lcd-screen/)
+[Transparent displays](http://store.apollodisplays.com/store/products/transparent-displays)
+[Odd screen sizes](https://earthlcd.com/products/lcd-kits/xlk-10x1-usb-b/)
 
 #### Big Displays
 
