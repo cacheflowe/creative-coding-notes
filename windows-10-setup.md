@@ -35,7 +35,7 @@
           * Select "High Performance" from dropdown
           * USB settings -> Selective suspend -> Plugged in -> Disabled
   * Turn off screensaver: Control Panel -> Appearance and Personalization -> Change Screen Saver
-  * Settings -> Home -> Start -> Turn off: "Occasionally show suggestions in Start"
+  * Settings -> Personalization -> Home -> Start -> Turn off: "Occasionally show suggestions in Start"
   * Turn off notifications:
     * Settings -> System -> Notifications & actions
     * Settings -> Privacy -> Notifications -> Turn off "Let apps access my notifications"
@@ -60,7 +60,7 @@
 
 * Windows settings:
   * Settings -> System -> Display -> Change the size of text, apps... -> 100%
-  * Settings -> Personalization -> Multiple Displays -> Show taskbars on all displays -> Off
+  * Settings -> Personalization -> Taskbar -> Multiple Displays -> Show taskbars on all displays -> Off
   * Show file name extensions: In a system Explorer window, click "View" in the toolbar, and check "File name extensions" and "Hidden files"
   * Set to Developer mode:
     * Settings -> Update & Security -> For developers -> Developer Mode option
