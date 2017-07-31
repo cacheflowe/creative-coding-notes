@@ -41,7 +41,8 @@ Another great set of links here:
 #### Modern Creative Coding uses
 
 * [The Art of Creative Coding](http://www.youtube.com/watch?v=eBV14-3LT-g) (video)
-* Data visualization - [Flight Patterns](http://www.youtube.com/watch?v=ystkKXzt9Wk) [2](http://www.ted.com/talks/aaron_koblin.html) [3](http://vimeo.com/46048177)
+* Data visualization
+	* [Flight Patterns](http://www.youtube.com/watch?v=ystkKXzt9Wk) [2](http://www.ted.com/talks/aaron_koblin.html) [3](http://vimeo.com/46048177)
 * Musical Instruments - [Imogen Heap's musical gloves](http://www.youtube.com/watch?v=6btFObRRD9k)
 * Math as music [Simple Harmonic Motion](http://www.memo.tv/simple-harmonic-motion/)
 * Modern demoscene: [Agenda Circling Forth](http://www.youtube.com/watch?v=GJruj0YkDsg)
@@ -61,7 +62,7 @@ Another great set of links here:
 * Dance + Kinect + Code - [Unnamed Sound Sculpture](https://vimeo.com/38840688)
 * Human movement analysis to art - [Forms - Quayola and Memo Akten](http://www.youtube.com/watch?v=Xe-C_rv3_p0)
 * Generative jewelry - [Nervous System](https://vimeo.com/48902614)
-* Product design & development [1](https://vimeo.com/41450718) [2](http://n-e-r-v-o-u-s.com/shop/product.php?code=129&tag=jewelry)
+* [Product design](https://vimeo.com/41450718) & [development](http://n-e-r-v-o-u-s.com/shop/product.php?code=129&tag=jewelry)
 * Fashion - [Kinematics Dress](http://n-e-r-v-o-u-s.com/projects/sets/kinematics-dress/)
 * Quadcopters - [Meet Your Creator](http://www.youtube.com/watch?v=cseTX_rW3uM)
 * 3D Printing - [Probability Lattice](http://www.flickr.com/photos/watz/7166887796/in/photostream/)
@@ -69,7 +70,7 @@ Another great set of links here:
 * Generative visuals - [Algorithmic Abstractions](http://www.flickr.com/groups/_aa/pool/)
 * Generative audio - [The Ballad of the Psychotropic Robots](https://www.youtube.com/watch?v=nhq6wzgFEXc) & [Wiki](http://en.wikipedia.org/wiki/Algorithmic_music)
 * Science! - [Crowdsourced protein folding](http://news.cnet.com/8301-11386_3-57365693-76/crowdsourcing-gamers-best-computers-on-protein-folding/)
-* Interactive art installations & physical experiences [1](https://vimeo.com/35674495)
+* [Interactive art installations & physical experiences](https://vimeo.com/35674495)
 * Augmented reality
 * Digital Art
 * Computer-Aided Design
@@ -79,7 +80,7 @@ Another great set of links here:
 * Web development
 * Non-web UI development
 	* Touchscreen applications
-* Projection Mapping [1](https://www.youtube.com/watch?v=VrgWH1KUDt4)
+* [Projection Mapping](https://www.youtube.com/watch?v=VrgWH1KUDt4)
 * Machine learning & AI
 
 
@@ -105,6 +106,7 @@ Another great set of links here:
 * GLSL
 	* [GLSL Sandbox](http://glslsandbox.com/)
 	* [Shadertoy](http://shadertoy.com)
+		* [Raymarching Dmoe](https://www.shadertoy.com/view/4dSfRc)
 		* [Raymarching Intro](http://barradeau.com/blog/?p=575)
 		* [Raymarching: more](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
 	* [Vertex Shader Art](http://vertexshaderart.com/)
@@ -204,7 +206,7 @@ Another great set of links here:
 * Oscillation
 * Basic trigonometry (movement & orientation)
 * Nature / fractals / Recursion
-* Higher level math [1](http://acko.net/files/fullfrontal/fullfrontal/slides-net/)
+* [Higher level math](http://acko.net/files/fullfrontal/fullfrontal/slides-net/)
 * 3D
 * Data
 
@@ -212,11 +214,12 @@ Another great set of links here:
 #### Graphical algorithms
 
 * Articles
+	* [On Meta-Design and Algorithmic Design Systems](https://runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/) by Rune Madsen
+	* [On Generative Algorithms](http://inconvergent.net/generative/)
 	* [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/) by kynd
 
-
 * Commons tools & concepts
-	* Easing & interpolation [1](http://easings.net/)
+	* [Easing & interpolation](http://easings.net/)
 	* Physics simulations
 	* Noise
 		* Perlin noise for terrain and textures
@@ -226,10 +229,10 @@ Another great set of links here:
 	* [Delaunay Triangulation](http://mathworld.wolfram.com/images/eps-gif/DelaunayTriangulation_1000.gif)
 	* [Fractals](http://fractalfoundation.org/OFC/OFC-10-4.html) & [Mandelbulbs](https://vimeo.com/56546771) [4](http://vimeo.com/12215994)
 		* [List_of_fractals_by_Hausdorff_dimension](http://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
-	* Packing / Space-filling algorithms [1](http://en.wikipedia.org/wiki/Packing_problem) [2](http://www.complexification.net/gallery/machines/boxFitting/boxFittingPRN.jpg)
-	* Boids / flocking & particle systems [1](https://processing.org/examples/flocking.html)[2](https://vimeo.com/55213364)
+	* [Packing](http://en.wikipedia.org/wiki/Packing_problem) / [Space-filling algorithms](http://www.complexification.net/gallery/machines/boxFitting/boxFittingPRN.jpg)
+	* [Boids](https://processing.org/examples/flocking.html) / [flocking](https://vimeo.com/55213364) & particle systems
 	* [Fluid](http://madebyevan.com/webgl-water/) [dynamics](https://www.shadertoy.com/view/XdcXDN) & solvers
-	* Conway’s classic Game of Life / [cellular autonoma](http://natureofcode.com/book/chapter-7-cellular-automata)
+	* Conway's classic Game of Life / [cellular autonoma](http://natureofcode.com/book/chapter-7-cellular-automata)
 	* Emergence
 	* [Genetic](http://www.youtube.com/watch?v=JBgG_VSP7f8) & evolutionary algorithms
 	* [Anti-aliasing algorithms](https://blog.codinghorror.com/fast-approximate-anti-aliasing-fxaa/)
@@ -237,12 +240,13 @@ Another great set of links here:
 	* Blob & edge detection
 	* Computer vision (CV) (AR)
 	* Machine learning & AI
+		* [Style Transfer](https://tenso.rs/demos/fast-neural-style/)
 * 3D / spatial concepts
-	* Meshes [1](http://www.cmap.polytechnique.fr/~peyre/images/test_remeshing.jpg)
+	* [Meshes](http://www.cmap.polytechnique.fr/~peyre/images/test_remeshing.jpg)
 	* Ray marching / ray casting / ray tracing / marching cubes
-	* Voxels [1](http://rjzarah.blog.com/files/2011/10/voxel_pixelart.gif)
+	* [Voxels](http://rjzarah.blog.com/files/2011/10/voxel_pixelart.gif)
 	* Spherical mathematics, Quaternions and Euler rotation [1](http://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
-	* Bump/Normal/Displacement maps [1](http://blog.digitaltutors.com/bump-normal-and-displacement-maps/)
+	* [Bump/Normal/Displacement maps](http://blog.digitaltutors.com/bump-normal-and-displacement-maps/)
 	* NURBS
 	* Ray tracing
 	* Polygon meshes
@@ -270,11 +274,11 @@ Another great set of links here:
 * [GPU Performance for Game Artists](http://fragmentbuffer.com/gpu-performance-for-game-artists/)
 * [Ray Tracing in One Weekend](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8)
 * [NVIDIA - GPU Gems 3](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_pref01.html)
+* [A Beginner's Guide to Coding Graphics Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
 
 #### Data as input
 * Image
 * [Video](https://vimeo.com/125927621)
-* [Audio](http://sphotos-a.xx.fbcdn.net/hphotos-ash4/467486_4825273990540_1542718568_o.jpg)
 * [Science Data](http://hint.fm/wind/)
 
 
@@ -297,8 +301,8 @@ Another great set of links here:
 * Accelerometer (iOS, Wii, Playstation)
 	* [Playstation Move](http://us.playstation.com/ps3/accessories/playstation-move-motion-controller-ps3.html)
 	* [Nintendo Wiimote](https://en.wikipedia.org/wiki/Wii_Remote)
-* Sensors [1](http://www.adafruit.com/category/35)
-* [Bare Conductive](http://www.bareconductive.com/) Paint [1](http://www.gizmag.com/arduino-electric-ink-bare-conductive-touch-board-maker-faire/32182/)
+* [Sensors](http://www.adafruit.com/category/35)
+* [Conductive](http://www.bareconductive.com/) [Paint](http://www.gizmag.com/arduino-electric-ink-bare-conductive-touch-board-maker-faire/32182/)
 * [Leap Motion](https://www.leapmotion.com/) [1](http://kolidar.com/Blog/wp-content/uploads/2012/07/Minority-report_2.jpg)
 * [Myo](https://www.thalmic.com/myo/)
 * [Gest](https://gest.co/)
@@ -388,6 +392,6 @@ Another great set of links here:
 	* [Cylon.js](http://cylonjs.com/) / [Artoo.rb](http://artoo.io/) / [Gobot](http://gobot.io/)
 	* [Willow Garage](http://www.willowgarage.com/pages/pr2/overview)
 	* ["Penguins Mirror"](https://vimeo.com/129674054)
-* Textiles [1](http://www.creativeapplications.net/processing/pixtil-weaving-generative-patterns-using-traditional-textile-techniques/) [2](http://www.libselliott.com/)
+* [Textiles](http://www.creativeapplications.net/processing/pixtil-weaving-generative-patterns-using-traditional-textile-techniques/) & [quilting](http://www.libselliott.com/)
 * [Water Features](https://en.wikipedia.org/wiki/WET_(company))
-* Print
+* [Print](http://cacheflowe.com/code/installation/nike-the-grove-we-are-la-mural)
