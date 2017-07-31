@@ -4,8 +4,6 @@
 Another great set of links here:
 [https://github.com/terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 
-[Programming Design Systems](https://programmingdesignsystems.com/)
-
 ## What is Creative coding?
 
 #### Some history
@@ -210,13 +208,7 @@ Another great set of links here:
 * 3D
 * Data
 
-
 #### Graphical algorithms
-
-* Articles
-	* [On Meta-Design and Algorithmic Design Systems](https://runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/) by Rune Madsen
-	* [On Generative Algorithms](http://inconvergent.net/generative/)
-	* [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/) by kynd
 
 * Commons tools & concepts
 	* [Easing & interpolation](http://easings.net/)
@@ -261,6 +253,15 @@ Another great set of links here:
 		* [Shaders](http://shadertoy.com)
 
 #### Graphics articles & resources
+
+Algorithmic design:
+
+* [On Meta-Design and Algorithmic Design Systems](https://runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/) by Rune Madsen
+* [On Generative Algorithms](http://inconvergent.net/generative/)
+* [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/) by kynd
+* [Programming Design Systems](https://programmingdesignsystems.com/)
+
+Graphics Programming:
 
 * [Introduction to VR Graphics Performance](https://docs.google.com/presentation/d/1yJSQy4QtcQxcMjr9Wj6kjMd2R1BLNA1mUebDtnaXDL8/edit#slide=id.p)
 * [Casual Introduction to Low-Level Graphics Programming](http://stephaniehurlburt.com/blog/2016/10/28/casual-introduction-to-low-level-graphics-programming)
