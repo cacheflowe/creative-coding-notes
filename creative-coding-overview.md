@@ -10,15 +10,19 @@ Another great set of links here:
 
 * Computer graphics/art roots
 	* [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake)
-	* [Georg Nees](https://en.wikipedia.org/wiki/Georg_Nees)
+	* [Georg Nees](https://en.wikipedia.org/wiki/Georg_Nees) - [Computergrafik](http://dada.compart-bremen.de/item/exhibition/164)
 	* [John Whitney - Catalog (1961)](https://www.youtube.com/watch?v=TbV7loKp69s)
 	* ["How Computer-Generated Animations Were Made, Circa 1964"](https://www.youtube.com/watch?v=_Lmi6cmrq0w)
+	* [John Whitney - Lapis (1966)](https://www.youtube.com/watch?v=kzniaKxMr2g)
 	* ["The Incredible Machine" (1968)](https://www.youtube.com/watch?v=crbfSY6vf7s)
+	* [Jim Henson - Cyclia projection mapping prototype (1968)](https://twitter.com/_vade/status/917079466337325057)
 	* [Doris Chase - Circles (1969-1970)](https://www.youtube.com/watch?v=IkNpWG2LypQ)
+	* [Edward Ihnatowicz - "Senster" (1970)](https://www.youtube.com/watch?v=1jDt5unArNk)
 	* [Norman McLaren - Synchromy (1971)](https://www.youtube.com/watch?v=Jqz_tx1-xd4)
 	* [Erkki Kurenniemi - DIMI Ballet (1971)](https://www.youtube.com/watch?v=d-yHULQ2V5c)
 	* [John Whitney - Matrix III (1972)](http://www.youtube.com/watch?v=ZrKgyY5aDvA)
 	* [Ed Catmull - first 3D rendered movie (1972)](https://vimeo.com/16292363)
+	* [Manfred Mohr - Cubic Limit (1974)](https://www.youtube.com/watch?v=j4M28FEJFF8)
 	* [Carla's Island (1981)](http://www.youtube.com/watch?v=kO-JB1WHmRc)
 	* [The Road to Point Reyes (1983)](http://lucasmuseum.org/works/detail/asset_id/1292)
 	* [Calculated Movements by Larry Cuba (1985)](http://www.youtube.com/watch?v=HcvN1dt0yJo)
@@ -71,6 +75,7 @@ Another great set of links here:
 * [Interactive art installations & physical experiences](https://vimeo.com/35674495)
 * Augmented reality
 * Digital Art
+	* [Drawing (Weird Drawing Software)](https://github.com/REAS/sketchmachine/wiki/Weird-Drawing-Software)
 * Computer-Aided Design
 * Architecture
 * Game development
@@ -80,6 +85,7 @@ Another great set of links here:
 	* Touchscreen applications
 * [Projection Mapping](https://www.youtube.com/watch?v=VrgWH1KUDt4)
 * Machine learning & AI
+	* [@gloan at PAIR Symposium on Human/AI Interaction](https://www.youtube.com/watch?time_continue=18790&v=w3zSffhPUz0)
 
 
 ## Creative Coding Environments & Libraries
@@ -101,10 +107,15 @@ Another great set of links here:
 		* rasterizeHTML.js??
 		* CanvasFilters / Canvas UV mapping
 		* https://github.com/mapbox/delaunator
+	* AR:
+		* https://developers.google.com/ar/develop/web/getting-started
+		* https://experiments.withgoogle.com/ar
+	* VR:
+		* https://aframe.io
 * GLSL
 	* [GLSL Sandbox](http://glslsandbox.com/)
 	* [Shadertoy](http://shadertoy.com)
-		* [Raymarching Dmoe](https://www.shadertoy.com/view/4dSfRc)
+		* [Raymarching Demo](https://www.shadertoy.com/view/4dSfRc)
 		* [Raymarching Intro](http://barradeau.com/blog/?p=575)
 		* [Raymarching: more](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
 	* [Vertex Shader Art](http://vertexshaderart.com/)
@@ -119,6 +130,7 @@ Another great set of links here:
 	* [glsl.io](http://transitions.glsl.io/)
 	* [glslb.in](http://glslb.in/)
 	* [cables.gl](https://cables.gl/)
+	* [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)
 * Java-based:
 	* [Processing](http://processing.org) [1](http://vimeo.com/15379147)
 * c++:
@@ -132,6 +144,7 @@ Another great set of links here:
 	* [Max/MSP](http://cycling74.com/products/max/)
 	* [Pure Data](https://puredata.info/)
 	* [Touch Designer](http://www.derivative.ca/)
+	* [Notch](https://www.notch.one)
 	* [Praxis](http://www.praxislive.org/)
 
 
@@ -147,7 +160,7 @@ Another great set of links here:
 	* Syphon / CamTwist
 
 
-## Creative Coding Multimedia Tools
+## Multimedia Tools
 
 #### Scriptable 3d tools
 
@@ -182,7 +195,7 @@ Another great set of links here:
 * ffmpeg
 * imagemagick
 * gifsicle
-* [HAP format](http://vdmx.vidvox.net/tutorials/using-the-hap-video-codec)
+* [HAP video format (GPU-accelerated video)](http://vdmx.vidvox.net/tutorials/using-the-hap-video-codec)
 
 
 ## Graphics concepts
@@ -205,6 +218,7 @@ Another great set of links here:
 * Basic trigonometry (movement & orientation)
 * Nature / fractals / Recursion
 * [Higher level math](http://acko.net/files/fullfrontal/fullfrontal/slides-net/)
+* [Shaping functions](https://www.flickr.com/photos/kynd/9546075099)
 * 3D
 * Data
 
@@ -214,8 +228,9 @@ Another great set of links here:
 	* [Easing & interpolation](http://easings.net/)
 	* Physics simulations
 	* Noise
-		* Perlin noise for terrain and textures
+		* [Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise) for smooth randomness, terrain, textures
 		* [Curl noise](http://petewerner.blogspot.com/2015/02/intro-to-curl-noise.html)
+		* [Fractal Brownian Motion](https://thebookofshaders.com/13/)
 	* [Reaction](http://www.karlsims.com/rd.html)-[diffusion](https://www.shadertoy.com/view/lld3z8)
 	* [Voronoi](http://cs.nyu.edu/~ajsecord/npar2002/html/stipples-img16.png) [2](http://ultimaker.ipbhost.com/uploads/gallery/album_13/gallery_2943_13_8700870.jpg)
 	* [Delaunay Triangulation](http://mathworld.wolfram.com/images/eps-gif/DelaunayTriangulation_1000.gif)
@@ -233,24 +248,25 @@ Another great set of links here:
 	* Computer vision (CV) (AR)
 	* Machine learning & AI
 		* [Style Transfer](https://tenso.rs/demos/fast-neural-style/)
+		* [Deeplearn.js](https://pair-code.github.io/deeplearnjs/docs/tutorials/index.html)
+		* [Machine Learning for Artists](http://ml4a.github.io/)
+	* [Hardware acceleration](http://www.nvidia.com/object/what-is-gpu-computing.html)
 * 3D / spatial concepts
 	* [Meshes](http://www.cmap.polytechnique.fr/~peyre/images/test_remeshing.jpg)
-	* Ray marching / ray casting / ray tracing / marching cubes
+	* [Raymarching](https://www.shadertoy.com/view/4dSfRc)
+	* Marching cubes
+	* Ray tracing
 	* [Voxels](http://rjzarah.blog.com/files/2011/10/voxel_pixelart.gif)
 	* Spherical mathematics, Quaternions and Euler rotation [1](http://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
 	* [Bump/Normal/Displacement maps](http://blog.digitaltutors.com/bump-normal-and-displacement-maps/)
 	* NURBS
-	* Ray tracing
 	* Polygon meshes
 	* Ambient occlusion & 3d lighting
 	* Superformula
 	* [Dilation](https://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm) / [Erosion](https://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm)
-* Optimization
 	* Collision detection
-	* Octrees / quadtrees
+	* Optimization via [quadtrees](https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374) or [Octrees](http://www.i-programmer.info/programming/theory/1679-quadtrees-and-octrees.html)
 	* [MIP mapping](https://en.wikipedia.org/wiki/Mipmap) & optimization
-	* Hardware acceleration
-		* [Shaders](http://shadertoy.com)
 
 #### Graphics articles & resources
 
@@ -263,6 +279,7 @@ Algorithmic design:
 
 Graphics Programming:
 
+* [https://learnopengl.com/](https://learnopengl.com/)
 * [Introduction to VR Graphics Performance](https://docs.google.com/presentation/d/1yJSQy4QtcQxcMjr9Wj6kjMd2R1BLNA1mUebDtnaXDL8/edit#slide=id.p)
 * [Casual Introduction to Low-Level Graphics Programming](http://stephaniehurlburt.com/blog/2016/10/28/casual-introduction-to-low-level-graphics-programming)
 * [Computational Geometry Tutorial](http://wykobi.com/tutorial.html)
@@ -276,6 +293,7 @@ Graphics Programming:
 * [Ray Tracing in One Weekend](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8)
 * [NVIDIA - GPU Gems 3](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_pref01.html)
 * [A Beginner's Guide to Coding Graphics Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
+
 
 #### Data as input
 * Image
@@ -337,6 +355,9 @@ Graphics Programming:
 	* [WondaVR](http://www.wondavr.com/)
 * Augmented/Mixed Reality
 	* [Hololens](https://www.microsoft.com/microsoft-hololens/en-us) [1](https://www.youtube.com/watch?v=29xnzxgCx6I)
+	* ARKit
+	* Vuforia
+	* [Mira](https://www.mirareality.com/)
 	* Magic Leap
 
 #### Unique Display setups

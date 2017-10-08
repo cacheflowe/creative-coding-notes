@@ -30,6 +30,7 @@ Videos
 * [Indie Game The Movie](http://www.indiegamethemovie.com/)
 * [Nature of Code video series](https://vimeo.com/channels/natureofcode)
 * [Introduction to Computational Media](https://vimeo.com/70427341)
+* [Designing Generative Systems w/ P5.js](https://www.youtube.com/playlist?list=PLyRZnpOSgMj3K8AV2I6UldnvTj6d_Zrf0)
 * [Clouds documentary](http://www.cloudsdocumentary.com/)
 * [Moleman 2 - Demoscene - The Art of the Algorithms](https://www.youtube.com/watch?v=iRkZcTg1JWU)
 
@@ -73,4 +74,3 @@ Kinect libraries:
 * [http://code.google.com/p/osc-kinect/](http://code.google.com/p/osc-kinect/) (uses official Windows SDK)
 * [http://kinect.childnodes.com/](http://kinect.childnodes.com/) (uses official Windows SDK for .js access)
 * [https://github.com/doug/depthjs](https://github.com/doug/depthjs) (cross-platform plugin for Webkit browsers)
-
