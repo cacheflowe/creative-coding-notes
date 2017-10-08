@@ -5,6 +5,7 @@ Web sites
 * [The Nature of Code](http://natureofcode.com/book/) by Daniel Shiffman
 * [Creative Applications](http://www.creativeapplications.net/)
 * [Create Digital Motion](http://createdigitalmotion.com/)
+* [Prosthetic Knowledge](http://prostheticknowledge.tumblr.com/)
 * [http://hackingforartists.com/](http://hackingforartists.com/)
 * [http://openprocessing.org](http://openprocessing.org)
 
@@ -33,10 +34,6 @@ Videos
 * [Designing Generative Systems w/ P5.js](https://www.youtube.com/playlist?list=PLyRZnpOSgMj3K8AV2I6UldnvTj6d_Zrf0)
 * [Clouds documentary](http://www.cloudsdocumentary.com/)
 * [Moleman 2 - Demoscene - The Art of the Algorithms](https://www.youtube.com/watch?v=iRkZcTg1JWU)
-
-Articles
-------------------
-* ["Join the Creative Class"](http://www.forbes.com/sites/elainepofeldt/2012/12/28/want-to-recession-proof-yourself-join-the-creative-class/)
 
 
 Artists / Coders / Companies
