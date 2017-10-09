@@ -77,6 +77,7 @@ Another great set of links here:
 * Digital Art
 	* [Drawing (Weird Drawing Software)](https://github.com/REAS/sketchmachine/wiki/Weird-Drawing-Software)
 * Computer-Aided Design
+	* [The Future of Making Things: Generative Design](https://www.youtube.com/watch?v=E2SxqUvtpIk)
 * Architecture
 * Game development
 * Mobile app development
@@ -451,6 +452,7 @@ Graphics Programming:
 #### Videos
 
 * [The Art of Creative Coding (PBS)](http://www.youtube.com/watch?v=eBV14-3LT-g)
+* [How To Draw With Code | Casey Reas](https://www.youtube.com/watch?v=_8DMEHxOLQE)
 * [Demographics: Behind the Scene](http://www.youtube.com/watch?v=Y_Wlju8zL04)
 * [Indie Game The Movie](http://www.indiegamethemovie.com/)
 * [Nature of Code video series](https://vimeo.com/channels/natureofcode)
