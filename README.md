@@ -379,11 +379,12 @@ Graphics Programming:
 
 ## Unique Displays and Touchscreens
 
-[Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/) by [@laserpilot](https://twitter.com/laserpilot)
-[Volumetric displays](https://www.lookingglassfactory.com/)
-[Transparent displays](http://prodisplay.com/products/transparent-lcd-screen/)
-[Transparent displays](http://store.apollodisplays.com/store/products/transparent-displays)
-[Odd screen sizes](https://earthlcd.com/products/lcd-kits/xlk-10x1-usb-b/)
+First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/) by [@laserpilot](https://twitter.com/laserpilot)
+
+* [Volumetric displays](https://www.lookingglassfactory.com/)
+* [Transparent displays](http://prodisplay.com/products/transparent-lcd-screen/)
+* [Transparent displays](http://store.apollodisplays.com/store/products/transparent-displays)
+* [Odd screen sizes](https://earthlcd.com/products/lcd-kits/xlk-10x1-usb-b/)
 
 #### Big Displays
 
