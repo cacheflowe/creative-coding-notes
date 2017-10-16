@@ -5,6 +5,14 @@
 
 * [Creative Coding History](#creative-coding-history)
 * [Modern Creative Coding Uses](#modern-creative-coding-uses)
+* [Creative Coding Environments and Libraries](#creative-coding-environments-and-libraries)
+* [Communication Protocols](#communication-protocols)
+* [Multimedia Tools](#multimedia-tools)
+* [Graphics concepts](#graphics-concepts)
+* [Physical computing](#physical-computing)
+* [Unique Displays and Touchscreens](#unique-displays-and-touchscreens)
+* [Other output options](#other-output-options)
+* [More resources](#more-resources)
 
 
 In addition to this list, check out there great alternates:
@@ -95,7 +103,7 @@ In addition to this list, check out there great alternates:
 	* [@gloan at PAIR Symposium on Human/AI Interaction](https://www.youtube.com/watch?time_continue=18790&v=w3zSffhPUz0)
 
 
-## Creative Coding Environments & Libraries
+## Creative Coding Environments and Libraries
 
 * Web-based:
 	* Libraries:
@@ -155,7 +163,7 @@ In addition to this list, check out there great alternates:
 	* [Praxis](http://www.praxislive.org/)
 
 
-#### Communication Protocols
+## Communication Protocols
 
 * Local network & web communication:
 	* HTTP / webRTC / UDP
@@ -369,7 +377,7 @@ Graphics Programming:
 	* [Mira](https://www.mirareality.com/)
 	* Magic Leap
 
-#### Unique Display setups
+## Unique Displays and Touchscreens
 
 [Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/) by [@laserpilot](https://twitter.com/laserpilot)
 [Volumetric displays](https://www.lookingglassfactory.com/)
@@ -404,7 +412,7 @@ Graphics Programming:
 * [Satechi Cyclone](http://www.satechi.net/index.php/satechi-cyclone-micro-2-1080p-portable-media-mkv-avi-mov-player-adapter-with-sd-sdhc-memory-usb-slot-and-remote-control)
 
 
-## Beyond the (traditional) screen
+## Other output options
 
 * Projection mapping
 	* [http://www.agisoft.com/](http://www.agisoft.com/)
