@@ -180,6 +180,7 @@ In addition to this list, check out there great alternates:
 #### Scriptable 3d tools
 
 * [Blender](http://www.blender.org/)
+* [Houdini](http://www.sidefx.com/docs/houdini/hom/_index)
 * [Cinema4d](http://www.maxon.net/)
 * [Meshlab](http://meshlab.sourceforge.net/)
 * [Meshmixer](http://www.meshmixer.com/)
@@ -290,7 +291,8 @@ In addition to this list, check out there great alternates:
 Algorithmic design:
 
 * [On Meta-Design and Algorithmic Design Systems](https://runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/) by Rune Madsen
-* [On Generative Algorithms](http://inconvergent.net/generative/)
+* [So you want to build a generator](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator) by Kate Compton
+* [On Generative Algorithms](http://inconvergent.net/generative/) by Inconvergent
 * [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/) by kynd
 * [Programming Design Systems](https://programmingdesignsystems.com/)
 
