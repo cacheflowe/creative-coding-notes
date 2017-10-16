@@ -1,14 +1,18 @@
 
-# Creative Coding
+# Creative Coding Notes
 
-Some great alternate lists/links here:
+## Table of Contents
+
+* [Creative Coding History](#creative-coding-history)
+* [Modern Creative Coding Uses](#modern-creative-coding-uses)
+
+
+In addition to this list, check out there great alternates:
 * [https://github.com/terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 * [https://github.com/kosmos/awesome-generative-art](https://github.com/kosmos/awesome-generative-art)
 
 
-## What is Creative coding?
-
-#### Some history
+## Creative Coding History
 
 * Computer graphics/art roots
 	* [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake)
@@ -42,7 +46,7 @@ Some great alternate lists/links here:
 	* Robert Penner (easing algorithms)
 	* Grant Skinner
 
-#### Modern Creative Coding uses
+## Modern Creative Coding Uses
 
 * [The Art of Creative Coding](http://www.youtube.com/watch?v=eBV14-3LT-g) (video)
 * Data visualization
