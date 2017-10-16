@@ -1,8 +1,10 @@
 
 # Creative Coding
 
-Another great set of links here:
-[https://github.com/terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
+Some great alternate lists/links here:
+* [https://github.com/terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
+* [https://github.com/kosmos/awesome-generative-art](https://github.com/kosmos/awesome-generative-art)
+
 
 ## What is Creative coding?
 
