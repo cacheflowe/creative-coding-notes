@@ -5,11 +5,11 @@
 
 * [Creative Coding History](#creative-coding-history)
 * [Modern Creative Coding Uses](#modern-creative-coding-uses)
+* [Graphics concepts](#graphics-concepts)
+* [Physical computing](#physical-computing)
 * [Creative Coding Environments and Libraries](#creative-coding-environments-and-libraries)
 * [Communication Protocols](#communication-protocols)
 * [Multimedia Tools](#multimedia-tools)
-* [Graphics concepts](#graphics-concepts)
-* [Physical computing](#physical-computing)
 * [Unique Displays and Touchscreens](#unique-displays-and-touchscreens)
 * [Other output options](#other-output-options)
 * [More resources](#more-resources)
@@ -36,11 +36,14 @@ In addition to this list, check out there great alternates:
 	* [Erkki Kurenniemi - DIMI Ballet (1971)](https://www.youtube.com/watch?v=d-yHULQ2V5c)
 	* [John Whitney - Matrix III (1972)](http://www.youtube.com/watch?v=ZrKgyY5aDvA)
 	* [Ed Catmull - first 3D rendered movie (1972)](https://vimeo.com/16292363)
+	* [Manfred Mohr - Cube Transformation Study (1972)](https://vimeo.com/65241719)
 	* [Manfred Mohr - Cubic Limit (1974)](https://www.youtube.com/watch?v=j4M28FEJFF8)
 	* [Carla's Island (1981)](http://www.youtube.com/watch?v=kO-JB1WHmRc)
 	* [The Road to Point Reyes (1983)](http://lucasmuseum.org/works/detail/asset_id/1292)
 	* [Calculated Movements by Larry Cuba (1985)](http://www.youtube.com/watch?v=HcvN1dt0yJo)
+	* [Samia Halaby](https://www.youtube.com/watch?v=sDfIkXf3uzA)
 	* [A brief history of computer drawing](http://golancourses.net/2016/lectures/2-02/)
+	* [The Recode Project](http://recodeproject.com/)
 * Video Games
 	* [A Brief History of Graphics](https://www.youtube.com/watch?v=QyjyWUrHsFc)
 * Demoscene
@@ -53,6 +56,7 @@ In addition to this list, check out there great alternates:
 	* GMunk
 	* Robert Penner (easing algorithms)
 	* Grant Skinner
+* Physical computing & Interactive installations
 
 ## Modern Creative Coding Uses
 
@@ -103,7 +107,135 @@ In addition to this list, check out there great alternates:
 	* [@gloan at PAIR Symposium on Human/AI Interaction](https://www.youtube.com/watch?time_continue=18790&v=w3zSffhPUz0)
 
 
-## Creative Coding Environments and Libraries
+## Graphics concepts
+
+#### Basic Concepts & Building Blocks
+
+* Shapes
+* [Color](https://programmingdesignsystems.com/color/color-models-and-color-spaces/)
+	* [Procedural color techniques](https://cis700-procedural-graphics.github.io/files/color_2_14_17.pdf)
+	* [Cosine gradient generator](http://dev.thi.ng/gradients/)
+* [Similarities between drawing environments](https://github.com/cacheflowe/creative-coding-class-notes/blob/master/draw-rectangle.md)
+* Motion (frame-based vs. web rendering)
+	* [Soulwire's Math for Motion](https://soulwire.co.uk/math-for-motion/)
+* Repetition (for())
+* Iteration
+* Randomness
+* OOP
+* Physics / better motion
+* Oscillation
+* Basic trigonometry (movement & orientation)
+* Nature / fractals / Recursion
+* [Higher level math](http://acko.net/files/fullfrontal/fullfrontal/slides-net/)
+* [Shaping functions](https://www.flickr.com/photos/kynd/9546075099)
+* 3D
+* Data
+
+#### Graphical algorithms
+
+* Commons tools & concepts
+	* [Easing & interpolation](http://easings.net/)
+	* Physics simulations
+	* Noise
+		* [Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise) for smooth randomness, terrain, textures
+		* [Curl noise](http://petewerner.blogspot.com/2015/02/intro-to-curl-noise.html)
+		* [Fractal Brownian Motion](https://thebookofshaders.com/13/)
+	* [Reaction](http://www.karlsims.com/rd.html)-[diffusion](https://www.shadertoy.com/view/lld3z8)
+	* [Voronoi](http://cs.nyu.edu/~ajsecord/npar2002/html/stipples-img16.png) [2](http://ultimaker.ipbhost.com/uploads/gallery/album_13/gallery_2943_13_8700870.jpg)
+	* [Delaunay Triangulation](http://mathworld.wolfram.com/images/eps-gif/DelaunayTriangulation_1000.gif)
+	* [Fractals](http://fractalfoundation.org/OFC/OFC-10-4.html) & [Mandelbulbs](https://vimeo.com/56546771) [4](http://vimeo.com/12215994)
+		* [List_of_fractals_by_Hausdorff_dimension](http://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
+	* [Packing](http://en.wikipedia.org/wiki/Packing_problem) / [Space-filling algorithms](http://www.complexification.net/gallery/machines/boxFitting/boxFittingPRN.jpg)
+	* [Boids](https://processing.org/examples/flocking.html) / [flocking](https://vimeo.com/55213364) & particle systems
+	* [Fluid](http://madebyevan.com/webgl-water/) [dynamics](https://www.shadertoy.com/view/XdcXDN) & solvers
+	* Conway's classic Game of Life / [cellular autonoma](http://natureofcode.com/book/chapter-7-cellular-automata)
+	* Emergence 
+	* [Genetic](http://www.youtube.com/watch?v=JBgG_VSP7f8) & evolutionary algorithms
+	* [Anti-aliasing algorithms](https://blog.codinghorror.com/fast-approximate-anti-aliasing-fxaa/)
+	* [Feedback](https://www.youtube.com/watch?v=B4Kn3djJMCE&feature=youtu.be)
+	* Concave & convex hulls
+	* Blob & edge detection
+	* Computer vision (CV) (AR)
+	* Machine learning & AI
+		* [Style Transfer](https://tenso.rs/demos/fast-neural-style/)
+		* [Deeplearn.js](https://pair-code.github.io/deeplearnjs/docs/tutorials/index.html)
+		* [Machine Learning for Artists](http://ml4a.github.io/)
+	* [Hardware acceleration](http://www.nvidia.com/object/what-is-gpu-computing.html)
+* 3D / spatial concepts
+	* [Meshes](http://www.cmap.polytechnique.fr/~peyre/images/test_remeshing.jpg)
+	* [Raymarching](https://www.shadertoy.com/view/4dSfRc)
+	* Marching cubes
+	* Ray tracing
+	* [Voxels](http://rjzarah.blog.com/files/2011/10/voxel_pixelart.gif)
+	* Spherical mathematics, Quaternions and Euler rotation [1](http://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
+	* [Bump/Normal/Displacement maps](http://blog.digitaltutors.com/bump-normal-and-displacement-maps/)
+	* NURBS
+	* Polygon meshes
+	* Ambient occlusion & 3d lighting
+	* Superformula
+	* [Dilation](https://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm) / [Erosion](https://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm)
+	* Collision detection
+	* Optimization via [quadtrees](https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374) or [Octrees](http://www.i-programmer.info/programming/theory/1679-quadtrees-and-octrees.html)
+	* [MIP mapping](https://en.wikipedia.org/wiki/Mipmap) & optimization
+
+#### Articles
+
+* ["Join the Creative Class"](http://www.forbes.com/sites/elainepofeldt/2012/12/28/want-to-recession-proof-yourself-join-the-creative-class/)
+* ["The Brief History of Volumetric Filmmaking"](https://medium.com/volumetric-filmmaking/the-brief-history-of-volumetric-filmmaking-32b3569c6831)
+
+Algorithmic design:
+
+* [On Meta-Design and Algorithmic Design Systems](https://runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/) by Rune Madsen
+* [So you want to build a generator](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator) by Kate Compton
+* [On Generative Algorithms](http://inconvergent.net/generative/) by Inconvergent
+* [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/) by kynd
+* [Programming Design Systems](https://programmingdesignsystems.com/)
+
+Graphics Programming:
+
+* [https://learnopengl.com/](https://learnopengl.com/)
+* [Introduction to VR Graphics Performance](https://docs.google.com/presentation/d/1yJSQy4QtcQxcMjr9Wj6kjMd2R1BLNA1mUebDtnaXDL8/edit#slide=id.p)
+* [Casual Introduction to Low-Level Graphics Programming](http://stephaniehurlburt.com/blog/2016/10/28/casual-introduction-to-low-level-graphics-programming)
+* [Computational Geometry Tutorial](http://wykobi.com/tutorial.html)
+* [Graphics in Plain Language](https://renderdoc.org/blog/Graphics-in-Plain-Language/)
+* A [glossary](http://steve.hollasch.net/cgindex/)
+* [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+* [The Graphics Codex](http://graphicscodex.com/)
+* http://antongerdelan.net/teaching/
+* [Foundations of Game Engine Development Mathematics](https://www.amazon.com/Foundations-Game-Engine-Development-Mathematics/dp/0985811749/ref=asap_bc?ie=UTF8)
+* [GPU Performance for Game Artists](http://fragmentbuffer.com/gpu-performance-for-game-artists/)
+* [Ray Tracing in One Weekend](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8)
+* [NVIDIA - GPU Gems 3](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_pref01.html)
+* [A Beginner's Guide to Coding Graphics Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
+
+Audio programming:
+
+* https://ccrma.stanford.edu/~jos/
+
+Math:
+
+* http://www.katjaas.nl/home/home.html
+
+
+#### Data as input
+* Image
+* [Video](https://vimeo.com/125927621)
+* [Science Data](http://hint.fm/wind/)
+
+
+## Physical computing
+
+##### Historical devices
+
+* Haptic Feedback - [Sega Motocross / Fonz](https://en.wikipedia.org/wiki/Fonz_(video_game)) (1976)
+* Running in place - [Nintendo Power Pad](https://www.youtube.com/watch?v=dlkO-x6jANo) [1](https://www.youtube.com/watch?v=ErzuU78v60M) (1988)
+* Waving your hand around, with buttons - [Nintendo Power Glove](https://www.youtube.com/watch?v=SAKbtJjAV18) [1](https://www.youtube.com/watch?v=3g8JiGjRQNE) (1990)
+* [VR](https://en.wikipedia.org/wiki/Virtual_reality) (1977-present) (barf)
+* More running in place, but in public - [Dance Dance Revolution](https://upload.wikimedia.org/wikipedia/commons/e/ec/Dance_Dance_Revolution_North_American_arcade_machine_3.jpg) (1998)
+* In general: Expensive industrial fabrication & custom electronics
+
+
+## Creative Coding Tools
 
 * Web-based:
 	* Libraries:
@@ -121,7 +253,9 @@ In addition to this list, check out there great alternates:
 		* gif.js
 		* rasterizeHTML.js??
 		* CanvasFilters / Canvas UV mapping
+		* http://twgljs.org/
 		* https://github.com/mapbox/delaunator
+		* https://tastenkunst.github.io/brfv4_javascript_examples/
 	* AR:
 		* https://developers.google.com/ar/develop/web/getting-started
 		* https://experiments.withgoogle.com/ar
@@ -134,9 +268,10 @@ In addition to this list, check out there great alternates:
 		* [Raymarching Intro](http://barradeau.com/blog/?p=575)
 		* [Raymarching: more](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
 	* [Vertex Shader Art](http://vertexshaderart.com/)
-	* [Book of Shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/) (+ [Editor](http://editor.thebookofshaders.com/))
+	* [Book of Shaders](http://thebookofshaders.com/) (+ [Editor](http://editor.thebookofshaders.com/))
 	* [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)
 	* [Interactive Shader Format](http://www.interactiveshaderformat.com/)
+	* [KodeLife](https://hexler.net/software/kodelife)
 	* [editSDF](http://stephaneginier.com/archive/editSDF/)
 	* [WebGL Signed Distance Function Mesher](http://tdhooper.github.io/glsl-marching-cubes/)
 	* [Snelly] (https://github.com/portsmouth/snelly)
@@ -146,6 +281,7 @@ In addition to this list, check out there great alternates:
 	* [glslb.in](http://glslb.in/)
 	* [cables.gl](https://cables.gl/)
 	* [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)
+	* [LWJGL Basics](https://github.com/mattdesl/lwjgl-basics/wiki) by @mattdesl
 * Java-based:
 	* [Processing](http://processing.org) [1](http://vimeo.com/15379147)
 * c++:
@@ -161,7 +297,12 @@ In addition to this list, check out there great alternates:
 	* [Touch Designer](http://www.derivative.ca/)
 	* [Notch](https://www.notch.one)
 	* [Praxis](http://www.praxislive.org/)
-
+	* [Nodewerk](http://nodewerk.com/)
+* Computer Vision / Image recognition:
+	* [OpenCV](https://opencv.org/)
+	* [YOLO](https://pjreddie.com/darknet/yolo/)
+	* [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+	* [DensePose](http://densepose.org/)
 
 ## Communication Protocols
 
@@ -213,129 +354,23 @@ In addition to this list, check out there great alternates:
 * gifsicle
 * [HAP video format (GPU-accelerated video)](http://vdmx.vidvox.net/tutorials/using-the-hap-video-codec)
 
-
-## Graphics concepts
-
-#### Basic Concepts & Building Blocks
-
-* Shapes
-* [Color](https://programmingdesignsystems.com/color/color-models-and-color-spaces/)
-	* [Procedural color techniques](https://cis700-procedural-graphics.github.io/files/color_2_14_17.pdf)
-	* [Cosine gradient generator](http://dev.thi.ng/gradients/)
-* [Similarities between drawing environments](https://github.com/cacheflowe/creative-coding-class-notes/blob/master/draw-rectangle.md)
-* Motion (frame-based vs. web rendering)
-	* [Soulwire's Math for Motion](https://soulwire.co.uk/math-for-motion/)
-* Repetition (for())
-* Iteration
-* Randomness
-* OOP
-* Physics / better motion
-* Oscillation
-* Basic trigonometry (movement & orientation)
-* Nature / fractals / Recursion
-* [Higher level math](http://acko.net/files/fullfrontal/fullfrontal/slides-net/)
-* [Shaping functions](https://www.flickr.com/photos/kynd/9546075099)
-* 3D
-* Data
-
-#### Graphical algorithms
-
-* Commons tools & concepts
-	* [Easing & interpolation](http://easings.net/)
-	* Physics simulations
-	* Noise
-		* [Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise) for smooth randomness, terrain, textures
-		* [Curl noise](http://petewerner.blogspot.com/2015/02/intro-to-curl-noise.html)
-		* [Fractal Brownian Motion](https://thebookofshaders.com/13/)
-	* [Reaction](http://www.karlsims.com/rd.html)-[diffusion](https://www.shadertoy.com/view/lld3z8)
-	* [Voronoi](http://cs.nyu.edu/~ajsecord/npar2002/html/stipples-img16.png) [2](http://ultimaker.ipbhost.com/uploads/gallery/album_13/gallery_2943_13_8700870.jpg)
-	* [Delaunay Triangulation](http://mathworld.wolfram.com/images/eps-gif/DelaunayTriangulation_1000.gif)
-	* [Fractals](http://fractalfoundation.org/OFC/OFC-10-4.html) & [Mandelbulbs](https://vimeo.com/56546771) [4](http://vimeo.com/12215994)
-		* [List_of_fractals_by_Hausdorff_dimension](http://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
-	* [Packing](http://en.wikipedia.org/wiki/Packing_problem) / [Space-filling algorithms](http://www.complexification.net/gallery/machines/boxFitting/boxFittingPRN.jpg)
-	* [Boids](https://processing.org/examples/flocking.html) / [flocking](https://vimeo.com/55213364) & particle systems
-	* [Fluid](http://madebyevan.com/webgl-water/) [dynamics](https://www.shadertoy.com/view/XdcXDN) & solvers
-	* Conway's classic Game of Life / [cellular autonoma](http://natureofcode.com/book/chapter-7-cellular-automata)
-	* Emergence
-	* [Genetic](http://www.youtube.com/watch?v=JBgG_VSP7f8) & evolutionary algorithms
-	* [Anti-aliasing algorithms](https://blog.codinghorror.com/fast-approximate-anti-aliasing-fxaa/)
-	* Concave & convex hulls
-	* Blob & edge detection
-	* Computer vision (CV) (AR)
-	* Machine learning & AI
-		* [Style Transfer](https://tenso.rs/demos/fast-neural-style/)
-		* [Deeplearn.js](https://pair-code.github.io/deeplearnjs/docs/tutorials/index.html)
-		* [Machine Learning for Artists](http://ml4a.github.io/)
-	* [Hardware acceleration](http://www.nvidia.com/object/what-is-gpu-computing.html)
-* 3D / spatial concepts
-	* [Meshes](http://www.cmap.polytechnique.fr/~peyre/images/test_remeshing.jpg)
-	* [Raymarching](https://www.shadertoy.com/view/4dSfRc)
-	* Marching cubes
-	* Ray tracing
-	* [Voxels](http://rjzarah.blog.com/files/2011/10/voxel_pixelart.gif)
-	* Spherical mathematics, Quaternions and Euler rotation [1](http://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
-	* [Bump/Normal/Displacement maps](http://blog.digitaltutors.com/bump-normal-and-displacement-maps/)
-	* NURBS
-	* Polygon meshes
-	* Ambient occlusion & 3d lighting
-	* Superformula
-	* [Dilation](https://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm) / [Erosion](https://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm)
-	* Collision detection
-	* Optimization via [quadtrees](https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374) or [Octrees](http://www.i-programmer.info/programming/theory/1679-quadtrees-and-octrees.html)
-	* [MIP mapping](https://en.wikipedia.org/wiki/Mipmap) & optimization
-
-#### Graphics articles & resources
-
-* ["Join the Creative Class"](http://www.forbes.com/sites/elainepofeldt/2012/12/28/want-to-recession-proof-yourself-join-the-creative-class/)
-
-Algorithmic design:
-
-* [On Meta-Design and Algorithmic Design Systems](https://runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/) by Rune Madsen
-* [So you want to build a generator](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator) by Kate Compton
-* [On Generative Algorithms](http://inconvergent.net/generative/) by Inconvergent
-* [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/) by kynd
-* [Programming Design Systems](https://programmingdesignsystems.com/)
-
-Graphics Programming:
-
-* [https://learnopengl.com/](https://learnopengl.com/)
-* [Introduction to VR Graphics Performance](https://docs.google.com/presentation/d/1yJSQy4QtcQxcMjr9Wj6kjMd2R1BLNA1mUebDtnaXDL8/edit#slide=id.p)
-* [Casual Introduction to Low-Level Graphics Programming](http://stephaniehurlburt.com/blog/2016/10/28/casual-introduction-to-low-level-graphics-programming)
-* [Computational Geometry Tutorial](http://wykobi.com/tutorial.html)
-* [Graphics in Plain Language](https://renderdoc.org/blog/Graphics-in-Plain-Language/)
-* A [glossary](http://steve.hollasch.net/cgindex/)
-* [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
-* [The Graphics Codex](http://graphicscodex.com/)
-* http://antongerdelan.net/teaching/
-* [Foundations of Game Engine Development Mathematics](https://www.amazon.com/Foundations-Game-Engine-Development-Mathematics/dp/0985811749/ref=asap_bc?ie=UTF8)
-* [GPU Performance for Game Artists](http://fragmentbuffer.com/gpu-performance-for-game-artists/)
-* [Ray Tracing in One Weekend](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8)
-* [NVIDIA - GPU Gems 3](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_pref01.html)
-* [A Beginner's Guide to Coding Graphics Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
-
-
-#### Data as input
-* Image
-* [Video](https://vimeo.com/125927621)
-* [Science Data](http://hint.fm/wind/)
-
-
-## Physical computing
-
-##### Historical devices
-
-* Haptic Feedback - [Sega Motocross / Fonz](https://en.wikipedia.org/wiki/Fonz_(video_game)) (1976)
-* Running in place - [Nintendo Power Pad](https://www.youtube.com/watch?v=dlkO-x6jANo) [1](https://www.youtube.com/watch?v=ErzuU78v60M) (1988)
-* Waving your hand around, with buttons - [Nintendo Power Glove](https://www.youtube.com/watch?v=SAKbtJjAV18) [1](https://www.youtube.com/watch?v=3g8JiGjRQNE) (1990)
-* [VR](https://en.wikipedia.org/wiki/Virtual_reality) (1977-present) (barf)
-* More running in place, but in public - [Dance Dance Revolution](https://upload.wikimedia.org/wikipedia/commons/e/ec/Dance_Dance_Revolution_North_American_arcade_machine_3.jpg) (1998)
-* In general: Expensive industrial fabrication & custom electronics
-
 ##### Modern input devices
 
 * Apple trackpad/touchscreen touch/gestures
 * Mouse / tablet
-* Webcam
+* Webcam / Cameras
+	* https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S/
+	* https://www.logitech.com/en-us/product/4k-pro-webcam?crid=34
+	* https://www.amazon.com/dp/B01N8QBO2G/ref=asc_df_B01N8QBO2G5276731/
+	* https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Doffice-products&field-keywords=ELP+Webcam
+	* https://www.e-consystems.com/
+	* http://www.cctvcameradvrs.com/3.7mm-f2.8-m12-mount-pinhole-cctv-camera-lens-ir-350nm-650nm
+	* https://www.axis.com/gb/en/products/axis-p12-series
+	* https://www.axis.com/gb/en/products/axis-f-series
+	* https://www.ptgrey.com/
+	* https://www.vivotek.com/
+	* https://www.theimagingsource.com/products/industrial-cameras/usb-3.1-monochrome/
+	* http://www.z-cam.com/
 * Accelerometer (iOS, Wii, Playstation)
 	* [Playstation Move](http://us.playstation.com/ps3/accessories/playstation-move-motion-controller-ps3.html)
 	* [Nintendo Wiimote](https://en.wikipedia.org/wiki/Wii_Remote)
@@ -344,6 +379,7 @@ Graphics Programming:
 * [Leap Motion](https://www.leapmotion.com/) [1](http://kolidar.com/Blog/wp-content/uploads/2012/07/Minority-report_2.jpg)
 * [Myo](https://www.thalmic.com/myo/)
 * [Gest](https://gest.co/)
+* [Palette Kit](https://palettegear.com/)
 * Touchscreen
 	* [Ubi Sensor](http://www.ubi-interactive.com/)
 	* [Displax](http://www.displax.com/)
@@ -407,6 +443,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Alienware Alpha](http://www.alienware.com/landings/alpha/)
 * [LattePanda](http://www.lattepanda.com/)
 * [Raspberry Pi](https://www.raspberrypi.org/)
+* [Orange Pi](http://www.orangepi.org/)
 * [Inspiron Micro](http://www.dell.com/en-us/shop/productdetails/inspiron-3050-micro-desktop) (no longer offered)
 * [System](https://system76.com/)
 
@@ -455,6 +492,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 
 * [Form And Code](http://formandcode.com/)
 * [Generative Design](http://www.generative-gestaltung.de/)
+* [Generative Art](http://zenbullets.com/books.php)
 
 #### Conferences
 
@@ -471,13 +509,15 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [The Art of Creative Coding (PBS)](http://www.youtube.com/watch?v=eBV14-3LT-g)
 * [How To Draw With Code | Casey Reas](https://www.youtube.com/watch?v=_8DMEHxOLQE)
 * [Demographics: Behind the Scene](http://www.youtube.com/watch?v=Y_Wlju8zL04)
-* [Indie Game The Movie](http://www.indiegamethemovie.com/)
+* [The Coding Train](https://www.youtube.com/user/shiffman) by Daniel Shiffman
 * [Nature of Code video series](https://vimeo.com/channels/natureofcode)
 * [Introduction to Computational Media](https://vimeo.com/70427341)
 * [Designing Generative Systems w/ P5.js](https://www.youtube.com/playlist?list=PLyRZnpOSgMj3K8AV2I6UldnvTj6d_Zrf0)
 * [Clouds documentary](http://www.cloudsdocumentary.com/)
+* [Indie Game The Movie](http://www.indiegamethemovie.com/)
 * [Moleman 2 - Demoscene - The Art of the Algorithms](https://www.youtube.com/watch?v=iRkZcTg1JWU)
-
+* [Makin' Stuff Look Good in Unity](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg)
+* [Exploring Emergence | Andy Lomas](https://www.youtube.com/watch?v=gOqOyb51prU)
 
 #### Artists / Coders / Companies
 
