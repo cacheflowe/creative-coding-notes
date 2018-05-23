@@ -149,7 +149,7 @@ In addition to this list, check out there great alternates:
 	* [Boids](https://processing.org/examples/flocking.html) / [flocking](https://vimeo.com/55213364) & particle systems
 	* [Fluid](http://madebyevan.com/webgl-water/) [dynamics](https://www.shadertoy.com/view/XdcXDN) & solvers
 	* Conway's classic Game of Life / [cellular autonoma](http://natureofcode.com/book/chapter-7-cellular-automata)
-	* Emergence 
+	* Emergence
 	* [Genetic](http://www.youtube.com/watch?v=JBgG_VSP7f8) & evolutionary algorithms
 	* [Anti-aliasing algorithms](https://blog.codinghorror.com/fast-approximate-anti-aliasing-fxaa/)
 	* [Feedback](https://www.youtube.com/watch?v=B4Kn3djJMCE&feature=youtu.be)
@@ -269,6 +269,7 @@ Math:
 		* [Raymarching: more](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
 	* [Vertex Shader Art](http://vertexshaderart.com/)
 	* [Book of Shaders](http://thebookofshaders.com/) (+ [Editor](http://editor.thebookofshaders.com/))
+	* [stackgl Shader School](https://github.com/stackgl/shader-school)
 	* [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)
 	* [Interactive Shader Format](http://www.interactiveshaderformat.com/)
 	* [KodeLife](https://hexler.net/software/kodelife)
@@ -310,8 +311,10 @@ Math:
 	* HTTP / webRTC / UDP
 	* [WebSocket](http://en.wikipedia.org/wiki/WebSocket)
 	* [OSC](http://en.wikipedia.org/wiki/Open_Sound_Control)
+		* [osculator](https://osculator.net/)
 * Hardware device communication:
 	* [MIDI](http://en.wikipedia.org/wiki/MIDI)
+		* [MIDI Translator (OS X)](https://www.bome.com/products/miditranslator)
 	* ArtNet / DMX
 	* Syphon / CamTwist
 
@@ -379,6 +382,7 @@ Math:
 * [Leap Motion](https://www.leapmotion.com/) [1](http://kolidar.com/Blog/wp-content/uploads/2012/07/Minority-report_2.jpg)
 * [Myo](https://www.thalmic.com/myo/)
 * [Gest](https://gest.co/)
+* [SpaceMouse](https://www.3dconnexion.com/spacemouse_wireless_kit/en/)
 * [Palette Kit](https://palettegear.com/)
 * Touchscreen
 	* [Ubi Sensor](http://www.ubi-interactive.com/)
