@@ -22,7 +22,7 @@ In addition to this list, check out there great alternates:
 
 ## Creative Coding History
 
-* Computer graphics/art roots
+* Computer graphics & generative art roots
 	* [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake)
 	* [Georg Nees](https://en.wikipedia.org/wiki/Georg_Nees) - [Computergrafik](http://dada.compart-bremen.de/item/exhibition/164)
 	* [John Whitney - Catalog (1961)](https://www.youtube.com/watch?v=TbV7loKp69s)
@@ -328,8 +328,13 @@ Math:
 * Hardware device communication:
 	* [MIDI](http://en.wikipedia.org/wiki/MIDI)
 		* [MIDI Translator (OS X)](https://www.bome.com/products/miditranslator)
-	* ArtNet / DMX
-	* Syphon / CamTwist
+	* Lighting
+		* ArtNet
+		* DMX
+	* Video streaming
+		* [Spout](http://spout.zeal.co/)
+		* [Syphon](http://www.syphon.v002.info/)
+		* [CamTwist](http://camtwiststudio.com/)
 
 
 ## Multimedia Tools
@@ -349,8 +354,10 @@ Math:
 
 #### Sound
 
-* Processing: [Beads](http://www.beadsproject.net/) / [Minim](http://code.compartmental.net/tools/minim/)
-* ofx?
+* Processing:
+	* [Beads](http://www.beadsproject.net/)
+	* [Minim](http://code.compartmental.net/tools/minim/)
+* [openFrameworks](https://openframeworks.cc/ofBook/chapters/sound.html)
 * [WebAudio](http://cacheflowe.github.io/audio-hax/)
 * [JUCE](https://juce.com/)
 * [ChucK](http://chuck.cs.princeton.edu/)
@@ -373,8 +380,8 @@ Math:
 
 ##### Motion Capture
 
-* https://www.neuronmocap.com/
-* https://blacktrax.cast-soft.com/howitworks/
+* [https://www.neuronmocap.com/](Perception Neuron)
+* [https://blacktrax.cast-soft.com/howitworks/](BlackTrax)
 
 ##### Modern input devices
 
@@ -443,10 +450,13 @@ Math:
 	* [WondaVR](http://www.wondavr.com/)
 * Augmented/Mixed Reality
 	* [Hololens](https://www.microsoft.com/microsoft-hololens/en-us) [1](https://www.youtube.com/watch?v=29xnzxgCx6I)
-	* ARKit
-	* Vuforia
+	* [ARKit](https://developer.apple.com/arkit/) (iOS)
+	* [ARCore](https://developers.google.com/ar/) (Android)
+	* [Vuforia](https://www.vuforia.com/)
 	* [Mira](https://www.mirareality.com/)
-	* Magic Leap
+	* [Magic Leap](https://www.magicleap.com/)
+	* [WebXR](https://immersive-web.github.io/webxr/)
+	* [AR.js](https://github.com/jeromeetienne/ar.js)
 
 ## Unique Displays and Touchscreens
 
