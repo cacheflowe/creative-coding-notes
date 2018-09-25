@@ -26,6 +26,7 @@ In addition to this list, check out there great alternates:
 	* [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake)
 	* [Georg Nees](https://en.wikipedia.org/wiki/Georg_Nees) - [Computergrafik](http://dada.compart-bremen.de/item/exhibition/164)
 	* [John Whitney - Catalog (1961)](https://www.youtube.com/watch?v=TbV7loKp69s)
+		* Pioneer computer animator John Whitney Sr. in 1959, operating one of the first computer-graphics engines, a mechanical analog computer built largely from surplus World War II anti-aircraft guidance hardware. [Source](https://www.awn.com/mag/issue2.5/2.5pages/2.5moritzwhitney.html)
 	* ["How Computer-Generated Animations Were Made, Circa 1964"](https://www.youtube.com/watch?v=_Lmi6cmrq0w)
 	* [John Whitney - Lapis (1966)](https://www.youtube.com/watch?v=kzniaKxMr2g)
 	* ["The Incredible Machine" (1968)](https://www.youtube.com/watch?v=crbfSY6vf7s)
@@ -137,7 +138,7 @@ In addition to this list, check out there great alternates:
 	* [Easing & interpolation](http://easings.net/)
 	* Physics simulations
 	* Noise
-		* [Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise) for smooth randomness, terrain, textures
+		* [Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise) for smooth randomness, terrain, textures. More info [here](https://eev.ee/blog/2016/05/29/perlin-noise/)
 		* [Curl noise](http://petewerner.blogspot.com/2015/02/intro-to-curl-noise.html)
 		* [Fractal Brownian Motion](https://thebookofshaders.com/13/)
 	* [Reaction](http://www.karlsims.com/rd.html)-[diffusion](https://www.shadertoy.com/view/lld3z8)
@@ -180,6 +181,7 @@ In addition to this list, check out there great alternates:
 
 #### Articles
 
+* ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
 * ["Join the Creative Class"](http://www.forbes.com/sites/elainepofeldt/2012/12/28/want-to-recession-proof-yourself-join-the-creative-class/)
 * ["The Brief History of Volumetric Filmmaking"](https://medium.com/volumetric-filmmaking/the-brief-history-of-volumetric-filmmaking-32b3569c6831)
 
@@ -238,7 +240,7 @@ Math:
 ## Creative Coding Tools
 
 * Web-based:
-	* Libraries:
+	* Graphics libraries:
 		* [THREE.js](http://threejs.org/)
 		* [PIXI.js](http://www.pixijs.com/)
 		* [p5js](http://p5js.org/)
@@ -253,6 +255,11 @@ Math:
 		* gif.js
 		* rasterizeHTML.js??
 		* CanvasFilters / Canvas UV mapping
+		* Face trackers:
+			* https://github.com/jeeliz/jeelizWeboji
+			* https://github.com/justadudewhohacks/face-api.js
+		* Body trackers:
+			* https://github.com/tensorflow/tfjs-models/tree/master/posenet
 		* http://twgljs.org/
 		* https://github.com/mapbox/delaunator
 		* https://tastenkunst.github.io/brfv4_javascript_examples/
@@ -285,6 +292,7 @@ Math:
 	* [LWJGL Basics](https://github.com/mattdesl/lwjgl-basics/wiki) by @mattdesl
 * Java-based:
 	* [Processing](http://processing.org) [1](http://vimeo.com/15379147)
+	* [OPENRNDR](https://openrndr.org/)
 * c++:
 	* [Cinder](http://libcinder.org/)
 	* [openFrameworks](http://www.openframeworks.cc/)
@@ -297,13 +305,18 @@ Math:
 	* [Pure Data](https://puredata.info/)
 	* [Touch Designer](http://www.derivative.ca/)
 	* [Notch](https://www.notch.one)
+	* [Troikatronix Isadora](https://troikatronix.com/)
 	* [Praxis](http://www.praxislive.org/)
 	* [Nodewerk](http://nodewerk.com/)
 * Computer Vision / Image recognition:
 	* [OpenCV](https://opencv.org/)
 	* [YOLO](https://pjreddie.com/darknet/yolo/)
+	* [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
 	* [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 	* [DensePose](http://densepose.org/)
+	* [PoseTrack](https://github.com/iqbalu/PoseTrack-CVPR2017)
+	* [OpenTrack](https://github.com/opentrack/opentrack)
+	* [ml5js](https://ml5js.org/)
 
 ## Communication Protocols
 
@@ -339,6 +352,7 @@ Math:
 * Processing: [Beads](http://www.beadsproject.net/) / [Minim](http://code.compartmental.net/tools/minim/)
 * ofx?
 * [WebAudio](http://cacheflowe.github.io/audio-hax/)
+* [JUCE](https://juce.com/)
 * [ChucK](http://chuck.cs.princeton.edu/)
 * [Supercollider](http://supercollider.github.io/)
 * [Extempore](http://supercollider.github.io/)
@@ -357,6 +371,11 @@ Math:
 * gifsicle
 * [HAP video format (GPU-accelerated video)](http://vdmx.vidvox.net/tutorials/using-the-hap-video-codec)
 
+##### Motion Capture
+
+* https://www.neuronmocap.com/
+* https://blacktrax.cast-soft.com/howitworks/
+
 ##### Modern input devices
 
 * Apple trackpad/touchscreen touch/gestures
@@ -374,6 +393,8 @@ Math:
 	* https://www.vivotek.com/
 	* https://www.theimagingsource.com/products/industrial-cameras/usb-3.1-monochrome/
 	* http://www.z-cam.com/
+* CV cameras
+	* [PixyCam](https://pixycam.com/)
 * Accelerometer (iOS, Wii, Playstation)
 	* [Playstation Move](http://us.playstation.com/ps3/accessories/playstation-move-motion-controller-ps3.html)
 	* [Nintendo Wiimote](https://en.wikipedia.org/wiki/Wii_Remote)
@@ -383,7 +404,17 @@ Math:
 * [Myo](https://www.thalmic.com/myo/)
 * [Gest](https://gest.co/)
 * [SpaceMouse](https://www.3dconnexion.com/spacemouse_wireless_kit/en/)
-* [Palette Kit](https://palettegear.com/)
+* Buttons / Encoders
+	* [Palette Kit](https://palettegear.com/)
+	* [SuzoHapp](https://na.suzohapp.com/products/pushbuttons/)
+	* [eao](https://eao.com/north-america/en_us/)
+	* [MPJA](http://www.mpja.com/Switches-Electronic/departments/117/)
+	* [Sensel Morph](https://sensel.com/pages/morph)
+	* [ROLI Lightpad](https://roli.com/products/blocks/lightpad-m)
+	* [Phidgets](https://www.phidgets.com/?tier=1&catid=4&pcid=2)
+	* [Tornado Spinner](https://tornadospinner.com/)
+	* [Spintrak](http://www.ultimarc.com/SpinTrak.htm)
+	* [I-PAC](http://www.ultimarc.com/ipac.html)
 * Touchscreen
 	* [Ubi Sensor](http://www.ubi-interactive.com/)
 	* [Displax](http://www.displax.com/)
@@ -395,16 +426,14 @@ Math:
 * Depth cameras
 	* [Stimulant's depth sensor shootout](https://stimulant.com/depth-sensor-shootout-2/)
 	* [Kinect](https://www.microsoft.com/en-us/kinectforwindows/)
-		* What is the Kinect?
-		* Why is it important? (bringing to the masses, accessible, MS developer embrace)
 		* Machine learning for MS system [white paper](http://msdn.microsoft.com/en-us/library/jj131429.aspx)
-		* Open source efforts
 	* [Xtion](https://www.asus.com/Commercial_3D_Sensor/Xtion_PRO/)
 	* [Zed](https://www.stereolabs.com/)
 	* [Structure Sensor for iPad](http://structure.io/)
 	* [Orbbec](http://www.orbbec3d.com/)
 	* [Intel Realsense](https://software.intel.com/en-us/realsense/home)
 	* [Intel Euclid](https://click.intel.com/intelr-euclidtm-development-kit.html)
+	* [Xovis](https://www.xovis.com/en/xovis/)
 * Virtual Reality
 	* [Oculus Rift](https://www.oculus.com/en-us/creators/)
 	* [HTC Vive](https://www.htcvive.com/us/)
@@ -428,7 +457,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Transparent displays](http://store.apollodisplays.com/store/products/transparent-displays)
 * [Odd screen sizes](https://earthlcd.com/products/lcd-kits/xlk-10x1-usb-b/)
 
-#### Big Displays
+### Big Displays
 
 * [Watchout](http://www.dataton.com/watchout)
 * [Matrox TripleHead2Go](http://www.matrox.com/graphics/en/products/gxm/th2go/displayport/)
@@ -451,10 +480,19 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Inspiron Micro](http://www.dell.com/en-us/shop/productdetails/inspiron-3050-micro-desktop) (no longer offered)
 * [System](https://system76.com/)
 
+#### Video capture
+
+* [El Gato Camlink](https://www.elgato.com/en/gaming/cam-link)
+* [Epiphan AV.io](https://www.epiphan.com/products/avio-hd/)
+
 #### Media players
 
+* [Micca Speck](https://www.miccatron.com/micca-speck/)
 * [Satechi Cyclone](http://www.satechi.net/index.php/satechi-cyclone-micro-2-1080p-portable-media-mkv-avi-mov-player-adapter-with-sd-sdhc-memory-usb-slot-and-remote-control)
 
+#### USB Over Wifi
+
+* [Silex E1305](https://www.amazon.co.uk/Silex-E1305-DS-510-Device-Server/dp/B00WS8QCP4/ref=pd_lpo_sbs_147_img_0?_encoding=UTF8&psc=1&refRID=FQRQB3YN278FZ6EMTKE2)
 
 ## Other output options
 
@@ -465,9 +503,12 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 	* [FadeCandy](http://www.misc.name/fadecandy/)
 	* [PixelPusher](http://www.heroicrobotics.com/products/pixelpusher)
 	* http://ledneonflex.com/
+* Lasers
+	* [Future Weapons Lighting](http://futureweaponslighting.com/)
 * Augmented & Mixed Reality
 * Embedded systems
 	* [Arduino](http://www.youtube.com/watch?v=CqrQmQqpHXc#!) & Raspberry PI
+	* [Android Things](https://androidthings.withgoogle.com/#!/)
 * Laser Cutters
 * 3d Printers
 * CNC routers
