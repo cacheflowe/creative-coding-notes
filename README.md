@@ -266,6 +266,12 @@ Math:
 	* AR:
 		* https://developers.google.com/ar/develop/web/getting-started
 		* https://experiments.withgoogle.com/ar
+		* https://github.com/mozilla/aframe-xr
+		* https://github.com/mozilla/three.xr.js/
+		* https://github.com/jeromeetienne/AR.js
+		* https://www.wiarframe.com/
+		* https://www.sparkar.com/ar-studio/
+		* https://github.com/immersive-web/webxr
 	* VR:
 		* https://aframe.io
 * GLSL
@@ -308,6 +314,7 @@ Math:
 	* [Troikatronix Isadora](https://troikatronix.com/)
 	* [Praxis](http://www.praxislive.org/)
 	* [Nodewerk](http://nodewerk.com/)
+	* [Disguise](https://www.disguise.one/en/)
 * Computer Vision / Image recognition:
 	* [OpenCV](https://opencv.org/)
 	* [YOLO](https://pjreddie.com/darknet/yolo/)
@@ -360,6 +367,7 @@ Math:
 * [openFrameworks](https://openframeworks.cc/ofBook/chapters/sound.html)
 * [WebAudio](http://cacheflowe.github.io/audio-hax/)
 * [JUCE](https://juce.com/)
+* [Faust](http://faust.grame.fr/)
 * [ChucK](http://chuck.cs.princeton.edu/)
 * [Supercollider](http://supercollider.github.io/)
 * [Extempore](http://supercollider.github.io/)
@@ -411,6 +419,9 @@ Math:
 * [Myo](https://www.thalmic.com/myo/)
 * [Gest](https://gest.co/)
 * [SpaceMouse](https://www.3dconnexion.com/spacemouse_wireless_kit/en/)
+* Brainwaves / EEG
+	* [Muse 2](https://choosemuse.com/muse-2/)
+	* [NeuroSky MindWave](https://store.neurosky.com/pages/mindwave)
 * Buttons / Encoders
 	* [Palette Kit](https://palettegear.com/)
 	* [SuzoHapp](https://na.suzohapp.com/products/pushbuttons/)
@@ -494,6 +505,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 
 * [El Gato Camlink](https://www.elgato.com/en/gaming/cam-link)
 * [Epiphan AV.io](https://www.epiphan.com/products/avio-hd/)
+* [Inogeni](https://inogeni.com/product/4k-to-usb-3)
 
 #### Media players
 
