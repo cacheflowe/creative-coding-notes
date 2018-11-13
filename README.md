@@ -452,6 +452,8 @@ Math:
 	* [Intel Realsense](https://software.intel.com/en-us/realsense/home)
 	* [Intel Euclid](https://click.intel.com/intelr-euclidtm-development-kit.html)
 	* [Xovis](https://www.xovis.com/en/xovis/)
+* Lidar
+	* [Ouster OS-1](https://www.ouster.io/product-os1/)
 * Virtual Reality
 	* [Oculus Rift](https://www.oculus.com/en-us/creators/)
 	* [HTC Vive](https://www.htcvive.com/us/)
