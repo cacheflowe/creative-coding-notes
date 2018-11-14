@@ -434,6 +434,7 @@ Math:
 	* [Spintrak](http://www.ultimarc.com/SpinTrak.htm)
 	* [I-PAC](http://www.ultimarc.com/ipac.html)
 * Touchscreen
+	* [TUIO (protocol)](https://www.tuio.org/)
 	* [Ubi Sensor](http://www.ubi-interactive.com/)
 	* [Displax](http://www.displax.com/)
 	* [Monster Devices](http://monsterdev.pl/) (dead)
@@ -441,6 +442,8 @@ Math:
 	* [ProDisplay](http://prodisplay.com/)
 	* [Elo](https://www.elotouch.com/all-products)
 	* [Ideum](http://ideum.com/touch-walls/)
+	* [PQ Labs](https://www.pqlabs.com/)
+	* [Horizon Display](http://www.horizondisplay.com/)
 * Depth cameras
 	* [Stimulant's depth sensor shootout](https://stimulant.com/depth-sensor-shootout-2/)
 	* [Kinect](https://www.microsoft.com/en-us/kinectforwindows/)
