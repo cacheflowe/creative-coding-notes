@@ -335,9 +335,11 @@ Math:
 * Hardware device communication:
 	* [MIDI](http://en.wikipedia.org/wiki/MIDI)
 		* [MIDI Translator (OS X)](https://www.bome.com/products/miditranslator)
+		* [iConnectMIDI2+](https://www.iconnectivity.com/products/midi/iconnectmidi2plus)
 	* Lighting
 		* ArtNet
 		* DMX
+			* [Doug Fleenor Design products](http://www.dfd.com/index.html)
 	* Video streaming
 		* [Spout](http://spout.zeal.co/)
 		* [Syphon](http://www.syphon.v002.info/)
@@ -455,6 +457,7 @@ Math:
 	* [Intel Realsense](https://software.intel.com/en-us/realsense/home)
 	* [Intel Euclid](https://click.intel.com/intelr-euclidtm-development-kit.html)
 	* [Xovis](https://www.xovis.com/en/xovis/)
+	* [eys3D](https://www.sparkfun.com/products/14725)
 * Lidar
 	* [Ouster OS-1](https://www.ouster.io/product-os1/)
 * Virtual Reality
@@ -532,6 +535,8 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 	* http://ledneonflex.com/
 * Lasers
 	* [Future Weapons Lighting](http://futureweaponslighting.com/)
+* Spatial audio
+	* [Envelop](http://www.envelop.us/)
 * Augmented & Mixed Reality
 * Embedded systems
 	* [Arduino](http://www.youtube.com/watch?v=CqrQmQqpHXc#!) & Raspberry PI
