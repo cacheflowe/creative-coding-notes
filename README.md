@@ -280,6 +280,7 @@ Math:
 		* [Raymarching Demo](https://www.shadertoy.com/view/4dSfRc)
 		* [Raymarching Intro](http://barradeau.com/blog/?p=575)
 		* [Raymarching: more](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
+		* [Raymarching: more](http://www.michaelwalczyk.com/blog/2017/5/25/ray-marching)
 	* [Vertex Shader Art](http://vertexshaderart.com/)
 	* [Book of Shaders](http://thebookofshaders.com/) (+ [Editor](http://editor.thebookofshaders.com/))
 	* [stackgl Shader School](https://github.com/stackgl/shader-school)
@@ -491,6 +492,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Watchout](http://www.dataton.com/watchout)
 * [Matrox TripleHead2Go](http://www.matrox.com/graphics/en/products/gxm/th2go/displayport/)
 * [Ambery HDMI multi-screen layout](http://www.ambery.com/2x2hdvgaviwa.html)
+* [Datapath](https://www.datapath.co.uk/datapath-products/multi-display-products/datapath-fx4)
 
 #### Art Frames
 
