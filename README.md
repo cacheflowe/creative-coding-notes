@@ -303,6 +303,8 @@ Math:
 * c++:
 	* [Cinder](http://libcinder.org/)
 	* [openFrameworks](http://www.openframeworks.cc/)
+* Swift:
+	* [C4](http://www.c4ios.com/)
 * Cross-platform:
 	* [Unity](http://unity3d.com/)
 	* [Unreal Engine](https://www.unrealengine.com)
@@ -392,6 +394,7 @@ Math:
 ##### Motion Capture
 
 * [https://www.neuronmocap.com/](Perception Neuron)
+* [https://getrad.co/](RADiCAL)
 * [https://blacktrax.cast-soft.com/howitworks/](BlackTrax)
 
 ##### Modern input devices
@@ -413,6 +416,8 @@ Math:
 	* http://www.z-cam.com/
 * CV cameras
 	* [PixyCam](https://pixycam.com/)
+* High-frame-rate cameras
+	* [Edgertronic](https://edgertronic.com/home)
 * Accelerometer (iOS, Wii, Playstation)
 	* [Playstation Move](http://us.playstation.com/ps3/accessories/playstation-move-motion-controller-ps3.html)
 	* [Nintendo Wiimote](https://en.wikipedia.org/wiki/Wii_Remote)
