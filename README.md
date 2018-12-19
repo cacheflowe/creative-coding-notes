@@ -263,6 +263,8 @@ Math:
 		* http://twgljs.org/
 		* https://github.com/mapbox/delaunator
 		* https://tastenkunst.github.io/brfv4_javascript_examples/
+		* https://opentype.js.org/
+		*
 	* AR:
 		* https://developers.google.com/ar/develop/web/getting-started
 		* https://experiments.withgoogle.com/ar
@@ -300,11 +302,14 @@ Math:
 * Java-based:
 	* [Processing](http://processing.org) [1](http://vimeo.com/15379147)
 	* [OPENRNDR](https://openrndr.org/)
+	* [LX Studio](http://lx.studio/)
 * c++:
 	* [Cinder](http://libcinder.org/)
 	* [openFrameworks](http://www.openframeworks.cc/)
 * Swift:
 	* [C4](http://www.c4ios.com/)
+* Rust:
+	* [nannou](http://nannou.cc/)
 * Cross-platform:
 	* [Unity](http://unity3d.com/)
 	* [Unreal Engine](https://www.unrealengine.com)
@@ -335,6 +340,7 @@ Math:
 	* [WebSocket](http://en.wikipedia.org/wiki/WebSocket)
 	* [OSC](http://en.wikipedia.org/wiki/Open_Sound_Control)
 		* [osculator](https://osculator.net/)
+	* [ZeroMQ](http://zeromq.org)
 * Hardware device communication:
 	* [MIDI](http://en.wikipedia.org/wiki/MIDI)
 		* [MIDI Translator (OS X)](https://www.bome.com/products/miditranslator)
@@ -497,7 +503,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Watchout](http://www.dataton.com/watchout)
 * [Matrox TripleHead2Go](http://www.matrox.com/graphics/en/products/gxm/th2go/displayport/)
 * [Ambery HDMI multi-screen layout](http://www.ambery.com/2x2hdvgaviwa.html)
-* [Datapath](https://www.datapath.co.uk/datapath-products/multi-display-products/datapath-fx4)
+* [Datapath FX4](https://www.datapath.co.uk/datapath-products/multi-display-products/datapath-fx4)
 
 #### Art Frames
 
@@ -548,6 +554,8 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * Embedded systems
 	* [Arduino](http://www.youtube.com/watch?v=CqrQmQqpHXc#!) & Raspberry PI
 	* [Android Things](https://androidthings.withgoogle.com/#!/)
+	* [Axoloti](http://www.axoloti.com/)
+	* [Yoctopuce](http://www.yoctopuce.com/)
 * Laser Cutters
 * 3d Printers
 * CNC routers
