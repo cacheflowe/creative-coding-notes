@@ -283,6 +283,7 @@ Math:
 		* [Raymarching Intro](http://barradeau.com/blog/?p=575)
 		* [Raymarching: more](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
 		* [Raymarching: more](http://www.michaelwalczyk.com/blog/2017/5/25/ray-marching)
+		* [28 GLSL tutorials](https://www.shadertoy.com/view/Md23DV)
 	* [Vertex Shader Art](http://vertexshaderart.com/)
 	* [Book of Shaders](http://thebookofshaders.com/) (+ [Editor](http://editor.thebookofshaders.com/))
 	* [stackgl Shader School](https://github.com/stackgl/shader-school)
@@ -387,6 +388,7 @@ Math:
 * [Alda](http://daveyarwood.github.io/alda/2015/09/05/alda-a-manifesto-and-gentle-introduction/)
 * [EarSketch](http://earsketch.gatech.edu/landing/)
 * [TidalCycles](https://tidalcycles.org/)
+* [Aubio](https://aubio.org/)
 
 
 #### Video + Image
@@ -420,6 +422,7 @@ Math:
 	* https://www.vivotek.com/
 	* https://www.theimagingsource.com/products/industrial-cameras/usb-3.1-monochrome/
 	* http://www.z-cam.com/
+	* http://www.marshall-usa.com/cameras/
 * CV cameras
 	* [PixyCam](https://pixycam.com/)
 * High-frame-rate cameras
@@ -437,6 +440,7 @@ Math:
 	* [Muse 2](https://choosemuse.com/muse-2/)
 	* [NeuroSky MindWave](https://store.neurosky.com/pages/mindwave)
 * Buttons / Encoders
+	* [XKeys](http://xkeys.com)
 	* [Palette Kit](https://palettegear.com/)
 	* [SuzoHapp](https://na.suzohapp.com/products/pushbuttons/)
 	* [eao](https://eao.com/north-america/en_us/)
@@ -546,8 +550,11 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 	* [FadeCandy](http://www.misc.name/fadecandy/)
 	* [PixelPusher](http://www.heroicrobotics.com/products/pixelpusher)
 	* http://ledneonflex.com/
+	* [BlinkStick](https://www.blinkstick.com/)
 * Lasers
 	* [Future Weapons Lighting](http://futureweaponslighting.com/)
+	* [LaserAnimation Sollinger](https://laseranimation.com/en/products)
+	* [Memo's laser info](https://github.com/memo/ofxIlda/wiki)
 * Spatial audio
 	* [Envelop](http://www.envelop.us/)
 * Augmented & Mixed Reality
