@@ -15,7 +15,7 @@
 * [More resources](#more-resources)
 
 
-In addition to this list, check out there great alternates:
+In addition to this list, check out these great alternates:
 * [https://github.com/terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 * [https://github.com/kosmos/awesome-generative-art](https://github.com/kosmos/awesome-generative-art)
 
@@ -283,6 +283,7 @@ Math:
 		* [Raymarching Intro](http://barradeau.com/blog/?p=575)
 		* [Raymarching: more](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
 		* [Raymarching: more](http://www.michaelwalczyk.com/blog/2017/5/25/ray-marching)
+		* [Raymarching Workshop](https://github.com/ajweeks/RaymarchingWorkshop)
 		* [28 GLSL tutorials](https://www.shadertoy.com/view/Md23DV)
 	* [Vertex Shader Art](http://vertexshaderart.com/)
 	* [Book of Shaders](http://thebookofshaders.com/) (+ [Editor](http://editor.thebookofshaders.com/))
@@ -410,6 +411,7 @@ Math:
 * Apple trackpad/touchscreen touch/gestures
 * Mouse / tablet
 * Webcam / Cameras
+	* See @laserpilot's [Guide to Cameras for Interactive Installations](https://github.com/laserpilot/Guide_To_Cameras_Interactive_Installations)
 	* https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S/
 	* https://www.logitech.com/en-us/product/4k-pro-webcam?crid=34
 	* https://www.amazon.com/dp/B01N8QBO2G/ref=asc_df_B01N8QBO2G5276731/
@@ -462,6 +464,10 @@ Math:
 	* [Ideum](http://ideum.com/touch-walls/)
 	* [PQ Labs](https://www.pqlabs.com/)
 	* [Horizon Display](http://www.horizondisplay.com/)
+	* [Eyefactive](https://www.eyefactive.com/en/multitouch-wall-bar-counter-omega)
+	* [Samsung](https://www.samsung.com/us/business/products/displays/direct-view-led/explore/)
+	* [Dynascan](https://www.dynascandisplay.com/)
+	* [Baanto](https://baanto.com/)
 * Depth cameras
 	* [Stimulant's depth sensor shootout](https://stimulant.com/depth-sensor-shootout-2/)
 	* [Kinect](https://www.microsoft.com/en-us/kinectforwindows/)
@@ -495,7 +501,7 @@ Math:
 
 ## Unique Displays and Touchscreens
 
-First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/) by [@laserpilot](https://twitter.com/laserpilot)
+First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/) and [Guide to Projectors for Interactive Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations/blob/master/Guide%20to%20Projectors%20for%20Interactive%20Installations.md) by [@laserpilot](https://twitter.com/laserpilot)
 
 * [Volumetric displays](https://www.lookingglassfactory.com/)
 * [Transparent displays](http://prodisplay.com/products/transparent-lcd-screen/)
@@ -554,6 +560,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * Lasers
 	* [Future Weapons Lighting](http://futureweaponslighting.com/)
 	* [LaserAnimation Sollinger](https://laseranimation.com/en/products)
+	* [Lightspace USA](http://www.lightspaceusa.com)
 	* [Memo's laser info](https://github.com/memo/ofxIlda/wiki)
 * Spatial audio
 	* [Envelop](http://www.envelop.us/)
