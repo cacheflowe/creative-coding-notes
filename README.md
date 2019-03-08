@@ -260,6 +260,7 @@ Math:
 			* https://github.com/justadudewhohacks/face-api.js
 		* Body trackers:
 			* https://github.com/tensorflow/tfjs-models/tree/master/posenet
+			* https://github.com/victordibia/handtrack.js
 		* http://twgljs.org/
 		* https://github.com/mapbox/delaunator
 		* https://tastenkunst.github.io/brfv4_javascript_examples/
@@ -371,6 +372,10 @@ Math:
 * [http://www.meshrepair.org/](http://www.meshrepair.org/)
 * [Modo](https://www.thefoundry.co.uk/products/modo/)
 
+##### 3d Scanning
+
+* [https://itseez3d.com/blog/itseez3d-scanner-2-0-for-windows/](itSeez3d)
+* [https://skanect.occipital.com/](Scanect)
 
 #### Sound
 
@@ -472,6 +477,7 @@ Math:
 	* [Stimulant's depth sensor shootout](https://stimulant.com/depth-sensor-shootout-2/)
 	* [Kinect](https://www.microsoft.com/en-us/kinectforwindows/)
 		* Machine learning for MS system [white paper](http://msdn.microsoft.com/en-us/library/jj131429.aspx)
+		* [OpenPTrack](http://openptrack.org/)
 	* [Xtion](https://www.asus.com/Commercial_3D_Sensor/Xtion_PRO/)
 	* [Zed](https://www.stereolabs.com/)
 	* [Structure Sensor for iPad](http://structure.io/)
@@ -480,6 +486,8 @@ Math:
 	* [Intel Euclid](https://click.intel.com/intelr-euclidtm-development-kit.html)
 	* [Xovis](https://www.xovis.com/en/xovis/)
 	* [eys3D](https://www.sparkfun.com/products/14725)
+	* [Mynt Eye](https://mynteyeai.com/)
+	* [Nuitrack](https://nuitrack.com/) (skeletal deletion middleware)
 * Lidar
 	* [Ouster OS-1](https://www.ouster.io/product-os1/)
 * Virtual Reality
@@ -535,6 +543,8 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 #### Video capture
 
 * [El Gato Camlink](https://www.elgato.com/en/gaming/cam-link)
+* [Mokose](https://www.amazon.com/MOKOSE-USB3-0-Capture-Windows-Grabber/dp/B071KPW3PH/)
+* [MiraBox Capture Card](https://www.amazon.com/dp/B07C6KCBYB/)
 * [Epiphan AV.io](https://www.epiphan.com/products/avio-hd/)
 * [Inogeni](https://inogeni.com/product/4k-to-usb-3)
 
