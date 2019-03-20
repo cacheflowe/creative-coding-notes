@@ -181,6 +181,7 @@ In addition to this list, check out these great alternates:
 
 #### Articles
 
+* ["Advice for Creative Technologists"](https://medium.com/@laserpilot/advice-for-creative-technologists-21f3f220b2)
 * ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
 * ["Join the Creative Class"](http://www.forbes.com/sites/elainepofeldt/2012/12/28/want-to-recession-proof-yourself-join-the-creative-class/)
 * ["The Brief History of Volumetric Filmmaking"](https://medium.com/volumetric-filmmaking/the-brief-history-of-volumetric-filmmaking-32b3569c6831)
@@ -395,7 +396,7 @@ Math:
 * [EarSketch](http://earsketch.gatech.edu/landing/)
 * [TidalCycles](https://tidalcycles.org/)
 * [Aubio](https://aubio.org/)
-
+* [Magenta](https://magenta.tensorflow.org/studio)
 
 #### Video + Image
 
