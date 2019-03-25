@@ -540,6 +540,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Orange Pi](http://www.orangepi.org/)
 * [Inspiron Micro](http://www.dell.com/en-us/shop/productdetails/inspiron-3050-micro-desktop) (no longer offered)
 * [System](https://system76.com/)
+* [NVIDIA Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/)
 
 #### Video capture
 
