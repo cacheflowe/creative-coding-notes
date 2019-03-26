@@ -136,7 +136,8 @@ In addition to this list, check out these great alternates:
 
 * Commons tools & concepts
 	* [Easing & interpolation](http://easings.net/)
-	* Physics simulations
+	* [Physics simulations](https://en.wikipedia.org/wiki/Verlet_integration)
+	* [Fluid](http://madebyevan.com/webgl-water/) [dynamics](https://www.shadertoy.com/view/XdcXDN) & solvers
 	* Noise
 		* [Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise) for smooth randomness, terrain, textures. More info [here](https://eev.ee/blog/2016/05/29/perlin-noise/)
 		* [Curl noise](http://petewerner.blogspot.com/2015/02/intro-to-curl-noise.html)
@@ -148,15 +149,15 @@ In addition to this list, check out these great alternates:
 		* [List_of_fractals_by_Hausdorff_dimension](http://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
 	* [Packing](http://en.wikipedia.org/wiki/Packing_problem) / [Space-filling algorithms](http://www.complexification.net/gallery/machines/boxFitting/boxFittingPRN.jpg)
 	* [Boids](https://processing.org/examples/flocking.html) / [flocking](https://vimeo.com/55213364) & particle systems
-	* [Fluid](http://madebyevan.com/webgl-water/) [dynamics](https://www.shadertoy.com/view/XdcXDN) & solvers
 	* Conway's classic Game of Life / [cellular autonoma](http://natureofcode.com/book/chapter-7-cellular-automata)
 	* Emergence
 	* [Genetic](http://www.youtube.com/watch?v=JBgG_VSP7f8) & evolutionary algorithms
 	* [Anti-aliasing algorithms](https://blog.codinghorror.com/fast-approximate-anti-aliasing-fxaa/)
+	* [Motion Blur](https://twitter.com/freyaholmer/status/1108900107838205953)
 	* [Feedback](https://www.youtube.com/watch?v=B4Kn3djJMCE&feature=youtu.be)
-	* Concave & convex hulls
-	* Blob & edge detection
-	* Computer vision (CV) (AR)
+	* [Concave](https://www.codeproject.com/Articles/1201438/The-Concave-Hull-of-a-Set-of-Points) & [convex hulls](https://en.wikipedia.org/wiki/Convex_hull)
+	* [Blob](https://en.wikipedia.org/wiki/Blob_detection) & [edge detection](https://en.wikipedia.org/wiki/Edge_detection)
+	* [Computer vision](https://en.wikipedia.org/wiki/Computer_vision) (CV) (AR)
 	* Machine learning & AI
 		* [Style Transfer](https://tenso.rs/demos/fast-neural-style/)
 		* [Deeplearn.js](https://pair-code.github.io/deeplearnjs/docs/tutorials/index.html)
@@ -165,15 +166,15 @@ In addition to this list, check out these great alternates:
 * 3D / spatial concepts
 	* [Meshes](http://www.cmap.polytechnique.fr/~peyre/images/test_remeshing.jpg)
 	* [Raymarching](https://www.shadertoy.com/view/4dSfRc)
-	* Marching cubes
-	* Ray tracing
+	* [Marching cubes](https://en.wikipedia.org/wiki/Marching_cubes)
+	* [Ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics))
 	* [Voxels](http://rjzarah.blog.com/files/2011/10/voxel_pixelart.gif)
 	* Spherical mathematics, Quaternions and Euler rotation [1](http://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
 	* [Bump/Normal/Displacement maps](http://blog.digitaltutors.com/bump-normal-and-displacement-maps/)
-	* NURBS
-	* Polygon meshes
-	* Ambient occlusion & 3d lighting
-	* Superformula
+	* [NURBS](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline)
+	* [Polygon meshes](https://en.wikipedia.org/wiki/Polygon_mesh)
+	* [Ambient occlusion](https://en.wikipedia.org/wiki/Ambient_occlusion) & 3d lighting
+	* [Superformula](https://en.wikipedia.org/wiki/Superformula)
 	* [Dilation](https://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm) / [Erosion](https://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm)
 	* Collision detection
 	* Optimization via [quadtrees](https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374) or [Octrees](http://www.i-programmer.info/programming/theory/1679-quadtrees-and-octrees.html)
