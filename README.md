@@ -64,6 +64,7 @@ In addition to this list, check out these great alternates:
 * [The Art of Creative Coding](http://www.youtube.com/watch?v=eBV14-3LT-g) (video)
 * Data visualization
 	* [Flight Patterns](http://www.youtube.com/watch?v=ystkKXzt9Wk) [2](http://www.ted.com/talks/aaron_koblin.html) [3](http://vimeo.com/46048177)
+	* [Wind Data](http://hint.fm/wind/)
 * Musical Instruments - [Imogen Heap's musical gloves](http://www.youtube.com/watch?v=6btFObRRD9k)
 * Math as music [Simple Harmonic Motion](http://www.memo.tv/simple-harmonic-motion/)
 * Modern demoscene: [Agenda Circling Forth](http://www.youtube.com/watch?v=GJruj0YkDsg)
@@ -136,6 +137,7 @@ In addition to this list, check out these great alternates:
 
 * Commons tools & concepts
 	* [Easing & interpolation](http://easings.net/)
+	* [Parallax](https://en.wikipedia.org/wiki/Parallax)
 	* [Physics simulations](https://en.wikipedia.org/wiki/Verlet_integration)
 	* [Fluid](http://madebyevan.com/webgl-water/) [dynamics](https://www.shadertoy.com/view/XdcXDN) & solvers
 	* Noise
@@ -164,13 +166,16 @@ In addition to this list, check out these great alternates:
 		* [Machine Learning for Artists](http://ml4a.github.io/)
 	* [Hardware acceleration](http://www.nvidia.com/object/what-is-gpu-computing.html)
 * 3D / spatial concepts
+	* [3d projection](https://jsantell.com/3d-projection)
 	* [Meshes](http://www.cmap.polytechnique.fr/~peyre/images/test_remeshing.jpg)
+	* [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry)
 	* [Raymarching](https://www.shadertoy.com/view/4dSfRc)
 	* [Marching cubes](https://en.wikipedia.org/wiki/Marching_cubes)
 	* [Ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics))
 	* [Voxels](http://rjzarah.blog.com/files/2011/10/voxel_pixelart.gif)
 	* Spherical mathematics, Quaternions and Euler rotation [1](http://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
 	* [Bump/Normal/Displacement maps](http://blog.digitaltutors.com/bump-normal-and-displacement-maps/)
+	* [Displacement](https://vimeo.com/125927621)
 	* [NURBS](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline)
 	* [Polygon meshes](https://en.wikipedia.org/wiki/Polygon_mesh)
 	* [Ambient occlusion](https://en.wikipedia.org/wiki/Ambient_occlusion) & 3d lighting
@@ -220,11 +225,12 @@ Math:
 
 * http://www.katjaas.nl/home/home.html
 
+#### Video Series
 
-#### Data as input
-* Image
-* [Video](https://vimeo.com/125927621)
-* [Science Data](http://hint.fm/wind/)
+* [Coding Math](https://www.youtube.com/user/codingmath)
+* [The Coding Train](https://www.youtube.com/user/shiffman)
+* [The Art of Code](https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg)
+* [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
 
 
 ## Physical computing
@@ -248,10 +254,10 @@ Math:
 		* [p5js](http://p5js.org/)
 		* [two.js](https://two.js.org/)
 		* [Regl: Functional WebGL](http://regl.party/)
+	* [Hydra](https://hydra-editor-v1.glitch.me)
 	* Tools:
 		* GLFX.js
 		* GifLoopCoder
-		* THREE.js + THREEFLOW
 		* ccapture.js
 		* whammy.js
 		* gif.js
@@ -336,6 +342,8 @@ Math:
 	* [DensePose](http://densepose.org/)
 	* [PoseTrack](https://github.com/iqbalu/PoseTrack-CVPR2017)
 	* [OpenTrack](https://github.com/opentrack/opentrack)
+* Machine learning
+  * [Runway](https://docs.runwayapp.ai)
 	* [ml5js](https://ml5js.org/)
 
 ## Communication Protocols
@@ -358,6 +366,7 @@ Math:
 		* [Spout](http://spout.zeal.co/)
 		* [Syphon](http://www.syphon.v002.info/)
 		* [CamTwist](http://camtwiststudio.com/)
+		* [RTP](https://en.wikipedia.org/wiki/Real-time_Transport_Protocol)
 
 
 ## Multimedia Tools
@@ -392,6 +401,7 @@ Math:
 * [Supercollider](http://supercollider.github.io/)
 * [Extempore](http://supercollider.github.io/)
 * [Sonic PI](http://sonic-pi.net/)
+* [ORCA](https://github.com/hundredrabbits/Orca)
 * [Overtone](http://overtone.github.io/)
 * [Alda](http://daveyarwood.github.io/alda/2015/09/05/alda-a-manifesto-and-gentle-introduction/)
 * [EarSketch](http://earsketch.gatech.edu/landing/)
@@ -445,12 +455,15 @@ Math:
 * [Myo](https://www.thalmic.com/myo/)
 * [Gest](https://gest.co/)
 * [SpaceMouse](https://www.3dconnexion.com/spacemouse_wireless_kit/en/)
+* E-textiles
+	* [Loomia](https://loomia.com/our-products)
 * Brainwaves / EEG
 	* [Muse 2](https://choosemuse.com/muse-2/)
 	* [NeuroSky MindWave](https://store.neurosky.com/pages/mindwave)
 * Buttons / Encoders
 	* [XKeys](http://xkeys.com)
 	* [Palette Kit](https://palettegear.com/)
+	* [Pimoroni](https://shop.pimoroni.com/)
 	* [SuzoHapp](https://na.suzohapp.com/products/pushbuttons/)
 	* [eao](https://eao.com/north-america/en_us/)
 	* [MPJA](http://www.mpja.com/Switches-Electronic/departments/117/)
@@ -517,6 +530,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Transparent displays](http://prodisplay.com/products/transparent-lcd-screen/)
 * [Transparent displays](http://store.apollodisplays.com/store/products/transparent-displays)
 * [Odd screen sizes](https://earthlcd.com/products/lcd-kits/xlk-10x1-usb-b/)
+* [Outdoor screens](https://lg-mri.com/)
 
 ### Big Displays
 
@@ -533,15 +547,20 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 
 #### Installation-friendly computers
 
-* [Zotac](https://www.zotac.com/us/)
-* [NUC](http://www.intel.com/content/www/us/en/nuc/overview.html)
-* [Alienware Alpha](http://www.alienware.com/landings/alpha/)
-* [LattePanda](http://www.lattepanda.com/)
-* [Raspberry Pi](https://www.raspberrypi.org/)
-* [Orange Pi](http://www.orangepi.org/)
-* [Inspiron Micro](http://www.dell.com/en-us/shop/productdetails/inspiron-3050-micro-desktop) (no longer offered)
-* [System](https://system76.com/)
-* [NVIDIA Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/)
+* Maker
+	* [System](https://system76.com/)
+	* [NVIDIA Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/)
+	* [LattePanda](http://www.lattepanda.com/)
+	* [Raspberry Pi](https://www.raspberrypi.org/)
+	* [Orange Pi](http://www.orangepi.org/)
+* Small
+	* [Zotac](https://www.zotac.com/us/)
+	* [NUC](http://www.intel.com/content/www/us/en/nuc/overview.html)
+	* [Alienware Alpha](http://www.alienware.com/landings/alpha/)
+	* [Inspiron Micro](http://www.dell.com/en-us/shop/productdetails/inspiron-3050-micro-desktop) (no longer offered)
+* Rugged
+	* [Neousys Industrial-grade](https://www.coastipc.com/cart/Category/Industrial-Computers)
+	* [Rugged PCs](https://www.logicsupply.com/computers/rugged/)
 
 #### Video capture
 
@@ -643,6 +662,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Marius Watz](http://mariuswatz.com/) :: [@mariuswatz](http://twitter.com/mariuswatz)
 * [Mr. Doob](http://mrdoob.com/) :: [@mrdoob](http://twitter.com/mrdoob)
 * [Robert Hodgin](http://roberthodgin.com/) :: [@flight404](http://twitter.com/flight404)
+* [Mario Klingemann](http://www.quasimondo.com/) :: [@quasimondo](https://twitter.com/quasimondo)
 * [Aaron Koblin](http://www.aaronkoblin.com/) :: [@aaronkoblin](http://twitter.com/aaronkoblin)
 * [Golan Levin](http://flong.com/) :: [@golan](http://twitter.com/golan)
 * [Cedric Kiefer](http://www.onformative.com/) :: [@CedricKiefer](http://twitter.com/CedricKiefer)
