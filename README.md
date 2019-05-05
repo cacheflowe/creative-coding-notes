@@ -141,7 +141,7 @@ In addition to this list, check out these great alternates:
 	* [Physics simulations](https://en.wikipedia.org/wiki/Verlet_integration)
 	* [Fluid](http://madebyevan.com/webgl-water/) [dynamics](https://www.shadertoy.com/view/XdcXDN) & solvers
 	* Noise
-		* [Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise) for smooth randomness, terrain, textures. More info [here](https://eev.ee/blog/2016/05/29/perlin-noise/)
+		* [Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise) for smooth randomness, terrain, textures. [More info](https://eev.ee/blog/2016/05/29/perlin-noise/)
 		* [Curl noise](http://petewerner.blogspot.com/2015/02/intro-to-curl-noise.html)
 		* [Fractal Brownian Motion](https://thebookofshaders.com/13/)
 	* [Reaction](http://www.karlsims.com/rd.html)-[diffusion](https://www.shadertoy.com/view/lld3z8)
@@ -156,7 +156,7 @@ In addition to this list, check out these great alternates:
 	* [Genetic](http://www.youtube.com/watch?v=JBgG_VSP7f8) & evolutionary algorithms
 	* [Anti-aliasing algorithms](https://blog.codinghorror.com/fast-approximate-anti-aliasing-fxaa/)
 	* [Motion Blur](https://twitter.com/freyaholmer/status/1108900107838205953)
-	* [Feedback](https://www.youtube.com/watch?v=B4Kn3djJMCE&feature=youtu.be)
+	* [Feedback](https://www.shadertoy.com/view/Xd2fWR) [2](https://www.youtube.com/watch?v=B4Kn3djJMCE&feature=youtu.be)
 	* [Concave](https://www.codeproject.com/Articles/1201438/The-Concave-Hull-of-a-Set-of-Points) & [convex hulls](https://en.wikipedia.org/wiki/Convex_hull)
 	* [Blob](https://en.wikipedia.org/wiki/Blob_detection) & [edge detection](https://en.wikipedia.org/wiki/Edge_detection)
 	* [Computer vision](https://en.wikipedia.org/wiki/Computer_vision) (CV) (AR)
@@ -186,6 +186,8 @@ In addition to this list, check out these great alternates:
 	* [MIP mapping](https://en.wikipedia.org/wiki/Mipmap) & optimization
 
 #### Articles
+
+General:
 
 * ["Advice for Creative Technologists"](https://medium.com/@laserpilot/advice-for-creative-technologists-21f3f220b2)
 * ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
@@ -247,33 +249,39 @@ Math:
 
 ## Creative Coding Tools
 
-* Web-based:
-	* Graphics libraries:
+* Web-based
+	* Realtime graphics libraries
 		* [THREE.js](http://threejs.org/)
 		* [PIXI.js](http://www.pixijs.com/)
 		* [p5js](http://p5js.org/)
 		* [two.js](https://two.js.org/)
 		* [Regl: Functional WebGL](http://regl.party/)
-	* [Hydra](https://hydra-editor-v1.glitch.me)
-	* Tools:
-		* GLFX.js
-		* GifLoopCoder
-		* ccapture.js
-		* whammy.js
-		* gif.js
-		* rasterizeHTML.js??
-		* CanvasFilters / Canvas UV mapping
-		* Face trackers:
-			* https://github.com/jeeliz/jeelizWeboji
-			* https://github.com/justadudewhohacks/face-api.js
-		* Body trackers:
-			* https://github.com/tensorflow/tfjs-models/tree/master/posenet
-			* https://github.com/victordibia/handtrack.js
-		* http://twgljs.org/
-		* https://github.com/mapbox/delaunator
-		* https://tastenkunst.github.io/brfv4_javascript_examples/
-		* https://opentype.js.org/
-		*
+		* [Babylon.js](https://www.babylonjs.com/)
+		* [http://twgljs.org/](http://twgljs.org/)
+	* Live coding
+		* [Hydra](https://hydra-editor-v1.glitch.me)
+	* Rendering tools
+		* [GLFX.js](http://evanw.github.io/glfx.js/)
+		* [GifLoopCoder](http://www.gifloopcoder.com/)
+		* [ccapture.js](https://github.com/spite/ccapture.js/)
+		* [whammy.js](https://github.com/antimatter15/whammy)
+		* [gif.js](https://jnordberg.github.io/gif.js/)
+		* [html2canvas](https://github.com/niklasvh/html2canvas)
+		* [CanvasFilters](https://github.com/kig/canvasfilters)
+	* General tools
+		* [Haxademic.js](https://github.com/cacheflowe/haxademic.js)
+		* [Delaunator](https://github.com/mapbox/delaunator)
+	* Face trackers
+		* [face-api.js](https://github.com/justadudewhohacks/face-api.js)
+		* [tracking.js](https://trackingjs.com/)
+		* [clmtrackr](https://github.com/auduno/clmtrackr)
+		* [BRFv4](https://tastenkunst.github.io/brfv4_javascript_examples/)
+		* [jeelizWeboji](https://github.com/jeeliz/jeelizWeboji)
+	* Body trackers
+		* [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
+		* [Handtrack.js](https://github.com/victordibia/handtrack.js)
+	* Fonts
+		* [opentype.js](https://opentype.js.org/)
 	* AR:
 		* https://developers.google.com/ar/develop/web/getting-started
 		* https://experiments.withgoogle.com/ar
@@ -283,8 +291,9 @@ Math:
 		* https://www.wiarframe.com/
 		* https://www.sparkar.com/ar-studio/
 		* https://github.com/immersive-web/webxr
-	* VR:
-		* https://aframe.io
+	* WebVR:
+		* [Aframe](https://aframe.io)
+
 * GLSL
 	* [GLSL Sandbox](http://glslsandbox.com/)
 	* [Shadertoy](http://shadertoy.com)
@@ -310,20 +319,26 @@ Math:
 	* [cables.gl](https://cables.gl/)
 	* [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)
 	* [LWJGL Basics](https://github.com/mattdesl/lwjgl-basics/wiki) by @mattdesl
+
 * Java-based:
 	* [Processing](http://processing.org) [1](http://vimeo.com/15379147)
 	* [OPENRNDR](https://openrndr.org/)
 	* [LX Studio](http://lx.studio/)
+
 * c++:
 	* [Cinder](http://libcinder.org/)
 	* [openFrameworks](http://www.openframeworks.cc/)
+
 * Swift:
 	* [C4](http://www.c4ios.com/)
+
 * Rust:
 	* [nannou](http://nannou.cc/)
+
 * Cross-platform:
 	* [Unity](http://unity3d.com/)
 	* [Unreal Engine](https://www.unrealengine.com)
+
 * Node-based:
 	* [VVVV](http://vvvv.org)
 	* [Max/MSP](http://cycling74.com/products/max/)
@@ -334,6 +349,7 @@ Math:
 	* [Praxis](http://www.praxislive.org/)
 	* [Nodewerk](http://nodewerk.com/)
 	* [Disguise](https://www.disguise.one/en/)
+
 * Computer Vision / Image recognition:
 	* [OpenCV](https://opencv.org/)
 	* [YOLO](https://pjreddie.com/darknet/yolo/)
@@ -342,9 +358,11 @@ Math:
 	* [DensePose](http://densepose.org/)
 	* [PoseTrack](https://github.com/iqbalu/PoseTrack-CVPR2017)
 	* [OpenTrack](https://github.com/opentrack/opentrack)
+
 * Machine learning
   * [Runway](https://docs.runwayapp.ai)
 	* [ml5js](https://ml5js.org/)
+	* [Wekinator](http://www.wekinator.org/)
 
 ## Communication Protocols
 
@@ -575,9 +593,15 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Micca Speck](https://www.miccatron.com/micca-speck/)
 * [Satechi Cyclone](http://www.satechi.net/index.php/satechi-cyclone-micro-2-1080p-portable-media-mkv-avi-mov-player-adapter-with-sd-sdhc-memory-usb-slot-and-remote-control)
 
-#### USB Over Wifi
+#### PrototcolExtenders
 
-* [Silex E1305](https://www.amazon.co.uk/Silex-E1305-DS-510-Device-Server/dp/B00WS8QCP4/ref=pd_lpo_sbs_147_img_0?_encoding=UTF8&psc=1&refRID=FQRQB3YN278FZ6EMTKE2)
+* [Audio over ethernet](https://sewelldirect.com/sound-link)
+* [HDMI over ethernet](https://sewelldirect.com/hd-link-t-by-sewell)
+* [MIDI over ethernet](https://www.iconnectivity.com/blog/2018/3/7/ethernet-midi-for-live-musicians-an-iconnectivity-guide)
+* [USB over ethernet](https://www.amazon.com/WEme-Extender-Connection-Ethernet-Extention/dp/B01FHTCH68/)
+* Dmx over ethernet - [female](https://www.amazon.com/TecNec-DMX-3XF-CAT5-3-pin-Female-Adapter/dp/B00KUTZW3Q) and [male](https://www.amazon.com/TecNec-DMX-3XM-CAT5-3-pin-Adapter-TecNec/dp/B00KUTR7MA)
+* [DMX over Wifi](https://www.idjnow.com/blizzard-lighting-wicicle-xmit-skywire-wireless-dmx-transmitter-and-10-receivers-package.html#3)
+* [USB over Wifi](https://www.amazon.co.uk/Silex-E1305-DS-510-Device-Server/dp/B00WS8QCP4/ref=pd_lpo_sbs_147_img_0?_encoding=UTF8&psc=1&refRID=FQRQB3YN278FZ6EMTKE2)
 
 ## Other output options
 
