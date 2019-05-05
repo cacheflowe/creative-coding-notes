@@ -389,7 +389,7 @@ Math:
 * [http://www.meshrepair.org/](http://www.meshrepair.org/)
 * [Modo](https://www.thefoundry.co.uk/products/modo/)
 
-##### 3d Scanning
+#### 3d Scanning
 
 * [https://itseez3d.com/blog/itseez3d-scanner-2-0-for-windows/](itSeez3d)
 * [https://skanect.occipital.com/](Scanect)
@@ -424,13 +424,13 @@ Math:
 * [gifsicle](https://www.lcdf.org/gifsicle/)
 * [HAP video format](http://vdmx.vidvox.net/tutorials/using-the-hap-video-codec) (GPU-accelerated video)
 
-##### Motion Capture
+#### Motion Capture
 
 * [https://www.neuronmocap.com/](Perception Neuron)
 * [https://getrad.co/](RADiCAL)
 * [https://blacktrax.cast-soft.com/howitworks/](BlackTrax)
 
-##### Modern input devices
+#### Modern input devices
 
 * Apple trackpad/touchscreen touch/gestures
 * Mouse / tablet
