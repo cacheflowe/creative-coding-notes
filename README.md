@@ -6,12 +6,12 @@
 * [Creative Coding History](#creative-coding-history)
 * [Modern Creative Coding Uses](#modern-creative-coding-uses)
 * [Graphics concepts](#graphics-concepts)
-* [Physical computing](#physical-computing)
 * [Creative Coding Environments and Libraries](#creative-coding-environments-and-libraries)
 * [Communication Protocols](#communication-protocols)
 * [Multimedia Tools](#multimedia-tools)
 * [Unique Displays and Touchscreens](#unique-displays-and-touchscreens)
 * [Other output options](#other-output-options)
+* [Physical computing](#physical-computing)
 * [More resources](#more-resources)
 
 
@@ -235,18 +235,6 @@ Math:
 * [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
 
 
-## Physical computing
-
-##### Historical devices
-
-* Haptic Feedback - [Sega Motocross / Fonz](https://en.wikipedia.org/wiki/Fonz_(video_game)) (1976)
-* Running in place - [Nintendo Power Pad](https://www.youtube.com/watch?v=dlkO-x6jANo) [1](https://www.youtube.com/watch?v=ErzuU78v60M) (1988)
-* Waving your hand around, with buttons - [Nintendo Power Glove](https://www.youtube.com/watch?v=SAKbtJjAV18) [1](https://www.youtube.com/watch?v=3g8JiGjRQNE) (1990)
-* [VR](https://en.wikipedia.org/wiki/Virtual_reality) (1977-present) (barf)
-* More running in place, but in public - [Dance Dance Revolution](https://upload.wikimedia.org/wikipedia/commons/e/ec/Dance_Dance_Revolution_North_American_arcade_machine_3.jpg) (1998)
-* In general: Expensive industrial fabrication & custom electronics
-
-
 ## Creative Coding Tools
 
 * Web-based
@@ -408,6 +396,7 @@ Math:
 
 #### Sound
 
+* [Sound eXchange](http://sox.sourceforge.net/) (cli conversion tool, a-la ffmpeg)
 * Processing:
 	* [Beads](http://www.beadsproject.net/)
 	* [Minim](http://code.compartmental.net/tools/minim/)
@@ -430,10 +419,10 @@ Math:
 #### Video + Image
 
 * Gimp
-* ffmpeg
-* imagemagick
-* gifsicle
-* [HAP video format (GPU-accelerated video)](http://vdmx.vidvox.net/tutorials/using-the-hap-video-codec)
+* [ffmpeg](https://ffmpeg.org/)
+* [imagemagick](https://imagemagick.org/)
+* [gifsicle](https://www.lcdf.org/gifsicle/)
+* [HAP video format](http://vdmx.vidvox.net/tutorials/using-the-hap-video-codec) (GPU-accelerated video)
 
 ##### Motion Capture
 
@@ -462,6 +451,7 @@ Math:
 	* http://www.marshall-usa.com/cameras/
 * CV cameras
 	* [PixyCam](https://pixycam.com/)
+	* [FLIR Firefly](https://www.flir.com/iis/machine-vision/)
 * High-frame-rate cameras
 	* [Edgertronic](https://edgertronic.com/home)
 * Accelerometer (iOS, Wii, Playstation)
@@ -637,6 +627,19 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Water Features](https://en.wikipedia.org/wiki/WET_(company))
 * [Print](http://cacheflowe.com/code/installation/nike-the-grove-we-are-la-mural)
 
+
+## Physical computing
+
+##### Historical devices
+
+* Haptic Feedback - [Sega Motocross / Fonz](https://en.wikipedia.org/wiki/Fonz_(video_game)) (1976)
+* Running in place - [Nintendo Power Pad](https://www.youtube.com/watch?v=dlkO-x6jANo) [1](https://www.youtube.com/watch?v=ErzuU78v60M) (1988)
+* Waving your hand around, with buttons - [Nintendo Power Glove](https://www.youtube.com/watch?v=SAKbtJjAV18) [1](https://www.youtube.com/watch?v=3g8JiGjRQNE) (1990)
+* [VR](https://en.wikipedia.org/wiki/Virtual_reality) (1977-present) (barf)
+* More running in place, but in public - [Dance Dance Revolution](https://upload.wikimedia.org/wikipedia/commons/e/ec/Dance_Dance_Revolution_North_American_arcade_machine_3.jpg) (1998)
+* In general: Expensive industrial fabrication & custom electronics
+
+
 ## More resources
 
 #### Web sites
@@ -669,9 +672,11 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 #### Videos
 
 * [The Art of Creative Coding (PBS)](http://www.youtube.com/watch?v=eBV14-3LT-g)
+* [The Coding Train](https://www.youtube.com/user/shiffman) by Daniel Shiffman
+* [Eyeo & Inst-Int conference talks](https://vimeo.com/eyeofestival)
+* [GROW Paris conference talks](https://www.youtube.com/channel/UCSoJNgO8Dj56TSnH18RhlFA/videos)
 * [How To Draw With Code | Casey Reas](https://www.youtube.com/watch?v=_8DMEHxOLQE)
 * [Demographics: Behind the Scene](http://www.youtube.com/watch?v=Y_Wlju8zL04)
-* [The Coding Train](https://www.youtube.com/user/shiffman) by Daniel Shiffman
 * [Nature of Code video series](https://vimeo.com/channels/natureofcode)
 * [Introduction to Computational Media](https://vimeo.com/70427341)
 * [Designing Generative Systems w/ P5.js](https://www.youtube.com/playlist?list=PLyRZnpOSgMj3K8AV2I6UldnvTj6d_Zrf0)
@@ -680,6 +685,8 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Moleman 2 - Demoscene - The Art of the Algorithms](https://www.youtube.com/watch?v=iRkZcTg1JWU)
 * [Makin' Stuff Look Good in Unity](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg)
 * [Exploring Emergence | Andy Lomas](https://www.youtube.com/watch?v=gOqOyb51prU)
+* [Juice it or Lose it](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
+* [Paul Prudence @ Synergetica Studiolab](https://www.youtube.com/watch?v=sE5suc-rqFw&feature=youtu.be)
 
 #### Artists / Coders / Companies
 
