@@ -44,9 +44,10 @@ In addition to this list, check out these great alternates:
 	* [Calculated Movements by Larry Cuba (1985)](http://www.youtube.com/watch?v=HcvN1dt0yJo)
 	* [Samia Halaby](https://www.youtube.com/watch?v=sDfIkXf3uzA)
 	* [A brief history of computer drawing](http://golancourses.net/2016/lectures/2-02/)
-	* [The Recode Project](http://recodeproject.com/)
+	* [The Recode Project](http://recodeproject.com/) - A historical reference for generative art
 * Video Games
 	* [A Brief History of Graphics](https://www.youtube.com/watch?v=QyjyWUrHsFc)
+	* [3D texturing history](https://twitter.com/BryanRenno/status/1122880458012934146)
 * Demoscene
 	* [Yoichiro Kawaguchi](http://uihacker.blogspot.com/2013/07/inspiration-yoichiro-kawaguchi.html)
 	* [Second Reality by Future Crew (1993)](http://www.youtube.com/watch?v=rFv7mHTf0nA)
@@ -170,6 +171,12 @@ In addition to this list, check out these great alternates:
 	* [Meshes](http://www.cmap.polytechnique.fr/~peyre/images/test_remeshing.jpg)
 	* [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry)
 	* [Raymarching](https://www.shadertoy.com/view/4dSfRc)
+		* [Raymarching Demo](https://www.shadertoy.com/view/4dSfRc)
+		* [Raymarching Intro](http://barradeau.com/blog/?p=575)
+		* [Raymarching: more](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
+		* [Raymarching: more](http://www.michaelwalczyk.com/blog/2017/5/25/ray-marching)
+		* [Raymarching Workshop](https://github.com/ajweeks/RaymarchingWorkshop)
+		* [28 GLSL tutorials](https://www.shadertoy.com/view/Md23DV)
 	* [Marching cubes](https://en.wikipedia.org/wiki/Marching_cubes)
 	* [Ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics))
 	* [Voxels](http://rjzarah.blog.com/files/2011/10/voxel_pixelart.gif)
@@ -218,6 +225,7 @@ Graphics Programming:
 * [Ray Tracing in One Weekend](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8)
 * [NVIDIA - GPU Gems 3](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_pref01.html)
 * [A Beginner's Guide to Coding Graphics Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
+* [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 
 Audio programming:
 
@@ -285,12 +293,6 @@ Math:
 * GLSL
 	* [GLSL Sandbox](http://glslsandbox.com/)
 	* [Shadertoy](http://shadertoy.com)
-		* [Raymarching Demo](https://www.shadertoy.com/view/4dSfRc)
-		* [Raymarching Intro](http://barradeau.com/blog/?p=575)
-		* [Raymarching: more](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
-		* [Raymarching: more](http://www.michaelwalczyk.com/blog/2017/5/25/ray-marching)
-		* [Raymarching Workshop](https://github.com/ajweeks/RaymarchingWorkshop)
-		* [28 GLSL tutorials](https://www.shadertoy.com/view/Md23DV)
 	* [Vertex Shader Art](http://vertexshaderart.com/)
 	* [Book of Shaders](http://thebookofshaders.com/) (+ [Editor](http://editor.thebookofshaders.com/))
 	* [stackgl Shader School](https://github.com/stackgl/shader-school)
@@ -469,6 +471,7 @@ Math:
 	* [Muse 2](https://choosemuse.com/muse-2/)
 	* [NeuroSky MindWave](https://store.neurosky.com/pages/mindwave)
 * Buttons / Encoders
+	* [Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
 	* [XKeys](http://xkeys.com)
 	* [Palette Kit](https://palettegear.com/)
 	* [Pimoroni](https://shop.pimoroni.com/)
