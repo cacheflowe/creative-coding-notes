@@ -140,6 +140,7 @@ In addition to this list, check out these great alternates:
 	* [Easing & interpolation](http://easings.net/)
 	* [Parallax](https://en.wikipedia.org/wiki/Parallax)
 	* [Physics simulations](https://en.wikipedia.org/wiki/Verlet_integration)
+	* [Morphogenesis](https://github.com/jasonwebb/morphogenesis-resources)
 	* [Fluid](http://madebyevan.com/webgl-water/) [dynamics](https://www.shadertoy.com/view/XdcXDN) & solvers
 	* Noise
 		* [Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise) for smooth randomness, terrain, textures. [More info](https://eev.ee/blog/2016/05/29/perlin-noise/)
@@ -226,6 +227,7 @@ Graphics Programming:
 * [NVIDIA - GPU Gems 3](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_pref01.html)
 * [A Beginner's Guide to Coding Graphics Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
 * [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
+* [List of technical case studies on WebGL and creative development](https://github.com/luruke/awesome-casestudy/blob/master/README.md)
 
 Audio programming:
 
@@ -370,6 +372,7 @@ Math:
 		* ArtNet
 		* DMX
 			* [Doug Fleenor Design products](http://www.dfd.com/index.html)
+		* [sACN](https://www.lightjams.com/sacn.html)
 	* Video streaming
 		* [Spout](http://spout.zeal.co/)
 		* [Syphon](http://www.syphon.v002.info/)
@@ -462,6 +465,7 @@ Math:
 * [Sensors](http://www.adafruit.com/category/35)
 * [Conductive](http://www.bareconductive.com/) [Paint](http://www.gizmag.com/arduino-electric-ink-bare-conductive-touch-board-maker-faire/32182/)
 * [Leap Motion](https://www.leapmotion.com/) [1](http://kolidar.com/Blog/wp-content/uploads/2012/07/Minority-report_2.jpg)
+  * [handUI for Unity](https://github.com/crookookoo/handUI)
 * [Myo](https://www.thalmic.com/myo/)
 * [Gest](https://gest.co/)
 * [SpaceMouse](https://www.3dconnexion.com/spacemouse_wireless_kit/en/)
