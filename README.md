@@ -173,6 +173,7 @@ In addition to this list, check out these great alternates:
 	* [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry)
 	* [Raymarching](https://www.shadertoy.com/view/4dSfRc)
 		* [Raymarching Demo](https://www.shadertoy.com/view/4dSfRc)
+		* [Raymarching Demo 2](https://www.shadertoy.com/view/wlSGWy)
 		* [Raymarching Intro](http://barradeau.com/blog/?p=575)
 		* [Raymarching: more](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
 		* [Raymarching: more](http://www.michaelwalczyk.com/blog/2017/5/25/ray-marching)
@@ -231,6 +232,7 @@ Graphics Programming:
 
 Audio programming:
 
+* [George E. Lewis: Why Do We Want Our Computers to Improvise?](https://www.youtube.com/watch?v=wDP8FsjyCaA)
 * https://ccrma.stanford.edu/~jos/
 
 Math:
@@ -341,6 +343,7 @@ Math:
 	* [Praxis](http://www.praxislive.org/)
 	* [Nodewerk](http://nodewerk.com/)
 	* [Disguise](https://www.disguise.one/en/)
+	* [Vuo](https://vuo.org/)
 
 * Computer Vision / Image recognition:
 	* [OpenCV](https://opencv.org/)
@@ -508,6 +511,7 @@ Math:
 	* [Kinect](https://www.microsoft.com/en-us/kinectforwindows/)
 		* Machine learning for MS system [white paper](http://msdn.microsoft.com/en-us/library/jj131429.aspx)
 		* [OpenPTrack](http://openptrack.org/)
+		* [Kinect v2 Extension cable](http://www.icron.com/products/icron-brand/usb-extenders/cat5/usb-3-0-spectra-3001-15/)
 	* [Xtion](https://www.asus.com/Commercial_3D_Sensor/Xtion_PRO/)
 	* [Zed](https://www.stereolabs.com/)
 	* [Structure Sensor for iPad](http://structure.io/)
@@ -565,6 +569,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * Maker
 	* [System](https://system76.com/)
 	* [NVIDIA Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/)
+	  * [Setup guide for ofx](https://gist.github.com/madelinegannon/237733e6c114f156b31366f47c1f3d32)
 	* [LattePanda](http://www.lattepanda.com/)
 	* [Raspberry Pi](https://www.raspberrypi.org/)
 	* [Orange Pi](http://www.orangepi.org/)
@@ -610,6 +615,8 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 	* [PixelPusher](http://www.heroicrobotics.com/products/pixelpusher)
 	* http://ledneonflex.com/
 	* [BlinkStick](https://www.blinkstick.com/)
+	* [Advatek controllers](https://www.advateklights.com/pixlite-control/)
+	* [Falcon controllers](https://www.pixelcontroller.com/store/index.php?id_product=48&controller=product)
 * Lasers
 	* [Future Weapons Lighting](http://futureweaponslighting.com/)
 	* [LaserAnimation Sollinger](https://laseranimation.com/en/products)
