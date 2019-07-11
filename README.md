@@ -268,6 +268,12 @@ Math:
 		* [gif.js](https://jnordberg.github.io/gif.js/)
 		* [html2canvas](https://github.com/niklasvh/html2canvas)
 		* [CanvasFilters](https://github.com/kig/canvasfilters)
+	* Audio
+		* [Tone.js](https://tonejs.github.io/)
+		* [Web Audio DAW](https://github.com/rserota/wad)
+		* [Tuna](https://github.com/Theodeus/tuna)
+		* [wavesurfer.js](https://wavesurfer-js.org/)
+		* [howler.js](https://howlerjs.com/)
 	* General tools
 		* [Haxademic.js](https://github.com/cacheflowe/haxademic.js)
 		* [Delaunator](https://github.com/mapbox/delaunator)
