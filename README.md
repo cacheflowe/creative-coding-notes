@@ -181,6 +181,8 @@ In addition to this list, check out these great alternates:
 		* [28 GLSL tutorials](https://www.shadertoy.com/view/Md23DV)
 	* [Marching cubes](https://en.wikipedia.org/wiki/Marching_cubes)
 	* [Ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics))
+	* [Physically-Based Shading](https://www.shadertoy.com/view/4sSfzK)
+	* [Dot Product](http://sandervanrossen.blogspot.com/2019/07/dot-products-and-planes.html)
 	* [Voxels](http://rjzarah.blog.com/files/2011/10/voxel_pixelart.gif)
 	* Spherical mathematics, Quaternions and Euler rotation [1](http://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
 	* [Bump/Normal/Displacement maps](http://blog.digitaltutors.com/bump-normal-and-displacement-maps/)
