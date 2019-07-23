@@ -352,6 +352,7 @@ Math:
 	* [Nodewerk](http://nodewerk.com/)
 	* [Disguise](https://www.disguise.one/en/)
 	* [Vuo](https://vuo.org/)
+	* [nodes.io](http://nodes.io/)
 
 * Computer Vision / Image recognition:
 	* [OpenCV](https://opencv.org/)
