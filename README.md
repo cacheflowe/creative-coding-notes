@@ -594,6 +594,13 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 	* [Neousys Industrial-grade](https://www.coastipc.com/cart/Category/Industrial-Computers)
 	* [Rugged PCs](https://www.logicsupply.com/computers/rugged/)
 
+#### Network inspection
+
+* [Wireshark](https://www.wireshark.org/)
+* [AngryIP](https://angryip.org/)
+* [Microsoft Network Monitor](https://www.microsoft.com/en-us/download/details.aspx?id=4865)
+* [Charles](https://www.charlesproxy.com/) (Mac)
+
 #### Video capture
 
 * [El Gato Camlink](https://www.elgato.com/en/gaming/cam-link)
@@ -607,7 +614,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Micca Speck](https://www.miccatron.com/micca-speck/)
 * [Satechi Cyclone](http://www.satechi.net/index.php/satechi-cyclone-micro-2-1080p-portable-media-mkv-avi-mov-player-adapter-with-sd-sdhc-memory-usb-slot-and-remote-control)
 
-#### PrototcolExtenders
+#### Prototcol Extenders
 
 * [Audio over ethernet](https://sewelldirect.com/sound-link)
 * [HDMI over ethernet](https://sewelldirect.com/hd-link-t-by-sewell)
