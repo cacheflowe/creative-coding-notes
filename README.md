@@ -108,7 +108,7 @@ In addition to this list, check out these great alternates:
 * [Projection Mapping](https://www.youtube.com/watch?v=VrgWH1KUDt4)
 * Machine learning & AI
 	* [@gloan at PAIR Symposium on Human/AI Interaction](https://www.youtube.com/watch?time_continue=18790&v=w3zSffhPUz0)
-
+* [Photogrammery](http://benvancitters.com/2019/07/real-life-to-photogrammetric-3d-print/)
 
 ## Graphics concepts
 
