@@ -139,9 +139,6 @@ In addition to this list, check out these great alternates:
 * Commons tools & concepts
 	* [Easing & interpolation](http://easings.net/)
 	* [Parallax](https://en.wikipedia.org/wiki/Parallax)
-	* [Physics simulations](https://en.wikipedia.org/wiki/Verlet_integration)
-	* [Morphogenesis](https://github.com/jasonwebb/morphogenesis-resources)
-	* [Fluid](http://madebyevan.com/webgl-water/) [dynamics](https://www.shadertoy.com/view/XdcXDN) & solvers
 	* Noise
 		* [Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise) for smooth randomness, terrain, textures. [More info](https://eev.ee/blog/2016/05/29/perlin-noise/)
 		* [Curl noise](http://petewerner.blogspot.com/2015/02/intro-to-curl-noise.html)
@@ -149,10 +146,7 @@ In addition to this list, check out these great alternates:
 	* [Reaction](http://www.karlsims.com/rd.html)-[diffusion](https://www.shadertoy.com/view/lld3z8)
 	* [Voronoi](http://cs.nyu.edu/~ajsecord/npar2002/html/stipples-img16.png) [2](http://ultimaker.ipbhost.com/uploads/gallery/album_13/gallery_2943_13_8700870.jpg)
 	* [Delaunay Triangulation](http://mathworld.wolfram.com/images/eps-gif/DelaunayTriangulation_1000.gif)
-	* [Fractals](http://fractalfoundation.org/OFC/OFC-10-4.html) & [Mandelbulbs](https://vimeo.com/56546771) [4](http://vimeo.com/12215994)
-		* [List_of_fractals_by_Hausdorff_dimension](http://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
 	* [Packing](http://en.wikipedia.org/wiki/Packing_problem) / [Space-filling algorithms](http://www.complexification.net/gallery/machines/boxFitting/boxFittingPRN.jpg)
-	* [Boids](https://processing.org/examples/flocking.html) / [flocking](https://vimeo.com/55213364) & particle systems
 	* Conway's classic Game of Life / [cellular autonoma](http://natureofcode.com/book/chapter-7-cellular-automata)
 	* Emergence
 	* [Genetic](http://www.youtube.com/watch?v=JBgG_VSP7f8) & evolutionary algorithms
@@ -179,6 +173,7 @@ In addition to this list, check out these great alternates:
 		* [Raymarching: more](http://www.michaelwalczyk.com/blog/2017/5/25/ray-marching)
 		* [Raymarching Workshop](https://github.com/ajweeks/RaymarchingWorkshop)
 		* [28 GLSL tutorials](https://www.shadertoy.com/view/Md23DV)
+		* [Inigo Quilez: LIVE Shader Deconstruction](https://www.youtube.com/watch?v=Cfe5UQ-1L9Q)
 	* [Marching cubes](https://en.wikipedia.org/wiki/Marching_cubes)
 	* [Ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics))
 	* [Physically-Based Shading](https://www.shadertoy.com/view/4sSfzK)
@@ -195,6 +190,30 @@ In addition to this list, check out these great alternates:
 	* Collision detection
 	* Optimization via [quadtrees](https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374) or [Octrees](http://www.i-programmer.info/programming/theory/1679-quadtrees-and-octrees.html)
 	* [MIP mapping](https://en.wikipedia.org/wiki/Mipmap) & optimization
+	* [Wav Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
+	* [Sub Surface Scattering](https://therealmjp.github.io/posts/sss-intro/)
+* Natural simulations (some borrowed from @AmnonOwed @ [this repo](https://github.com/AmnonOwed/P5_NaturalSystems))
+	* [Algorithmic Botany](http://algorithmicbotany.org/papers/)
+	* [Biomimicry](http://en.wikipedia.org/wiki/Biomimicry)
+	* [Boids](https://processing.org/examples/flocking.html) / [flocking](https://vimeo.com/55213364) & particle systems
+	* [Emergence](http://en.wikipedia.org/wiki/Emergence)
+	* [Evolutionary Computing](http://en.wikipedia.org/wiki/Evolutionary_computation)
+	* [Flocking](http://en.wikipedia.org/wiki/Flocking_%28behavior%29)
+	* [Flow Fields](http://en.wikipedia.org/wiki/Vector_field)
+	* [Fluid](http://madebyevan.com/webgl-water/) [dynamics](https://www.shadertoy.com/view/XdcXDN) & solvers
+	* [Form-Finding](http://en.wikipedia.org/wiki/Stretched_grid_method)
+	* [Fractal Modeling](http://en.wikipedia.org/wiki/Fractal)
+	* [Fractals](http://fractalfoundation.org/OFC/OFC-10-4.html) & [Mandelbulbs](https://vimeo.com/56546771) [4](http://vimeo.com/12215994)
+		* [List_of_fractals_by_Hausdorff_dimension](http://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
+	* [Genetic Algorithms](http://en.wikipedia.org/wiki/Genetic_algorithm)
+	* [Greeble](http://en.wikipedia.org/wiki/Greeble)
+	* Laplacian Growth
+	* [Lindenmayer-Systems](http://en.wikipedia.org/wiki/L-system)
+	* [Morphogenesis](http://en.wikipedia.org/wiki/Morphogenesis)
+	* [Morphogenesis](https://github.com/jasonwebb/morphogenesis-resources)
+	* [Physics simulations](https://en.wikipedia.org/wiki/Verlet_integration)
+	* [Reaction-Diffusion](http://en.wikipedia.org/wiki/Reaction-diffusion)
+	* [Self-Organization](http://en.wikipedia.org/wiki/Self-Organization)
 
 #### Articles
 
@@ -212,6 +231,7 @@ Algorithmic design:
 * [On Generative Algorithms](http://inconvergent.net/generative/) by Inconvergent
 * [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/) by kynd
 * [Programming Design Systems](https://programmingdesignsystems.com/)
+* [Generative Possibility Space](http://www.possibilityspace.org/tutorial-generative-possibility-space/)
 
 Graphics Programming:
 
@@ -261,7 +281,7 @@ Math:
 		* [Babylon.js](https://www.babylonjs.com/)
 		* [http://twgljs.org/](http://twgljs.org/)
 	* Live coding
-		* [Hydra](https://hydra-editor-v1.glitch.me)
+		* [Hydra](https://github.com/ojack/hydra)
 	* Rendering tools
 		* [GLFX.js](http://evanw.github.io/glfx.js/)
 		* [GifLoopCoder](http://www.gifloopcoder.com/)
@@ -276,6 +296,8 @@ Math:
 		* [Tuna](https://github.com/Theodeus/tuna)
 		* [wavesurfer.js](https://wavesurfer-js.org/)
 		* [howler.js](https://howlerjs.com/)
+		* [Slang](https://github.com/kylestetz/slang)
+		* [aq](https://github.com/rxi/aq)
 	* General tools
 		* [Haxademic.js](https://github.com/cacheflowe/haxademic.js)
 		* [Delaunator](https://github.com/mapbox/delaunator)
@@ -362,11 +384,13 @@ Math:
 	* [DensePose](http://densepose.org/)
 	* [PoseTrack](https://github.com/iqbalu/PoseTrack-CVPR2017)
 	* [OpenTrack](https://github.com/opentrack/opentrack)
+	* [OpenDataCam](https://github.com/opendatacam/opendatacam)
 
 * Machine learning
   * [Runway](https://docs.runwayapp.ai)
 	* [ml5js](https://ml5js.org/)
 	* [Wekinator](http://www.wekinator.org/)
+	* [Mediapipe](https://github.com/google/mediapipe/)
 
 ## Communication Protocols
 
@@ -471,16 +495,17 @@ Math:
 	* [FLIR Firefly](https://www.flir.com/iis/machine-vision/)
 * High-frame-rate cameras
 	* [Edgertronic](https://edgertronic.com/home)
-* Accelerometer (iOS, Wii, Playstation)
+* Accelerometer/position
 	* [Playstation Move](http://us.playstation.com/ps3/accessories/playstation-move-motion-controller-ps3.html)
 	* [Nintendo Wiimote](https://en.wikipedia.org/wiki/Wii_Remote)
+	* [SpaceMouse](https://www.3dconnexion.com/spacemouse_wireless_kit/en/)
+	* [Biscuit](https://ameridroid.com/products/biscuit-programmable-wifi-9-axis-absolute-orientation-sensor)
 * [Sensors](http://www.adafruit.com/category/35)
 * [Conductive](http://www.bareconductive.com/) [Paint](http://www.gizmag.com/arduino-electric-ink-bare-conductive-touch-board-maker-faire/32182/)
 * [Leap Motion](https://www.leapmotion.com/) [1](http://kolidar.com/Blog/wp-content/uploads/2012/07/Minority-report_2.jpg)
   * [handUI for Unity](https://github.com/crookookoo/handUI)
 * [Myo](https://www.thalmic.com/myo/)
 * [Gest](https://gest.co/)
-* [SpaceMouse](https://www.3dconnexion.com/spacemouse_wireless_kit/en/)
 * E-textiles
 	* [Loomia](https://loomia.com/our-products)
 * Brainwaves / EEG
@@ -523,7 +548,6 @@ Math:
 		* [Kinect](https://www.microsoft.com/en-us/kinectforwindows/)
 			* Machine learning for MS system [white paper](http://msdn.microsoft.com/en-us/library/jj131429.aspx)
 			* [OpenPTrack](http://openptrack.org/)
-			* [Kinect v2 Extension cable](http://www.icron.com/products/icron-brand/usb-extenders/cat5/usb-3-0-spectra-3001-15/)
 		* [Xtion](https://www.asus.com/Commercial_3D_Sensor/Xtion_PRO/)
 		* [Zed](https://www.stereolabs.com/)
 		* [Structure Sensor for iPad](http://structure.io/)
@@ -620,6 +644,12 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [HDMI over ethernet](https://sewelldirect.com/hd-link-t-by-sewell)
 * [MIDI over ethernet](https://www.iconnectivity.com/blog/2018/3/7/ethernet-midi-for-live-musicians-an-iconnectivity-guide)
 * [USB over ethernet](https://www.amazon.com/WEme-Extender-Connection-Ethernet-Extention/dp/B01FHTCH68/)
+	* [Rated for webcams](https://www.amazon.com/gp/product/B0744DX8JP/)
+	* [Rated for Realsense](https://www.lindy.co.uk/cables-adapters-c1/usb-c449/50m-hybrid-usb-3-0-cable-p9476)
+	* [Rated for Kinect v2](http://www.icron.com/products/icron-brand/usb-extenders/cat5/usb-3-0-spectra-3001-15/)
+	* [Rated for Kinect v2 & Realsense](https://www.monoprice.com/product?p_id=16381&gclid=Cj0KCQjw3JXtBRC8ARIsAEBHg4nG4LxeN1Tjq2LOoOgPFDRVkWPmI_u38nnTKMjf8F_XI1T955KEPv0aAp16EALw_wcB)
+	* [Rated for Kinect Azure](https://www.ntcdistributing.com/usb-3-1/active-extension-cable/firenex-ulink-c-active-cable-a-m-to-c-m-8-m-and-16-m/)
+	* [Rated for Kinect Azure](https://www.cablematters.com/pc-512-135-active-usb-30-extension-cable-usb-3-extension-cable-usb-extension-cable-male-to-female.aspx)
 * Dmx over ethernet - [female](https://www.amazon.com/TecNec-DMX-3XF-CAT5-3-pin-Female-Adapter/dp/B00KUTZW3Q) and [male](https://www.amazon.com/TecNec-DMX-3XM-CAT5-3-pin-Adapter-TecNec/dp/B00KUTR7MA)
 * [DMX over Wifi](https://www.idjnow.com/blizzard-lighting-wicicle-xmit-skywire-wireless-dmx-transmitter-and-10-receivers-package.html#3)
 * [USB over Wifi](https://www.amazon.co.uk/Silex-E1305-DS-510-Device-Server/dp/B00WS8QCP4/ref=pd_lpo_sbs_147_img_0?_encoding=UTF8&psc=1&refRID=FQRQB3YN278FZ6EMTKE2)
@@ -649,6 +679,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 	* [Android Things](https://androidthings.withgoogle.com/#!/)
 	* [Axoloti](http://www.axoloti.com/)
 	* [Yoctopuce](http://www.yoctopuce.com/)
+* [HTTP-controlled power strips](https://www.amazon.com/NP-02-Switchable-manufactured-supported-interface/dp/B00346USOA)
 * Laser Cutters
 * 3d Printers
 * CNC routers
@@ -720,6 +751,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Exploring Emergence | Andy Lomas](https://www.youtube.com/watch?v=gOqOyb51prU)
 * [Juice it or Lose it](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 * [Paul Prudence @ Synergetica Studiolab](https://www.youtube.com/watch?v=sE5suc-rqFw&feature=youtu.be)
+* [Creating Interactive Visuals for Large Audiences (Joel Pryde)](https://www.youtube.com/watch?v=C7eRhSCLono)
 
 #### Artists / Coders / Companies
 
@@ -745,15 +777,3 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Felix Woitzel](https://github.com/Flexi23) :: [@Flexi23](https://twitter.com/Flexi23)
 * [OutsideOfSociety](http://oos.moxiecode.com/blog/) :: [@oosmoxiecode](https://twitter.com/oosmoxiecode)
 * [Micah Scott](http://twitter.com/scanlime)
-
-
-#### Kinect libraries:
-
-* [http://code.google.com/p/simple-openni/](http://code.google.com/p/simple-openni/)
-* [http://shiffman.net/p5/kinect/](http://shiffman.net/p5/kinect/)
-* [https://github.com/cinder/Cinder-Kinect](https://github.com/cinder/Cinder-Kinect)
-* [http://vvvv.org/contribution/kinect](http://vvvv.org/contribution/kinect)
-* [https://github.com/Sensebloom/OSCeleton](https://github.com/Sensebloom/OSCeleton)
-* [http://code.google.com/p/osc-kinect/](http://code.google.com/p/osc-kinect/) (uses official Windows SDK)
-* [http://kinect.childnodes.com/](http://kinect.childnodes.com/) (uses official Windows SDK for .js access)
-* [https://github.com/doug/depthjs](https://github.com/doug/depthjs) (cross-platform plugin for Webkit browsers)
