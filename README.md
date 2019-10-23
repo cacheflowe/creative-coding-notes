@@ -292,10 +292,11 @@ Math:
 		* [CanvasFilters](https://github.com/kig/canvasfilters)
 	* Audio
 		* [Tone.js](https://tonejs.github.io/)
-		* [Web Audio DAW](https://github.com/rserota/wad)
-		* [Tuna](https://github.com/Theodeus/tuna)
+		* [Peaks.js](https://github.com/bbc/peaks.js)
 		* [wavesurfer.js](https://wavesurfer-js.org/)
 		* [howler.js](https://howlerjs.com/)
+		* [Web Audio DAW](https://github.com/rserota/wad)
+		* [Tuna](https://github.com/Theodeus/tuna)
 		* [Slang](https://github.com/kylestetz/slang)
 		* [aq](https://github.com/rxi/aq)
 	* General tools
@@ -646,6 +647,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [USB over ethernet](https://www.amazon.com/WEme-Extender-Connection-Ethernet-Extention/dp/B01FHTCH68/)
 	* [Rated for webcams](https://www.amazon.com/gp/product/B0744DX8JP/)
 	* [Rated for Realsense](https://www.lindy.co.uk/cables-adapters-c1/usb-c449/50m-hybrid-usb-3-0-cable-p9476)
+	* [Rated for Kinect v1, 300ft](https://www.gefen.com/product/usb-20-extender-EXT-USB2.0-LR)
 	* [Rated for Kinect v2](http://www.icron.com/products/icron-brand/usb-extenders/cat5/usb-3-0-spectra-3001-15/)
 	* [Rated for Kinect v2 & Realsense](https://www.monoprice.com/product?p_id=16381&gclid=Cj0KCQjw3JXtBRC8ARIsAEBHg4nG4LxeN1Tjq2LOoOgPFDRVkWPmI_u38nnTKMjf8F_XI1T955KEPv0aAp16EALw_wcB)
 	* [Rated for Kinect Azure](https://www.ntcdistributing.com/usb-3-1/active-extension-cable/firenex-ulink-c-active-cable-a-m-to-c-m-8-m-and-16-m/)
