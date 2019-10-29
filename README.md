@@ -251,6 +251,7 @@ Graphics Programming:
 * [A Beginner's Guide to Coding Graphics Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
 * [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 * [List of technical case studies on WebGL and creative development](https://github.com/luruke/awesome-casestudy/blob/master/README.md)
+* [@mattdesl's workshop-webgl-glsl](https://github.com/mattdesl/workshop-webgl-glsl/)
 
 Audio programming:
 
@@ -561,6 +562,8 @@ Math:
 		* [Nuitrack](https://nuitrack.com/) (skeletal deletion middleware)
 * Lidar
 	* [Ouster OS-1](https://www.ouster.io/product-os1/)
+* Bluetooth
+	* [Quuppa](https://quuppa.com/technology/products/)
 * Virtual Reality
 	* [Oculus Rift](https://www.oculus.com/en-us/creators/)
 	* [HTC Vive](https://www.htcvive.com/us/)
@@ -651,7 +654,9 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 	* [Rated for Kinect v2](http://www.icron.com/products/icron-brand/usb-extenders/cat5/usb-3-0-spectra-3001-15/)
 	* [Rated for Kinect v2 & Realsense](https://www.monoprice.com/product?p_id=16381&gclid=Cj0KCQjw3JXtBRC8ARIsAEBHg4nG4LxeN1Tjq2LOoOgPFDRVkWPmI_u38nnTKMjf8F_XI1T955KEPv0aAp16EALw_wcB)
 	* [Rated for Kinect Azure](https://www.ntcdistributing.com/usb-3-1/active-extension-cable/firenex-ulink-c-active-cable-a-m-to-c-m-8-m-and-16-m/)
+	* [Rated for Kinect Azure](https://www.ntcdistributing.com/usb-3-0/firenex-ulink-ex-active-cable-a-m-to-a-f/)
 	* [Rated for Kinect Azure](https://www.cablematters.com/pc-512-135-active-usb-30-extension-cable-usb-3-extension-cable-usb-extension-cable-male-to-female.aspx)
+	* [Rated for Kinect Azure - all options](https://www.newnex.com/technology-azure-kinect-extension.php)
 * Dmx over ethernet - [female](https://www.amazon.com/TecNec-DMX-3XF-CAT5-3-pin-Female-Adapter/dp/B00KUTZW3Q) and [male](https://www.amazon.com/TecNec-DMX-3XM-CAT5-3-pin-Adapter-TecNec/dp/B00KUTR7MA)
 * [DMX over Wifi](https://www.idjnow.com/blizzard-lighting-wicicle-xmit-skywire-wireless-dmx-transmitter-and-10-receivers-package.html#3)
 * [USB over Wifi](https://www.amazon.co.uk/Silex-E1305-DS-510-Device-Server/dp/B00WS8QCP4/ref=pd_lpo_sbs_147_img_0?_encoding=UTF8&psc=1&refRID=FQRQB3YN278FZ6EMTKE2)
