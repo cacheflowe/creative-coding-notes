@@ -393,6 +393,8 @@ Math:
 	* [ml5js](https://ml5js.org/)
 	* [Wekinator](http://www.wekinator.org/)
 	* [Mediapipe](https://github.com/google/mediapipe/)
+	* [Teachable Machine by Google](https://teachablemachine.withgoogle.com/) & [Shiffman tutorials](https://thecodingtrain.com/TeachableMachine/index.html)
+	* [Spleeter](https://waxy.org/2019/11/fast-and-free-music-separation-with-deezers-machine-learning-library/)
 
 ## Communication Protocols
 
