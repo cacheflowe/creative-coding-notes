@@ -87,7 +87,9 @@ In addition to this list, check out these great alternates:
 * Generative jewelry - [Nervous System](https://vimeo.com/48902614)
 * [Product design](https://vimeo.com/41450718) & [development](http://n-e-r-v-o-u-s.com/shop/product.php?code=129&tag=jewelry)
 * Fashion - [Kinematics Dress](http://n-e-r-v-o-u-s.com/projects/sets/kinematics-dress/)
-* Quadcopters - [Meet Your Creator](http://www.youtube.com/watch?v=cseTX_rW3uM)
+* Quadcopters
+	* [Meet Your Creator](http://www.youtube.com/watch?v=cseTX_rW3uM)
+	* ["Southwest China Puts on Dazzling Drone Show"](https://www.youtube.com/watch?v=VvemT96Rozc)
 * 3D Printing - [Probability Lattice](http://www.flickr.com/photos/watz/7166887796/in/photostream/)
 * Robotics + Projection mapping + 3D Motion graphics - [Box](https://vimeo.com/75260457)
 * Generative visuals - [Algorithmic Abstractions](http://www.flickr.com/groups/_aa/pool/)
@@ -109,6 +111,7 @@ In addition to this list, check out these great alternates:
 * Machine learning & AI
 	* [@gloan at PAIR Symposium on Human/AI Interaction](https://www.youtube.com/watch?time_continue=18790&v=w3zSffhPUz0)
 * [Photogrammery](http://benvancitters.com/2019/07/real-life-to-photogrammetric-3d-print/)
+* [Kinetic Sculpture](https://www.youtube.com/watch?v=fVk9Q2bra7A)
 
 ## Graphics concepts
 
@@ -345,6 +348,7 @@ Math:
 	* [cables.gl](https://cables.gl/)
 	* [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)
 	* [LWJGL Basics](https://github.com/mattdesl/lwjgl-basics/wiki) by @mattdesl
+	* [shader-doodle](https://github.com/halvves/shader-doodle) [by @halvves](https://twitter.com/halvves/status/1116749547131346944)
 
 * Java-based:
 	* [Processing](http://processing.org) [1](http://vimeo.com/15379147)
