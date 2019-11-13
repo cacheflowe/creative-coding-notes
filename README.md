@@ -765,6 +765,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Juice it or Lose it](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 * [Paul Prudence @ Synergetica Studiolab](https://www.youtube.com/watch?v=sE5suc-rqFw&feature=youtu.be)
 * [Creating Interactive Visuals for Large Audiences (Joel Pryde)](https://www.youtube.com/watch?v=C7eRhSCLono)
+* [The Limits of Learning, by Kyle McDonald @ Sónar+D](https://www.youtube.com/watch?v=kWvHjp8vifM)
 
 #### Artists / Coders / Companies
 
