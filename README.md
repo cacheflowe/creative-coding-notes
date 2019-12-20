@@ -1,4 +1,3 @@
-
 # Creative Coding Notes
 
 ## Table of Contents
@@ -177,10 +176,11 @@ In addition to this list, check out these great alternates:
 		* [Raymarching Workshop](https://github.com/ajweeks/RaymarchingWorkshop)
 		* [28 GLSL tutorials](https://www.shadertoy.com/view/Md23DV)
 		* [Inigo Quilez: LIVE Shader Deconstruction](https://www.youtube.com/watch?v=Cfe5UQ-1L9Q)
+		* [Raymarching Template](https://www.shadertoy.com/view/tdVXDz)
 	* [Marching cubes](https://en.wikipedia.org/wiki/Marching_cubes)
 	* [Ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics))
 	* [Physically-Based Shading](https://www.shadertoy.com/view/4sSfzK)
-	* [Dot Product](http://sandervanrossen.blogspot.com/2019/07/dot-products-and-planes.html)
+	* [Dot Product](http://sandervanrossen.blogspot.com/2019/07/dot-products-and-planes.html) / [Explainer gif](https://twitter.com/freyaholmer/status/1200807790580768768?s=12)
 	* [Voxels](http://rjzarah.blog.com/files/2011/10/voxel_pixelart.gif)
 	* Spherical mathematics, Quaternions and Euler rotation [1](http://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
 	* [Bump/Normal/Displacement maps](http://blog.digitaltutors.com/bump-normal-and-displacement-maps/)
@@ -255,6 +255,7 @@ Graphics Programming:
 * [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 * [List of technical case studies on WebGL and creative development](https://github.com/luruke/awesome-casestudy/blob/master/README.md)
 * [@mattdesl's workshop-webgl-glsl](https://github.com/mattdesl/workshop-webgl-glsl/)
+* [Real-time refraction](https://tympanus.net/codrops/2019/10/29/real-time-multiside-refraction-in-three-steps/)
 
 Audio programming:
 
@@ -264,6 +265,10 @@ Audio programming:
 Math:
 
 * http://www.katjaas.nl/home/home.html
+
+Machine Learning:
+
+* https://github.com/chiphuyen/machine-learning-systems-design
 
 #### Video Series
 
@@ -326,7 +331,7 @@ Math:
 		* https://www.wiarframe.com/
 		* https://www.sparkar.com/ar-studio/
 		* https://github.com/immersive-web/webxr
-	* WebVR:
+	* WebXR:
 		* [Aframe](https://aframe.io)
 
 * GLSL
@@ -391,14 +396,38 @@ Math:
 	* [PoseTrack](https://github.com/iqbalu/PoseTrack-CVPR2017)
 	* [OpenTrack](https://github.com/opentrack/opentrack)
 	* [OpenDataCam](https://github.com/opendatacam/opendatacam)
+	* [BodyPix](https://blog.tensorflow.org/2019/11/updated-bodypix-2.html)
+	* [VIBE](https://github.com/mkocabas/VIBE)
+	* [OpenPTrack](http://openptrack.org/)
 
 * Machine learning
   * [Runway](https://docs.runwayapp.ai)
-	* [ml5js](https://ml5js.org/)
+	* [ml5js](https://ml5js.org/) [demo from scratch](https://www.youtube.com/watch?v=8HEgeAbYphA)
 	* [Wekinator](http://www.wekinator.org/)
 	* [Mediapipe](https://github.com/google/mediapipe/)
 	* [Teachable Machine by Google](https://teachablemachine.withgoogle.com/) & [Shiffman tutorials](https://thecodingtrain.com/TeachableMachine/index.html)
 	* [Spleeter](https://waxy.org/2019/11/fast-and-free-music-separation-with-deezers-machine-learning-library/)
+	* [Demucs](https://github.com/facebookresearch/demucs)
+	* [DrumBot](https://twitter.com/notwaldorf/status/1201599495244537858)
+
+* Virtual Reality
+	* [Oculus Rift](https://www.oculus.com/en-us/creators/)
+	* [HTC Vive](https://www.htcvive.com/us/)
+	* [Morpheus](https://www.playstation.com/en-gb/explore/ps4/features/project-morpheus/)
+	* [Samsung Gear VR](http://www.samsung.com/global/microsite/gearvr/gearvr_design.html)
+	* [Google Cardboard](https://www.google.com/get/cardboard/)
+	* [WondaVR](http://www.wondavr.com/)
+
+* Augmented/Mixed Reality
+	* [Hololens](https://www.microsoft.com/microsoft-hololens/en-us) [1](https://www.youtube.com/watch?v=29xnzxgCx6I)
+	* [ARKit](https://developer.apple.com/arkit/) (iOS)
+	* [ARCore](https://developers.google.com/ar/) (Android)
+	* [Vuforia](https://www.vuforia.com/)
+	* [Mira](https://www.mirareality.com/)
+	* [Magic Leap](https://www.magicleap.com/)
+	* [WebXR](https://immersive-web.github.io/webxr/)
+	* [AR.js](https://github.com/jeromeetienne/ar.js)
+
 
 ## Communication Protocols
 
@@ -422,7 +451,11 @@ Math:
 		* [Syphon](http://www.syphon.v002.info/)
 		* [CamTwist](http://camtwiststudio.com/)
 		* [RTP](https://en.wikipedia.org/wiki/Real-time_Transport_Protocol)
-
+* Multi-protocol timeline tools
+	* [Vezer](https://imimot.com/vezer/)
+	* [Chataigne](http://benjamin.kuperberg.fr/chataigne/en)
+	* [OSSIA](https://github.com/OSSIA/score)
+	* [QLab](https://qlab.app/)
 
 ## Multimedia Tools
 
@@ -483,42 +516,69 @@ Math:
 
 * Apple trackpad/touchscreen touch/gestures
 * Mouse / tablet
-* Webcam / Cameras
+* Cameras
 	* See @laserpilot's [Guide to Cameras for Interactive Installations](https://github.com/laserpilot/Guide_To_Cameras_Interactive_Installations)
-	* https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S/
-	* https://www.logitech.com/en-us/product/4k-pro-webcam?crid=34
-	* https://www.amazon.com/dp/B01N8QBO2G/ref=asc_df_B01N8QBO2G5276731/
-	* https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Doffice-products&field-keywords=ELP+Webcam
-	* https://www.e-consystems.com/
-	* http://www.cctvcameradvrs.com/3.7mm-f2.8-m12-mount-pinhole-cctv-camera-lens-ir-350nm-650nm
-	* https://www.axis.com/gb/en/products/axis-p12-series
-	* https://www.axis.com/gb/en/products/axis-f-series
-	* https://www.ptgrey.com/
-	* https://www.vivotek.com/
-	* https://www.theimagingsource.com/products/industrial-cameras/usb-3.1-monochrome/
-	* http://www.z-cam.com/
-	* http://www.marshall-usa.com/cameras/
-* CV cameras
-	* [PixyCam](https://pixycam.com/)
-	* [FLIR Firefly](https://www.flir.com/iis/machine-vision/)
-* High-frame-rate cameras
-	* [Edgertronic](https://edgertronic.com/home)
+	* Webcams
+		* https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S/
+		* https://www.logitech.com/en-us/product/4k-pro-webcam?crid=34
+		* https://www.amazon.com/dp/B01N8QBO2G/ref=asc_df_B01N8QBO2G5276731/
+		* https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Doffice-products&field-keywords=ELP+Webcam
+		* https://www.e-consystems.com/
+		* http://www.cctvcameradvrs.com/3.7mm-f2.8-m12-mount-pinhole-cctv-camera-lens-ir-350nm-650nm
+		* https://www.axis.com/gb/en/products/axis-p12-series
+		* https://www.axis.com/gb/en/products/axis-f-series
+		* https://www.ptgrey.com/
+		* https://www.vivotek.com/
+		* https://www.theimagingsource.com/products/industrial-cameras/usb-3.1-monochrome/
+		* http://www.z-cam.com/
+		* http://www.marshall-usa.com/cameras/
+	* Depth cameras
+		* Comparisons:
+			* [Stimulant's depth sensor shootout](https://stimulant.com/depth-sensor-shootout-2/)
+			* [Depth camera silhouette segmentation approaches](https://github.com/antimodular/Silhouette-Segmentation-Approaches)
+			* [iPi Depth Sensors Comparison](http://docs.ipisoft.com/Depth_Sensors_Comparison)
+		* Products:
+			* [Kinect](https://www.microsoft.com/en-us/kinectforwindows/)
+				* Machine learning for MS system [white paper](http://msdn.microsoft.com/en-us/library/jj131429.aspx)
+				* [OpenPTrack](http://openptrack.org/)
+			* [Xtion](https://www.asus.com/Commercial_3D_Sensor/Xtion_PRO/)
+			* [Zed](https://www.stereolabs.com/)
+			* [Structure Sensor for iPad](http://structure.io/)
+			* [Orbbec](http://www.orbbec3d.com/)
+			* [Intel Realsense](https://software.intel.com/en-us/realsense/home)
+				* [Framos](https://www.framos.com/en/news/framos-launches-an-industrial-3d-gige-camera-based-on-intel-s-realsense-technology)
+			* [Intel Euclid](https://click.intel.com/intelr-euclidtm-development-kit.html)
+			* [Xovis](https://www.xovis.com/en/xovis/)
+			* [eys3D](https://www.sparkfun.com/products/14725)
+			* [Mynt Eye](https://mynteyeai.com/)
+			* [Nuitrack](https://nuitrack.com/) (skeletal deletion middleware)
+	* CV cameras
+		* [PixyCam](https://pixycam.com/)
+		* [FLIR Firefly](https://www.flir.com/iis/machine-vision/)
+	* High-frame-rate cameras
+		* [Edgertronic](https://edgertronic.com/home)
+	* Lidar
+		* [Ouster OS-1](https://www.ouster.io/product-os1/)
+	* Ultrasound vision
+		* [Topsens TS3](https://toposens.com/ts3/)
 * Accelerometer/position
 	* [Playstation Move](http://us.playstation.com/ps3/accessories/playstation-move-motion-controller-ps3.html)
 	* [Nintendo Wiimote](https://en.wikipedia.org/wiki/Wii_Remote)
 	* [SpaceMouse](https://www.3dconnexion.com/spacemouse_wireless_kit/en/)
 	* [Biscuit](https://ameridroid.com/products/biscuit-programmable-wifi-9-axis-absolute-orientation-sensor)
 * [Sensors](http://www.adafruit.com/category/35)
-* [Conductive](http://www.bareconductive.com/) [Paint](http://www.gizmag.com/arduino-electric-ink-bare-conductive-touch-board-maker-faire/32182/)
-* [Leap Motion](https://www.leapmotion.com/) [1](http://kolidar.com/Blog/wp-content/uploads/2012/07/Minority-report_2.jpg)
-  * [handUI for Unity](https://github.com/crookookoo/handUI)
-* [Myo](https://www.thalmic.com/myo/)
-* [Gest](https://gest.co/)
+	* [Conductive](http://www.bareconductive.com/) [Paint](http://www.gizmag.com/arduino-electric-ink-bare-conductive-touch-board-maker-faire/32182/)
+* Unique controllers
+	* [Leap Motion](https://www.leapmotion.com/) [1](http://kolidar.com/Blog/wp-content/uploads/2012/07/Minority-report_2.jpg)
+		* [handUI for Unity](https://github.com/crookookoo/handUI)
+	* [Myo](https://www.thalmic.com/myo/)
+	* [Gest](https://gest.co/)
+	* [Litho](https://www.litho.cc/)
+	* Brainwaves / EEG
+		* [Muse 2](https://choosemuse.com/muse-2/)
+		* [NeuroSky MindWave](https://store.neurosky.com/pages/mindwave)
 * E-textiles
 	* [Loomia](https://loomia.com/our-products)
-* Brainwaves / EEG
-	* [Muse 2](https://choosemuse.com/muse-2/)
-	* [NeuroSky MindWave](https://store.neurosky.com/pages/mindwave)
 * Buttons / Encoders
 	* [Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
 	* [XKeys](http://xkeys.com)
@@ -548,44 +608,8 @@ Math:
 	* [Samsung](https://www.samsung.com/us/business/products/displays/direct-view-led/explore/)
 	* [Dynascan](https://www.dynascandisplay.com/)
 	* [Baanto](https://baanto.com/)
-* Depth cameras
-	* Comparisons:
-		* [Stimulant's depth sensor shootout](https://stimulant.com/depth-sensor-shootout-2/)
-		* [Depth camera silhouette segmentation approaches](https://github.com/antimodular/Silhouette-Segmentation-Approaches)
-	* Products:
-		* [Kinect](https://www.microsoft.com/en-us/kinectforwindows/)
-			* Machine learning for MS system [white paper](http://msdn.microsoft.com/en-us/library/jj131429.aspx)
-			* [OpenPTrack](http://openptrack.org/)
-		* [Xtion](https://www.asus.com/Commercial_3D_Sensor/Xtion_PRO/)
-		* [Zed](https://www.stereolabs.com/)
-		* [Structure Sensor for iPad](http://structure.io/)
-		* [Orbbec](http://www.orbbec3d.com/)
-		* [Intel Realsense](https://software.intel.com/en-us/realsense/home)
-		* [Intel Euclid](https://click.intel.com/intelr-euclidtm-development-kit.html)
-		* [Xovis](https://www.xovis.com/en/xovis/)
-		* [eys3D](https://www.sparkfun.com/products/14725)
-		* [Mynt Eye](https://mynteyeai.com/)
-		* [Nuitrack](https://nuitrack.com/) (skeletal deletion middleware)
-* Lidar
-	* [Ouster OS-1](https://www.ouster.io/product-os1/)
 * Bluetooth
 	* [Quuppa](https://quuppa.com/technology/products/)
-* Virtual Reality
-	* [Oculus Rift](https://www.oculus.com/en-us/creators/)
-	* [HTC Vive](https://www.htcvive.com/us/)
-	* [Morpheus](https://www.playstation.com/en-gb/explore/ps4/features/project-morpheus/)
-	* [Samsung Gear VR](http://www.samsung.com/global/microsite/gearvr/gearvr_design.html)
-	* [Google Cardboard](https://www.google.com/get/cardboard/)
-	* [WondaVR](http://www.wondavr.com/)
-* Augmented/Mixed Reality
-	* [Hololens](https://www.microsoft.com/microsoft-hololens/en-us) [1](https://www.youtube.com/watch?v=29xnzxgCx6I)
-	* [ARKit](https://developer.apple.com/arkit/) (iOS)
-	* [ARCore](https://developers.google.com/ar/) (Android)
-	* [Vuforia](https://www.vuforia.com/)
-	* [Mira](https://www.mirareality.com/)
-	* [Magic Leap](https://www.magicleap.com/)
-	* [WebXR](https://immersive-web.github.io/webxr/)
-	* [AR.js](https://github.com/jeromeetienne/ar.js)
 
 ## Unique Displays and Touchscreens
 
@@ -642,6 +666,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [MiraBox Capture Card](https://www.amazon.com/dp/B07C6KCBYB/)
 * [Epiphan AV.io](https://www.epiphan.com/products/avio-hd/)
 * [Inogeni](https://inogeni.com/product/4k-to-usb-3)
+* [Magewell SDI to UVC USB](https://www.magewell.com/products/usb-capture-sdi-gen-2) plus [Marshall Electronics CV343](https://www.bhphotovideo.com/c/product/1193660-REG/marshall_electronics_cv343_csb_2mp_hd_3g_sdi_compact.html)
 
 #### Media players
 
