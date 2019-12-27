@@ -4,7 +4,7 @@
 
 * [Creative Coding History](#creative-coding-history)
 * [Modern Creative Coding Uses](#modern-creative-coding-uses)
-* [Graphics concepts](#graphics-concepts)
+* [Graphics Concepts](#graphics-concepts)
 * [Creative Coding Environments and Libraries](#creative-coding-environments-and-libraries)
 * [Communication Protocols](#communication-protocols)
 * [Multimedia Tools](#multimedia-tools)
@@ -119,7 +119,7 @@ In addition to this list, check out these great sister lists:
 * Immersive spaces
 
 
-## Graphics concepts
+## Graphics Concepts
 
 #### Basic Concepts & Building Blocks
 
