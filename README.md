@@ -9,12 +9,12 @@
 * [Communication Protocols](#communication-protocols)
 * [Multimedia Tools](#multimedia-tools)
 * [Unique Displays and Touchscreens](#unique-displays-and-touchscreens)
+* [Hardware](#hardware)
 * [Other output options](#other-output-options)
-* [Physical computing](#physical-computing)
 * [More resources](#more-resources)
 
 
-In addition to this list, check out these great alternates:
+In addition to this list, check out these great sister lists:
 * [https://github.com/terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 * [https://github.com/kosmos/awesome-generative-art](https://github.com/kosmos/awesome-generative-art)
 
@@ -53,35 +53,40 @@ In addition to this list, check out these great alternates:
  	* [Pouet](http://www.pouet.net/)
 * Science & research
 	* [Karl Sims - Evolved Virtual Creatures](http://www.youtube.com/watch?v=JBgG_VSP7f8)
-* Flash / web era: interactive motion graphics
+* Flash era: interactive motion graphics
 	* GMunk
 	* Robert Penner (easing algorithms)
 	* Grant Skinner
-* Physical computing & Interactive installations
+* Physical computing
+	* [Sega Motocross / Fonz](https://en.wikipedia.org/wiki/Fonz_(video_game)) (1976)
+	* [Nintendo Power Pad](https://www.youtube.com/watch?v=dlkO-x6jANo) [1](https://www.youtube.com/watch?v=ErzuU78v60M) (1988)
+	* [Nintendo Power Glove](https://www.youtube.com/watch?v=SAKbtJjAV18) [1](https://www.youtube.com/watch?v=3g8JiGjRQNE) (1990)
+	* [VR](https://en.wikipedia.org/wiki/Virtual_reality) (1977-present)
+	* [Dance Dance Revolution](https://upload.wikimedia.org/wikipedia/commons/e/ec/Dance_Dance_Revolution_North_American_arcade_machine_3.jpg) (1998)
+
 
 ## Modern Creative Coding Uses
 
-* [The Art of Creative Coding](http://www.youtube.com/watch?v=eBV14-3LT-g) (video)
 * Data visualization
 	* [Flight Patterns](http://www.youtube.com/watch?v=ystkKXzt9Wk) [2](http://www.ted.com/talks/aaron_koblin.html) [3](http://vimeo.com/46048177)
 	* [Wind Data](http://hint.fm/wind/)
 * Musical Instruments - [Imogen Heap's musical gloves](http://www.youtube.com/watch?v=6btFObRRD9k)
 * Math as music [Simple Harmonic Motion](http://www.memo.tv/simple-harmonic-motion/)
 * Modern demoscene: [Agenda Circling Forth](http://www.youtube.com/watch?v=GJruj0YkDsg)
-* Demos in the browser
-	* [Mr. Doob - Obsidian](http://www.mrdoob.com/files/temp/xplsv_obsidian/)
-	* [http://stianj.com/fashion/](http://stianj.com/fashion/)
-	* [http://dennis.video/](http://dennis.video/)
-	* [http://jazz.computer/](http://jazz.computer/)
-	* [http://www.p01.org/releases/BLCK4777/BLCK4777_safe.htm](http://www.p01.org/releases/BLCK4777/BLCK4777_safe.htm)
-	* [http://chordslayer.com/#snowother](http://chordslayer.com/#snowother)
-	* [http://unseen-music.com/yume/](http://unseen-music.com/yume/)
-	* [http://holon.drastic.net/view/luxe/](Luxe)
+	* Demos in the browser
+		* [Mr. Doob - Obsidian](http://www.mrdoob.com/files/temp/xplsv_obsidian/)
+		* [http://stianj.com/fashion/](http://stianj.com/fashion/)
+		* [http://dennis.video/](http://dennis.video/)
+		* [http://jazz.computer/](http://jazz.computer/)
+		* [http://www.p01.org/releases/BLCK4777/BLCK4777_safe.htm](http://www.p01.org/releases/BLCK4777/BLCK4777_safe.htm)
+		* [http://chordslayer.com/#snowother](http://chordslayer.com/#snowother)
+		* [http://unseen-music.com/yume/](http://unseen-music.com/yume/)
+		* [http://holon.drastic.net/view/luxe/](Luxe)
 * iTunes visualizer / Winamp (Milkdrop)
 * Music videos
 	* [Cupcake Gunfight](https://vimeo.com/10902493)
 	* [Quayola - Partitura 001](https://vimeo.com/23281150)
-* Dance + Kinect + Code - [Unnamed Sound Sculpture](https://vimeo.com/38840688)
+* Modern dance - [Unnamed Sound Sculpture](https://vimeo.com/38840688)
 * Human movement analysis to art - [Forms - Quayola and Memo Akten](http://www.youtube.com/watch?v=Xe-C_rv3_p0)
 * Generative jewelry - [Nervous System](https://vimeo.com/48902614)
 * [Product design](https://vimeo.com/41450718) & [development](http://n-e-r-v-o-u-s.com/shop/product.php?code=129&tag=jewelry)
@@ -93,7 +98,7 @@ In addition to this list, check out these great alternates:
 * Robotics + Projection mapping + 3D Motion graphics - [Box](https://vimeo.com/75260457)
 * Generative visuals - [Algorithmic Abstractions](http://www.flickr.com/groups/_aa/pool/)
 * Generative audio - [The Ballad of the Psychotropic Robots](https://www.youtube.com/watch?v=nhq6wzgFEXc) & [Wiki](http://en.wikipedia.org/wiki/Algorithmic_music)
-* Science! - [Crowdsourced protein folding](http://news.cnet.com/8301-11386_3-57365693-76/crowdsourcing-gamers-best-computers-on-protein-folding/)
+* Science - [Crowdsourced protein folding](http://news.cnet.com/8301-11386_3-57365693-76/crowdsourcing-gamers-best-computers-on-protein-folding/)
 * [Interactive art installations & physical experiences](https://vimeo.com/35674495)
 * Augmented reality
 * Digital Art
@@ -111,6 +116,8 @@ In addition to this list, check out these great alternates:
 	* [@gloan at PAIR Symposium on Human/AI Interaction](https://www.youtube.com/watch?time_continue=18790&v=w3zSffhPUz0)
 * [Photogrammery](http://benvancitters.com/2019/07/real-life-to-photogrammetric-3d-print/)
 * [Kinetic Sculpture](https://www.youtube.com/watch?v=fVk9Q2bra7A)
+* Immersive spaces
+
 
 ## Graphics concepts
 
@@ -136,7 +143,7 @@ In addition to this list, check out these great alternates:
 * 3D
 * Data
 
-#### Graphical algorithms
+#### Visual algorithms
 
 * Commons tools & concepts
 	* [Easing & interpolation](http://easings.net/)
@@ -457,6 +464,7 @@ Machine Learning:
 	* [OSSIA](https://github.com/OSSIA/score)
 	* [QLab](https://qlab.app/)
 
+
 ## Multimedia Tools
 
 #### Scriptable 3d tools
@@ -470,11 +478,6 @@ Machine Learning:
 * [After Effects](http://www.adobe.com/products/aftereffects.html)
 * [http://www.meshrepair.org/](http://www.meshrepair.org/)
 * [Modo](https://www.thefoundry.co.uk/products/modo/)
-
-#### 3d Scanning
-
-* [https://itseez3d.com/blog/itseez3d-scanner-2-0-for-windows/](itSeez3d)
-* [https://skanect.occipital.com/](Scanect)
 
 #### Sound
 
@@ -506,11 +509,19 @@ Machine Learning:
 * [gifsicle](https://www.lcdf.org/gifsicle/)
 * [HAP video format](http://vdmx.vidvox.net/tutorials/using-the-hap-video-codec) (GPU-accelerated video)
 
+#### 3d Scanning
+
+* [https://itseez3d.com/blog/itseez3d-scanner-2-0-for-windows/](itSeez3d)
+* [https://skanect.occipital.com/](Scanect)
+
 #### Motion Capture
 
 * [https://www.neuronmocap.com/](Perception Neuron)
 * [https://getrad.co/](RADiCAL)
 * [https://blacktrax.cast-soft.com/howitworks/](BlackTrax)
+
+
+## Physical Computing
 
 #### Modern input devices
 
@@ -611,6 +622,7 @@ Machine Learning:
 * Bluetooth
 	* [Quuppa](https://quuppa.com/technology/products/)
 
+
 ## Unique Displays and Touchscreens
 
 First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/) and [Guide to Projectors for Interactive Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations/blob/master/Guide%20to%20Projectors%20for%20Interactive%20Installations.md) by [@laserpilot](https://twitter.com/laserpilot)
@@ -633,6 +645,14 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [openframe](http://openframe.io/)
 * [Electric Objects](https://www.electricobjects.com/)
 * [Framed](https://frm.fm/)
+
+#### Media players
+
+* [Micca Speck](https://www.miccatron.com/micca-speck/)
+* [Satechi Cyclone](http://www.satechi.net/index.php/satechi-cyclone-micro-2-1080p-portable-media-mkv-avi-mov-player-adapter-with-sd-sdhc-memory-usb-slot-and-remote-control)
+
+
+## Hardware 
 
 #### Installation-friendly computers
 
@@ -659,20 +679,6 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Microsoft Network Monitor](https://www.microsoft.com/en-us/download/details.aspx?id=4865)
 * [Charles](https://www.charlesproxy.com/) (Mac)
 
-#### Video capture
-
-* [El Gato Camlink](https://www.elgato.com/en/gaming/cam-link)
-* [Mokose](https://www.amazon.com/MOKOSE-USB3-0-Capture-Windows-Grabber/dp/B071KPW3PH/)
-* [MiraBox Capture Card](https://www.amazon.com/dp/B07C6KCBYB/)
-* [Epiphan AV.io](https://www.epiphan.com/products/avio-hd/)
-* [Inogeni](https://inogeni.com/product/4k-to-usb-3)
-* [Magewell SDI to UVC USB](https://www.magewell.com/products/usb-capture-sdi-gen-2) plus [Marshall Electronics CV343](https://www.bhphotovideo.com/c/product/1193660-REG/marshall_electronics_cv343_csb_2mp_hd_3g_sdi_compact.html)
-
-#### Media players
-
-* [Micca Speck](https://www.miccatron.com/micca-speck/)
-* [Satechi Cyclone](http://www.satechi.net/index.php/satechi-cyclone-micro-2-1080p-portable-media-mkv-avi-mov-player-adapter-with-sd-sdhc-memory-usb-slot-and-remote-control)
-
 #### Prototcol Extenders
 
 * [Audio over ethernet](https://sewelldirect.com/sound-link)
@@ -691,6 +697,15 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * Dmx over ethernet - [female](https://www.amazon.com/TecNec-DMX-3XF-CAT5-3-pin-Female-Adapter/dp/B00KUTZW3Q) and [male](https://www.amazon.com/TecNec-DMX-3XM-CAT5-3-pin-Adapter-TecNec/dp/B00KUTR7MA)
 * [DMX over Wifi](https://www.idjnow.com/blizzard-lighting-wicicle-xmit-skywire-wireless-dmx-transmitter-and-10-receivers-package.html#3)
 * [USB over Wifi](https://www.amazon.co.uk/Silex-E1305-DS-510-Device-Server/dp/B00WS8QCP4/ref=pd_lpo_sbs_147_img_0?_encoding=UTF8&psc=1&refRID=FQRQB3YN278FZ6EMTKE2)
+
+#### Video capture
+
+* [El Gato Camlink](https://www.elgato.com/en/gaming/cam-link)
+* [Mokose](https://www.amazon.com/MOKOSE-USB3-0-Capture-Windows-Grabber/dp/B071KPW3PH/)
+* [MiraBox Capture Card](https://www.amazon.com/dp/B07C6KCBYB/)
+* [Epiphan AV.io](https://www.epiphan.com/products/avio-hd/)
+* [Inogeni](https://inogeni.com/product/4k-to-usb-3)
+* [Magewell SDI to UVC USB](https://www.magewell.com/products/usb-capture-sdi-gen-2) plus [Marshall Electronics CV343](https://www.bhphotovideo.com/c/product/1193660-REG/marshall_electronics_cv343_csb_2mp_hd_3g_sdi_compact.html)
 
 ## Other output options
 
@@ -728,18 +743,6 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Textiles](http://www.creativeapplications.net/processing/pixtil-weaving-generative-patterns-using-traditional-textile-techniques/) & [quilting](http://www.libselliott.com/)
 * [Water Features](https://en.wikipedia.org/wiki/WET_(company))
 * [Print](http://cacheflowe.com/code/installation/nike-the-grove-we-are-la-mural)
-
-
-## Physical computing
-
-##### Historical devices
-
-* Haptic Feedback - [Sega Motocross / Fonz](https://en.wikipedia.org/wiki/Fonz_(video_game)) (1976)
-* Running in place - [Nintendo Power Pad](https://www.youtube.com/watch?v=dlkO-x6jANo) [1](https://www.youtube.com/watch?v=ErzuU78v60M) (1988)
-* Waving your hand around, with buttons - [Nintendo Power Glove](https://www.youtube.com/watch?v=SAKbtJjAV18) [1](https://www.youtube.com/watch?v=3g8JiGjRQNE) (1990)
-* [VR](https://en.wikipedia.org/wiki/Virtual_reality) (1977-present) (barf)
-* More running in place, but in public - [Dance Dance Revolution](https://upload.wikimedia.org/wikipedia/commons/e/ec/Dance_Dance_Revolution_North_American_arcade_machine_3.jpg) (1998)
-* In general: Expensive industrial fabrication & custom electronics
 
 
 ## More resources
@@ -791,6 +794,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Paul Prudence @ Synergetica Studiolab](https://www.youtube.com/watch?v=sE5suc-rqFw&feature=youtu.be)
 * [Creating Interactive Visuals for Large Audiences (Joel Pryde)](https://www.youtube.com/watch?v=C7eRhSCLono)
 * [The Limits of Learning, by Kyle McDonald @ Sónar+D](https://www.youtube.com/watch?v=kWvHjp8vifM)
+* [Computational Craft by Gillian Smith](https://www.youtube.com/watch?v=mwtKiwQxyKY)
 
 #### Artists / Coders / Companies
 
