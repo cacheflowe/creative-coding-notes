@@ -358,6 +358,7 @@ Machine Learning:
 	* [glsl.io](http://transitions.glsl.io/)
 	* [glslb.in](http://glslb.in/)
 	* [cables.gl](https://cables.gl/)
+	* [shaderfrog](https://shaderfrog.com/)
 	* [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)
 	* [LWJGL Basics](https://github.com/mattdesl/lwjgl-basics/wiki) by @mattdesl
 	* [shader-doodle](https://github.com/halvves/shader-doodle) [by @halvves](https://twitter.com/halvves/status/1116749547131346944)
@@ -416,6 +417,8 @@ Machine Learning:
 	* [Spleeter](https://waxy.org/2019/11/fast-and-free-music-separation-with-deezers-machine-learning-library/)
 	* [Demucs](https://github.com/facebookresearch/demucs)
 	* [DrumBot](https://twitter.com/notwaldorf/status/1201599495244537858)
+	* [Synopsis](https://synopsis.video/)
+	* [Descript](htthttps://www.descript.com/)
 
 * Virtual Reality
 	* [Oculus Rift](https://www.oculus.com/en-us/creators/)
@@ -621,6 +624,9 @@ Machine Learning:
 	* [Baanto](https://baanto.com/)
 * Bluetooth
 	* [Quuppa](https://quuppa.com/technology/products/)
+* Voice recognition
+	* [Rhasspy](https://github.com/synesthesiam/rhasspy)
+	* [Sphinx](https://cmusphinx.github.io/wiki/download/)
 
 
 ## Unique Displays and Touchscreens
@@ -724,6 +730,12 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 	* [LaserAnimation Sollinger](https://laseranimation.com/en/products)
 	* [Lightspace USA](http://www.lightspaceusa.com)
 	* [Memo's laser info](https://github.com/memo/ofxIlda/wiki)
+* Robot arms
+	* Laser Cutters
+	* CNC routers
+	* Pen plotters
+  	* [Axidraw](https://www.axidraw.com/) - [v3ga's template](https://twitter.com/v3ga/status/1219157506473238528)
+* 3d Printers
 * Spatial audio
 	* [Envelop](http://www.envelop.us/)
 * Augmented & Mixed Reality
@@ -733,9 +745,6 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 	* [Axoloti](http://www.axoloti.com/)
 	* [Yoctopuce](http://www.yoctopuce.com/)
 * [HTTP-controlled power strips](https://www.amazon.com/NP-02-Switchable-manufactured-supported-interface/dp/B00346USOA)
-* Laser Cutters
-* 3d Printers
-* CNC routers
 * Robotics
 	* [Cylon.js](http://cylonjs.com/) / [Artoo.rb](http://artoo.io/) / [Gobot](http://gobot.io/)
 	* [Willow Garage](http://www.willowgarage.com/pages/pr2/overview)
@@ -768,11 +777,16 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 
 * [ARS Electronica](http://www.aec.at/festival/en/)
 * [Eyeo Festival](http://eyeofestival.com/)
-* [Inst-int](http://inst-int.com/)
+* [~~Inst-int~~](http://inst-int.com/)
 * [Visualized](http://visualized.com/)
-* [Resonate](http://resonate.io/)
+* [~~Resonate~~](http://resonate.io/)
 * [SIGGRAPH](http://www.siggraph.org/)
 * [Transmediale](http://www.transmediale.de/)
+* [Hackaday Superconference](https://hackaday.io/superconference/)
+* [OFFF](https://offf.barcelona/)
+* [Gray Area Festival](https://grayareafestival.io/)
+* [NODE forum](https://nodeforum.org/)
+* [FITC](https://fitc.ca/)
 
 #### Videos
 
