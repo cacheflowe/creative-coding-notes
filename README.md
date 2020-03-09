@@ -14,9 +14,10 @@
 * [More resources](#more-resources)
 
 
-In addition to this list, check out these great sister lists:
+In addition to this list, check out these awesome lists:
 * [https://github.com/terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 * [https://github.com/kosmos/awesome-generative-art](https://github.com/kosmos/awesome-generative-art)
+* [https://github.com/danvoyce/awesome-creative-tech-events](https://github.com/danvoyce/awesome-creative-tech-events)
 
 
 ## Creative Coding History
@@ -165,11 +166,13 @@ In addition to this list, check out these great sister lists:
 	* [Concave](https://www.codeproject.com/Articles/1201438/The-Concave-Hull-of-a-Set-of-Points) & [convex hulls](https://en.wikipedia.org/wiki/Convex_hull)
 	* [Blob](https://en.wikipedia.org/wiki/Blob_detection) & [edge detection](https://en.wikipedia.org/wiki/Edge_detection)
 	* [Computer vision](https://en.wikipedia.org/wiki/Computer_vision) (CV) (AR)
+	* [Kalman Filters](https://www.wouterbulten.nl/blog/tech/kalman-filters-explained-removing-noise-from-rssi-signals/)
 	* Machine learning & AI
 		* [Style Transfer](https://tenso.rs/demos/fast-neural-style/)
 		* [Deeplearn.js](https://pair-code.github.io/deeplearnjs/docs/tutorials/index.html)
 		* [Machine Learning for Artists](http://ml4a.github.io/)
 	* [Hardware acceleration](http://www.nvidia.com/object/what-is-gpu-computing.html)
+	* [Instancing](https://velasquezdaniel.com/blog/rendering-100k-spheres-instantianing-and-draw-calls/)
 * 3D / spatial concepts
 	* [3d projection](https://jsantell.com/3d-projection)
 	* [Meshes](http://www.cmap.polytechnique.fr/~peyre/images/test_remeshing.jpg)
@@ -233,6 +236,7 @@ General:
 * ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
 * ["Join the Creative Class"](http://www.forbes.com/sites/elainepofeldt/2012/12/28/want-to-recession-proof-yourself-join-the-creative-class/)
 * ["The Brief History of Volumetric Filmmaking"](https://medium.com/volumetric-filmmaking/the-brief-history-of-volumetric-filmmaking-32b3569c6831)
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 Algorithmic design:
 
@@ -298,6 +302,7 @@ Machine Learning:
 		* [http://twgljs.org/](http://twgljs.org/)
 	* Live coding
 		* [Hydra](https://github.com/ojack/hydra)
+		* [Hedron](https://github.com/nudibranchrecords/hedron)
 	* Rendering tools
 		* [GLFX.js](http://evanw.github.io/glfx.js/)
 		* [GifLoopCoder](http://www.gifloopcoder.com/)
@@ -315,6 +320,8 @@ Machine Learning:
 		* [Tuna](https://github.com/Theodeus/tuna)
 		* [Slang](https://github.com/kylestetz/slang)
 		* [aq](https://github.com/rxi/aq)
+	* Voice-recognition
+	  * [Web SPeech API demo](https://mdn.github.io/web-speech-api/speech-color-changer/)
 	* General tools
 		* [Haxademic.js](https://github.com/cacheflowe/haxademic.js)
 		* [Delaunator](https://github.com/mapbox/delaunator)
@@ -330,14 +337,12 @@ Machine Learning:
 	* Fonts
 		* [opentype.js](https://opentype.js.org/)
 	* AR:
+		* [ar.js](https://github.com/jeromeetienne/AR.js)
+		* https://github.com/immersive-web/webxr
 		* https://developers.google.com/ar/develop/web/getting-started
 		* https://experiments.withgoogle.com/ar
-		* https://github.com/mozilla/aframe-xr
-		* https://github.com/mozilla/three.xr.js/
-		* https://github.com/jeromeetienne/AR.js
 		* https://www.wiarframe.com/
 		* https://www.sparkar.com/ar-studio/
-		* https://github.com/immersive-web/webxr
 	* WebXR:
 		* [Aframe](https://aframe.io)
 
@@ -418,7 +423,8 @@ Machine Learning:
 	* [Demucs](https://github.com/facebookresearch/demucs)
 	* [DrumBot](https://twitter.com/notwaldorf/status/1201599495244537858)
 	* [Synopsis](https://synopsis.video/)
-	* [Descript](htthttps://www.descript.com/)
+	* [Descript](https://www.descript.com/)
+	* [DAIN](https://github.com/baowenbo/DAIN)
 
 * Virtual Reality
 	* [Oculus Rift](https://www.oculus.com/en-us/creators/)
@@ -438,6 +444,8 @@ Machine Learning:
 	* [WebXR](https://immersive-web.github.io/webxr/)
 	* [AR.js](https://github.com/jeromeetienne/ar.js)
 
+* Data processing
+  * [1Euro noisy data smoothing](http://cristal.univ-lille.fr/~casiez/1euro/)
 
 ## Communication Protocols
 
@@ -569,6 +577,8 @@ Machine Learning:
 	* CV cameras
 		* [PixyCam](https://pixycam.com/)
 		* [FLIR Firefly](https://www.flir.com/iis/machine-vision/)
+	* 360 cameras
+		* [Insta360](https://www.insta360.com/product/insta360-pro2/)
 	* High-frame-rate cameras
 		* [Edgertronic](https://edgertronic.com/home)
 	* Lidar
@@ -582,6 +592,7 @@ Machine Learning:
 	* [Biscuit](https://ameridroid.com/products/biscuit-programmable-wifi-9-axis-absolute-orientation-sensor)
 * [Sensors](http://www.adafruit.com/category/35)
 	* [Conductive](http://www.bareconductive.com/) [Paint](http://www.gizmag.com/arduino-electric-ink-bare-conductive-touch-board-maker-faire/32182/)
+	* [Mats](http://www.tapeswitch.com/safety-mats.html)
 * Unique controllers
 	* [Leap Motion](https://www.leapmotion.com/) [1](http://kolidar.com/Blog/wp-content/uploads/2012/07/Minority-report_2.jpg)
 		* [handUI for Unity](https://github.com/crookookoo/handUI)
@@ -622,6 +633,7 @@ Machine Learning:
 	* [Samsung](https://www.samsung.com/us/business/products/displays/direct-view-led/explore/)
 	* [Dynascan](https://www.dynascandisplay.com/)
 	* [Baanto](https://baanto.com/)
+	* [Pimoroni](https://shop.pimoroni.com/products/hyperpixel-4-square?variant=30138251444307)
 * Bluetooth
 	* [Quuppa](https://quuppa.com/technology/products/)
 * Voice recognition
@@ -638,6 +650,9 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Transparent displays](http://store.apollodisplays.com/store/products/transparent-displays)
 * [Odd screen sizes](https://earthlcd.com/products/lcd-kits/xlk-10x1-usb-b/)
 * [Outdoor screens](https://lg-mri.com/)
+* [Flexible displays](https://www.royole.com/us/flexible-display)
+* [Flexible LED tile](https://www.planar.com/products/led-video-walls/carbonlight/cli-flex/)
+* [Tiny high-res display](https://shop.pimoroni.com/products/hyperpixel-4-square?variant=30138251444307)
 
 ### Big Displays
 
@@ -645,6 +660,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Matrox TripleHead2Go](http://www.matrox.com/graphics/en/products/gxm/th2go/displayport/)
 * [Ambery HDMI multi-screen layout](http://www.ambery.com/2x2hdvgaviwa.html)
 * [Datapath FX4](https://www.datapath.co.uk/datapath-products/multi-display-products/datapath-fx4)
+	* Alternative: [Gofanco Prophecy](https://www.amazon.com/dp/B07L51VMV9/)
 
 #### Art Frames
 
@@ -658,7 +674,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Satechi Cyclone](http://www.satechi.net/index.php/satechi-cyclone-micro-2-1080p-portable-media-mkv-avi-mov-player-adapter-with-sd-sdhc-memory-usb-slot-and-remote-control)
 
 
-## Hardware 
+## Hardware
 
 #### Installation-friendly computers
 
