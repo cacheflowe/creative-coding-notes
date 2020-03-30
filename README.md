@@ -350,6 +350,7 @@ Machine Learning:
 		* https://www.wiarframe.com/
 		* https://www.sparkar.com/ar-studio/
 		* [Aframe](https://aframe.io)
+		* [Native AR model viewer](https://cwervo.com/writing/quicklook-web/)
 	* Hardware access
 	  * [WebMIDI](https://www.smashingmagazine.com/2018/03/web-midi-api/)
 	  * [Device Orientation](https://www.smashingmagazine.com/2018/03/web-midi-api/)
