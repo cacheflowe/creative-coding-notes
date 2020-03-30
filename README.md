@@ -173,6 +173,7 @@ In addition to this list, check out these awesome lists:
 		* [Machine Learning for Artists](http://ml4a.github.io/)
 	* [Hardware acceleration](http://www.nvidia.com/object/what-is-gpu-computing.html)
 	* [Instancing](https://velasquezdaniel.com/blog/rendering-100k-spheres-instantianing-and-draw-calls/)
+	* [Barycentric vs. Bilinear](https://twitter.com/freyaholmer/status/1243583264713048065)
 * 3D / spatial concepts
 	* [3d projection](https://jsantell.com/3d-projection)
 	* [Meshes](http://www.cmap.polytechnique.fr/~peyre/images/test_remeshing.jpg)
@@ -203,6 +204,7 @@ In addition to this list, check out these awesome lists:
 	* [Superformula](https://en.wikipedia.org/wiki/Superformula)
 	* [Dilation](https://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm) / [Erosion](https://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm)
 	* Collision detection
+	  * [Inside or outside a polygon](https://twitter.com/FreyaHolmer/status/1232826293902888960)
 	* Optimization via [quadtrees](https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374) or [Octrees](http://www.i-programmer.info/programming/theory/1679-quadtrees-and-octrees.html)
 	* [MIP mapping](https://en.wikipedia.org/wiki/Mipmap) & optimization
 	* [Wav Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
@@ -340,15 +342,19 @@ Machine Learning:
 		* [Handtrack.js](https://github.com/victordibia/handtrack.js)
 	* Fonts
 		* [opentype.js](https://opentype.js.org/)
-	* AR:
+	* Augmented/Mixed/Virtual Reality
 		* [ar.js](https://github.com/jeromeetienne/AR.js)
 		* https://github.com/immersive-web/webxr
 		* https://developers.google.com/ar/develop/web/getting-started
 		* https://experiments.withgoogle.com/ar
 		* https://www.wiarframe.com/
 		* https://www.sparkar.com/ar-studio/
-	* WebXR:
 		* [Aframe](https://aframe.io)
+	* Hardware access
+	  * [WebMIDI](https://www.smashingmagazine.com/2018/03/web-midi-api/)
+	  * [Device Orientation](https://www.smashingmagazine.com/2018/03/web-midi-api/)
+	  * [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
+	  * [Serial API](https://wicg.github.io/serial/)
 
 * GLSL
 	* [GLSL Sandbox](http://glslsandbox.com/)
