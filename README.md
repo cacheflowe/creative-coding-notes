@@ -187,6 +187,8 @@ In addition to this list, check out these awesome lists:
 		* [28 GLSL tutorials](https://www.shadertoy.com/view/Md23DV)
 		* [Inigo Quilez: LIVE Shader Deconstruction](https://www.youtube.com/watch?v=Cfe5UQ-1L9Q)
 		* [Raymarching Template](https://www.shadertoy.com/view/tdVXDz)
+		* [Getting started with shaders: signed distance functions!](https://jvns.ca/blog/2020/03/15/writing-shaders-with-signed-distance-functions/)
+		* [SDF Tutorial 1 : box & balloon](https://www.shadertoy.com/view/Xl2XWt)
 	* [Marching cubes](https://en.wikipedia.org/wiki/Marching_cubes)
 	* [Ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics))
 	* [Physically-Based Shading](https://www.shadertoy.com/view/4sSfzK)
@@ -224,6 +226,7 @@ In addition to this list, check out these awesome lists:
 	* [Lindenmayer-Systems](http://en.wikipedia.org/wiki/L-system)
 	* [Morphogenesis](http://en.wikipedia.org/wiki/Morphogenesis)
 	* [Morphogenesis](https://github.com/jasonwebb/morphogenesis-resources)
+	* [Space Colonization](https://medium.com/@jason.webb/space-colonization-algorithm-in-javascript-6f683b743dc5)
 	* [Physics simulations](https://en.wikipedia.org/wiki/Verlet_integration)
 	* [Reaction-Diffusion](http://en.wikipedia.org/wiki/Reaction-diffusion)
 	* [Self-Organization](http://en.wikipedia.org/wiki/Self-Organization)
@@ -331,6 +334,7 @@ Machine Learning:
 		* [clmtrackr](https://github.com/auduno/clmtrackr)
 		* [BRFv4](https://tastenkunst.github.io/brfv4_javascript_examples/)
 		* [jeelizWeboji](https://github.com/jeeliz/jeelizWeboji)
+		* [Facemesh & Handpose via Tensorflow](https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html)
 	* Body trackers
 		* [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
 		* [Handtrack.js](https://github.com/victordibia/handtrack.js)
@@ -367,6 +371,7 @@ Machine Learning:
 	* [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)
 	* [LWJGL Basics](https://github.com/mattdesl/lwjgl-basics/wiki) by @mattdesl
 	* [shader-doodle](https://github.com/halvves/shader-doodle) [by @halvves](https://twitter.com/halvves/status/1116749547131346944)
+	* [Shader Booth](https://shaderbooth.com/)
 
 * Java-based:
 	* [Processing](http://processing.org) [1](http://vimeo.com/15379147)
@@ -412,6 +417,7 @@ Machine Learning:
 	* [BodyPix](https://blog.tensorflow.org/2019/11/updated-bodypix-2.html)
 	* [VIBE](https://github.com/mkocabas/VIBE)
 	* [OpenPTrack](http://openptrack.org/)
+	* [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
 
 * Machine learning
   * [Runway](https://docs.runwayapp.ai)
