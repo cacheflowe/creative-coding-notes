@@ -425,6 +425,8 @@ Machine Learning:
 	* [VIBE](https://github.com/mkocabas/VIBE)
 	* [OpenPTrack](http://openptrack.org/)
 	* [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
+	* [Snap Camera](https://snapcamera.snapchat.com/)
+	  * [Snap Lens Studio](https://lensstudio.snapchat.com/)
 
 * Machine learning
   * [Runway](https://docs.runwayapp.ai)
@@ -477,11 +479,16 @@ Machine Learning:
 		* DMX
 			* [Doug Fleenor Design products](http://www.dfd.com/index.html)
 		* [sACN](https://www.lightjams.com/sacn.html)
-	* Video streaming
+	* Video streaming & shared textures
 		* [Spout](http://spout.zeal.co/)
 		* [Syphon](http://www.syphon.v002.info/)
 		* [CamTwist](http://camtwiststudio.com/)
 		* [RTP](https://en.wikipedia.org/wiki/Real-time_Transport_Protocol)
+	* Audio & MIDI device sharing
+		* [https://github.com/PipeWire/pipewire](PipeWire)
+		* [Jack Audio Connection Kit](https://jackaudio.org/)
+		* [BlackHole](https://github.com/ExistentialAudio/BlackHole) (Soundflower replacement for OS X)
+		* [MIDI-OX](http://www.midiox.com/)
 * Multi-protocol timeline tools
 	* [Vezer](https://imimot.com/vezer/)
 	* [Chataigne](http://benjamin.kuperberg.fr/chataigne/en)
@@ -527,7 +534,7 @@ Machine Learning:
 
 #### Video + Image
 
-* Gimp
+* Glipse Editor
 * [ffmpeg](https://ffmpeg.org/)
 * [imagemagick](https://imagemagick.org/)
 * [gifsicle](https://www.lcdf.org/gifsicle/)
