@@ -846,6 +846,12 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [The Limits of Learning, by Kyle McDonald @ Sónar+D](https://www.youtube.com/watch?v=kWvHjp8vifM)
 * [Computational Craft by Gillian Smith](https://www.youtube.com/watch?v=mwtKiwQxyKY)
 
+#### Podcasts
+
+* [That's So New Media!?](https://tsnm.fireside.fm/)
+* [Tech+Art](https://play.google.com/music/m/Iwmtn2adyprr7cdqocftx5qujrm?t=TechArt)
+* [Digital Ambience](https://www.digitalambiance.com/luminous-arts/)
+
 #### Artists / Coders / Companies
 
 * [Marius Watz](http://mariuswatz.com/) :: [@mariuswatz](http://twitter.com/mariuswatz)
