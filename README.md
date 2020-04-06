@@ -175,6 +175,7 @@ In addition to this list, check out these awesome lists:
 	* [Hardware acceleration](http://www.nvidia.com/object/what-is-gpu-computing.html)
 	* [Instancing](https://velasquezdaniel.com/blog/rendering-100k-spheres-instantianing-and-draw-calls/)
 	* [Barycentric vs. Bilinear](https://twitter.com/freyaholmer/status/1243583264713048065)
+	* [Mapping projections](https://observablehq.com/collection/@fil/projections)
 * 3D / spatial concepts
 	* [3d projection](https://jsantell.com/3d-projection)
 	* [Meshes](http://www.cmap.polytechnique.fr/~peyre/images/test_remeshing.jpg)
@@ -532,6 +533,7 @@ Machine Learning:
 * [TidalCycles](https://tidalcycles.org/)
 * [Aubio](https://aubio.org/)
 * [Magenta](https://magenta.tensorflow.org/studio)
+* [VCV Rack](https://vcvrack.com/Prototype) ([+ plugin docs](https://vcvrack.com/manual/PluginDevelopmentTutorial))
 
 #### Video + Image
 
