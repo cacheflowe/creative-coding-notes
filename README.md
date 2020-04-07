@@ -358,6 +358,10 @@ Machine Learning:
 	  * [Device Orientation](https://www.smashingmagazine.com/2018/03/web-midi-api/)
 	  * [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
 	  * [Serial API](https://wicg.github.io/serial/)
+	* WebRTC
+	  * [PeerJS](https://github.com/peers/peerjs)
+	  * [Kurento](https://doc-kurento.readthedocs.io/en/stable/index.html)
+		* [Other WebRTC servers](https://stackoverflow.com/a/44093117/352456)
 
 * GLSL
 	* [GLSL Sandbox](http://glslsandbox.com/)
