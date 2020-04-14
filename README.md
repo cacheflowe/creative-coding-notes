@@ -19,6 +19,7 @@ In addition to this list, check out these awesome lists:
 * [https://github.com/kosmos/awesome-generative-art](https://github.com/kosmos/awesome-generative-art)
 * [https://github.com/danvoyce/awesome-creative-tech-events](https://github.com/danvoyce/awesome-creative-tech-events)
 * [Open source, experimental, and tiny tools roundup by Everest Pipkin](http://everest-pipkin.com/teaching/tools.html)
+* [Graphics Programming Weekly](https://www.jendrikillner.com/article_database/)
 
 
 ## Creative Coding History
@@ -362,6 +363,8 @@ Machine Learning:
 	  * [PeerJS](https://github.com/peers/peerjs)
 	  * [Kurento](https://doc-kurento.readthedocs.io/en/stable/index.html)
 		* [Other WebRTC servers](https://stackoverflow.com/a/44093117/352456)
+	* CSS
+	  * [CSS Doodle](https://css-doodle.com/)
 
 * GLSL
 	* [GLSL Sandbox](http://glslsandbox.com/)
@@ -424,6 +427,7 @@ Machine Learning:
 	* [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
 	* [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 	* [DensePose](http://densepose.org/)
+	* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
 	* [PoseTrack](https://github.com/iqbalu/PoseTrack-CVPR2017)
 	* [OpenTrack](https://github.com/opentrack/opentrack)
 	* [OpenDataCam](https://github.com/opendatacam/opendatacam)
