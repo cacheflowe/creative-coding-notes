@@ -25,8 +25,10 @@ In addition to this list, check out these awesome lists:
 ## Creative Coding History
 
 * Computer graphics & generative art roots
-	* [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake)
-	* [Georg Nees](https://en.wikipedia.org/wiki/Georg_Nees) - [Computergrafik](http://dada.compart-bremen.de/item/exhibition/164)
+  * [Algorithmic Signs - Five pioneers of computer art in conversation](https://www.youtube.com/watch?v=Hka-lXjoEhM)
+  	* [Vera Molnár](https://en.wikipedia.org/wiki/Frieder_Nake)
+  	* [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake)
+  	* [Georg Nees](https://en.wikipedia.org/wiki/Georg_Nees) - [Computergrafik](http://dada.compart-bremen.de/item/exhibition/164)
 	* [John Whitney - Catalog (1961)](https://www.youtube.com/watch?v=TbV7loKp69s)
 		* Pioneer computer animator John Whitney Sr. in 1959, operating one of the first computer-graphics engines, a mechanical analog computer built largely from surplus World War II anti-aircraft guidance hardware. [Source](https://www.awn.com/mag/issue2.5/2.5pages/2.5moritzwhitney.html)
 	* ["How Computer-Generated Animations Were Made, Circa 1964"](https://www.youtube.com/watch?v=_Lmi6cmrq0w)
@@ -43,9 +45,11 @@ In addition to this list, check out these awesome lists:
 	* [Manfred Mohr - Cubic Limit (1974)](https://www.youtube.com/watch?v=j4M28FEJFF8)
 	* [Carla's Island (1981)](http://www.youtube.com/watch?v=kO-JB1WHmRc)
 	* [The Road to Point Reyes (1983)](http://lucasmuseum.org/works/detail/asset_id/1292)
-	* [Calculated Movements by Larry Cuba (1985)](http://www.youtube.com/watch?v=HcvN1dt0yJo)
+	* [Calculated Movements by Larry Cuba (1985)](https://www.youtube.com/watch?v=OkyqP-g_LrY)
+	* [Myron Krueger - Videoplace (1988)](https://www.youtube.com/watch?v=dmmxVA5xhuo) and [more](https://www.youtube.com/watch?v=d4DUIeXSEpk)
 	* [Samia Halaby](https://www.youtube.com/watch?v=sDfIkXf3uzA)
 	* [A brief history of computer drawing](http://golancourses.net/2016/lectures/2-02/)
+	* [Golan Levin and Zach Lieberman - The Manual Input Sessions (2004)](https://vimeo.com/2375302)
 	* [The Recode Project](http://recodeproject.com/) - A historical reference for generative art
 * Video Games
 	* [A Brief History of Graphics](https://www.youtube.com/watch?v=QyjyWUrHsFc)
@@ -142,6 +146,7 @@ In addition to this list, check out these awesome lists:
 * Basic trigonometry (movement & orientation)
 * Nature / fractals / Recursion
 * [Higher level math](http://acko.net/files/fullfrontal/fullfrontal/slides-net/)
+  * [Math as Code](https://github.com/Jam3/math-as-code) by Jam3
 * [Shaping functions](https://www.flickr.com/photos/kynd/9546075099)
 * 3D
 * Data
@@ -186,16 +191,21 @@ In addition to this list, check out these awesome lists:
 		* [Raymarching Demo 2](https://www.shadertoy.com/view/wlSGWy)
 		* [Raymarching Intro](http://barradeau.com/blog/?p=575)
 		* [Raymarching: more](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
-		* [Raymarching: more](http://www.michaelwalczyk.com/blog/2017/5/25/ray-marching)
+		* [Ray Marching by Michael Walczyk](http://www.michaelwalczyk.com/blog/2017/5/25/ray-marching)
 		* [Raymarching Workshop](https://github.com/ajweeks/RaymarchingWorkshop)
 		* [28 GLSL tutorials](https://www.shadertoy.com/view/Md23DV)
 		* [Inigo Quilez: LIVE Shader Deconstruction](https://www.youtube.com/watch?v=Cfe5UQ-1L9Q)
 		* [Raymarching Template](https://www.shadertoy.com/view/tdVXDz)
 		* [Getting started with shaders: signed distance functions!](https://jvns.ca/blog/2020/03/15/writing-shaders-with-signed-distance-functions/)
 		* [SDF Tutorial 1 : box & balloon](https://www.shadertoy.com/view/Xl2XWt)
+		* [Simple Raymarching Example Scene](https://www.shadertoy.com/view/wd2SR3)
+		* [Shader Coding: Ray Marching Tips & Tricks](https://www.youtube.com/watch?v=Vmb7VGBVZJA)
+		* [Volumetric Rendering](https://wallisc.github.io/rendering/2020/05/02/Volumetric-Rendering-Part-1.html)
 	* [Marching cubes](https://en.wikipedia.org/wiki/Marching_cubes)
 	* [Ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics))
 	* [Physically-Based Shading](https://www.shadertoy.com/view/4sSfzK)
+	* [MatCap](https://github.com/nidorx/matcaps)
+	* [Shadows](https://docs.google.com/presentation/d/1MwJcnSvkAzpT8BuoSqIkzlYLjdA_lBDrt8bW-vcwmDU/edit#slide=id.p)
 	* [Dot Product](http://sandervanrossen.blogspot.com/2019/07/dot-products-and-planes.html) / [Explainer gif](https://twitter.com/freyaholmer/status/1200807790580768768?s=12)
 	* [Voxels](http://rjzarah.blog.com/files/2011/10/voxel_pixelart.gif)
 	* Spherical mathematics, Quaternions and Euler rotation [1](http://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
@@ -203,7 +213,7 @@ In addition to this list, check out these awesome lists:
 	* [Displacement](https://vimeo.com/125927621)
 	* [NURBS](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline)
 	* [Polygon meshes](https://en.wikipedia.org/wiki/Polygon_mesh)
-	* [Ambient occlusion](https://en.wikipedia.org/wiki/Ambient_occlusion) & 3d lighting
+	* [Ambient occlusion](https://en.wikipedia.org/wiki/Ambient_occlusion) ([Slides](https://docs.google.com/presentation/d/1rVb2bW2EC-XQjOoN4hvXB-5aIO8H5vd2diKXw1ldAE0/preview#slide=id.p)) & 3d lighting
 	* [Superformula](https://en.wikipedia.org/wiki/Superformula)
 	* [Dilation](https://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm) / [Erosion](https://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm)
 	* Collision detection
@@ -254,10 +264,13 @@ Algorithmic design:
 * [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/) by kynd
 * [Programming Design Systems](https://programmingdesignsystems.com/)
 * [Generative Possibility Space](http://www.possibilityspace.org/tutorial-generative-possibility-space/)
+* [GenerativeHut tutorials](https://www.generativehut.com/tutorials)
+* [Line](https://wblut.com/line/) by wblut
 
 Graphics Programming:
 
 * [https://learnopengl.com/](https://learnopengl.com/)
+* [WebGL Guide](https://xem.github.io/articles/webgl-guide.html)
 * [Introduction to VR Graphics Performance](https://docs.google.com/presentation/d/1yJSQy4QtcQxcMjr9Wj6kjMd2R1BLNA1mUebDtnaXDL8/edit#slide=id.p)
 * [Casual Introduction to Low-Level Graphics Programming](http://stephaniehurlburt.com/blog/2016/10/28/casual-introduction-to-low-level-graphics-programming)
 * [Computational Geometry Tutorial](http://wykobi.com/tutorial.html)
@@ -268,12 +281,14 @@ Graphics Programming:
 * http://antongerdelan.net/teaching/
 * [Foundations of Game Engine Development Mathematics](https://www.amazon.com/Foundations-Game-Engine-Development-Mathematics/dp/0985811749/ref=asap_bc?ie=UTF8)
 * [GPU Performance for Game Artists](http://fragmentbuffer.com/gpu-performance-for-game-artists/)
+* [GPU Optimization for Game Dev](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d#gpu-optimization-for-gamedev)
 * [Ray Tracing in One Weekend](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8)
 * [NVIDIA - GPU Gems 3](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_pref01.html)
 * [A Beginner's Guide to Coding Graphics Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
 * [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 * [List of technical case studies on WebGL and creative development](https://github.com/luruke/awesome-casestudy/blob/master/README.md)
 * [@mattdesl's workshop-webgl-glsl](https://github.com/mattdesl/workshop-webgl-glsl/)
+* [Starting with Shaders](https://www.ilithya.rocks/blog/starting-with-shaders/)
 * [Real-time refraction](https://tympanus.net/codrops/2019/10/29/real-time-multiside-refraction-in-three-steps/)
 
 Audio programming:
@@ -291,11 +306,35 @@ Machine Learning:
 
 #### Video Series
 
+* [Computer Arts Society](https://www.youtube.com/channel/UCB_2ljYB0lZuDB_2E4mBJFQ)
 * [Coding Math](https://www.youtube.com/user/codingmath)
 * [The Coding Train](https://www.youtube.com/user/shiffman)
 * [The Art of Code](https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg)
 * [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
+* [Inigo Quilez](https://www.youtube.com/user/mari1234mari)
+* [Code Parade](https://www.youtube.com/channel/UCrv269YwJzuZL3dH5PCgxUw)
+* [Hopson](https://www.youtube.com/channel/UCeQhZOvNKSBRU0Mdg7V44wA)
+* [The Art of Code](https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg)
+* [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ)
+* [Ben Eater](https://www.youtube.com/user/eaterbc)
+* [Brackeys](https://www.youtube.com/user/Brackeys)
+* [ThinMatrix](https://www.youtube.com/user/ThinMatrix)
+* [Kristin Stock](https://www.youtube.com/channel/UCCHg9mt6Tu6f-WCF4gf5oyQ)
+* [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
+* [ACM SIGGRAPH](https://www.youtube.com/channel/UCbaxUExGKrH2zxY4AkY9wCg)
+* [Revision Festival](https://www.youtube.com/channel/UChowAGZeJpPgp_1A9GCAJ_Q)
+* [Algorithmic Art](https://www.youtube.com/channel/UCO6iBPzIvUdzxcf87BN24FQ)
 
+#### Courses
+
+* https://online-learning.harvard.edu/course/cs50-introduction-computer-science
+* https://www.edx.org/course/computer-science-101
+* https://teachyourselfcs.com/
+* https://github.com/prakhar1989/awesome-courses
+* https://github.com/shiv4nsh/awesome-computer-science-resources
+* https://github.com/onlurking/awesome-infosec
+* https://github.com/donnemartin/system-design-primer
+* https://github.com/infoslack/awesome-web-hacking
 
 ## Creative Coding Tools
 
@@ -328,6 +367,7 @@ Machine Learning:
 		* [Tuna](https://github.com/Theodeus/tuna)
 		* [Slang](https://github.com/kylestetz/slang)
 		* [aq](https://github.com/rxi/aq)
+		* [waveform-data.js](https://github.com/bbc/waveform-data.js)
 	* Voice-recognition
 	  * [Web SPeech API demo](https://mdn.github.io/web-speech-api/speech-color-changer/)
 	* General tools
@@ -339,9 +379,10 @@ Machine Learning:
 		* [clmtrackr](https://github.com/auduno/clmtrackr)
 		* [BRFv4](https://tastenkunst.github.io/brfv4_javascript_examples/)
 		* [jeelizWeboji](https://github.com/jeeliz/jeelizWeboji)
-		* [Facemesh & Handpose via Tensorflow](https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html)
+		* [Facemesh & Handpose via Tensorflow](https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html) + [example via UDP](https://github.com/madelinegannon/example-mediapipe-udp)
 	* Body trackers
 		* [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
+			* [PoseNet for installations](https://github.com/oveddan/posenet-for-installations)
 		* [Handtrack.js](https://github.com/victordibia/handtrack.js)
 	* Fonts
 		* [opentype.js](https://opentype.js.org/)
@@ -356,13 +397,20 @@ Machine Learning:
 		* [Native AR model viewer](https://cwervo.com/writing/quicklook-web/)
 	* Hardware access
 	  * [WebMIDI](https://www.smashingmagazine.com/2018/03/web-midi-api/)
+			* [JZZ](https://github.com/jazz-soft/JZZ)
 	  * [Device Orientation](https://www.smashingmagazine.com/2018/03/web-midi-api/)
 	  * [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
 	  * [Serial API](https://wicg.github.io/serial/)
-	* WebRTC
-	  * [PeerJS](https://github.com/peers/peerjs)
-	  * [Kurento](https://doc-kurento.readthedocs.io/en/stable/index.html)
-		* [Other WebRTC servers](https://stackoverflow.com/a/44093117/352456)
+		* [Tramontana](https://tramontana.xyz/)
+	* Multi-user sync
+		* WebSockets
+			* [Socket.io](https://socket.io)
+			* [Croquet](https://www.croquet.io/)
+			* [Peer.js](https://peerjs.com/)
+		* WebRTC
+		  * [PeerJS](https://github.com/peers/peerjs)
+		  * [Kurento](https://doc-kurento.readthedocs.io/en/stable/index.html)
+			* [Other WebRTC servers](https://stackoverflow.com/a/44093117/352456)
 	* CSS
 	  * [CSS Doodle](https://css-doodle.com/)
 
@@ -437,6 +485,7 @@ Machine Learning:
 	* [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
 	* [Snap Camera](https://snapcamera.snapchat.com/)
 	  * [Snap Lens Studio](https://lensstudio.snapchat.com/)
+	* [Consistent Video Depth Estimation](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)
 
 * Machine learning
   * [Runway](https://docs.runwayapp.ai)
@@ -614,6 +663,8 @@ Machine Learning:
 		* [Edgertronic](https://edgertronic.com/home)
 	* Lidar
 		* [Ouster OS-1](https://www.ouster.io/product-os1/)
+	* Radar
+		* [Google Soli](https://atap.google.com/soli/)
 	* Ultrasound vision
 		* [Topsens TS3](https://toposens.com/ts3/)
 * Accelerometer/position
@@ -670,6 +721,7 @@ Machine Learning:
 * Voice recognition
 	* [Rhasspy](https://github.com/synesthesiam/rhasspy)
 	* [Sphinx](https://cmusphinx.github.io/wiki/download/)
+	* [alphacephei](https://alphacephei.com/en/)
 
 
 ## Unique Displays and Touchscreens
@@ -751,6 +803,11 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [DMX over Wifi](https://www.idjnow.com/blizzard-lighting-wicicle-xmit-skywire-wireless-dmx-transmitter-and-10-receivers-package.html#3)
 * [USB over Wifi](https://www.amazon.co.uk/Silex-E1305-DS-510-Device-Server/dp/B00WS8QCP4/ref=pd_lpo_sbs_147_img_0?_encoding=UTF8&psc=1&refRID=FQRQB3YN278FZ6EMTKE2)
 
+#### Wifi Hotspots
+
+* [Skyroam](https://www.skyroam.com/)
+* [Teltonika](https://teltonika-networks.com/product/rut955/)
+
 #### Video capture
 
 * [El Gato Camlink](https://www.elgato.com/en/gaming/cam-link)
@@ -777,6 +834,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 	* [LaserAnimation Sollinger](https://laseranimation.com/en/products)
 	* [Lightspace USA](http://www.lightspaceusa.com)
 	* [Memo's laser info](https://github.com/memo/ofxIlda/wiki)
+	* [LaserCube](https://www.laseros.com/)
 * Robot arms
 	* Laser Cutters
 	* CNC routers
@@ -812,7 +870,10 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Create Digital Motion](http://createdigitalmotion.com/)
 * [Prosthetic Knowledge](http://prostheticknowledge.tumblr.com/)
 * [http://hackingforartists.com/](http://hackingforartists.com/)
-* [http://openprocessing.org](http://openprocessing.org)
+* [OpenProcessing](http://openprocessing.org)
+* [WebGL Fundamentals](https://webglfundamentals.org)
+* [THREE.js Fundamentals](https://threejsfundamentals.org/)
+* [Discover THREE.js](https://discoverthreejs.com)
 
 #### Books
 
@@ -856,6 +917,10 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Creating Interactive Visuals for Large Audiences (Joel Pryde)](https://www.youtube.com/watch?v=C7eRhSCLono)
 * [The Limits of Learning, by Kyle McDonald @ Sónar+D](https://www.youtube.com/watch?v=kWvHjp8vifM)
 * [Computational Craft by Gillian Smith](https://www.youtube.com/watch?v=mwtKiwQxyKY)
+* [Generative Art - Computers, Data, and Humanity](https://www.youtube.com/watch?v=x0OK1GiI83s)
+* [Kate Compton: Creating generative art with Javascript](https://www.youtube.com/watch?v=tJ49bTJ6fbs)
+* [Tim Holman - Generative Art Speedrun](https://www.youtube.com/watch?v=4Se0_w0ISYk)
+* [Generative Machines with Matt DesLauriers](https://www.youtube.com/watch?v=8Uo6zFwSO78)
 
 #### Podcasts
 
