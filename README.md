@@ -26,7 +26,7 @@ In addition to this list, check out these awesome lists:
 
 * Computer graphics & generative art roots
   * [Algorithmic Signs - Five pioneers of computer art in conversation](https://www.youtube.com/watch?v=Hka-lXjoEhM)
-  	* [Vera Molnár](https://en.wikipedia.org/wiki/Frieder_Nake)
+  	* [Vera Molnár](http://www.artnet.com/artists/vera-molnar/)
   	* [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake)
   	* [Georg Nees](https://en.wikipedia.org/wiki/Georg_Nees) - [Computergrafik](http://dada.compart-bremen.de/item/exhibition/164)
 	* [John Whitney - Catalog (1961)](https://www.youtube.com/watch?v=TbV7loKp69s)
@@ -40,8 +40,9 @@ In addition to this list, check out these awesome lists:
 	* [Norman McLaren - Synchromy (1971)](https://www.youtube.com/watch?v=Jqz_tx1-xd4)
 	* [Erkki Kurenniemi - DIMI Ballet (1971)](https://www.youtube.com/watch?v=d-yHULQ2V5c)
 	* [John Whitney - Matrix III (1972)](http://www.youtube.com/watch?v=ZrKgyY5aDvA)
-	* [Ed Catmull - first 3D rendered movie (1972)](https://vimeo.com/16292363)
+	* [Ed Catmull & Fred Parke - first 3D rendered movie (1972)](https://vimeo.com/16292363)
 	* [Manfred Mohr - Cube Transformation Study (1972)](https://vimeo.com/65241719)
+  * [Ed Catmull & Fred Parke - Early CGI Facial Animation (1974)](https://www.youtube.com/watch?v=SPMFhcC4SvQ)
 	* [Manfred Mohr - Cubic Limit (1974)](https://www.youtube.com/watch?v=j4M28FEJFF8)
 	* [Carla's Island (1981)](http://www.youtube.com/watch?v=kO-JB1WHmRc)
 	* [The Road to Point Reyes (1983)](http://lucasmuseum.org/works/detail/asset_id/1292)
@@ -49,17 +50,20 @@ In addition to this list, check out these awesome lists:
 	* [Myron Krueger - Videoplace (1988)](https://www.youtube.com/watch?v=dmmxVA5xhuo) and [more](https://www.youtube.com/watch?v=d4DUIeXSEpk)
 	* [Samia Halaby](https://www.youtube.com/watch?v=sDfIkXf3uzA)
 	* [A brief history of computer drawing](http://golancourses.net/2016/lectures/2-02/)
+  * [Karl Sims - Evolved Virtual Creatures (1994)](http://www.youtube.com/watch?v=JBgG_VSP7f8)
+	* [Scott Snibbe - Motion Phone (1995)](https://www.youtube.com/watch?v=6AMeZaNou6w)
+	* [Romy Achituv & Camille Utterback - Text Rain (1999)](http://camilleutterback.com/projects/text-rain/)
 	* [Golan Levin and Zach Lieberman - The Manual Input Sessions (2004)](https://vimeo.com/2375302)
-	* [The Recode Project](http://recodeproject.com/) - A historical reference for generative art
-* Video Games
+* Historic overviews
+  * [The Recode Project](http://recodeproject.com/) - A historical reference for generative art
 	* [A Brief History of Graphics](https://www.youtube.com/watch?v=QyjyWUrHsFc)
+  * ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
 	* [3D texturing history](https://twitter.com/BryanRenno/status/1122880458012934146)
 * Demoscene
+  * [Demoscene - The Art of the Algorithms](http://www.youtube.com/watch?v=5MexnBunH_g)
 	* [Yoichiro Kawaguchi](http://uihacker.blogspot.com/2013/07/inspiration-yoichiro-kawaguchi.html)
 	* [Second Reality by Future Crew (1993)](http://www.youtube.com/watch?v=rFv7mHTf0nA)
  	* [Pouet](http://www.pouet.net/)
-* Science & research
-	* [Karl Sims - Evolved Virtual Creatures](http://www.youtube.com/watch?v=JBgG_VSP7f8)
 * Flash era: interactive motion graphics
 	* GMunk
 	* Robert Penner (easing algorithms)
@@ -154,38 +158,60 @@ In addition to this list, check out these awesome lists:
 #### Visual algorithms
 
 * Commons tools & concepts
-	* [Easing & interpolation](http://easings.net/)
-	* [Parallax](https://en.wikipedia.org/wiki/Parallax)
-	* Noise
-		* [Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise) for smooth randomness, terrain, textures. [More info](https://eev.ee/blog/2016/05/29/perlin-noise/)
-		* [Curl noise](http://petewerner.blogspot.com/2015/02/intro-to-curl-noise.html)
-		* [Fractal Brownian Motion](https://thebookofshaders.com/13/)
-	* [Reaction](http://www.karlsims.com/rd.html)-[diffusion](https://www.shadertoy.com/view/lld3z8)
-	* [Voronoi](http://cs.nyu.edu/~ajsecord/npar2002/html/stipples-img16.png) [2](http://ultimaker.ipbhost.com/uploads/gallery/album_13/gallery_2943_13_8700870.jpg)
+  * [Anti-aliasing algorithms](https://blog.codinghorror.com/fast-approximate-anti-aliasing-fxaa/)
+  * [Barycentric vs. Bilinear](https://twitter.com/freyaholmer/status/1243583264713048065)
+  * [Blob detection](https://en.wikipedia.org/wiki/Blob_detection)
+  * [Cellular autonoma](http://natureofcode.com/book/chapter-7-cellular-automata)
+    * [Conway's classic Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+  * Collision detection
+    * [Inside or outside a polygon](https://twitter.com/FreyaHolmer/status/1232826293902888960)
+  * [Computer vision](https://en.wikipedia.org/wiki/Computer_vision) (CV)
+  * [Concave](https://www.codeproject.com/Articles/1201438/The-Concave-Hull-of-a-Set-of-Points) & [convex hulls](https://en.wikipedia.org/wiki/Convex_hull)
 	* [Delaunay Triangulation](http://mathworld.wolfram.com/images/eps-gif/DelaunayTriangulation_1000.gif)
-	* [Packing](http://en.wikipedia.org/wiki/Packing_problem) / [Space-filling algorithms](http://www.complexification.net/gallery/machines/boxFitting/boxFittingPRN.jpg)
-	* Conway's classic Game of Life / [cellular autonoma](http://natureofcode.com/book/chapter-7-cellular-automata)
-	* Emergence
-	* [Genetic](http://www.youtube.com/watch?v=JBgG_VSP7f8) & evolutionary algorithms
-	* [Anti-aliasing algorithms](https://blog.codinghorror.com/fast-approximate-anti-aliasing-fxaa/)
-	* [Motion Blur](https://twitter.com/freyaholmer/status/1108900107838205953)
-	* [Feedback](https://www.shadertoy.com/view/Xd2fWR) [2](https://www.youtube.com/watch?v=B4Kn3djJMCE&feature=youtu.be)
-	* [Concave](https://www.codeproject.com/Articles/1201438/The-Concave-Hull-of-a-Set-of-Points) & [convex hulls](https://en.wikipedia.org/wiki/Convex_hull)
-	* [Blob](https://en.wikipedia.org/wiki/Blob_detection) & [edge detection](https://en.wikipedia.org/wiki/Edge_detection)
-	* [Computer vision](https://en.wikipedia.org/wiki/Computer_vision) (CV) (AR)
-	* [Kalman Filters](https://www.wouterbulten.nl/blog/tech/kalman-filters-explained-removing-noise-from-rssi-signals/)
+  * [Diffusion Limited Aggregation](https://editor.p5js.org/codingtrain/sketches/XpS9wGkbB)
+  * [Dilation](https://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm) / [Erosion](https://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm)
+  * [Easing & interpolation](http://easings.net/)
+  * [Edge detection](https://en.wikipedia.org/wiki/Edge_detection)
+  * [Emergence](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art)
+  * [Feedback](https://www.shadertoy.com/view/Xd2fWR) [2](https://www.youtube.com/watch?v=B4Kn3djJMCE&feature=youtu.be)
+  * [Genetic](http://www.youtube.com/watch?v=JBgG_VSP7f8) & evolutionary algorithms
+  * [Hardware acceleration](http://www.nvidia.com/object/what-is-gpu-computing.html)
+  * [Instancing](https://velasquezdaniel.com/blog/rendering-100k-spheres-instantianing-and-draw-calls/)
+  * [Kalman Filters](https://www.wouterbulten.nl/blog/tech/kalman-filters-explained-removing-noise-from-rssi-signals/)
+    * [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+    * [Lissajous Curves](https://www.youtube.com/watch?v=glDU8Nsyidg)
+  * [Map projections](https://observablehq.com/collection/@fil/projections)
+  * [Marching Squares](https://editor.p5js.org/codingtrain/sketches/wwB-AA4i-)
+  * [MIP mapping](https://en.wikipedia.org/wiki/Mipmap) & optimization
+  * [Motion Blur](https://twitter.com/freyaholmer/status/1108900107838205953)
+  * Noise
+    * [Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise) for smooth randomness, terrain, textures. [More info](https://eev.ee/blog/2016/05/29/perlin-noise/)
+    * [Curl noise](http://petewerner.blogspot.com/2015/02/intro-to-curl-noise.html)
+    * [Fractal Brownian Motion](https://thebookofshaders.com/13/)
+  * [Packing](http://en.wikipedia.org/wiki/Packing_problem)
+  * [Parallax](https://en.wikipedia.org/wiki/Parallax)
+  * [Reaction](http://www.karlsims.com/rd.html)-[diffusion](https://www.shadertoy.com/view/lld3z8)
+  * [Space-filling algorithms](http://www.complexification.net/gallery/machines/boxFitting/boxFittingPRN.jpg)
+  * [Style Transfer](https://tenso.rs/demos/fast-neural-style/)
+  * [Voronoi](http://cs.nyu.edu/~ajsecord/npar2002/html/stipples-img16.png) [2](http://ultimaker.ipbhost.com/uploads/gallery/album_13/gallery_2943_13_8700870.jpg)
+  * [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
 	* Machine learning & AI
-		* [Style Transfer](https://tenso.rs/demos/fast-neural-style/)
 		* [Deeplearn.js](https://pair-code.github.io/deeplearnjs/docs/tutorials/index.html)
 		* [Machine Learning for Artists](http://ml4a.github.io/)
-	* [Hardware acceleration](http://www.nvidia.com/object/what-is-gpu-computing.html)
-	* [Instancing](https://velasquezdaniel.com/blog/rendering-100k-spheres-instantianing-and-draw-calls/)
-	* [Barycentric vs. Bilinear](https://twitter.com/freyaholmer/status/1243583264713048065)
-	* [Mapping projections](https://observablehq.com/collection/@fil/projections)
 * 3D / spatial concepts
-	* [3d projection](https://jsantell.com/3d-projection)
-	* [Meshes](http://www.cmap.polytechnique.fr/~peyre/images/test_remeshing.jpg)
+  *  [Ambient occlusion](https://en.wikipedia.org/wiki/Ambient_occlusion) ([Slides](https://docs.google.com/presentation/d/1rVb2bW2EC-XQjOoN4hvXB-5aIO8H5vd2diKXw1ldAE0/preview#slide=id.p)) & 3d lighting
+  * [Bump/Normal/Displacement maps](http://blog.digitaltutors.com/bump-normal-and-displacement-maps/)
 	* [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry)
+  * [Displacement](https://vimeo.com/125927621)
+  * [Dot Product](http://sandervanrossen.blogspot.com/2019/07/dot-products-and-planes.html) / [Explainer gif](https://twitter.com/freyaholmer/status/1200807790580768768?s=12)
+  * [Marching cubes](https://en.wikipedia.org/wiki/Marching_cubes)
+  * [MatCap](https://github.com/nidorx/matcaps)
+  * [Meshes](http://www.cmap.polytechnique.fr/~peyre/images/test_remeshing.jpg)
+    * [Polygon meshes](https://en.wikipedia.org/wiki/Polygon_mesh)
+  * [NURBS](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline)
+  * Optimization via [quadtrees](https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374) or [Octrees](http://www.i-programmer.info/programming/theory/1679-quadtrees-and-octrees.html)
+  * [Physically-Based Shading](https://www.shadertoy.com/view/4sSfzK)
+  * [Projection (3D)](https://jsantell.com/3d-projection)
 	* [Raymarching](https://www.shadertoy.com/view/4dSfRc)
 		* [Raymarching Demo](https://www.shadertoy.com/view/4dSfRc)
 		* [Raymarching Demo 2](https://www.shadertoy.com/view/wlSGWy)
@@ -201,27 +227,12 @@ In addition to this list, check out these awesome lists:
 		* [Simple Raymarching Example Scene](https://www.shadertoy.com/view/wd2SR3)
 		* [Shader Coding: Ray Marching Tips & Tricks](https://www.youtube.com/watch?v=Vmb7VGBVZJA)
 		* [Volumetric Rendering](https://wallisc.github.io/rendering/2020/05/02/Volumetric-Rendering-Part-1.html)
-	* [Marching cubes](https://en.wikipedia.org/wiki/Marching_cubes)
-	* [Ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics))
-	* [Physically-Based Shading](https://www.shadertoy.com/view/4sSfzK)
-	* [MatCap](https://github.com/nidorx/matcaps)
+  * [Ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics))
 	* [Shadows](https://docs.google.com/presentation/d/1MwJcnSvkAzpT8BuoSqIkzlYLjdA_lBDrt8bW-vcwmDU/edit#slide=id.p)
-	* [Dot Product](http://sandervanrossen.blogspot.com/2019/07/dot-products-and-planes.html) / [Explainer gif](https://twitter.com/freyaholmer/status/1200807790580768768?s=12)
+  * [Spherical mathematics](https://editor.p5js.org/codingtrain/sketches/qVs1hxtc), Quaternions and Euler rotation [1](http://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
+  * [Sub Surface Scattering](https://therealmjp.github.io/posts/sss-intro/)
+  * [Superformula](https://en.wikipedia.org/wiki/Superformula)
 	* [Voxels](http://rjzarah.blog.com/files/2011/10/voxel_pixelart.gif)
-	* Spherical mathematics, Quaternions and Euler rotation [1](http://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
-	* [Bump/Normal/Displacement maps](http://blog.digitaltutors.com/bump-normal-and-displacement-maps/)
-	* [Displacement](https://vimeo.com/125927621)
-	* [NURBS](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline)
-	* [Polygon meshes](https://en.wikipedia.org/wiki/Polygon_mesh)
-	* [Ambient occlusion](https://en.wikipedia.org/wiki/Ambient_occlusion) ([Slides](https://docs.google.com/presentation/d/1rVb2bW2EC-XQjOoN4hvXB-5aIO8H5vd2diKXw1ldAE0/preview#slide=id.p)) & 3d lighting
-	* [Superformula](https://en.wikipedia.org/wiki/Superformula)
-	* [Dilation](https://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm) / [Erosion](https://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm)
-	* Collision detection
-	  * [Inside or outside a polygon](https://twitter.com/FreyaHolmer/status/1232826293902888960)
-	* Optimization via [quadtrees](https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374) or [Octrees](http://www.i-programmer.info/programming/theory/1679-quadtrees-and-octrees.html)
-	* [MIP mapping](https://en.wikipedia.org/wiki/Mipmap) & optimization
-	* [Wav Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
-	* [Sub Surface Scattering](https://therealmjp.github.io/posts/sss-intro/)
 * Natural simulations (some borrowed from @AmnonOwed @ [this repo](https://github.com/AmnonOwed/P5_NaturalSystems))
 	* [Algorithmic Botany](http://algorithmicbotany.org/papers/)
 	* [Biomimicry](http://en.wikipedia.org/wiki/Biomimicry)
@@ -237,10 +248,10 @@ In addition to this list, check out these awesome lists:
 		* [List_of_fractals_by_Hausdorff_dimension](http://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
 	* [Genetic Algorithms](http://en.wikipedia.org/wiki/Genetic_algorithm)
 	* [Greeble](http://en.wikipedia.org/wiki/Greeble)
-	* Laplacian Growth
+	* [Laplacian Growth](https://vimeo.com/22628789)
 	* [Lindenmayer-Systems](http://en.wikipedia.org/wiki/L-system)
 	* [Morphogenesis](http://en.wikipedia.org/wiki/Morphogenesis)
-	* [Morphogenesis](https://github.com/jasonwebb/morphogenesis-resources)
+    * [Morphogenesis resources](https://github.com/jasonwebb/morphogenesis-resources)
 	* [Space Colonization](https://medium.com/@jason.webb/space-colonization-algorithm-in-javascript-6f683b743dc5)
 	* [Physics simulations](https://en.wikipedia.org/wiki/Verlet_integration)
 	* [Reaction-Diffusion](http://en.wikipedia.org/wiki/Reaction-diffusion)
@@ -262,6 +273,7 @@ Algorithmic design:
 * [So you want to build a generator](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator) by Kate Compton
 * [On Generative Algorithms](http://inconvergent.net/generative/) by Inconvergent
 * [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/) by kynd
+* [The Algorithm Thought Police](http://mariuswatz.com/mwatztumblrcom/the-algorithm-thought-police.html)
 * [Programming Design Systems](https://programmingdesignsystems.com/)
 * [Generative Possibility Space](http://www.possibilityspace.org/tutorial-generative-possibility-space/)
 * [GenerativeHut tutorials](https://www.generativehut.com/tutorials)
@@ -290,10 +302,14 @@ Graphics Programming:
 * [@mattdesl's workshop-webgl-glsl](https://github.com/mattdesl/workshop-webgl-glsl/)
 * [Starting with Shaders](https://www.ilithya.rocks/blog/starting-with-shaders/)
 * [Real-time refraction](https://tympanus.net/codrops/2019/10/29/real-time-multiside-refraction-in-three-steps/)
+* [Generative Art with CSS](https://generative-art-with-css.commons.host/)
+* [Crosshatch Automata](https://medium.com/@kjetil.golid/automaton-visuals-90bdd9f73286)
+* [Material Design on the GPU](https://mattdesl.svbtle.com/material-design-on-the-gpu)
 
 Audio programming:
 
 * [George E. Lewis: Why Do We Want Our Computers to Improvise?](https://www.youtube.com/watch?v=wDP8FsjyCaA)
+* [Generating music in the waveform domain](https://benanne.github.io/2020/03/24/audio-generation.html)
 * https://ccrma.stanford.edu/~jos/
 
 Math:
@@ -322,6 +338,7 @@ Machine Learning:
 * [Kristin Stock](https://www.youtube.com/channel/UCCHg9mt6Tu6f-WCF4gf5oyQ)
 * [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
 * [ACM SIGGRAPH](https://www.youtube.com/channel/UCbaxUExGKrH2zxY4AkY9wCg)
+* [Ars Electronica](https://www.youtube.com/user/ArsElectronica)
 * [Revision Festival](https://www.youtube.com/channel/UChowAGZeJpPgp_1A9GCAJ_Q)
 * [Algorithmic Art](https://www.youtube.com/channel/UCO6iBPzIvUdzxcf87BN24FQ)
 
@@ -380,6 +397,7 @@ Machine Learning:
 		* [BRFv4](https://tastenkunst.github.io/brfv4_javascript_examples/)
 		* [jeelizWeboji](https://github.com/jeeliz/jeelizWeboji)
 		* [Facemesh & Handpose via Tensorflow](https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html) + [example via UDP](https://github.com/madelinegannon/example-mediapipe-udp)
+    * [WebGazer.js](https://webgazer.cs.brown.edu/)
 	* Body trackers
 		* [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
 			* [PoseNet for installations](https://github.com/oveddan/posenet-for-installations)
@@ -394,6 +412,7 @@ Machine Learning:
 		* https://www.wiarframe.com/
 		* https://www.sparkar.com/ar-studio/
 		* [Aframe](https://aframe.io)
+      * [web2vr](https://github.com/kikoano/web2vr)
 		* [Native AR model viewer](https://cwervo.com/writing/quicklook-web/)
 	* Hardware access
 	  * [WebMIDI](https://www.smashingmagazine.com/2018/03/web-midi-api/)
@@ -471,6 +490,7 @@ Machine Learning:
 
 * Computer Vision / Image recognition:
 	* [OpenCV](https://opencv.org/)
+	* [OpenCV AI Kit](https://www.kickstarter.com/projects/opencv/opencv-ai-kit)
 	* [YOLO](https://pjreddie.com/darknet/yolo/)
 	* [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
 	* [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
@@ -499,6 +519,7 @@ Machine Learning:
 	* [Synopsis](https://synopsis.video/)
 	* [Descript](https://www.descript.com/)
 	* [DAIN](https://github.com/baowenbo/DAIN)
+	* [RiTa](https://rednoise.org/rita/index.php)
 
 * Virtual Reality
 	* [Oculus Rift](https://www.oculus.com/en-us/creators/)
@@ -580,6 +601,7 @@ Machine Learning:
 * [JUCE](https://juce.com/)
 * [Faust](http://faust.grame.fr/)
 * [ChucK](http://chuck.cs.princeton.edu/)
+* [Earsketch](https://earsketch.gatech.edu/landing/)
 * [Supercollider](http://supercollider.github.io/)
 * [Extempore](http://supercollider.github.io/)
 * [Sonic PI](http://sonic-pi.net/)
@@ -654,6 +676,16 @@ Machine Learning:
 			* [eys3D](https://www.sparkfun.com/products/14725)
 			* [Mynt Eye](https://mynteyeai.com/)
 			* [Nuitrack](https://nuitrack.com/) (skeletal deletion middleware)
+	* 3D Scanning / Photogrammetry Apps
+		* [Capture](https://apps.apple.com/us/app/capture-3d-scan-anything/id1444183458)
+		* [Matterport](https://matterport.com/)
+    * [Trnio](https://apps.apple.com/us/app/trnio-3d-scanner/id683053382)
+    * [Bellus3D FaceApp](https://apps.apple.com/us/app/bellus3d-faceapp/id1352268131)
+		* [RealityCapture](https://www.capturingreality.com/)
+		* [Heges](https://hege.sh/)
+		* [Qlone](https://www.qlone.pro/)
+		* [Scandy Pro](https://www.scandy.co/apps/scandy-pro)
+		* [IN3D](https://in3d.io/)
 	* CV cameras
 		* [PixyCam](https://pixycam.com/)
 		* [FLIR Firefly](https://www.flir.com/iis/machine-vision/)
@@ -869,6 +901,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Creative Applications](http://www.creativeapplications.net/)
 * [Create Digital Motion](http://createdigitalmotion.com/)
 * [Prosthetic Knowledge](http://prostheticknowledge.tumblr.com/)
+* [Flowing Data](https://flowingdata.com/)
 * [http://hackingforartists.com/](http://hackingforartists.com/)
 * [OpenProcessing](http://openprocessing.org)
 * [WebGL Fundamentals](https://webglfundamentals.org)
@@ -909,11 +942,12 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Designing Generative Systems w/ P5.js](https://www.youtube.com/playlist?list=PLyRZnpOSgMj3K8AV2I6UldnvTj6d_Zrf0)
 * [Clouds documentary](http://www.cloudsdocumentary.com/)
 * [Indie Game The Movie](http://www.indiegamethemovie.com/)
-* [Moleman 2 - Demoscene - The Art of the Algorithms](https://www.youtube.com/watch?v=iRkZcTg1JWU)
+* [Demoscene - The Art of the Algorithms](http://www.youtube.com/watch?v=5MexnBunH_g)
 * [Makin' Stuff Look Good in Unity](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg)
 * [Exploring Emergence | Andy Lomas](https://www.youtube.com/watch?v=gOqOyb51prU)
 * [Juice it or Lose it](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 * [Paul Prudence @ Synergetica Studiolab](https://www.youtube.com/watch?v=sE5suc-rqFw&feature=youtu.be)
+* ["Abuse of An Algorithm Comes As No Surprise" by Marius Watz](https://www.youtube.com/watch?v=hZhHo3DHCZE)
 * [Creating Interactive Visuals for Large Audiences (Joel Pryde)](https://www.youtube.com/watch?v=C7eRhSCLono)
 * [The Limits of Learning, by Kyle McDonald @ Sónar+D](https://www.youtube.com/watch?v=kWvHjp8vifM)
 * [Computational Craft by Gillian Smith](https://www.youtube.com/watch?v=mwtKiwQxyKY)
