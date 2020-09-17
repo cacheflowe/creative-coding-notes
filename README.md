@@ -179,7 +179,8 @@ In addition to this list, check out these awesome lists:
   * [Instancing](https://velasquezdaniel.com/blog/rendering-100k-spheres-instantianing-and-draw-calls/)
   * [Kalman Filters](https://www.wouterbulten.nl/blog/tech/kalman-filters-explained-removing-noise-from-rssi-signals/)
     * [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
-    * [Lissajous Curves](https://www.youtube.com/watch?v=glDU8Nsyidg)
+  * [Lissajous Curves](https://www.youtube.com/watch?v=glDU8Nsyidg)
+  * [Lorenz & Strange Attractors](http://paulbourke.net/fractals/lorenz/)
   * [Map projections](https://observablehq.com/collection/@fil/projections)
   * [Marching Squares](https://editor.p5js.org/codingtrain/sketches/wwB-AA4i-)
   * [MIP mapping](https://en.wikipedia.org/wiki/Mipmap) & optimization
@@ -195,9 +196,6 @@ In addition to this list, check out these awesome lists:
   * [Style Transfer](https://tenso.rs/demos/fast-neural-style/)
   * [Voronoi](http://cs.nyu.edu/~ajsecord/npar2002/html/stipples-img16.png) [2](http://ultimaker.ipbhost.com/uploads/gallery/album_13/gallery_2943_13_8700870.jpg)
   * [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
-	* Machine learning & AI
-		* [Deeplearn.js](https://pair-code.github.io/deeplearnjs/docs/tutorials/index.html)
-		* [Machine Learning for Artists](http://ml4a.github.io/)
 * 3D / spatial concepts
   *  [Ambient occlusion](https://en.wikipedia.org/wiki/Ambient_occlusion) ([Slides](https://docs.google.com/presentation/d/1rVb2bW2EC-XQjOoN4hvXB-5aIO8H5vd2diKXw1ldAE0/preview#slide=id.p)) & 3d lighting
   * [Bump/Normal/Displacement maps](http://blog.digitaltutors.com/bump-normal-and-displacement-maps/)
@@ -508,7 +506,9 @@ Machine Learning:
 	* [Consistent Video Depth Estimation](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)
 
 * Machine learning
+  * [Deeplearn.js](https://pair-code.github.io/deeplearnjs/docs/tutorials/index.html)
   * [Runway](https://docs.runwayapp.ai)
+  * [Machine Learning for Artists](http://ml4a.github.io/)
 	* [ml5js](https://ml5js.org/) [demo from scratch](https://www.youtube.com/watch?v=8HEgeAbYphA)
 	* [Wekinator](http://www.wekinator.org/)
 	* [Mediapipe](https://github.com/google/mediapipe/)
