@@ -191,6 +191,7 @@ In addition to this list, check out these awesome lists:
     * [Fractal Brownian Motion](https://thebookofshaders.com/13/)
   * [Packing](http://en.wikipedia.org/wiki/Packing_problem)
   * [Parallax](https://en.wikipedia.org/wiki/Parallax)
+  * [Post-processing effects](https://pixijs.io/pixi-filters/tools/demo/)
   * [Reaction](http://www.karlsims.com/rd.html)-[diffusion](https://www.shadertoy.com/view/lld3z8)
   * [Space-filling algorithms](http://www.complexification.net/gallery/machines/boxFitting/boxFittingPRN.jpg)
   * [Style Transfer](https://tenso.rs/demos/fast-neural-style/)
