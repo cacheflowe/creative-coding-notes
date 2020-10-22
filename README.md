@@ -200,7 +200,7 @@ In addition to this list, check out these awesome lists:
 * 3D / spatial concepts
   *  [Ambient occlusion](https://en.wikipedia.org/wiki/Ambient_occlusion) ([Slides](https://docs.google.com/presentation/d/1rVb2bW2EC-XQjOoN4hvXB-5aIO8H5vd2diKXw1ldAE0/preview#slide=id.p)) & 3d lighting
   * [Bump/Normal/Displacement maps](http://blog.digitaltutors.com/bump-normal-and-displacement-maps/)
-	* [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry)
+	* [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) (CSG)
   * [Displacement](https://vimeo.com/125927621)
   * [Dot Product](http://sandervanrossen.blogspot.com/2019/07/dot-products-and-planes.html) / [Explainer gif](https://twitter.com/freyaholmer/status/1200807790580768768?s=12)
   * [Marching cubes](https://en.wikipedia.org/wiki/Marching_cubes)
@@ -338,7 +338,7 @@ Machine Learning:
 * [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
 * [ACM SIGGRAPH](https://www.youtube.com/channel/UCbaxUExGKrH2zxY4AkY9wCg)
 * [Ars Electronica](https://www.youtube.com/user/ArsElectronica)
-* [Revision Festival](https://www.youtube.com/channel/UChowAGZeJpPgp_1A9GCAJ_Q)
+* [Revision Festival](https://www.youtube.com/user/RevisionParty)
 * [Algorithmic Art](https://www.youtube.com/channel/UCO6iBPzIvUdzxcf87BN24FQ)
 
 #### Courses
@@ -363,6 +363,7 @@ Machine Learning:
 		* [Regl: Functional WebGL](http://regl.party/)
 		* [Babylon.js](https://www.babylonjs.com/)
 		* [http://twgljs.org/](http://twgljs.org/)
+    * [curtains.js](https://www.curtainsjs.com/)
 	* Live coding
 		* [Hydra](https://github.com/ojack/hydra)
 		* [Hedron](https://github.com/nudibranchrecords/hedron)
@@ -384,6 +385,7 @@ Machine Learning:
 		* [Slang](https://github.com/kylestetz/slang)
 		* [aq](https://github.com/rxi/aq)
 		* [waveform-data.js](https://github.com/bbc/waveform-data.js)
+		* [essentia.js](https://mtg.github.io/essentia.js/)
 	* Voice-recognition
 	  * [Web SPeech API demo](https://mdn.github.io/web-speech-api/speech-color-changer/)
 	* General tools
@@ -409,10 +411,12 @@ Machine Learning:
 		* https://developers.google.com/ar/develop/web/getting-started
 		* https://experiments.withgoogle.com/ar
 		* https://www.wiarframe.com/
-		* https://www.sparkar.com/ar-studio/
 		* [Aframe](https://aframe.io)
       * [web2vr](https://github.com/kikoano/web2vr)
 		* [Native AR model viewer](https://cwervo.com/writing/quicklook-web/)
+    * [WebXR](https://immersive-web.github.io/webxr/)
+  	* [AR.js](https://github.com/jeromeetienne/ar.js)
+  	* [8th Wall](https://www.8thwall.com/)
 	* Hardware access
 	  * [WebMIDI](https://www.smashingmagazine.com/2018/03/web-midi-api/)
 			* [JZZ](https://github.com/jazz-soft/JZZ)
@@ -513,7 +517,9 @@ Machine Learning:
 	* [ml5js](https://ml5js.org/) [demo from scratch](https://www.youtube.com/watch?v=8HEgeAbYphA)
 	* [Wekinator](http://www.wekinator.org/)
 	* [Mediapipe](https://github.com/google/mediapipe/)
-	* [Teachable Machine by Google](https://teachablemachine.withgoogle.com/) & [Shiffman tutorials](https://thecodingtrain.com/TeachableMachine/index.html)
+	* [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
+    * [Shiffman tutorials](https://thecodingtrain.com/TeachableMachine/index.html)
+    * [Awesome Teachable Machine list](https://github.com/SashiDo/awesome-teachable-machine)
 	* [Spleeter](https://waxy.org/2019/11/fast-and-free-music-separation-with-deezers-machine-learning-library/)
 	* [Demucs](https://github.com/facebookresearch/demucs)
 	* [DrumBot](https://twitter.com/notwaldorf/status/1201599495244537858)
@@ -521,6 +527,7 @@ Machine Learning:
 	* [Descript](https://www.descript.com/)
 	* [DAIN](https://github.com/baowenbo/DAIN)
 	* [RiTa](https://rednoise.org/rita/index.php)
+	* [Imaginaire](https://twitter.com/liu_mingyu/status/1310690272355823617) ([GitHub](https://github.com/NVlabs/imaginaire))
 
 * Virtual Reality
 	* [Oculus Rift](https://www.oculus.com/en-us/creators/)
@@ -537,8 +544,6 @@ Machine Learning:
 	* [Vuforia](https://www.vuforia.com/)
 	* [Mira](https://www.mirareality.com/)
 	* [Magic Leap](https://www.magicleap.com/)
-	* [WebXR](https://immersive-web.github.io/webxr/)
-	* [AR.js](https://github.com/jeromeetienne/ar.js)
 
 * Data processing
   * [1Euro noisy data smoothing](http://cristal.univ-lille.fr/~casiez/1euro/)
