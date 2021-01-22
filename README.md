@@ -171,6 +171,7 @@ In addition to this list, check out these awesome lists:
   * [Delaunay Triangulation](http://mathworld.wolfram.com/images/eps-gif/DelaunayTriangulation_1000.gif)
   * [Diffusion Limited Aggregation](https://editor.p5js.org/codingtrain/sketches/XpS9wGkbB)
   * [Dilation](https://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm) / [Erosion](https://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm)
+  * [Dithering](https://surma.dev/things/ditherpunk/)
   * [Easing & interpolation](http://easings.net/)
   * [Edge detection](https://en.wikipedia.org/wiki/Edge_detection)
   * [Emergence](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art)
@@ -190,6 +191,7 @@ In addition to this list, check out these awesome lists:
     * [Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise) for smooth randomness, terrain, textures. [More info](https://eev.ee/blog/2016/05/29/perlin-noise/)
     * [Curl noise](http://petewerner.blogspot.com/2015/02/intro-to-curl-noise.html)
     * [Fractal Brownian Motion](https://thebookofshaders.com/13/)
+    * [Blue noise](http://momentsingraphics.de/BlueNoise.html)
   * [Packing](http://en.wikipedia.org/wiki/Packing_problem)
   * [Parallax](https://en.wikipedia.org/wiki/Parallax)
   * [Post-processing effects](https://pixijs.io/pixi-filters/tools/demo/)
@@ -213,19 +215,6 @@ In addition to this list, check out these awesome lists:
   * [Physically-Based Shading](https://www.shadertoy.com/view/4sSfzK)
   * [Projection (3D)](https://jsantell.com/3d-projection)
   * [Raymarching](https://www.shadertoy.com/view/4dSfRc)
-  * [Raymarching Demo](https://www.shadertoy.com/view/4dSfRc)
-  * [Raymarching Demo 2](https://www.shadertoy.com/view/wlSGWy)
-  * [Raymarching Intro](http://barradeau.com/blog/?p=575)
-  * [Raymarching: more](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
-  * [Ray Marching by Michael Walczyk](http://www.michaelwalczyk.com/blog/2017/5/25/ray-marching)
-  * [Raymarching Workshop](https://github.com/ajweeks/RaymarchingWorkshop)
-  * [28 GLSL tutorials](https://www.shadertoy.com/view/Md23DV)
-  * [Inigo Quilez: LIVE Shader Deconstruction](https://www.youtube.com/watch?v=Cfe5UQ-1L9Q)
-  * [Raymarching Template](https://www.shadertoy.com/view/tdVXDz)
-  * [Getting started with shaders: signed distance functions!](https://jvns.ca/blog/2020/03/15/writing-shaders-with-signed-distance-functions/)
-  * [SDF Tutorial 1 : box & balloon](https://www.shadertoy.com/view/Xl2XWt)
-  * [Simple Raymarching Example Scene](https://www.shadertoy.com/view/wd2SR3)
-  * [Shader Coding: Ray Marching Tips & Tricks](https://www.youtube.com/watch?v=Vmb7VGBVZJA)
   * [Volumetric Rendering](https://wallisc.github.io/rendering/2020/05/02/Volumetric-Rendering-Part-1.html)
   * [Ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics))
   * [Shadows](https://docs.google.com/presentation/d/1MwJcnSvkAzpT8BuoSqIkzlYLjdA_lBDrt8bW-vcwmDU/edit#slide=id.p)
@@ -305,6 +294,10 @@ Graphics Programming:
 * [Generative Art with CSS](https://yuanchuan.dev/talk/generative-art-with-css/)
 * [Crosshatch Automata](https://medium.com/@kjetil.golid/automaton-visuals-90bdd9f73286)
 * [Material Design on the GPU](https://mattdesl.svbtle.com/material-design-on-the-gpu)
+* [ShaderQuest](https://halisavakis.com/shaderquest-part-0-series-introduction/)
+* [Shadertoy for absolute beginners](https://www.youtube.com/watch?v=u5HAYVHsasc)
+* [Intro to Shaders](https://www.cyanilux.com/tutorials/intro-to-shaders/) by Cyanilux
+
 
 Audio programming:
 
@@ -346,6 +339,7 @@ Machine Learning:
 * [David Bouchard - RTA838 - Generative Processes](https://www.youtube.com/watch?v=cq291UzZpPY&list=PLLx7jIm38p9m6n8X01Sz2kQaSC9U6_6u5)
 * [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured)
 * [The Code Creative](https://www.youtube.com/channel/UCmOpHGj4JRWCdXhllVTZCVw)
+* [Lewis Lepton](https://www.youtube.com/channel/UC8Wzk_R1GoPkPqLo-obU_kQ)
 
 #### Courses
 
@@ -393,6 +387,13 @@ Machine Learning:
     * [aq](https://github.com/rxi/aq)
     * [waveform-data.js](https://github.com/bbc/waveform-data.js)
     * [essentia.js](https://mtg.github.io/essentia.js/)
+    * [Handel](https://handel-pl.github.io/)
+    * Instruments
+      * [WebSynths Grooves](https://www.websynths.com/grooves)
+      * [WebSynths Microtonal](https://www.websynths.com/microtonal)
+      * [Bauble drum synth](https://www.elf-audio.com/synths/bauble/)
+      * [Chiptone](https://sfbgames.itch.io/chiptone)
+      * [Patchcab](https://patch.cab/)
   * Voice-recognition
     * [Web Speech API demo](https://mdn.github.io/web-speech-api/speech-color-changer/)
   * General tools
@@ -442,6 +443,20 @@ Machine Learning:
 * GLSL
   * [GLSL Sandbox](http://glslsandbox.com/)
   * [Shadertoy](http://shadertoy.com)
+    * [28 GLSL tutorials](https://www.shadertoy.com/view/Md23DV)
+    * Raymarching
+      * [Raymarching Demo](https://www.shadertoy.com/view/4dSfRc)
+      * [Raymarching Demo 2](https://www.shadertoy.com/view/wlSGWy)
+      * [Raymarching Intro](http://barradeau.com/blog/?p=575)
+      * [Raymarching: more](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
+      * [Ray Marching by Michael Walczyk](http://www.michaelwalczyk.com/blog/2017/5/25/ray-marching)
+      * [Raymarching Workshop](https://github.com/ajweeks/RaymarchingWorkshop)
+      * [Inigo Quilez: LIVE Shader Deconstruction](https://www.youtube.com/watch?v=Cfe5UQ-1L9Q)
+      * [Raymarching Template](https://www.shadertoy.com/view/tdVXDz)
+      * [Getting started with shaders: signed distance functions!](https://jvns.ca/blog/2020/03/15/writing-shaders-with-signed-distance-functions/)
+      * [SDF Tutorial 1 : box & balloon](https://www.shadertoy.com/view/Xl2XWt)
+      * [Simple Raymarching Example Scene](https://www.shadertoy.com/view/wd2SR3)
+      * [Shader Coding: Ray Marching Tips & Tricks](https://www.youtube.com/watch?v=Vmb7VGBVZJA)
   * [Vertex Shader Art](http://vertexshaderart.com/)
   * [Book of Shaders](http://thebookofshaders.com/) (+ [Editor](http://editor.thebookofshaders.com/))
   * [stackgl Shader School](https://github.com/stackgl/shader-school)
@@ -450,7 +465,7 @@ Machine Learning:
   * [KodeLife](https://hexler.net/software/kodelife)
   * [editSDF](http://stephaneginier.com/archive/editSDF/)
   * [WebGL Signed Distance Function Mesher](http://tdhooper.github.io/glsl-marching-cubes/)
-  * [Snelly] (https://github.com/portsmouth/snelly)
+  * [Snelly](https://github.com/portsmouth/snelly)
   * [F3 App](http://www.syedrezaali.com/f3-mac-app/)
   * [Fragment Foundry](http://hughsk.io/fragment-foundry/)
   * [glsl.io](http://transitions.glsl.io/)
@@ -512,6 +527,7 @@ Machine Learning:
   * [Snap Camera](https://snapcamera.snapchat.com/)
     * [Snap Lens Studio](https://lensstudio.snapchat.com/)
   * [Consistent Video Depth Estimation](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)
+  * [Worldsheet](https://worldsheet.github.io/)
 
 * Machine learning
   * [Deeplearn.js](https://pair-code.github.io/deeplearnjs/docs/tutorials/index.html)
@@ -617,6 +633,7 @@ Machine Learning:
 * [Max](https://cycling74.com/products/max/)
 * [WebAudio](https://www.youtube.com/playlist?list=PLMPgoZdlPumc_llMSynz5BqT8dTwr5sZ2)
 * [JUCE](https://juce.com/)
+* [SOUL](https://soul.dev/)
 * [Faust](http://faust.grame.fr/)
 * [ChucK](http://chuck.cs.princeton.edu/)
 * [Earsketch](https://earsketch.gatech.edu/landing/)
@@ -932,12 +949,15 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [WebGL Fundamentals](https://webglfundamentals.org)
 * [THREE.js Fundamentals](https://threejsfundamentals.org/)
 * [Discover THREE.js](https://discoverthreejs.com)
+* [THREE.js Journey](https://threejs-journey.xyz/)
 
 #### Books
 
 * [Form And Code](http://formandcode.com/)
 * [Generative Design](http://www.generative-gestaltung.de/)
 * [Generative Art](http://zenbullets.com/books.php)
+* [Code as Creative Medium](https://mitpress.mit.edu/books/code-creative-medium)
+* [Coding Art](https://www.amazon.com/Coding-Art-Creative-Programming-Processing-ebook/dp/B08S79ZMHR/)
 
 #### Conferences
 
