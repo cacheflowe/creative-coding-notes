@@ -181,6 +181,7 @@ In addition to this list, check out these awesome lists:
   * [Instancing](https://velasquezdaniel.com/blog/rendering-100k-spheres-instantianing-and-draw-calls/)
   * [Kalman Filters](https://www.wouterbulten.nl/blog/tech/kalman-filters-explained-removing-noise-from-rssi-signals/)
     * [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+    * [1€ Filter](https://cristal.univ-lille.fr/~casiez/1euro/)
   * [Lissajous Curves](https://www.youtube.com/watch?v=glDU8Nsyidg)
   * [Lorenz & Strange Attractors](http://paulbourke.net/fractals/lorenz/)
   * [Map projections](https://observablehq.com/collection/@fil/projections)
@@ -394,6 +395,9 @@ Machine Learning:
       * [Bauble drum synth](https://www.elf-audio.com/synths/bauble/)
       * [Chiptone](https://sfbgames.itch.io/chiptone)
       * [Patchcab](https://patch.cab/)
+  * Drawing recognition
+    * [$1 Unistroke Recognizer](http://depts.washington.edu/acelab/proj/dollar/index.html)
+    * [Handwriting.js](https://www.chenyuho.com/project/handwritingjs/)
   * Voice-recognition
     * [Web Speech API demo](https://mdn.github.io/web-speech-api/speech-color-changer/)
   * General tools
@@ -504,7 +508,6 @@ Machine Learning:
   * [Notch](https://www.notch.one)
   * [Troikatronix Isadora](https://troikatronix.com/)
   * [Praxis](http://www.praxislive.org/)
-  * [Nodewerk](http://nodewerk.com/)
   * [Disguise](https://www.disguise.one/en/)
   * [Vuo](https://vuo.org/)
   * [nodes.io](http://nodes.io/)
@@ -725,6 +728,7 @@ Machine Learning:
       * [Nuitrack](https://nuitrack.com/) (skeletal deletion middleware)
   * CV cameras
     * [PixyCam](https://pixycam.com/)
+    * [PixyCam](https://openmv.io/)
     * [FLIR Firefly](https://www.flir.com/iis/machine-vision/)
   * 360 cameras
     * [Insta360](https://www.insta360.com/product/insta360-pro2/)
@@ -795,7 +799,10 @@ Machine Learning:
   * [Rhasspy](https://github.com/synesthesiam/rhasspy)
   * [Sphinx](https://cmusphinx.github.io/wiki/download/)
   * [alphacephei](https://alphacephei.com/en/)
-
+* Home Automation
+  * [Home Assistant](https://www.home-assistant.io/)
+  * [Sonoff](https://sonoff.tech/)
+  * [Shelly](https://shelly.cloud/)
 
 ## Unique Displays and Touchscreens
 
@@ -896,6 +903,8 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * Projection mapping
   * [http://www.agisoft.com/](http://www.agisoft.com/)
   * [https://remake.autodesk.com/about](https://remake.autodesk.com/about)
+  * [Resolume](https://www.resolume.com/)
+  * [MadMapper](https://madmapper.com/)
 * LED lights
   * [FadeCandy](http://www.misc.name/fadecandy/)
   * [PixelPusher](http://www.heroicrobotics.com/products/pixelpusher)
