@@ -161,6 +161,7 @@ In addition to this list, check out these awesome lists:
 * Commons tools & concepts
   * [Anti-aliasing algorithms](https://blog.codinghorror.com/fast-approximate-anti-aliasing-fxaa/)
   * [Barycentric vs. Bilinear](https://twitter.com/freyaholmer/status/1243583264713048065)
+  * [Bilinear sampling](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/)
   * [Blob detection](https://en.wikipedia.org/wiki/Blob_detection)
   * [Cellular autonoma](http://natureofcode.com/book/chapter-7-cellular-automata)
     * [Conway's classic Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
@@ -182,6 +183,7 @@ In addition to this list, check out these awesome lists:
   * [Kalman Filters](https://www.wouterbulten.nl/blog/tech/kalman-filters-explained-removing-noise-from-rssi-signals/)
     * [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
     * [1€ Filter](https://cristal.univ-lille.fr/~casiez/1euro/)
+  * [Linear Interpolation](https://www.alanzucconi.com/2021/01/24/linear-interpolation/)
   * [Lissajous Curves](https://www.youtube.com/watch?v=glDU8Nsyidg)
   * [Lorenz & Strange Attractors](http://paulbourke.net/fractals/lorenz/)
   * [Map projections](https://observablehq.com/collection/@fil/projections)
@@ -199,6 +201,8 @@ In addition to this list, check out these awesome lists:
   * [Reaction](http://www.karlsims.com/rd.html)-[diffusion](https://www.shadertoy.com/view/lld3z8)
   * [Space-filling algorithms](http://www.complexification.net/gallery/machines/boxFitting/boxFittingPRN.jpg)
   * [Style Transfer](https://tenso.rs/demos/fast-neural-style/)
+  * [UV Coordinates](https://beforesandafters.com/2021/01/26/wrapping-around-the-uv-map-in-80-frames%e2%80%a8/)
+  * [Vectors](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1)
   * [Voronoi](http://cs.nyu.edu/~ajsecord/npar2002/html/stipples-img16.png) [2](http://ultimaker.ipbhost.com/uploads/gallery/album_13/gallery_2943_13_8700870.jpg)
   * [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
 * 3D / spatial concepts
@@ -341,6 +345,7 @@ Machine Learning:
 * [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured)
 * [The Code Creative](https://www.youtube.com/channel/UCmOpHGj4JRWCdXhllVTZCVw)
 * [Lewis Lepton](https://www.youtube.com/channel/UC8Wzk_R1GoPkPqLo-obU_kQ)
+* [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
 
 #### Courses
 
@@ -395,6 +400,7 @@ Machine Learning:
       * [Bauble drum synth](https://www.elf-audio.com/synths/bauble/)
       * [Chiptone](https://sfbgames.itch.io/chiptone)
       * [Patchcab](https://patch.cab/)
+      * [Apotome](https://isartum.net/apotome)
   * Drawing recognition
     * [$1 Unistroke Recognizer](http://depts.washington.edu/acelab/proj/dollar/index.html)
     * [Handwriting.js](https://www.chenyuho.com/project/handwritingjs/)
@@ -799,6 +805,7 @@ Machine Learning:
   * [Rhasspy](https://github.com/synesthesiam/rhasspy)
   * [Sphinx](https://cmusphinx.github.io/wiki/download/)
   * [alphacephei](https://alphacephei.com/en/)
+  * [Picovoice](https://picovoice.ai/)
 * Home Automation
   * [Home Assistant](https://www.home-assistant.io/)
   * [Sonoff](https://sonoff.tech/)
@@ -816,6 +823,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Flexible displays](https://www.royole.com/us/flexible-display)
 * [Flexible LED tile](https://www.planar.com/products/led-video-walls/carbonlight/cli-flex/)
 * [Tiny high-res display](https://shop.pimoroni.com/products/hyperpixel-4-square?variant=30138251444307)
+* [Flipdots](https://flipdots.com/en/home/)
 
 ### Big Displays
 
@@ -928,10 +936,13 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
   * [Envelop](http://www.envelop.us/)
 * Augmented & Mixed Reality
 * Embedded systems
-  * [Arduino](http://www.youtube.com/watch?v=CqrQmQqpHXc#!) & Raspberry PI
-  * [Android Things](https://androidthings.withgoogle.com/#!/)
+  * [Arduino](http://www.youtube.com/watch?v=CqrQmQqpHXc#!)
+  * [Raspberry Pi](https://www.raspberrypi.org/)
   * [Axoloti](http://www.axoloti.com/)
   * [Yoctopuce](http://www.yoctopuce.com/)
+  * [Tessel](https://tessel.io/)
+  * [Johnny-Five](http://johnny-five.io/)
+  * [PlatformIO](https://platformio.org/)
 * [HTTP-controlled power strips](https://www.amazon.com/NP-02-Switchable-manufactured-supported-interface/dp/B00346USOA)
 * Robotics
   * [Cylon.js](http://cylonjs.com/) / [Artoo.rb](http://artoo.io/) / [Gobot](http://gobot.io/)
