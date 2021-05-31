@@ -158,6 +158,8 @@ In addition to this list, check out these awesome lists:
 
 #### Visual algorithms
 
+Check out this nice [visual list](https://www.notion.so/Creative-Code-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b) of some of the concepts below. And some code examples of another set of common [algorithms](https://github.com/v3ga/Processing).
+
 * Commons tools & concepts
   * [Anti-aliasing algorithms](https://blog.codinghorror.com/fast-approximate-anti-aliasing-fxaa/)
   * [Barycentric vs. Bilinear](https://twitter.com/freyaholmer/status/1243583264713048065)
@@ -165,9 +167,12 @@ In addition to this list, check out these awesome lists:
   * [Blob detection](https://en.wikipedia.org/wiki/Blob_detection)
   * [Cellular autonoma](http://natureofcode.com/book/chapter-7-cellular-automata)
     * [Conway's classic Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-  * Collision detection
+    * [Dialogue](https://www.behance.net/gallery/115972193/Dialogue)
+  * [Collision detection](https://www.jeffreythompson.org/collision-detection/index.php)
     * [Inside or outside a polygon](https://twitter.com/FreyaHolmer/status/1232826293902888960)
   * [Computer vision](https://en.wikipedia.org/wiki/Computer_vision) (CV)
+  * [Convolution](https://www.youtube.com/watch?v=8rrHTtUzyZA)
+    * [Computing gradients on grids of pixels and voxels](https://bartwronski.com/2021/02/28/computing-gradients-on-grids-forward-central-and-diagonal-differences/)
   * [Concave](https://www.codeproject.com/Articles/1201438/The-Concave-Hull-of-a-Set-of-Points) & [convex hulls](https://en.wikipedia.org/wiki/Convex_hull)
   * [Delaunay Triangulation](http://mathworld.wolfram.com/images/eps-gif/DelaunayTriangulation_1000.gif)
   * [Diffusion Limited Aggregation](https://editor.p5js.org/codingtrain/sketches/XpS9wGkbB)
@@ -177,12 +182,14 @@ In addition to this list, check out these awesome lists:
   * [Edge detection](https://en.wikipedia.org/wiki/Edge_detection)
   * [Emergence](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art)
   * [Feedback](https://www.shadertoy.com/view/Xd2fWR) [2](https://www.youtube.com/watch?v=B4Kn3djJMCE&feature=youtu.be)
+  * [FXAA](https://catlikecoding.com/unity/tutorials/custom-srp/fxaa/)
   * [Genetic](http://www.youtube.com/watch?v=JBgG_VSP7f8) & evolutionary algorithms
   * [Hardware acceleration](http://www.nvidia.com/object/what-is-gpu-computing.html)
   * [Instancing](https://velasquezdaniel.com/blog/rendering-100k-spheres-instantianing-and-draw-calls/)
   * [Kalman Filters](https://www.wouterbulten.nl/blog/tech/kalman-filters-explained-removing-noise-from-rssi-signals/)
     * [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
     * [1€ Filter](https://cristal.univ-lille.fr/~casiez/1euro/)
+  * [Light Bouncing](https://www.philipzucker.com/aesthetic-javascript-eduction/)
   * [Linear Interpolation](https://www.alanzucconi.com/2021/01/24/linear-interpolation/)
   * [Lissajous Curves](https://www.youtube.com/watch?v=glDU8Nsyidg)
   * [Lorenz & Strange Attractors](http://paulbourke.net/fractals/lorenz/)
@@ -190,6 +197,8 @@ In addition to this list, check out these awesome lists:
   * [Marching Squares](https://editor.p5js.org/codingtrain/sketches/wwB-AA4i-)
   * [MIP mapping](https://en.wikipedia.org/wiki/Mipmap) & optimization
   * [Motion Blur](https://twitter.com/freyaholmer/status/1108900107838205953)
+  * [Munching Squares](https://en.wikipedia.org/wiki/Munching_square) 
+    * [Examples](https://twitter.com/aemkei/status/1378106731386040322)
   * Noise
     * [Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise) for smooth randomness, terrain, textures. [More info](https://eev.ee/blog/2016/05/29/perlin-noise/)
     * [Curl noise](http://petewerner.blogspot.com/2015/02/intro-to-curl-noise.html)
@@ -206,7 +215,7 @@ In addition to this list, check out these awesome lists:
   * [Voronoi](http://cs.nyu.edu/~ajsecord/npar2002/html/stipples-img16.png) [2](http://ultimaker.ipbhost.com/uploads/gallery/album_13/gallery_2943_13_8700870.jpg)
   * [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
 * 3D / spatial concepts
-  *  [Ambient occlusion](https://en.wikipedia.org/wiki/Ambient_occlusion) ([Slides](https://docs.google.com/presentation/d/1rVb2bW2EC-XQjOoN4hvXB-5aIO8H5vd2diKXw1ldAE0/preview#slide=id.p)) & 3d lighting
+  * [Ambient occlusion](https://en.wikipedia.org/wiki/Ambient_occlusion) ([Slides](https://docs.google.com/presentation/d/1rVb2bW2EC-XQjOoN4hvXB-5aIO8H5vd2diKXw1ldAE0/preview#slide=id.p)) & 3d lighting
   * [Bump/Normal/Displacement maps](http://blog.digitaltutors.com/bump-normal-and-displacement-maps/)
   * [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) (CSG)
   * [Displacement](https://vimeo.com/125927621)
@@ -219,10 +228,12 @@ In addition to this list, check out these awesome lists:
   * Optimization via [quadtrees](https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374) or [Octrees](http://www.i-programmer.info/programming/theory/1679-quadtrees-and-octrees.html)
   * [Physically-Based Shading](https://www.shadertoy.com/view/4sSfzK)
   * [Projection (3D)](https://jsantell.com/3d-projection)
+  * [Raytracing](https://si-ashbery.medium.com/raytracing-309fc44307e6)
   * [Raymarching](https://www.shadertoy.com/view/4dSfRc)
   * [Volumetric Rendering](https://wallisc.github.io/rendering/2020/05/02/Volumetric-Rendering-Part-1.html)
   * [Ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics))
   * [Shadows](https://docs.google.com/presentation/d/1MwJcnSvkAzpT8BuoSqIkzlYLjdA_lBDrt8bW-vcwmDU/edit#slide=id.p)
+  * [Signed Distance Functions (SDF)](https://joyrok.com/What-Are-SDFs-Anyway)
   * [Spherical mathematics](https://editor.p5js.org/codingtrain/sketches/qVs1hxtc), Quaternions and Euler rotation [1](http://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
   * [Sub Surface Scattering](https://therealmjp.github.io/posts/sss-intro/)
   * [Superformula](https://en.wikipedia.org/wiki/Superformula)
@@ -302,6 +313,7 @@ Graphics Programming:
 * [ShaderQuest](https://halisavakis.com/shaderquest-part-0-series-introduction/)
 * [Shadertoy for absolute beginners](https://www.youtube.com/watch?v=u5HAYVHsasc)
 * [Intro to Shaders](https://www.cyanilux.com/tutorials/intro-to-shaders/) by Cyanilux
+* [Graphics Pipelines for Young Bloods](https://www.jeremyong.com/cpp/2021/05/20/graphics-pipelines-for-young-bloods/)
 
 
 Audio programming:
@@ -371,6 +383,7 @@ Machine Learning:
     * [Babylon.js](https://www.babylonjs.com/)
     * [http://twgljs.org/](http://twgljs.org/)
     * [curtains.js](https://www.curtainsjs.com/)
+    * [pts.js](https://ptsjs.org/)
   * Live coding
     * [Hydra](https://github.com/ojack/hydra)
     * [Hedron](https://github.com/nudibranchrecords/hedron)
@@ -401,6 +414,11 @@ Machine Learning:
       * [Chiptone](https://sfbgames.itch.io/chiptone)
       * [Patchcab](https://patch.cab/)
       * [Apotome](https://isartum.net/apotome)
+      * [Nestup](https://nestup.cutelab.nyc/)
+      * [reactive-synth](https://github.com/PatrickStephansen/reactive-synth)
+      * [The Endless Acid Banger](https://www.vitling.xyz/toys/acid-banger/)
+      * [webDX7](http://www.webaudiomodules.org/wamsynths/webdx7/)
+      * [OBXD](http://www.webaudiomodules.org/wamsynths/obxd)
   * Drawing recognition
     * [$1 Unistroke Recognizer](http://depts.washington.edu/acelab/proj/dollar/index.html)
     * [Handwriting.js](https://www.chenyuho.com/project/handwritingjs/)
@@ -415,12 +433,13 @@ Machine Learning:
     * [clmtrackr](https://github.com/auduno/clmtrackr)
     * [BRFv4](https://tastenkunst.github.io/brfv4_javascript_examples/)
     * [jeelizWeboji](https://github.com/jeeliz/jeelizWeboji)
-    * [Facemesh & Handpose via Tensorflow](https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html) + [example via UDP](https://github.com/madelinegannon/example-mediapipe-udp)
+    * [MediaPipe](https://mediapipe.dev/) + [example via UDP](https://github.com/madelinegannon/example-mediapipe-udp)
       * [WebGazer.js](https://webgazer.cs.brown.edu/)
   * Body trackers
     * [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
     * [PoseNet for installations](https://github.com/oveddan/posenet-for-installations)
     * [Handtrack.js](https://github.com/victordibia/handtrack.js)
+    * [MoveNet](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html)
   * Fonts
     * [opentype.js](https://opentype.js.org/)
   * Augmented/Mixed/Virtual Reality
@@ -430,6 +449,7 @@ Machine Learning:
     * [Native AR model viewer](https://cwervo.com/writing/quicklook-web/)
       * [WebXR](https://immersive-web.github.io/webxr/)
       * [8th Wall](https://www.8thwall.com/)
+      * [blippAR](https://www.blippar.com/ardp/static/ardp.html)
       * [p5xr](http://p5xr.org)
   * Hardware access
     * [WebMIDI](https://www.smashingmagazine.com/2018/03/web-midi-api/)
@@ -537,6 +557,7 @@ Machine Learning:
     * [Snap Lens Studio](https://lensstudio.snapchat.com/)
   * [Consistent Video Depth Estimation](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)
   * [Worldsheet](https://worldsheet.github.io/)
+  * [Virtual Background](https://github.com/Volcomix/virtual-background)
 
 * Machine learning
   * [Deeplearn.js](https://pair-code.github.io/deeplearnjs/docs/tutorials/index.html)
@@ -657,6 +678,7 @@ Machine Learning:
 * [Aubio](https://aubio.org/)
 * [Magenta](https://magenta.tensorflow.org/studio)
 * [VCV Rack](https://vcvrack.com/Prototype) ([+ plugin docs](https://vcvrack.com/manual/PluginDevelopmentTutorial))
+* [HICE](http://hise.audio/)
 
 #### Video + Image
 
@@ -734,8 +756,10 @@ Machine Learning:
       * [Nuitrack](https://nuitrack.com/) (skeletal deletion middleware)
   * CV cameras
     * [PixyCam](https://pixycam.com/)
-    * [PixyCam](https://openmv.io/)
+    * [OpenMV Cam](https://openmv.io/)
     * [FLIR Firefly](https://www.flir.com/iis/machine-vision/)
+    * [DepthAI](https://luxonis.com/depthai)
+      * [Test results](https://www.notion.so/Oak-D-Testing-9703b1a764e8483c8b381e1e4691a585)
   * 360 cameras
     * [Insta360](https://www.insta360.com/product/insta360-pro2/)
   * High-frame-rate cameras
@@ -758,6 +782,7 @@ Machine Learning:
   * [Capacitive touch (MPR121)](https://www.adafruit.com/product/1982)
   * [Lidar distance sensor (VL53L0X)](https://www.adafruit.com/product/3317)
   * [Ultrasonic distance sensor (HC-SR04)](https://www.sparkfun.com/products/15569)
+  * [Continuous Rotation Servo](https://www.pololu.com/product/2820)
 * Unique controllers
   * [Leap Motion](https://www.leapmotion.com/) [1](http://kolidar.com/Blog/wp-content/uploads/2012/07/Minority-report_2.jpg)
   * [handUI for Unity](https://github.com/crookookoo/handUI)
@@ -783,6 +808,8 @@ Machine Learning:
   * [Tornado Spinner](https://tornadospinner.com/)
   * [Spintrak](http://www.ultimarc.com/SpinTrak.htm)
   * [I-PAC](http://www.ultimarc.com/ipac.html)
+  * [Hub16](https://www.tindie.com/products/joshajohnson/hub16-programmable-macro-keyboard/)
+  * [Adafruit Trellis](https://www.adafruit.com/product/4020)
 * Touchscreen
   * [TUIO (protocol)](https://www.tuio.org/)
   * [Ubi Sensor](http://www.ubi-interactive.com/)
@@ -813,7 +840,9 @@ Machine Learning:
 
 ## Unique Displays and Touchscreens
 
-First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/) and [Guide to Projectors for Interactive Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations/blob/master/Guide%20to%20Projectors%20for%20Interactive%20Installations.md) by [@laserpilot](https://twitter.com/laserpilot)
+First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/) and [Guide to Projectors for Interactive Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations/blob/master/Guide%20to%20Projectors%20for%20Interactive%20Installations.md) by [@laserpilot](https://twitter.com/laserpilot).
+
+Also, [3D Displays: Opportunities & Design Principles](https://www.bluecadet.com/news/3d-displays-opportunities-design-principles/) by Bluecadet
 
 * [Volumetric displays](https://www.lookingglassfactory.com/)
 * [Transparent displays](http://prodisplay.com/products/transparent-lcd-screen/)
@@ -839,6 +868,8 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Electric Objects](https://www.electricobjects.com/)
 * [Framed](https://frm.fm/)
 * [Infinite Objects](https://infiniteobjects.com/)
+* [Atomic Form](https://atomicform.com/)
+* [Zeroframe](https://zeroframe.art/)
 
 #### Media players
 
@@ -877,6 +908,9 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 
 * [Audio over ethernet](https://sewelldirect.com/sound-link)
 * [HDMI over ethernet](https://sewelldirect.com/hd-link-t-by-sewell)
+* HDMI over fiber
+  * [Gefen](https://www.gefen.com/product/4k-ultra-hd-600-mhz-extender-hdmi-over-one-fiber-optic-cable-EXT-UHD600-1SC)
+  * [Black Box](https://www.blackbox.com/en-us/store/product/detail/HDMI-2-0-Extender-over-Fiber/AVX-HDMI2-FO-HDB)
 * [MIDI over ethernet](https://www.iconnectivity.com/blog/2018/3/7/ethernet-midi-for-live-musicians-an-iconnectivity-guide)
 * [USB over ethernet](https://www.amazon.com/WEme-Extender-Connection-Ethernet-Extention/dp/B01FHTCH68/)
   * [Rated for webcams](https://www.amazon.com/gp/product/B0744DX8JP/)
@@ -884,10 +918,12 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
   * [Rated for Kinect v1, 300ft](https://www.gefen.com/product/usb-20-extender-EXT-USB2.0-LR)
   * [Rated for Kinect v2](http://www.icron.com/products/icron-brand/usb-extenders/cat5/usb-3-0-spectra-3001-15/)
   * [Rated for Kinect v2 & Realsense](https://www.monoprice.com/product?p_id=16381&gclid=Cj0KCQjw3JXtBRC8ARIsAEBHg4nG4LxeN1Tjq2LOoOgPFDRVkWPmI_u38nnTKMjf8F_XI1T955KEPv0aAp16EALw_wcB)
+  * [Rated for Kinect v2 long distance](https://www.newnex.com/technology-kinect-extension.php)
   * [Rated for Kinect Azure](https://www.ntcdistributing.com/usb-3-1/active-extension-cable/firenex-ulink-c-active-cable-a-m-to-c-m-8-m-and-16-m/)
   * [Rated for Kinect Azure](https://www.ntcdistributing.com/usb-3-0/firenex-ulink-ex-active-cable-a-m-to-a-f/)
   * [Rated for Kinect Azure](https://www.cablematters.com/pc-512-135-active-usb-30-extension-cable-usb-3-extension-cable-usb-extension-cable-male-to-female.aspx)
   * [Rated for Kinect Azure - all options](https://www.newnex.com/technology-azure-kinect-extension.php)
+* [USB over fiber](https://www.l-com.com/usb-icron-usb-31-raven-3124-4-port-multimode-fiber-usb-extender-200m#)
 * Dmx over ethernet - [female](https://www.amazon.com/TecNec-DMX-3XF-CAT5-3-pin-Female-Adapter/dp/B00KUTZW3Q) and [male](https://www.amazon.com/TecNec-DMX-3XM-CAT5-3-pin-Adapter-TecNec/dp/B00KUTR7MA)
 * [DMX over Wifi](https://www.idjnow.com/blizzard-lighting-wicicle-xmit-skywire-wireless-dmx-transmitter-and-10-receivers-package.html#3)
 * [USB over Wifi](https://www.amazon.co.uk/Silex-E1305-DS-510-Device-Server/dp/B00WS8QCP4/ref=pd_lpo_sbs_147_img_0?_encoding=UTF8&psc=1&refRID=FQRQB3YN278FZ6EMTKE2)
@@ -978,6 +1014,8 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Generative Art](http://zenbullets.com/books.php)
 * [Code as Creative Medium](https://mitpress.mit.edu/books/code-creative-medium)
 * [Coding Art](https://www.amazon.com/Coding-Art-Creative-Programming-Processing-ebook/dp/B08S79ZMHR/)
+* [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html)
+* [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](https://shop.aer.io/oreilly/p/generative-deep-learning/9781492041948-9149)
 
 #### Conferences
 
@@ -1020,6 +1058,9 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 * [Kate Compton: Creating generative art with Javascript](https://www.youtube.com/watch?v=tJ49bTJ6fbs)
 * [Tim Holman - Generative Art Speedrun](https://www.youtube.com/watch?v=4Se0_w0ISYk)
 * [Generative Machines with Matt DesLauriers](https://www.youtube.com/watch?v=8Uo6zFwSO78)
+* Maker resources
+  * [How to Use a Breadboard](https://www.youtube.com/watch?v=6WReFkfrUIk)
+  * [A simple guide to electronic components](https://www.youtube.com/watch?v=6WReFkfrUIk)
 
 #### Podcasts
 
