@@ -20,6 +20,7 @@ In addition to this list, check out these awesome lists:
 * [https://github.com/danvoyce/awesome-creative-tech-events](https://github.com/danvoyce/awesome-creative-tech-events)
 * [Open source, experimental, and tiny tools roundup by Everest Pipkin](http://everest-pipkin.com/teaching/tools.html)
 * [Graphics Programming Weekly](https://www.jendrikillner.com/article_database/)
+* [Visual Programming Codex](https://github.com/ivanreese/visual-programming-codex/blob/main/implementations.md)
 
 
 ## Creative Coding History
@@ -59,6 +60,7 @@ In addition to this list, check out these awesome lists:
   * [A Brief History of Graphics](https://www.youtube.com/watch?v=QyjyWUrHsFc)
   * ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
   * [3D texturing history](https://twitter.com/BryanRenno/status/1122880458012934146)
+  * [Some More Beginnings: On the History of Time-Based Media Exhibitions](https://vimeo.com/189175734) by Tina Rivers Ryan
 * Demoscene
   * [Demoscene - The Art of the Algorithms](http://www.youtube.com/watch?v=5MexnBunH_g)
   * [Yoichiro Kawaguchi](http://uihacker.blogspot.com/2013/07/inspiration-yoichiro-kawaguchi.html)
@@ -129,6 +131,10 @@ In addition to this list, check out these awesome lists:
 * [Photogrammery](http://benvancitters.com/2019/07/real-life-to-photogrammetric-3d-print/)
 * [Kinetic Sculpture](https://www.youtube.com/watch?v=fVk9Q2bra7A)
 * Immersive spaces
+* Body augmentation
+  * [Blood Sport](https://www.youtube.com/watch?v=ojnDWxf5DvU)
+  * [Stelarc: EXOSKELETON](https://www.youtube.com/watch?v=vj0JUfmxkv4)
+  * [Vicious Circular Breathing](https://www.lozano-hemmer.com/vicious_circular_breathing.php)
 
 
 ## Graphics Concepts
@@ -158,7 +164,7 @@ In addition to this list, check out these awesome lists:
 
 #### Visual algorithms
 
-Check out this nice [visual list](https://www.notion.so/Creative-Code-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b) of some of the concepts below. And some code examples of another set of common [algorithms](https://github.com/v3ga/Processing).
+Check out this nice [visual list](https://www.notion.so/Creative-Code-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b) of some of the concepts below. And some code examples of another set of common [algorithms](https://github.com/v3ga/Processing), and also [here](https://www.complexity-explorables.org/).
 
 * Commons tools & concepts
   * [Anti-aliasing algorithms](https://blog.codinghorror.com/fast-approximate-anti-aliasing-fxaa/)
@@ -168,6 +174,7 @@ Check out this nice [visual list](https://www.notion.so/Creative-Code-algorithms
   * [Cellular autonoma](http://natureofcode.com/book/chapter-7-cellular-automata)
     * [Conway's classic Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
     * [Dialogue](https://www.behance.net/gallery/115972193/Dialogue)
+    * [Understanding Multiple Neighborhood Cellular Automata](https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/)
   * [Collision detection](https://www.jeffreythompson.org/collision-detection/index.php)
     * [Inside or outside a polygon](https://twitter.com/FreyaHolmer/status/1232826293902888960)
   * [Computer vision](https://en.wikipedia.org/wiki/Computer_vision) (CV)
@@ -176,6 +183,7 @@ Check out this nice [visual list](https://www.notion.so/Creative-Code-algorithms
   * [Concave](https://www.codeproject.com/Articles/1201438/The-Concave-Hull-of-a-Set-of-Points) & [convex hulls](https://en.wikipedia.org/wiki/Convex_hull)
   * [Delaunay Triangulation](http://mathworld.wolfram.com/images/eps-gif/DelaunayTriangulation_1000.gif)
   * [Diffusion Limited Aggregation](https://editor.p5js.org/codingtrain/sketches/XpS9wGkbB)
+    * [DLA example](https://www.complexity-explorables.org/explorables/particularly-stuck/)
   * [Dilation](https://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm) / [Erosion](https://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm)
   * [Dithering](https://surma.dev/things/ditherpunk/)
   * [Easing & interpolation](http://easings.net/)
@@ -184,6 +192,7 @@ Check out this nice [visual list](https://www.notion.so/Creative-Code-algorithms
   * [Feedback](https://www.shadertoy.com/view/Xd2fWR) [2](https://www.youtube.com/watch?v=B4Kn3djJMCE&feature=youtu.be)
   * [FXAA](https://catlikecoding.com/unity/tutorials/custom-srp/fxaa/)
   * [Genetic](http://www.youtube.com/watch?v=JBgG_VSP7f8) & evolutionary algorithms
+  * [GPU architecture types explained](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/)
   * [Hardware acceleration](http://www.nvidia.com/object/what-is-gpu-computing.html)
   * [Instancing](https://velasquezdaniel.com/blog/rendering-100k-spheres-instantianing-and-draw-calls/)
   * [Kalman Filters](https://www.wouterbulten.nl/blog/tech/kalman-filters-explained-removing-noise-from-rssi-signals/)
@@ -206,10 +215,12 @@ Check out this nice [visual list](https://www.notion.so/Creative-Code-algorithms
     * [Blue noise](http://momentsingraphics.de/BlueNoise.html)
   * [Packing](http://en.wikipedia.org/wiki/Packing_problem)
   * [Parallax](https://en.wikipedia.org/wiki/Parallax)
+  * [Particles](https://ciphrd.com/2021/07/07/particle-interactions-using-deposited-substrate-as-communication-layer-ds-cl/)
   * [Post-processing effects](https://pixijs.io/pixi-filters/tools/demo/)
   * [Reaction](http://www.karlsims.com/rd.html)-[diffusion](https://www.shadertoy.com/view/lld3z8)
   * [Space-filling algorithms](http://www.complexification.net/gallery/machines/boxFitting/boxFittingPRN.jpg)
   * [Style Transfer](https://tenso.rs/demos/fast-neural-style/)
+  * [Subdivision](https://www.boristhebrave.com/2021/08/14/recursive-subdivision-variants/)
   * [UV Coordinates](https://beforesandafters.com/2021/01/26/wrapping-around-the-uv-map-in-80-frames%e2%80%a8/)
   * [Vectors](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1)
   * [Voronoi](http://cs.nyu.edu/~ajsecord/npar2002/html/stipples-img16.png) [2](http://ultimaker.ipbhost.com/uploads/gallery/album_13/gallery_2943_13_8700870.jpg)
@@ -224,6 +235,7 @@ Check out this nice [visual list](https://www.notion.so/Creative-Code-algorithms
   * [MatCap](https://github.com/nidorx/matcaps)
   * [Meshes](http://www.cmap.polytechnique.fr/~peyre/images/test_remeshing.jpg)
     * [Polygon meshes](https://en.wikipedia.org/wiki/Polygon_mesh)
+    * [Mesh sampling](http://www.joesfer.com/?p=84)
   * [NURBS](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline)
   * Optimization via [quadtrees](https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374) or [Octrees](http://www.i-programmer.info/programming/theory/1679-quadtrees-and-octrees.html)
   * [Physically-Based Shading](https://www.shadertoy.com/view/4sSfzK)
@@ -233,6 +245,8 @@ Check out this nice [visual list](https://www.notion.so/Creative-Code-algorithms
   * [Volumetric Rendering](https://wallisc.github.io/rendering/2020/05/02/Volumetric-Rendering-Part-1.html)
   * [Ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics))
   * [Shadows](https://docs.google.com/presentation/d/1MwJcnSvkAzpT8BuoSqIkzlYLjdA_lBDrt8bW-vcwmDU/edit#slide=id.p)
+    * [Shadows (2D, hard)](https://slembcke.github.io/SuperFastHardShadows)
+    * [Shadows (2D, soft)](https://slembcke.github.io/SuperFastSoftShadows)
   * [Signed Distance Functions (SDF)](https://joyrok.com/What-Are-SDFs-Anyway)
   * [Spherical mathematics](https://editor.p5js.org/codingtrain/sketches/qVs1hxtc), Quaternions and Euler rotation [1](http://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
   * [Sub Surface Scattering](https://therealmjp.github.io/posts/sss-intro/)
@@ -268,6 +282,7 @@ General:
 
 * ["Advice for Creative Technologists"](https://medium.com/@laserpilot/advice-for-creative-technologists-21f3f220b2)
 * ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
+* ["What makes generative art hard?"](https://bendotk.com/writing/what-makes-generative-art-hard)
 * ["Join the Creative Class"](http://www.forbes.com/sites/elainepofeldt/2012/12/28/want-to-recession-proof-yourself-join-the-creative-class/)
 * ["The Brief History of Volumetric Filmmaking"](https://medium.com/volumetric-filmmaking/the-brief-history-of-volumetric-filmmaking-32b3569c6831)
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
@@ -294,6 +309,7 @@ Graphics Programming:
 * [Graphics in Plain Language](https://renderdoc.org/blog/Graphics-in-Plain-Language/)
 * A [glossary](http://steve.hollasch.net/cgindex/)
 * [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+* [Lighthouse3d.com: GLSL Tutorial – Core](https://www.lighthouse3d.com/tutorials/glsl-tutorial/)
 * [The Graphics Codex](http://graphicscodex.com/)
 * http://antongerdelan.net/teaching/
 * [Foundations of Game Engine Development Mathematics](https://www.amazon.com/Foundations-Game-Engine-Development-Mathematics/dp/0985811749/ref=asap_bc?ie=UTF8)
@@ -358,6 +374,7 @@ Machine Learning:
 * [The Code Creative](https://www.youtube.com/channel/UCmOpHGj4JRWCdXhllVTZCVw)
 * [Lewis Lepton](https://www.youtube.com/channel/UC8Wzk_R1GoPkPqLo-obU_kQ)
 * [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
+* [Colorful Coding](https://www.youtube.com/c/ColorfulCoding/videos)
 
 #### Courses
 
@@ -381,9 +398,10 @@ Machine Learning:
     * [Paper.js](https://paperjs.org/)
     * [Regl: Functional WebGL](http://regl.party/)
     * [Babylon.js](https://www.babylonjs.com/)
-    * [http://twgljs.org/](http://twgljs.org/)
     * [curtains.js](https://www.curtainsjs.com/)
     * [pts.js](https://ptsjs.org/)
+    * [http://twgljs.org/](http://twgljs.org/)
+    * [ogl.js](https://github.com/oframe/ogl)
   * Live coding
     * [Hydra](https://github.com/ojack/hydra)
     * [Hedron](https://github.com/nudibranchrecords/hedron)
@@ -419,6 +437,8 @@ Machine Learning:
       * [The Endless Acid Banger](https://www.vitling.xyz/toys/acid-banger/)
       * [webDX7](http://www.webaudiomodules.org/wamsynths/webdx7/)
       * [OBXD](http://www.webaudiomodules.org/wamsynths/obxd)
+      * [TR-101](https://inverted3.gitlab.io/drum-machine/)
+      * [Sequencer64](https://github.com/drumnickydrum/sequencer64)
   * Drawing recognition
     * [$1 Unistroke Recognizer](http://depts.washington.edu/acelab/proj/dollar/index.html)
     * [Handwriting.js](https://www.chenyuho.com/project/handwritingjs/)
@@ -435,11 +455,13 @@ Machine Learning:
     * [jeelizWeboji](https://github.com/jeeliz/jeelizWeboji)
     * [MediaPipe](https://mediapipe.dev/) + [example via UDP](https://github.com/madelinegannon/example-mediapipe-udp)
       * [WebGazer.js](https://webgazer.cs.brown.edu/)
+    * [MediaPipe - Facemesh](https://google.github.io/mediapipe/solutions/face_mesh.html)
   * Body trackers
     * [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
     * [PoseNet for installations](https://github.com/oveddan/posenet-for-installations)
     * [Handtrack.js](https://github.com/victordibia/handtrack.js)
     * [MoveNet](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html)
+    * [Mediapipe - Pose](https://google.github.io/mediapipe/solutions/pose)
   * Fonts
     * [opentype.js](https://opentype.js.org/)
   * Augmented/Mixed/Virtual Reality
@@ -580,6 +602,7 @@ Machine Learning:
   * [OpenAI Jukebox](https://openai.com/blog/jukebox/)
   * [NeRF](https://dellaert.github.io/NeRF/)
   * [Eulerian Motion Fields](https://eulerian.cs.washington.edu/)
+  * [Vocal Remover](https://vocalremover.org/)
 
 * Virtual Reality
   * [Oculus Rift](https://www.oculus.com/en-us/creators/)
@@ -797,7 +820,7 @@ Machine Learning:
 * Buttons / Encoders
   * [Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
   * [XKeys](http://xkeys.com)
-  * [Palette Kit](https://palettegear.com/)
+  * [Monogram (prev. Palette Kit)](https://monogramcc.com/)
   * [Pimoroni](https://shop.pimoroni.com/)
   * [SuzoHapp](https://na.suzohapp.com/products/pushbuttons/)
   * [eao](https://eao.com/north-america/en_us/)
@@ -991,7 +1014,7 @@ Also, [3D Displays: Opportunities & Design Principles](https://www.bluecadet.com
 
 ## More resources
 
-#### Web sites
+### Web sites
 
 * [Intro to programming @ hello.processing.org](http://hello.processing.org/)
 * [Introduction to Computational Media](http://icm.shiffman.net/)
@@ -1007,17 +1030,38 @@ Also, [3D Displays: Opportunities & Design Principles](https://www.bluecadet.com
 * [Discover THREE.js](https://discoverthreejs.com)
 * [THREE.js Journey](https://threejs-journey.xyz/)
 
-#### Books
+### Books
 
-* [Form And Code](http://formandcode.com/)
+* [The Nature of Code](http://natureofcode.com/book/) by Daniel Shiffman
+* [Form And Code](http://formandcode.com/) by Casey Reas
 * [Generative Design](http://www.generative-gestaltung.de/)
 * [Generative Art](http://zenbullets.com/books.php)
-* [Code as Creative Medium](https://mitpress.mit.edu/books/code-creative-medium)
+* [Code as Creative Medium](https://mitpress.mit.edu/books/code-creative-medium) by Golan Levin and Tega Brain
 * [Coding Art](https://www.amazon.com/Coding-Art-Creative-Programming-Processing-ebook/dp/B08S79ZMHR/)
+* [When the Machine Made Art](https://www.bloomsbury.com/us/when-the-machine-made-art-9781623562724)
+* [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](https://www.amazon.com/10-PRINT-CHR-205-5-RND/dp/0262018462)
+* [Interactive Installation Art & Design](https://www.amazon.com/Interactive-Installation-Design-Wang-Chen/dp/9881998581/) by Wang Chen
+* [Cybernetic Serendipity: The Computer and the Arts](https://www.studiointernational.com/index.php/cybernetic-serendipity-history-and-lasting-legacy)
+* [Interactive Art and Embodiment: The Implicit Body as Performance](https://www.amazon.com/Interactive-Art-Embodiment-Implicit-Performance/dp/1780240090/)
+* [Liquid Spaces: Scenography, Installations and Spatial Experiences](https://www.amazon.com/Liquid-Spaces-Scenography-Installations-Experiences/dp/3899555619/)
 * [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html)
 * [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](https://shop.aer.io/oreilly/p/generative-deep-learning/9781492041948-9149)
+* [Multimedia: From Wagner to Virtual Reality](https://www.amazon.com/Multimedia-Wagner-Virtual-Reality-Expanded/dp/0393323757)
+* [A Little-Known Story about a Movement, a Magazine, and the Computer's Arrival in Art](https://www.penguinrandomhouse.com/books/663178/a-little-known-story-about-a-movement-a-magazine-and-the-computers-arrival-in-art-by-edited-by-margit-rosen-in-collaboration-with-peter-weibel-darko-fritz-and-marija-gattin/)
+* [John Maeda - Nature](https://www.amazon.com/John-Maeda-Nature/dp/2742758720)
+* [Maeda @ Media](https://www.amazon.com/Maeda-Media-John/dp/0847822958/)
+* [Computer Graphics-Computer Art](https://www.amazon.com/Computer-Graphics-Computer-Art-Herbert-Franke/dp/0387151494)
+* [Digital Visions: Computers and art](https://www.amazon.com/Digital-Visions-Computers-Cynthia-Goodman/dp/0810923610)
+* [Digital Harmony: On the Complementarity of Music and Visual Art](https://archive.org/details/DigitalHarmony_201611)
+* [Computer in Art](https://www.amazon.com/Computer-Art-Jasia-Reichardt/dp/0289795508)
+* [A Touch of Code: Interactive Installations and Experiences](https://www.amazon.com/Touch-Code-Interactive-Installations-Experiences/dp/3899553314)
+* [Video/Art: The First Fifty Years](https://www.amazon.com/Video-Art-First-Fifty-Years/dp/071487759X/)
+* [Sound Art: Sound as a Medium of Art](https://www.abebooks.com/products/isbn/9780262029667)
+* Tweets:
+  * [@sableRaph](https://twitter.com/sableRaph/status/1427650146389700611)
+  * [@schwittlick_ (de)](https://twitter.com/schwittlick_/status/1427656047339220995)
 
-#### Conferences
+### Conferences
 
 * [ARS Electronica](http://www.aec.at/festival/en/)
 * [Eyeo Festival](http://eyeofestival.com/)
@@ -1032,7 +1076,7 @@ Also, [3D Displays: Opportunities & Design Principles](https://www.bluecadet.com
 * [NODE forum](https://nodeforum.org/)
 * [FITC](https://fitc.ca/)
 
-#### Videos
+### Videos
 
 * [The Art of Creative Coding (PBS)](http://www.youtube.com/watch?v=eBV14-3LT-g)
 * [The Coding Train](https://www.youtube.com/user/shiffman) by Daniel Shiffman
@@ -1062,33 +1106,67 @@ Also, [3D Displays: Opportunities & Design Principles](https://www.bluecadet.com
   * [How to Use a Breadboard](https://www.youtube.com/watch?v=6WReFkfrUIk)
   * [A simple guide to electronic components](https://www.youtube.com/watch?v=6WReFkfrUIk)
 
-#### Podcasts
+### Podcasts
 
 * [That's So New Media!?](https://tsnm.fireside.fm/)
 * [Tech+Art](https://play.google.com/music/m/Iwmtn2adyprr7cdqocftx5qujrm?t=TechArt)
 * [Digital Ambience](https://www.digitalambiance.com/luminous-arts/)
 
-#### Artists / Coders / Companies
+### Artists / Coders
 
-* [Marius Watz](http://mariuswatz.com/) :: [@mariuswatz](http://twitter.com/mariuswatz)
-* [Mr. Doob](http://mrdoob.com/) :: [@mrdoob](http://twitter.com/mrdoob)
-* [Robert Hodgin](http://roberthodgin.com/) :: [@flight404](http://twitter.com/flight404)
-* [Mario Klingemann](http://www.quasimondo.com/) :: [@quasimondo](https://twitter.com/quasimondo)
-* [Aaron Koblin](http://www.aaronkoblin.com/) :: [@aaronkoblin](http://twitter.com/aaronkoblin)
-* [Golan Levin](http://flong.com/) :: [@golan](http://twitter.com/golan)
-* [Cedric Kiefer](http://www.onformative.com/) :: [@CedricKiefer](http://twitter.com/CedricKiefer)
-* [Memo Akten](http://memo.tv/) :: [@memotv](http://twitter.com/memotv)
-* [Dave Bollinger](http://www.flickr.com/photos/davebollinger/)
-* [Jared Tarbell](http://www.complexification.net/gallery/)
-* [Nicolas Barradeau](http://en.nicoptere.net/) :: [@nicoptere](http://twitter.com/nicoptere)
-* [W:Blut](http://www.wblut.com/constructionsite/) :: [@wblut](http://twitter.com/wblut)
-* [Inear](http://www.inear.se/) :: [@inear](http://twitter.com/inear)
-* [Steven Witten](http://acko.net/) :: [MathBox](https://github.com/unconed/MathBox.js)
-* [Jer Thorp](http://about.me/jerthorp) :: [@blprnt](http://twitter.com/blprnt)
-* [Zach Gage](http://www.stfj.net/) :: [@helvetica](http://twitter.com/helvetica)
-* [Chris O'Shea](http://www.chrisoshea.org/) :: [@chrisoshea](http://twitter.com/chrisoshea)
-* [Nervous System](http://n-e-r-v-o-u-s.com/)
-* [Yoichiro Kawaguchi](http://www.yoichiro-kawaguchi.com/en)
-* [Felix Woitzel](https://github.com/Flexi23) :: [@Flexi23](https://twitter.com/Flexi23)
-* [OutsideOfSociety](http://oos.moxiecode.com/blog/) :: [@oosmoxiecode](https://twitter.com/oosmoxiecode)
-* [Micah Scott](http://twitter.com/scanlime)
+* 1960s-1970s - early innovators
+  * [Vera Molnár](http://www.artnet.com/artists/vera-molnar/)
+  * [Manfred Mohr](http://www.emohr.com/)
+  * [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake)
+  * [Georg Nees](https://en.wikipedia.org/wiki/Georg_Nees)
+  * [Doris Chase](https://www.youtube.com/watch?v=IkNpWG2LypQ)
+  * [John Whitney](https://www.youtube.com/watch?v=ZrKgyY5aDvA)
+  * [Ed Catmull](https://vimeo.com/16292363) (later founded Pixar)
+* 1980s-2000s
+  * [Yoichiro Kawaguchi](http://www.yoichiro-kawaguchi.com/en)
+  * [Marius Watz](http://mariuswatz.com/) :: [@mariuswatz](http://twitter.com/mariuswatz)
+  * [John Maeda](https://maedastudio.com/) - Modern creative coding pioneer
+  * [Karl Sims](https://www.karlsims.com/) - Early genetic algorithms & research
+  * [Casey Reas](https://reas.com/) - Co-built Processing. Explores emergence
+  * [Jared Tarbell](http://www.complexification.net/gallery/) - Early 2000's generative art
+  * [LIA](https://www.liaworks.com/category/theprojects/) - Particles & abstract a/v
+  * [Zach Lieberman](https://www.instagram.com/zach.lieberman/) - Toolmaker & generative graphics
+  * [Golan Levin](http://flong.com/) :: [@golan](http://twitter.com/golan) - Educator & modern algorithm pioneer
+* Recent
+  * [Raven Kwok](http://ravenkwok.com) - Design via visual algorithms
+  * [Olivia Jack](https://ojack.xyz/) - Live audiovisual coding
+  * [Bees & Bombs](https://beesandbombs.tumblr.com/) - Seamless animated loops
+  * [Jen Lewin](https://www.jenlewinstudio.com/) - Installation art, kinect, LEDs
+  * [Everest Pipkin](http://everest-pipkin.com/) - Conceptual art, tools
+  * [Lauren McCarthy](https://lauren-mccarthy.com/) - Conceptual art, tools
+  * [Sean Zellmer](https://www.instagram.com/lejeunerenard/) - Raymarching (3d)
+  * [Saskia Freeke](http://sasj.nl/) - Generative shapes
+  * [Matt Deslaurier](https://www.mattdesl.com/) - Tools, techniques, execution
+  * [Nervous System](http://n-e-r-v-o-u-s.com/) - Product design
+  * [Reza Ali](https://www.syedrezaali.com/) - Generative art & low-level tools
+  * [Kyle McDonald](https://kylemcdonald.net/) - Machine learning & all new tech
+  * [Rebecca Fiebrink](https://twitter.com/rebeccafiebrink) - Machine learning-based tools
+  * [Robert Hodgin](http://roberthodgin.com/) :: [@flight404](http://twitter.com/flight404) - Generative high-end animation
+  * [Freya Holmér](https://twitter.com/FreyaHolmer) - Unity tools & explainer gifs
+  * [I Am Robot and Proud](https://www.instagram.com/robotandproud/) - Minimal generative audio + visual
+  * [Memo Akten](http://www.memo.tv/works/) :: [@memotv](http://twitter.com/memotv) - Lasers, performance, AI
+  * [Sofia Crespo](https://www.katevassgalerie.com/sofia-crespo) - Machine learning + graphics
+  * [Tim Rodenbroeker](https://timrodenbroeker.de/processing-tutorial-kinetic-typography-1/) - Generative poster design
+* More:
+  * [Mr. Doob](http://mrdoob.com/) :: [@mrdoob](http://twitter.com/mrdoob)
+  * [Robert Hodgin](http://roberthodgin.com/)
+  * [Mario Klingemann](http://www.quasimondo.com/) :: [@quasimondo](https://twitter.com/quasimondo)
+  * [Aaron Koblin](http://www.aaronkoblin.com/) :: [@aaronkoblin](http://twitter.com/aaronkoblin)
+  * [Cedric Kiefer](http://www.onformative.com/) :: [@CedricKiefer](http://twitter.com/CedricKiefer)
+  * [Dave Bollinger](http://www.flickr.com/photos/davebollinger/)
+  * [Nicolas Barradeau](http://en.nicoptere.net/) :: [@nicoptere](http://twitter.com/nicoptere)
+  * [W:Blut](http://www.wblut.com/constructionsite/) :: [@wblut](http://twitter.com/wblut)
+  * [Inear](http://www.inear.se/) :: [@inear](http://twitter.com/inear)
+  * [Steven Witten](http://acko.net/) :: [MathBox](https://github.com/unconed/MathBox.js)
+  * [Jer Thorp](http://about.me/jerthorp) :: [@blprnt](http://twitter.com/blprnt)
+  * [Zach Gage](http://www.stfj.net/) :: [@helvetica](http://twitter.com/helvetica)
+  * [Chris O'Shea](http://www.chrisoshea.org/) :: [@chrisoshea](http://twitter.com/chrisoshea)
+  * [Nervous System](http://n-e-r-v-o-u-s.com/)
+  * [Felix Woitzel](https://github.com/Flexi23) :: [@Flexi23](https://twitter.com/Flexi23)
+  * [OutsideOfSociety](http://oos.moxiecode.com/blog/) :: [@oosmoxiecode](https://twitter.com/oosmoxiecode)
+  * [Micah Scott](http://twitter.com/scanlime)
