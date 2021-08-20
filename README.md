@@ -12,6 +12,12 @@
 * [Hardware](#hardware)
 * [Other output options](#other-output-options)
 * [More resources](#more-resources)
+  * [Websites](#websites)
+  * [Books](#books)
+  * [Conferences](#conferences)
+  * [Videos](#videos)
+  * [Podcasts](#podcasts)
+  * [People](#people)
 
 
 In addition to this list, check out these awesome lists:
@@ -31,7 +37,7 @@ In addition to this list, check out these awesome lists:
   	* [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake)
   	* [Georg Nees](https://en.wikipedia.org/wiki/Georg_Nees) - [Computergrafik](http://dada.compart-bremen.de/item/exhibition/164)
   * [John Whitney - Catalog (1961)](https://www.youtube.com/watch?v=TbV7loKp69s)
-  * Pioneer computer animator John Whitney Sr. in 1959, operating one of the first computer-graphics engines, a mechanical analog computer built largely from surplus World War II anti-aircraft guidance hardware. [Source](https://www.awn.com/mag/issue2.5/2.5pages/2.5moritzwhitney.html)
+    * Pioneer computer animator John Whitney Sr. in 1959, operating one of the first computer-graphics engines, a mechanical analog computer built largely from surplus World War II anti-aircraft guidance hardware. [Source](https://www.awn.com/mag/issue2.5/2.5pages/2.5moritzwhitney.html)
   * ["How Computer-Generated Animations Were Made, Circa 1964"](https://www.youtube.com/watch?v=_Lmi6cmrq0w)
   * [John Whitney - Lapis (1966)](https://www.youtube.com/watch?v=kzniaKxMr2g)
   * ["The Incredible Machine" (1968)](https://www.youtube.com/watch?v=crbfSY6vf7s)
@@ -139,7 +145,7 @@ In addition to this list, check out these awesome lists:
 
 ## Graphics Concepts
 
-#### Basic Concepts & Building Blocks
+### Basic Concepts
 
 * Shapes
 * [Color](https://programmingdesignsystems.com/color/color-models-and-color-spaces/)
@@ -148,7 +154,7 @@ In addition to this list, check out these awesome lists:
 * [Similarities between drawing environments](https://github.com/cacheflowe/creative-coding-class-notes/blob/master/draw-rectangle.md)
 * Motion (frame-based vs. web rendering)
   * [Soulwire's Math for Motion](https://soulwire.co.uk/math-for-motion/)
-* Repetition (for())
+* Repetition (for() loops)
 * Iteration
 * Randomness
 * OOP
@@ -162,132 +168,139 @@ In addition to this list, check out these awesome lists:
 * 3D
 * Data
 
-#### Visual algorithms
+### Visual algorithms
 
 Check out this nice [visual list](https://www.notion.so/Creative-Code-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b) of some of the concepts below. And some code examples of another set of common [algorithms](https://github.com/v3ga/Processing), and also [here](https://www.complexity-explorables.org/).
 
-* Commons tools & concepts
-  * [Anti-aliasing algorithms](https://blog.codinghorror.com/fast-approximate-anti-aliasing-fxaa/)
-  * [Barycentric vs. Bilinear](https://twitter.com/freyaholmer/status/1243583264713048065)
-  * [Bilinear sampling](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/)
-  * [Blob detection](https://en.wikipedia.org/wiki/Blob_detection)
-  * [Cellular autonoma](http://natureofcode.com/book/chapter-7-cellular-automata)
-    * [Conway's classic Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-    * [Dialogue](https://www.behance.net/gallery/115972193/Dialogue)
-    * [Understanding Multiple Neighborhood Cellular Automata](https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/)
-  * [Collision detection](https://www.jeffreythompson.org/collision-detection/index.php)
-    * [Inside or outside a polygon](https://twitter.com/FreyaHolmer/status/1232826293902888960)
-  * [Computer vision](https://en.wikipedia.org/wiki/Computer_vision) (CV)
-  * [Convolution](https://www.youtube.com/watch?v=8rrHTtUzyZA)
-    * [Computing gradients on grids of pixels and voxels](https://bartwronski.com/2021/02/28/computing-gradients-on-grids-forward-central-and-diagonal-differences/)
-  * [Concave](https://www.codeproject.com/Articles/1201438/The-Concave-Hull-of-a-Set-of-Points) & [convex hulls](https://en.wikipedia.org/wiki/Convex_hull)
-  * [Delaunay Triangulation](http://mathworld.wolfram.com/images/eps-gif/DelaunayTriangulation_1000.gif)
-  * [Diffusion Limited Aggregation](https://editor.p5js.org/codingtrain/sketches/XpS9wGkbB)
-    * [DLA example](https://www.complexity-explorables.org/explorables/particularly-stuck/)
-  * [Dilation](https://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm) / [Erosion](https://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm)
-  * [Dithering](https://surma.dev/things/ditherpunk/)
-  * [Easing & interpolation](http://easings.net/)
-  * [Edge detection](https://en.wikipedia.org/wiki/Edge_detection)
-  * [Emergence](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art)
-  * [Feedback](https://www.shadertoy.com/view/Xd2fWR) [2](https://www.youtube.com/watch?v=B4Kn3djJMCE&feature=youtu.be)
-  * [FXAA](https://catlikecoding.com/unity/tutorials/custom-srp/fxaa/)
-  * [Genetic](http://www.youtube.com/watch?v=JBgG_VSP7f8) & evolutionary algorithms
-  * [GPU architecture types explained](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/)
-  * [Hardware acceleration](http://www.nvidia.com/object/what-is-gpu-computing.html)
-  * [Instancing](https://velasquezdaniel.com/blog/rendering-100k-spheres-instantianing-and-draw-calls/)
-  * [Kalman Filters](https://www.wouterbulten.nl/blog/tech/kalman-filters-explained-removing-noise-from-rssi-signals/)
-    * [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
-    * [1€ Filter](https://cristal.univ-lille.fr/~casiez/1euro/)
-  * [Light Bouncing](https://www.philipzucker.com/aesthetic-javascript-eduction/)
-  * [Linear Interpolation](https://www.alanzucconi.com/2021/01/24/linear-interpolation/)
-  * [Lissajous Curves](https://www.youtube.com/watch?v=glDU8Nsyidg)
-  * [Lorenz & Strange Attractors](http://paulbourke.net/fractals/lorenz/)
-  * [Map projections](https://observablehq.com/collection/@fil/projections)
-  * [Marching Squares](https://editor.p5js.org/codingtrain/sketches/wwB-AA4i-)
-  * [MIP mapping](https://en.wikipedia.org/wiki/Mipmap) & optimization
-  * [Motion Blur](https://twitter.com/freyaholmer/status/1108900107838205953)
-  * [Munching Squares](https://en.wikipedia.org/wiki/Munching_square) 
-    * [Examples](https://twitter.com/aemkei/status/1378106731386040322)
-  * Noise
-    * [Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise) for smooth randomness, terrain, textures. [More info](https://eev.ee/blog/2016/05/29/perlin-noise/)
-    * [Curl noise](http://petewerner.blogspot.com/2015/02/intro-to-curl-noise.html)
-    * [Fractal Brownian Motion](https://thebookofshaders.com/13/)
-    * [Blue noise](http://momentsingraphics.de/BlueNoise.html)
-  * [Packing](http://en.wikipedia.org/wiki/Packing_problem)
-  * [Parallax](https://en.wikipedia.org/wiki/Parallax)
-  * [Particles](https://ciphrd.com/2021/07/07/particle-interactions-using-deposited-substrate-as-communication-layer-ds-cl/)
-  * [Post-processing effects](https://pixijs.io/pixi-filters/tools/demo/)
-  * [Reaction](http://www.karlsims.com/rd.html)-[diffusion](https://www.shadertoy.com/view/lld3z8)
-  * [Space-filling algorithms](http://www.complexification.net/gallery/machines/boxFitting/boxFittingPRN.jpg)
-  * [Style Transfer](https://tenso.rs/demos/fast-neural-style/)
-  * [Subdivision](https://www.boristhebrave.com/2021/08/14/recursive-subdivision-variants/)
-  * [UV Coordinates](https://beforesandafters.com/2021/01/26/wrapping-around-the-uv-map-in-80-frames%e2%80%a8/)
-  * [Vectors](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1)
-  * [Voronoi](http://cs.nyu.edu/~ajsecord/npar2002/html/stipples-img16.png) [2](http://ultimaker.ipbhost.com/uploads/gallery/album_13/gallery_2943_13_8700870.jpg)
-  * [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
-* 3D / spatial concepts
-  * [Ambient occlusion](https://en.wikipedia.org/wiki/Ambient_occlusion) ([Slides](https://docs.google.com/presentation/d/1rVb2bW2EC-XQjOoN4hvXB-5aIO8H5vd2diKXw1ldAE0/preview#slide=id.p)) & 3d lighting
-  * [Bump/Normal/Displacement maps](http://blog.digitaltutors.com/bump-normal-and-displacement-maps/)
-  * [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) (CSG)
-  * [Displacement](https://vimeo.com/125927621)
-  * [Dot Product](http://sandervanrossen.blogspot.com/2019/07/dot-products-and-planes.html) / [Explainer gif](https://twitter.com/freyaholmer/status/1200807790580768768?s=12)
-  * [Marching cubes](https://en.wikipedia.org/wiki/Marching_cubes)
-  * [MatCap](https://github.com/nidorx/matcaps)
-  * [Meshes](http://www.cmap.polytechnique.fr/~peyre/images/test_remeshing.jpg)
-    * [Polygon meshes](https://en.wikipedia.org/wiki/Polygon_mesh)
-    * [Mesh sampling](http://www.joesfer.com/?p=84)
-  * [NURBS](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline)
-  * Optimization via [quadtrees](https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374) or [Octrees](http://www.i-programmer.info/programming/theory/1679-quadtrees-and-octrees.html)
-  * [Physically-Based Shading](https://www.shadertoy.com/view/4sSfzK)
-  * [Projection (3D)](https://jsantell.com/3d-projection)
-  * [Raytracing](https://si-ashbery.medium.com/raytracing-309fc44307e6)
-  * [Raymarching](https://www.shadertoy.com/view/4dSfRc)
-  * [Volumetric Rendering](https://wallisc.github.io/rendering/2020/05/02/Volumetric-Rendering-Part-1.html)
-  * [Ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics))
-  * [Shadows](https://docs.google.com/presentation/d/1MwJcnSvkAzpT8BuoSqIkzlYLjdA_lBDrt8bW-vcwmDU/edit#slide=id.p)
-    * [Shadows (2D, hard)](https://slembcke.github.io/SuperFastHardShadows)
-    * [Shadows (2D, soft)](https://slembcke.github.io/SuperFastSoftShadows)
-  * [Signed Distance Functions (SDF)](https://joyrok.com/What-Are-SDFs-Anyway)
-  * [Spherical mathematics](https://editor.p5js.org/codingtrain/sketches/qVs1hxtc), Quaternions and Euler rotation [1](http://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
-  * [Sub Surface Scattering](https://therealmjp.github.io/posts/sss-intro/)
-  * [Superformula](https://en.wikipedia.org/wiki/Superformula)
-  * [Voxels](http://rjzarah.blog.com/files/2011/10/voxel_pixelart.gif)
-* Natural simulations (some borrowed from @AmnonOwed @ [this repo](https://github.com/AmnonOwed/P5_NaturalSystems))
-  * [Algorithmic Botany](http://algorithmicbotany.org/papers/)
-  * [Biomimicry](http://en.wikipedia.org/wiki/Biomimicry)
-  * [Boids](https://processing.org/examples/flocking.html) / [flocking](https://vimeo.com/55213364) & particle systems
-  * [Emergence](http://en.wikipedia.org/wiki/Emergence)
-  * [Evolutionary Computing](http://en.wikipedia.org/wiki/Evolutionary_computation)
-  * [Flocking](http://en.wikipedia.org/wiki/Flocking_%28behavior%29)
-  * [Flow Fields](http://en.wikipedia.org/wiki/Vector_field)
-  * [Fluid](http://madebyevan.com/webgl-water/) [dynamics](https://www.shadertoy.com/view/XdcXDN) & solvers
-  * [Form-Finding](http://en.wikipedia.org/wiki/Stretched_grid_method)
-  * [Fractal Modeling](http://en.wikipedia.org/wiki/Fractal)
-  * [Fractals](http://fractalfoundation.org/OFC/OFC-10-4.html) & [Mandelbulbs](https://vimeo.com/56546771) [4](http://vimeo.com/12215994)
-  * [List_of_fractals_by_Hausdorff_dimension](http://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
-  * [Genetic Algorithms](http://en.wikipedia.org/wiki/Genetic_algorithm)
-  * [Greeble](http://en.wikipedia.org/wiki/Greeble)
-  * [Laplacian Growth](https://vimeo.com/22628789)
-  * [Lindenmayer-Systems](http://en.wikipedia.org/wiki/L-system)
-  * [Morphogenesis](http://en.wikipedia.org/wiki/Morphogenesis)
-    * [Morphogenesis resources](https://github.com/jasonwebb/morphogenesis-resources)
-  * [Space Colonization](https://medium.com/@jason.webb/space-colonization-algorithm-in-javascript-6f683b743dc5)
-  * [Physics simulations](https://en.wikipedia.org/wiki/Verlet_integration)
-  * [Reaction-Diffusion](http://en.wikipedia.org/wiki/Reaction-diffusion)
-  * [Self-Organization](http://en.wikipedia.org/wiki/Self-Organization)
+#### Commons tools & concepts
+
+* [Anti-aliasing algorithms](https://blog.codinghorror.com/fast-approximate-anti-aliasing-fxaa/)
+* [Barycentric vs. Bilinear](https://twitter.com/freyaholmer/status/1243583264713048065)
+* [Bilinear sampling](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/)
+* [Blob detection](https://en.wikipedia.org/wiki/Blob_detection)
+* [Cellular autonoma](http://natureofcode.com/book/chapter-7-cellular-automata)
+  * [Conway's classic Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+  * [Dialogue](https://www.behance.net/gallery/115972193/Dialogue)
+  * [Understanding Multiple Neighborhood Cellular Automata](https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/)
+* [Collision detection](https://www.jeffreythompson.org/collision-detection/index.php)
+  * [Inside or outside a polygon](https://twitter.com/FreyaHolmer/status/1232826293902888960)
+* [Computer vision](https://en.wikipedia.org/wiki/Computer_vision) (CV)
+* [Convolution](https://www.youtube.com/watch?v=8rrHTtUzyZA)
+  * [Computing gradients on grids of pixels and voxels](https://bartwronski.com/2021/02/28/computing-gradients-on-grids-forward-central-and-diagonal-differences/)
+* [Concave](https://www.codeproject.com/Articles/1201438/The-Concave-Hull-of-a-Set-of-Points) & [convex hulls](https://en.wikipedia.org/wiki/Convex_hull)
+* [Delaunay Triangulation](http://mathworld.wolfram.com/images/eps-gif/DelaunayTriangulation_1000.gif)
+* [Diffusion Limited Aggregation](https://editor.p5js.org/codingtrain/sketches/XpS9wGkbB)
+  * [DLA example](https://www.complexity-explorables.org/explorables/particularly-stuck/)
+* [Dilation](https://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm) / [Erosion](https://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm)
+* [Dithering](https://surma.dev/things/ditherpunk/)
+* [Easing & interpolation](http://easings.net/)
+* [Edge detection](https://en.wikipedia.org/wiki/Edge_detection)
+* [Emergence](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art)
+* [Feedback](https://www.shadertoy.com/view/Xd2fWR) [2](https://www.youtube.com/watch?v=B4Kn3djJMCE&feature=youtu.be)
+* [FXAA](https://catlikecoding.com/unity/tutorials/custom-srp/fxaa/)
+* [Genetic](http://www.youtube.com/watch?v=JBgG_VSP7f8) & evolutionary algorithms
+* [GPU architecture types explained](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/)
+* [Hardware acceleration](http://www.nvidia.com/object/what-is-gpu-computing.html)
+* [Instancing](https://velasquezdaniel.com/blog/rendering-100k-spheres-instantianing-and-draw-calls/)
+* [Kalman Filters](https://www.wouterbulten.nl/blog/tech/kalman-filters-explained-removing-noise-from-rssi-signals/)
+  * [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+  * [1€ Filter](https://cristal.univ-lille.fr/~casiez/1euro/)
+* [Light Bouncing](https://www.philipzucker.com/aesthetic-javascript-eduction/)
+* [Linear Interpolation](https://www.alanzucconi.com/2021/01/24/linear-interpolation/)
+* [Lissajous Curves](https://www.youtube.com/watch?v=glDU8Nsyidg)
+* [Lorenz & Strange Attractors](http://paulbourke.net/fractals/lorenz/)
+* [Map projections](https://observablehq.com/collection/@fil/projections)
+* [Marching Squares](https://editor.p5js.org/codingtrain/sketches/wwB-AA4i-)
+* [MIP mapping](https://en.wikipedia.org/wiki/Mipmap) & optimization
+* [Motion Blur](https://twitter.com/freyaholmer/status/1108900107838205953)
+* [Munching Squares](https://en.wikipedia.org/wiki/Munching_square) 
+  * [Examples](https://twitter.com/aemkei/status/1378106731386040322)
+* Noise
+  * [Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise) for smooth randomness, terrain, textures. [More info](https://eev.ee/blog/2016/05/29/perlin-noise/)
+  * [Curl noise](http://petewerner.blogspot.com/2015/02/intro-to-curl-noise.html)
+  * [Fractal Brownian Motion](https://thebookofshaders.com/13/)
+  * [Blue noise](http://momentsingraphics.de/BlueNoise.html)
+* [Packing](http://en.wikipedia.org/wiki/Packing_problem)
+* [Parallax](https://en.wikipedia.org/wiki/Parallax)
+* [Particles](https://ciphrd.com/2021/07/07/particle-interactions-using-deposited-substrate-as-communication-layer-ds-cl/)
+* [Post-processing effects](https://pixijs.io/pixi-filters/tools/demo/)
+* [Reaction](http://www.karlsims.com/rd.html)-[diffusion](https://www.shadertoy.com/view/lld3z8)
+* [Space-filling algorithms](http://www.complexification.net/gallery/machines/boxFitting/boxFittingPRN.jpg)
+* [Style Transfer](https://tenso.rs/demos/fast-neural-style/)
+* [Subdivision](https://www.boristhebrave.com/2021/08/14/recursive-subdivision-variants/)
+* [UV Coordinates](https://beforesandafters.com/2021/01/26/wrapping-around-the-uv-map-in-80-frames%e2%80%a8/)
+* [Vectors](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1)
+* [Voronoi](http://cs.nyu.edu/~ajsecord/npar2002/html/stipples-img16.png) [2](http://ultimaker.ipbhost.com/uploads/gallery/album_13/gallery_2943_13_8700870.jpg)
+* [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
+
+#### 3D / spatial concepts
+
+* [Ambient occlusion](https://en.wikipedia.org/wiki/Ambient_occlusion) ([Slides](https://docs.google.com/presentation/d/1rVb2bW2EC-XQjOoN4hvXB-5aIO8H5vd2diKXw1ldAE0/preview#slide=id.p)) & 3d lighting
+* [Bump/Normal/Displacement maps](http://blog.digitaltutors.com/bump-normal-and-displacement-maps/)
+* [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) (CSG)
+* [Displacement](https://vimeo.com/125927621)
+* [Dot Product](http://sandervanrossen.blogspot.com/2019/07/dot-products-and-planes.html) / [Explainer gif](https://twitter.com/freyaholmer/status/1200807790580768768?s=12)
+* [Marching cubes](https://en.wikipedia.org/wiki/Marching_cubes)
+* [MatCap](https://github.com/nidorx/matcaps)
+* [Meshes](http://www.cmap.polytechnique.fr/~peyre/images/test_remeshing.jpg)
+  * [Polygon meshes](https://en.wikipedia.org/wiki/Polygon_mesh)
+  * [Mesh sampling](http://www.joesfer.com/?p=84)
+* [NURBS](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline)
+* Optimization via [quadtrees](https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374) or [Octrees](http://www.i-programmer.info/programming/theory/1679-quadtrees-and-octrees.html)
+* [Physically-Based Shading](https://www.shadertoy.com/view/4sSfzK)
+* [Projection (3D)](https://jsantell.com/3d-projection)
+* [Raytracing](https://si-ashbery.medium.com/raytracing-309fc44307e6)
+* [Raymarching](https://www.shadertoy.com/view/4dSfRc)
+* [Volumetric Rendering](https://wallisc.github.io/rendering/2020/05/02/Volumetric-Rendering-Part-1.html)
+* [Ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics))
+* [Shadows](https://docs.google.com/presentation/d/1MwJcnSvkAzpT8BuoSqIkzlYLjdA_lBDrt8bW-vcwmDU/edit#slide=id.p)
+  * [Shadows (2D, hard)](https://slembcke.github.io/SuperFastHardShadows)
+  * [Shadows (2D, soft)](https://slembcke.github.io/SuperFastSoftShadows)
+* [Signed Distance Functions (SDF)](https://joyrok.com/What-Are-SDFs-Anyway)
+* [Spherical mathematics](https://editor.p5js.org/codingtrain/sketches/qVs1hxtc), Quaternions and Euler rotation [1](http://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
+* [Sub Surface Scattering](https://therealmjp.github.io/posts/sss-intro/)
+* [Superformula](https://en.wikipedia.org/wiki/Superformula)
+* [Voxels](http://rjzarah.blog.com/files/2011/10/voxel_pixelart.gif)
+
+#### Natural simulations 
+
+Some of these borrowed from @AmnonOwed @ [this repo](https://github.com/AmnonOwed/P5_NaturalSystems))
+
+* [Algorithmic Botany](http://algorithmicbotany.org/papers/)
+* [Biomimicry](http://en.wikipedia.org/wiki/Biomimicry)
+* [Boids](https://processing.org/examples/flocking.html) / [flocking](https://vimeo.com/55213364) & particle systems
+* [Emergence](http://en.wikipedia.org/wiki/Emergence)
+* [Evolutionary Computing](http://en.wikipedia.org/wiki/Evolutionary_computation)
+* [Flocking](http://en.wikipedia.org/wiki/Flocking_%28behavior%29)
+* [Flow Fields](http://en.wikipedia.org/wiki/Vector_field)
+* [Fluid](http://madebyevan.com/webgl-water/) [dynamics](https://www.shadertoy.com/view/XdcXDN) & solvers
+* [Form-Finding](http://en.wikipedia.org/wiki/Stretched_grid_method)
+* [Fractal Modeling](http://en.wikipedia.org/wiki/Fractal)
+* [Fractals](http://fractalfoundation.org/OFC/OFC-10-4.html) & [Mandelbulbs](https://vimeo.com/56546771) [4](http://vimeo.com/12215994)
+* [List_of_fractals_by_Hausdorff_dimension](http://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
+* [Genetic Algorithms](http://en.wikipedia.org/wiki/Genetic_algorithm)
+* [Greeble](http://en.wikipedia.org/wiki/Greeble)
+* [Laplacian Growth](https://vimeo.com/22628789)
+* [Lindenmayer-Systems](http://en.wikipedia.org/wiki/L-system)
+* [Morphogenesis](http://en.wikipedia.org/wiki/Morphogenesis)
+  * [Morphogenesis resources](https://github.com/jasonwebb/morphogenesis-resources)
+* [Space Colonization](https://medium.com/@jason.webb/space-colonization-algorithm-in-javascript-6f683b743dc5)
+* [Physics simulations](https://en.wikipedia.org/wiki/Verlet_integration)
+* [Reaction-Diffusion](http://en.wikipedia.org/wiki/Reaction-diffusion)
+* [Self-Organization](http://en.wikipedia.org/wiki/Self-Organization)
 
 #### Articles
 
-General:
+General
 
 * ["Advice for Creative Technologists"](https://medium.com/@laserpilot/advice-for-creative-technologists-21f3f220b2)
 * ["Why Love Generative Art?"](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
-* ["What makes generative art hard?"](https://bendotk.com/writing/what-makes-generative-art-hard)
 * ["Join the Creative Class"](http://www.forbes.com/sites/elainepofeldt/2012/12/28/want-to-recession-proof-yourself-join-the-creative-class/)
 * ["The Brief History of Volumetric Filmmaking"](https://medium.com/volumetric-filmmaking/the-brief-history-of-volumetric-filmmaking-32b3569c6831)
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+* ["What makes generative art hard?"](https://bendotk.com/writing/what-makes-generative-art-hard)
 
-Algorithmic design:
+Algorithmic design
 
 * [On Meta-Design and Algorithmic Design Systems](https://runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/) by Rune Madsen
 * [So you want to build a generator](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator) by Kate Compton
@@ -298,8 +311,9 @@ Algorithmic design:
 * [Generative Possibility Space](http://www.possibilityspace.org/tutorial-generative-possibility-space/)
 * [GenerativeHut tutorials](https://www.generativehut.com/tutorials)
 * [Line](https://wblut.com/line/) by wblut
+* [A Programmer's Introduction to Mathematics](https://www.bit-101.com/blog/2021/08/a-programmers-introduction-to-mathematics/) by wblut
 
-Graphics Programming:
+Graphics Programming
 
 * [https://learnopengl.com/](https://learnopengl.com/)
 * [WebGL Guide](https://xem.github.io/articles/webgl-guide.html)
@@ -389,277 +403,297 @@ Machine Learning:
 
 ## Creative Coding Tools
 
-* Web-based
-  * Realtime graphics libraries
-    * [THREE.js](http://threejs.org/)
-    * [PIXI.js](http://www.pixijs.com/)
-    * [p5js](http://p5js.org/)
-    * [two.js](https://two.js.org/)
-    * [Paper.js](https://paperjs.org/)
-    * [Regl: Functional WebGL](http://regl.party/)
-    * [Babylon.js](https://www.babylonjs.com/)
-    * [curtains.js](https://www.curtainsjs.com/)
-    * [pts.js](https://ptsjs.org/)
-    * [http://twgljs.org/](http://twgljs.org/)
-    * [ogl.js](https://github.com/oframe/ogl)
-  * Live coding
-    * [Hydra](https://github.com/ojack/hydra)
-    * [Hedron](https://github.com/nudibranchrecords/hedron)
-  * Rendering tools
-    * [GLFX.js](http://evanw.github.io/glfx.js/)
-    * [GifLoopCoder](http://www.gifloopcoder.com/)
-    * [ccapture.js](https://github.com/spite/ccapture.js/)
-    * [whammy.js](https://github.com/antimatter15/whammy)
-    * [gif.js](https://jnordberg.github.io/gif.js/)
-    * [html2canvas](https://github.com/niklasvh/html2canvas)
-    * [CanvasFilters](https://github.com/kig/canvasfilters)
-  * Audio
-    * [Tone.js](https://tonejs.github.io/)
-    * [Peaks.js](https://github.com/bbc/peaks.js)
-    * [wavesurfer.js](https://wavesurfer-js.org/)
-    * [howler.js](https://howlerjs.com/)
-    * [Web Audio DAW](https://github.com/rserota/wad)
-    * [Tuna](https://github.com/Theodeus/tuna)
-    * [Slang](https://github.com/kylestetz/slang)
-    * [aq](https://github.com/rxi/aq)
-    * [waveform-data.js](https://github.com/bbc/waveform-data.js)
-    * [essentia.js](https://mtg.github.io/essentia.js/)
-    * [Handel](https://handel-pl.github.io/)
-    * Instruments
-      * [WebSynths Grooves](https://www.websynths.com/grooves)
-      * [WebSynths Microtonal](https://www.websynths.com/microtonal)
-      * [Bauble drum synth](https://www.elf-audio.com/synths/bauble/)
-      * [Chiptone](https://sfbgames.itch.io/chiptone)
-      * [Patchcab](https://patch.cab/)
-      * [Apotome](https://isartum.net/apotome)
-      * [Nestup](https://nestup.cutelab.nyc/)
-      * [reactive-synth](https://github.com/PatrickStephansen/reactive-synth)
-      * [The Endless Acid Banger](https://www.vitling.xyz/toys/acid-banger/)
-      * [webDX7](http://www.webaudiomodules.org/wamsynths/webdx7/)
-      * [OBXD](http://www.webaudiomodules.org/wamsynths/obxd)
-      * [TR-101](https://inverted3.gitlab.io/drum-machine/)
-      * [Sequencer64](https://github.com/drumnickydrum/sequencer64)
-  * Drawing recognition
-    * [$1 Unistroke Recognizer](http://depts.washington.edu/acelab/proj/dollar/index.html)
-    * [Handwriting.js](https://www.chenyuho.com/project/handwritingjs/)
-  * Voice-recognition
-    * [Web Speech API demo](https://mdn.github.io/web-speech-api/speech-color-changer/)
-  * General tools
-    * [Haxademic.js](https://github.com/cacheflowe/haxademic.js)
-    * [Delaunator](https://github.com/mapbox/delaunator)
-  * Face trackers
-    * [face-api.js](https://github.com/justadudewhohacks/face-api.js)
-    * [tracking.js](https://trackingjs.com/)
-    * [clmtrackr](https://github.com/auduno/clmtrackr)
-    * [BRFv4](https://tastenkunst.github.io/brfv4_javascript_examples/)
-    * [jeelizWeboji](https://github.com/jeeliz/jeelizWeboji)
-    * [MediaPipe](https://mediapipe.dev/) + [example via UDP](https://github.com/madelinegannon/example-mediapipe-udp)
-      * [WebGazer.js](https://webgazer.cs.brown.edu/)
-    * [MediaPipe - Facemesh](https://google.github.io/mediapipe/solutions/face_mesh.html)
-  * Body trackers
-    * [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
-    * [PoseNet for installations](https://github.com/oveddan/posenet-for-installations)
-    * [Handtrack.js](https://github.com/victordibia/handtrack.js)
-    * [MoveNet](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html)
-    * [Mediapipe - Pose](https://google.github.io/mediapipe/solutions/pose)
-  * Fonts
-    * [opentype.js](https://opentype.js.org/)
-  * Augmented/Mixed/Virtual Reality
-    * [AR.js](https://github.com/jeromeetienne/ar.js)
-    * [Aframe](https://aframe.io)
-        * [web2vr](https://github.com/kikoano/web2vr)
-    * [Native AR model viewer](https://cwervo.com/writing/quicklook-web/)
-      * [WebXR](https://immersive-web.github.io/webxr/)
-      * [8th Wall](https://www.8thwall.com/)
-      * [blippAR](https://www.blippar.com/ardp/static/ardp.html)
-      * [p5xr](http://p5xr.org)
-  * Hardware access
-    * [WebMIDI](https://www.smashingmagazine.com/2018/03/web-midi-api/)
-    * [JZZ](https://github.com/jazz-soft/JZZ)
-      * [Device Orientation](https://www.smashingmagazine.com/2018/03/web-midi-api/)
-      * [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
-      * [Serial API](https://wicg.github.io/serial/)
-    * [Tramontana](https://tramontana.xyz/)
-  * Multi-user sync
-    * WebSockets
-      * [Socket.io](https://socket.io)
-      * [Croquet](https://www.croquet.io/)
-      * [Peer.js](https://peerjs.com/)
-    * WebRTC
-      * [PeerJS](https://github.com/peers/peerjs)
-      * [Kurento](https://doc-kurento.readthedocs.io/en/stable/index.html)
-    * [Other WebRTC servers](https://stackoverflow.com/a/44093117/352456)
-  * CSS
-    * [CSS Doodle](https://css-doodle.com/)
+### Web-based
 
-* GLSL
-  * [GLSL Sandbox](http://glslsandbox.com/)
-  * [Shadertoy](http://shadertoy.com)
-    * [28 GLSL tutorials](https://www.shadertoy.com/view/Md23DV)
-    * Raymarching
-      * [Raymarching Demo](https://www.shadertoy.com/view/4dSfRc)
-      * [Raymarching Demo 2](https://www.shadertoy.com/view/wlSGWy)
-      * [Raymarching Intro](http://barradeau.com/blog/?p=575)
-      * [Raymarching: more](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
-      * [Ray Marching by Michael Walczyk](http://www.michaelwalczyk.com/blog/2017/5/25/ray-marching)
-      * [Raymarching Workshop](https://github.com/ajweeks/RaymarchingWorkshop)
-      * [Inigo Quilez: LIVE Shader Deconstruction](https://www.youtube.com/watch?v=Cfe5UQ-1L9Q)
-      * [Raymarching Template](https://www.shadertoy.com/view/tdVXDz)
-      * [Getting started with shaders: signed distance functions!](https://jvns.ca/blog/2020/03/15/writing-shaders-with-signed-distance-functions/)
-      * [SDF Tutorial 1 : box & balloon](https://www.shadertoy.com/view/Xl2XWt)
-      * [Simple Raymarching Example Scene](https://www.shadertoy.com/view/wd2SR3)
-      * [Shader Coding: Ray Marching Tips & Tricks](https://www.youtube.com/watch?v=Vmb7VGBVZJA)
-  * [Vertex Shader Art](http://vertexshaderart.com/)
-  * [Book of Shaders](http://thebookofshaders.com/) (+ [Editor](http://editor.thebookofshaders.com/))
-  * [stackgl Shader School](https://github.com/stackgl/shader-school)
-  * [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)
-  * [Interactive Shader Format](http://www.interactiveshaderformat.com/)
-  * [KodeLife](https://hexler.net/software/kodelife)
-  * [editSDF](http://stephaneginier.com/archive/editSDF/)
-  * [WebGL Signed Distance Function Mesher](http://tdhooper.github.io/glsl-marching-cubes/)
-  * [Snelly](https://github.com/portsmouth/snelly)
-  * [F3 App](http://www.syedrezaali.com/f3-mac-app/)
-  * [Fragment Foundry](http://hughsk.io/fragment-foundry/)
-  * [glsl.io](http://transitions.glsl.io/)
-  * [glslb.in](http://glslb.in/)
-  * [cables.gl](https://cables.gl/)
-  * [shaderfrog](https://shaderfrog.com/)
-  * [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)
-  * [LWJGL Basics](https://github.com/mattdesl/lwjgl-basics/wiki) by @mattdesl
-  * [shader-doodle](https://github.com/halvves/shader-doodle) [by @halvves](https://twitter.com/halvves/status/1116749547131346944)
-  * [Shader Booth](https://shaderbooth.com/)
-
-* Java-based:
-  * [Processing](http://processing.org) [1](http://vimeo.com/15379147)
-  * [OPENRNDR](https://openrndr.org/)
-  * [LX Studio](http://lx.studio/)
-
-* c++:
-  * [Cinder](http://libcinder.org/)
-  * [openFrameworks](http://www.openframeworks.cc/)
-
-* Swift:
-  * [C4](http://www.c4ios.com/)
-
-* Rust:
-  * [nannou](http://nannou.cc/)
-
-* Cross-platform:
-  * [Unity](http://unity3d.com/)
-  * [Unreal Engine](https://www.unrealengine.com)
-
-* Node-based:
-  * [VVVV](http://vvvv.org)
-  * [Max/MSP](http://cycling74.com/products/max/)
-  * [Pure Data](https://puredata.info/)
-  * [Touch Designer](http://www.derivative.ca/)
-  * [Notch](https://www.notch.one)
-  * [Troikatronix Isadora](https://troikatronix.com/)
-  * [Praxis](http://www.praxislive.org/)
-  * [Disguise](https://www.disguise.one/en/)
-  * [Vuo](https://vuo.org/)
-  * [nodes.io](http://nodes.io/)
-
-* Computer Vision / Image recognition:
-  * [OpenCV](https://opencv.org/)
-  * [OpenCV AI Kit](https://www.kickstarter.com/projects/opencv/opencv-ai-kit)
-  * [YOLO](https://pjreddie.com/darknet/yolo/)
+* Realtime graphics libraries
+  * [THREE.js](http://threejs.org/)
+  * [PIXI.js](http://www.pixijs.com/)
+  * [p5js](http://p5js.org/)
+  * [two.js](https://two.js.org/)
+  * [Paper.js](https://paperjs.org/)
+  * [Regl: Functional WebGL](http://regl.party/)
+  * [Babylon.js](https://www.babylonjs.com/)
+  * [curtains.js](https://www.curtainsjs.com/)
+  * [pts.js](https://ptsjs.org/)
+  * [http://twgljs.org/](http://twgljs.org/)
+  * [ogl.js](https://github.com/oframe/ogl)
+* Live coding
+  * [Hydra](https://github.com/ojack/hydra)
+  * [Hedron](https://github.com/nudibranchrecords/hedron)
+* Rendering tools
+  * [GLFX.js](http://evanw.github.io/glfx.js/)
+  * [GifLoopCoder](http://www.gifloopcoder.com/)
+  * [ccapture.js](https://github.com/spite/ccapture.js/)
+  * [whammy.js](https://github.com/antimatter15/whammy)
+  * [gif.js](https://jnordberg.github.io/gif.js/)
+  * [html2canvas](https://github.com/niklasvh/html2canvas)
+  * [CanvasFilters](https://github.com/kig/canvasfilters)
+* Audio
+  * [Tone.js](https://tonejs.github.io/)
+  * [Peaks.js](https://github.com/bbc/peaks.js)
+  * [wavesurfer.js](https://wavesurfer-js.org/)
+  * [howler.js](https://howlerjs.com/)
+  * [Web Audio DAW](https://github.com/rserota/wad)
+  * [Tuna](https://github.com/Theodeus/tuna)
+  * [Slang](https://github.com/kylestetz/slang)
+  * [aq](https://github.com/rxi/aq)
+  * [waveform-data.js](https://github.com/bbc/waveform-data.js)
+  * [essentia.js](https://mtg.github.io/essentia.js/)
+  * [Handel](https://handel-pl.github.io/)
+  * Instruments
+    * [WebSynths Grooves](https://www.websynths.com/grooves)
+    * [WebSynths Microtonal](https://www.websynths.com/microtonal)
+    * [Bauble drum synth](https://www.elf-audio.com/synths/bauble/)
+    * [Chiptone](https://sfbgames.itch.io/chiptone)
+    * [Patchcab](https://patch.cab/)
+    * [Apotome](https://isartum.net/apotome)
+    * [Nestup](https://nestup.cutelab.nyc/)
+    * [reactive-synth](https://github.com/PatrickStephansen/reactive-synth)
+    * [The Endless Acid Banger](https://www.vitling.xyz/toys/acid-banger/)
+    * [webDX7](http://www.webaudiomodules.org/wamsynths/webdx7/)
+    * [OBXD](http://www.webaudiomodules.org/wamsynths/obxd)
+    * [TR-101](https://inverted3.gitlab.io/drum-machine/)
+    * [Sequencer64](https://github.com/drumnickydrum/sequencer64)
+* Drawing recognition
+  * [$1 Unistroke Recognizer](http://depts.washington.edu/acelab/proj/dollar/index.html)
+  * [Handwriting.js](https://www.chenyuho.com/project/handwritingjs/)
+* Voice-recognition
+  * [Web Speech API demo](https://mdn.github.io/web-speech-api/speech-color-changer/)
+* General tools
+  * [Haxademic.js](https://github.com/cacheflowe/haxademic.js)
+  * [Delaunator](https://github.com/mapbox/delaunator)
+* Face trackers
+  * [face-api.js](https://github.com/justadudewhohacks/face-api.js)
+  * [tracking.js](https://trackingjs.com/)
+  * [clmtrackr](https://github.com/auduno/clmtrackr)
+  * [BRFv4](https://tastenkunst.github.io/brfv4_javascript_examples/)
+  * [jeelizWeboji](https://github.com/jeeliz/jeelizWeboji)
+  * [MediaPipe](https://mediapipe.dev/) + [example via UDP](https://github.com/madelinegannon/example-mediapipe-udp)
+    * [WebGazer.js](https://webgazer.cs.brown.edu/)
+  * [MediaPipe - Facemesh](https://google.github.io/mediapipe/solutions/face_mesh.html)
+* Body trackers
   * [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
-  * [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-  * [DensePose](http://densepose.org/)
-  * [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
-  * [PoseTrack](https://github.com/iqbalu/PoseTrack-CVPR2017)
-  * [OpenTrack](https://github.com/opentrack/opentrack)
-  * [OpenDataCam](https://github.com/opendatacam/opendatacam)
-  * [BodyPix](https://blog.tensorflow.org/2019/11/updated-bodypix-2.html)
-  * [VIBE](https://github.com/mkocabas/VIBE)
-  * [OpenPTrack](http://openptrack.org/)
-  * [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
-  * [Snap Camera](https://snapcamera.snapchat.com/)
-    * [Snap Lens Studio](https://lensstudio.snapchat.com/)
-  * [Consistent Video Depth Estimation](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)
-  * [Worldsheet](https://worldsheet.github.io/)
-  * [Virtual Background](https://github.com/Volcomix/virtual-background)
+  * [PoseNet for installations](https://github.com/oveddan/posenet-for-installations)
+  * [Handtrack.js](https://github.com/victordibia/handtrack.js)
+  * [MoveNet](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html)
+  * [Mediapipe - Pose](https://google.github.io/mediapipe/solutions/pose)
+* Fonts
+  * [opentype.js](https://opentype.js.org/)
+* Augmented/Mixed/Virtual Reality
+  * [AR.js](https://github.com/jeromeetienne/ar.js)
+  * [Aframe](https://aframe.io)
+      * [web2vr](https://github.com/kikoano/web2vr)
+  * [Native AR model viewer](https://cwervo.com/writing/quicklook-web/)
+    * [WebXR](https://immersive-web.github.io/webxr/)
+    * [8th Wall](https://www.8thwall.com/)
+    * [blippAR](https://www.blippar.com/ardp/static/ardp.html)
+    * [p5xr](http://p5xr.org)
+* Hardware access
+  * [WebMIDI](https://www.smashingmagazine.com/2018/03/web-midi-api/)
+  * [JZZ](https://github.com/jazz-soft/JZZ)
+    * [Device Orientation](https://www.smashingmagazine.com/2018/03/web-midi-api/)
+    * [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
+    * [Serial API](https://wicg.github.io/serial/)
+  * [Tramontana](https://tramontana.xyz/)
+* Multi-user sync
+  * WebSockets
+    * [Socket.io](https://socket.io)
+    * [Croquet](https://www.croquet.io/)
+    * [Peer.js](https://peerjs.com/)
+  * WebRTC
+    * [PeerJS](https://github.com/peers/peerjs)
+    * [Kurento](https://doc-kurento.readthedocs.io/en/stable/index.html)
+  * [Other WebRTC servers](https://stackoverflow.com/a/44093117/352456)
+* CSS
+  * [CSS Doodle](https://css-doodle.com/)
 
-* Machine learning
-  * [Deeplearn.js](https://pair-code.github.io/deeplearnjs/docs/tutorials/index.html)
-  * [Runway](https://docs.runwayapp.ai)
-  * [Machine Learning for Artists](http://ml4a.github.io/)
-  * [ml5js](https://ml5js.org/) [demo from scratch](https://www.youtube.com/watch?v=8HEgeAbYphA)
-  * [Wekinator](http://www.wekinator.org/)
-  * [Mediapipe](https://github.com/google/mediapipe/)
-  * [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
-    * [Shiffman tutorials](https://thecodingtrain.com/TeachableMachine/index.html)
-    * [Awesome Teachable Machine list](https://github.com/SashiDo/awesome-teachable-machine)
-  * [Spleeter](https://waxy.org/2019/11/fast-and-free-music-separation-with-deezers-machine-learning-library/)
-  * [Demucs](https://github.com/facebookresearch/demucs)
-  * [DrumBot](https://twitter.com/notwaldorf/status/1201599495244537858)
-  * [Synopsis](https://synopsis.video/)
-  * [Descript](https://www.descript.com/)
-  * [DAIN](https://github.com/baowenbo/DAIN)
-  * [RiTa](https://rednoise.org/rita/index.php)
-  * [Imaginaire](https://twitter.com/liu_mingyu/status/1310690272355823617) ([GitHub](https://github.com/NVlabs/imaginaire))
-  * [OpenAI Jukebox](https://openai.com/blog/jukebox/)
-  * [NeRF](https://dellaert.github.io/NeRF/)
-  * [Eulerian Motion Fields](https://eulerian.cs.washington.edu/)
-  * [Vocal Remover](https://vocalremover.org/)
+### GLSL
 
-* Virtual Reality
-  * [Oculus Rift](https://www.oculus.com/en-us/creators/)
-  * [HTC Vive](https://www.htcvive.com/us/)
-  * [Morpheus](https://www.playstation.com/en-gb/explore/ps4/features/project-morpheus/)
-  * [Samsung Gear VR](http://www.samsung.com/global/microsite/gearvr/gearvr_design.html)
-  * [Google Cardboard](https://www.google.com/get/cardboard/)
-  * [WondaVR](http://www.wondavr.com/)
+* [GLSL Sandbox](http://glslsandbox.com/)
+* [Shadertoy](http://shadertoy.com)
+  * [28 GLSL tutorials](https://www.shadertoy.com/view/Md23DV)
+  * Raymarching
+    * [Raymarching Demo](https://www.shadertoy.com/view/4dSfRc)
+    * [Raymarching Demo 2](https://www.shadertoy.com/view/wlSGWy)
+    * [Raymarching Intro](http://barradeau.com/blog/?p=575)
+    * [Raymarching: more](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
+    * [Ray Marching by Michael Walczyk](http://www.michaelwalczyk.com/blog/2017/5/25/ray-marching)
+    * [Raymarching Workshop](https://github.com/ajweeks/RaymarchingWorkshop)
+    * [Inigo Quilez: LIVE Shader Deconstruction](https://www.youtube.com/watch?v=Cfe5UQ-1L9Q)
+    * [Raymarching Template](https://www.shadertoy.com/view/tdVXDz)
+    * [Getting started with shaders: signed distance functions!](https://jvns.ca/blog/2020/03/15/writing-shaders-with-signed-distance-functions/)
+    * [SDF Tutorial 1 : box & balloon](https://www.shadertoy.com/view/Xl2XWt)
+    * [Simple Raymarching Example Scene](https://www.shadertoy.com/view/wd2SR3)
+    * [Shader Coding: Ray Marching Tips & Tricks](https://www.youtube.com/watch?v=Vmb7VGBVZJA)
+* [Vertex Shader Art](http://vertexshaderart.com/)
+* [Book of Shaders](http://thebookofshaders.com/) (+ [Editor](http://editor.thebookofshaders.com/))
+* [stackgl Shader School](https://github.com/stackgl/shader-school)
+* [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)
+* [Interactive Shader Format](http://www.interactiveshaderformat.com/)
+* [KodeLife](https://hexler.net/software/kodelife)
+* [editSDF](http://stephaneginier.com/archive/editSDF/)
+* [WebGL Signed Distance Function Mesher](http://tdhooper.github.io/glsl-marching-cubes/)
+* [Snelly](https://github.com/portsmouth/snelly)
+* [F3 App](http://www.syedrezaali.com/f3-mac-app/)
+* [Fragment Foundry](http://hughsk.io/fragment-foundry/)
+* [glsl.io](http://transitions.glsl.io/)
+* [glslb.in](http://glslb.in/)
+* [cables.gl](https://cables.gl/)
+* [shaderfrog](https://shaderfrog.com/)
+* [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)
+* [LWJGL Basics](https://github.com/mattdesl/lwjgl-basics/wiki) by @mattdesl
+* [shader-doodle](https://github.com/halvves/shader-doodle) [by @halvves](https://twitter.com/halvves/status/1116749547131346944)
+* [Shader Booth](https://shaderbooth.com/)
 
-* Augmented/Mixed Reality
-  * [Hololens](https://www.microsoft.com/microsoft-hololens/en-us) [1](https://www.youtube.com/watch?v=29xnzxgCx6I)
-  * [ARKit](https://developer.apple.com/arkit/) (iOS)
-  * [ARCore](https://developers.google.com/ar/) (Android)
-  * [Vuforia](https://www.vuforia.com/)
-  * [Mira](https://www.mirareality.com/)
-  * [Magic Leap](https://www.magicleap.com/)
+### Java
 
-* Data processing
-  * [1Euro noisy data smoothing](http://cristal.univ-lille.fr/~casiez/1euro/)
+* [Processing](http://processing.org) [1](http://vimeo.com/15379147)
+* [OPENRNDR](https://openrndr.org/)
+* [LX Studio](http://lx.studio/)
+
+### c++
+
+* [Cinder](http://libcinder.org/)
+* [openFrameworks](http://www.openframeworks.cc/)
+
+### Swift
+
+* [C4](http://www.c4ios.com/)
+
+### Rust
+
+* [nannou](http://nannou.cc/)
+
+### Game Engines
+
+* [Unity](http://unity3d.com/)
+* [Unreal Engine](https://www.unrealengine.com)
+
+### Node-based
+
+* [VVVV](http://vvvv.org)
+* [Max/MSP](http://cycling74.com/products/max/)
+* [Pure Data](https://puredata.info/)
+* [TouchDesigner](http://www.derivative.ca/)
+* [Notch](https://www.notch.one)
+* [Troikatronix Isadora](https://troikatronix.com/)
+* [Praxis](http://www.praxislive.org/)
+* [Disguise](https://www.disguise.one/en/)
+* [Vuo](https://vuo.org/)
+* [nodes.io](http://nodes.io/)
+
+### Computer Vision / Image recognition
+
+* [OpenCV](https://opencv.org/)
+* [OpenCV AI Kit](https://www.kickstarter.com/projects/opencv/opencv-ai-kit)
+* [YOLO](https://pjreddie.com/darknet/yolo/)
+* [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
+* [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+* [DensePose](http://densepose.org/)
+* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
+* [PoseTrack](https://github.com/iqbalu/PoseTrack-CVPR2017)
+* [OpenTrack](https://github.com/opentrack/opentrack)
+* [OpenDataCam](https://github.com/opendatacam/opendatacam)
+* [BodyPix](https://blog.tensorflow.org/2019/11/updated-bodypix-2.html)
+* [VIBE](https://github.com/mkocabas/VIBE)
+* [OpenPTrack](http://openptrack.org/)
+* [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
+* [Snap Camera](https://snapcamera.snapchat.com/)
+  * [Snap Lens Studio](https://lensstudio.snapchat.com/)
+* [Consistent Video Depth Estimation](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)
+* [Worldsheet](https://worldsheet.github.io/)
+* [Virtual Background](https://github.com/Volcomix/virtual-background)
+
+### Machine learning
+
+* [Deeplearn.js](https://pair-code.github.io/deeplearnjs/docs/tutorials/index.html)
+* [Runway](https://docs.runwayapp.ai)
+* [Machine Learning for Artists](http://ml4a.github.io/)
+* [ml5js](https://ml5js.org/) [demo from scratch](https://www.youtube.com/watch?v=8HEgeAbYphA)
+* [Wekinator](http://www.wekinator.org/)
+* [Mediapipe](https://github.com/google/mediapipe/)
+* [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
+  * [Shiffman tutorials](https://thecodingtrain.com/TeachableMachine/index.html)
+  * [Awesome Teachable Machine list](https://github.com/SashiDo/awesome-teachable-machine)
+* [Spleeter](https://waxy.org/2019/11/fast-and-free-music-separation-with-deezers-machine-learning-library/)
+* [Demucs](https://github.com/facebookresearch/demucs)
+* [DrumBot](https://twitter.com/notwaldorf/status/1201599495244537858)
+* [Synopsis](https://synopsis.video/)
+* [Descript](https://www.descript.com/)
+* [DAIN](https://github.com/baowenbo/DAIN)
+* [RiTa](https://rednoise.org/rita/index.php)
+* [Imaginaire](https://twitter.com/liu_mingyu/status/1310690272355823617) ([GitHub](https://github.com/NVlabs/imaginaire))
+* [OpenAI Jukebox](https://openai.com/blog/jukebox/)
+* [NeRF](https://dellaert.github.io/NeRF/)
+* [Eulerian Motion Fields](https://eulerian.cs.washington.edu/)
+* [Vocal Remover](https://vocalremover.org/)
+
+### Virtual Reality
+
+* [Oculus Rift](https://www.oculus.com/en-us/creators/)
+* [HTC Vive](https://www.htcvive.com/us/)
+* [Morpheus](https://www.playstation.com/en-gb/explore/ps4/features/project-morpheus/)
+* [Samsung Gear VR](http://www.samsung.com/global/microsite/gearvr/gearvr_design.html)
+* [Google Cardboard](https://www.google.com/get/cardboard/)
+* [WondaVR](http://www.wondavr.com/)
+
+### Augmented & Mixed Reality
+
+* [Hololens](https://www.microsoft.com/microsoft-hololens/en-us) [1](https://www.youtube.com/watch?v=29xnzxgCx6I)
+* [ARKit](https://developer.apple.com/arkit/) (iOS)
+* [ARCore](https://developers.google.com/ar/) (Android)
+* [Vuforia](https://www.vuforia.com/)
+* [Mira](https://www.mirareality.com/)
+* [Magic Leap](https://www.magicleap.com/)
+
+### Data processing
+
+* [1Euro noisy data smoothing](http://cristal.univ-lille.fr/~casiez/1euro/)
 
 ## Communication Protocols
 
-* Local network & web communication:
-  * [HTTP](https://medium.com/@jen_strong/the-request-response-cycle-of-the-web-1b7e206e9047)
-  * [WebRTC](https://webrtc.github.io/samples/)
-  * [UDP](https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/)
-  * [WebSocket](http://en.wikipedia.org/wiki/WebSocket)
-  * [OSC](http://en.wikipedia.org/wiki/Open_Sound_Control)
-  * [osculator](https://osculator.net/)
-  * [ZeroMQ](http://zeromq.org)
-* Hardware device communication:
+### Local network & web communication:
+
+* [HTTP](https://medium.com/@jen_strong/the-request-response-cycle-of-the-web-1b7e206e9047)
+* [WebRTC](https://webrtc.github.io/samples/)
+* [UDP](https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/)
+* [WebSocket](http://en.wikipedia.org/wiki/WebSocket)
+* [OSC](http://en.wikipedia.org/wiki/Open_Sound_Control)
+* [osculator](https://osculator.net/)
+* [ZeroMQ](http://zeromq.org)
+
+### Hardware device communication:
+
+* MIDI
   * [MIDI](http://en.wikipedia.org/wiki/MIDI)
   * [MIDI Translator (OS X)](https://www.bome.com/products/miditranslator)
   * [iConnectMIDI2+](https://www.iconnectivity.com/products/midi/iconnectmidi2plus)
-  * Lighting
+* Lighting
   * [ArtNet](https://en.wikipedia.org/wiki/Art-Net)
   * [DMX](https://en.wikipedia.org/wiki/DMX512)
   * [Doug Fleenor Design products](http://www.dfd.com/index.html)
   * [sACN](https://www.lightjams.com/sacn.html)
-  * Shared textures between apps
+* Shared textures between apps
   * [Spout](http://spout.zeal.co/)
   * [Syphon](http://www.syphon.v002.info/)
   * [CamTwist](http://camtwiststudio.com/)
-  * Video streaming
-    * [RTP](https://en.wikipedia.org/wiki/Real-time_Transport_Protocol)
-    * [NDI](https://www.ndi.tv/)
-    * [WebRTC](https://webrtc.org/)
-  * Audio & MIDI device sharing
-    * [https://github.com/PipeWire/pipewire](PipeWire)
-    * [Jack Audio Connection Kit](https://jackaudio.org/)
-    * [BlackHole](https://github.com/ExistentialAudio/BlackHole) (Soundflower replacement for OS X)
-    * [MIDI-OX](http://www.midiox.com/)
-* Multi-protocol timeline tools
-  * [Vezer](https://imimot.com/vezer/)
-  * [Chataigne](http://benjamin.kuperberg.fr/chataigne/en)
-  * [OSSIA](https://github.com/OSSIA/score)
-  * [QLab](https://qlab.app/)
+* Video streaming
+  * [RTP](https://en.wikipedia.org/wiki/Real-time_Transport_Protocol)
+  * [NDI](https://www.ndi.tv/)
+  * [WebRTC](https://webrtc.org/)
+* Audio & MIDI device sharing via software
+  * [https://github.com/PipeWire/pipewire](PipeWire)
+  * [Jack Audio Connection Kit](https://jackaudio.org/)
+  * [BlackHole](https://github.com/ExistentialAudio/BlackHole) (Soundflower replacement for OS X)
+  * [MIDI-OX](http://www.midiox.com/)
+
+### Multi-protocol timeline tools & stage helpers
+
+* [Vezer](https://imimot.com/vezer/)
+* [Chataigne](http://benjamin.kuperberg.fr/chataigne/en)
+* [OSSIA](https://github.com/OSSIA/score)
+* [QLab](https://qlab.app/)
+* [Flare](https://flare.geodesic.tech/)
 
 
 ## Multimedia Tools
@@ -1014,7 +1048,7 @@ Also, [3D Displays: Opportunities & Design Principles](https://www.bluecadet.com
 
 ## More resources
 
-### Web sites
+### Websites
 
 * [Intro to programming @ hello.processing.org](http://hello.processing.org/)
 * [Introduction to Computational Media](http://icm.shiffman.net/)
@@ -1028,6 +1062,7 @@ Also, [3D Displays: Opportunities & Design Principles](https://www.bluecadet.com
 * [WebGL Fundamentals](https://webglfundamentals.org)
 * [THREE.js Fundamentals](https://threejsfundamentals.org/)
 * [Discover THREE.js](https://discoverthreejs.com)
+* [THREE.js Journey](https://threejs-journey.xyz/)
 * [THREE.js Journey](https://threejs-journey.xyz/)
 
 ### Books
@@ -1112,7 +1147,7 @@ Also, [3D Displays: Opportunities & Design Principles](https://www.bluecadet.com
 * [Tech+Art](https://play.google.com/music/m/Iwmtn2adyprr7cdqocftx5qujrm?t=TechArt)
 * [Digital Ambience](https://www.digitalambiance.com/luminous-arts/)
 
-### Artists / Coders
+### People
 
 * 1960s-1970s - early innovators
   * [Vera Molnár](http://www.artnet.com/artists/vera-molnar/)
@@ -1132,6 +1167,7 @@ Also, [3D Displays: Opportunities & Design Principles](https://www.bluecadet.com
   * [LIA](https://www.liaworks.com/category/theprojects/) - Particles & abstract a/v
   * [Zach Lieberman](https://www.instagram.com/zach.lieberman/) - Toolmaker & generative graphics
   * [Golan Levin](http://flong.com/) :: [@golan](http://twitter.com/golan) - Educator & modern algorithm pioneer
+  * [Joshua Davis](https://joshuadavis.com/) :: [@JoshuaDavis](http://twitter.com/golan) - Educator & modern algorithm pioneer
 * Recent
   * [Raven Kwok](http://ravenkwok.com) - Design via visual algorithms
   * [Olivia Jack](https://ojack.xyz/) - Live audiovisual coding
