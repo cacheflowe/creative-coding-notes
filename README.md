@@ -298,7 +298,6 @@ General
 * ["Join the Creative Class"](http://www.forbes.com/sites/elainepofeldt/2012/12/28/want-to-recession-proof-yourself-join-the-creative-class/)
 * ["The Brief History of Volumetric Filmmaking"](https://medium.com/volumetric-filmmaking/the-brief-history-of-volumetric-filmmaking-32b3569c6831)
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-* ["What makes generative art hard?"](https://bendotk.com/writing/what-makes-generative-art-hard)
 
 Algorithmic design
 
@@ -311,7 +310,8 @@ Algorithmic design
 * [Generative Possibility Space](http://www.possibilityspace.org/tutorial-generative-possibility-space/)
 * [GenerativeHut tutorials](https://www.generativehut.com/tutorials)
 * [Line](https://wblut.com/line/) by wblut
-* [A Programmer's Introduction to Mathematics](https://www.bit-101.com/blog/2021/08/a-programmers-introduction-to-mathematics/) by wblut
+* [What makes generative art hard?](https://bendotk.com/writing/what-makes-generative-art-hard)
+* [A Programmer's Introduction to Mathematics](https://www.bit-101.com/blog/2021/08/a-programmers-introduction-to-mathematics/)
 
 Graphics Programming
 
@@ -1083,6 +1083,7 @@ Also, [3D Displays: Opportunities & Design Principles](https://www.bluecadet.com
 * [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](https://shop.aer.io/oreilly/p/generative-deep-learning/9781492041948-9149)
 * [Multimedia: From Wagner to Virtual Reality](https://www.amazon.com/Multimedia-Wagner-Virtual-Reality-Expanded/dp/0393323757)
 * [A Little-Known Story about a Movement, a Magazine, and the Computer's Arrival in Art](https://www.penguinrandomhouse.com/books/663178/a-little-known-story-about-a-movement-a-magazine-and-the-computers-arrival-in-art-by-edited-by-margit-rosen-in-collaboration-with-peter-weibel-darko-fritz-and-marija-gattin/)
+* [Creative Code: Aesthetics + Computation](https://www.amazon.com/Creative-Code-Computation-John-Maeda/dp/0500285179)
 * [John Maeda - Nature](https://www.amazon.com/John-Maeda-Nature/dp/2742758720)
 * [Maeda @ Media](https://www.amazon.com/Maeda-Media-John/dp/0847822958/)
 * [Computer Graphics-Computer Art](https://www.amazon.com/Computer-Graphics-Computer-Art-Herbert-Franke/dp/0387151494)
