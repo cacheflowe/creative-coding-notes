@@ -87,6 +87,9 @@ In addition to this list, check out these awesome lists:
   * [Nintendo Power Glove](https://www.youtube.com/watch?v=SAKbtJjAV18) [1](https://www.youtube.com/watch?v=3g8JiGjRQNE) (1990)
   * [VR](https://en.wikipedia.org/wiki/Virtual_reality) (1977-present)
   * [Dance Dance Revolution](https://upload.wikimedia.org/wikipedia/commons/e/ec/Dance_Dance_Revolution_North_American_arcade_machine_3.jpg) (1998)
+* Lists of modern projects
+  * http://untitled.cwandt.com/
+  * https://cacheflowe.com/inspiration
 
 
 ## Modern Creative Coding Uses
@@ -243,6 +246,7 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
 * [Style Transfer](https://tenso.rs/demos/fast-neural-style/)
 * [Subdivision](https://www.boristhebrave.com/2021/08/14/recursive-subdivision-variants/)
 * [Text rendering](https://babylonjs.medium.com/rendering-text-bf3bc53f7c2e)
+* [Triangulation](https://lindenreidblog.com/2017/12/03/simple-mesh-tessellation-triangulation-tutorial/)
 * [UV Coordinates](https://beforesandafters.com/2021/01/26/wrapping-around-the-uv-map-in-80-frames%e2%80%a8/)
 * [Vectors](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1)
 * [Voronoi](http://cs.nyu.edu/~ajsecord/npar2002/html/stipples-img16.png) [2](http://ultimaker.ipbhost.com/uploads/gallery/album_13/gallery_2943_13_8700870.jpg)
@@ -470,10 +474,14 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
   * [SVGomg](https://jakearchibald.github.io/svgomg/) svg optimizer
 * 3d models
   * .gltf validators
+    * https://gltf-viewer.donmccurdy.com/
+    * https://modelviewer.dev/editor/
     * https://gltf.pmnd.rs/
   * "Free" models
     * https://market.pmnd.rs/model/lucy
     * https://www.models-resource.com/
+  * "Free" textures
+    * https://ambientcg.com/list
 * Audio
   * [Tone.js](https://tonejs.github.io/)
   * [Peaks.js](https://github.com/bbc/peaks.js)
@@ -486,6 +494,7 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
   * [waveform-data.js](https://github.com/bbc/waveform-data.js)
   * [essentia.js](https://mtg.github.io/essentia.js/)
   * [Handel](https://handel-pl.github.io/)
+  * [Strudel / TidalCycles](https://strudel.tidalcycles.org/tutorial/)
   * Instruments
     * [WebSynths Grooves](https://www.websynths.com/grooves)
     * [WebSynths Microtonal](https://www.websynths.com/microtonal)
@@ -504,6 +513,9 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
     * [Noisecraft](https://noisecraft.app/)
     * [Global Sequencer](https://globalsequencer.com/)
     * [tahti.studio](https://tahti.studio/)
+    * [Roland50 Studio](https://roland50.studio/)
+    * [Intersymmetric](https://intersymmetric.xyz/seq-1/idx/)
+    * [Muted.io](https://muted.io/d-major-scale/)
 * Drawing recognition
   * [$1 Unistroke Recognizer](http://depts.washington.edu/acelab/proj/dollar/index.html)
   * [Handwriting.js](https://www.chenyuho.com/project/handwritingjs/)
@@ -572,6 +584,7 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
   * [Shadertoy](http://shadertoy.com)
   * [Vertex Shader Art](http://vertexshaderart.com/)
   * [glsl.io](http://glsl.io/)
+  * [Shader Park](https://shaderpark.com)
   * [Shader Booth](https://shaderbooth.com/)
   * [Interactive Shader Format](https://editor.isf.video/)
   * [shaderfrog](https://shaderfrog.com/)
@@ -597,6 +610,7 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
   * [SDF Tutorial 1 : box & balloon](https://www.shadertoy.com/view/Xl2XWt)
   * [Simple Raymarching Example Scene](https://www.shadertoy.com/view/wd2SR3)
   * [Shader Coding: Ray Marching Tips & Tricks](https://www.youtube.com/watch?v=Vmb7VGBVZJA)
+  * [Volume Rendering for Developers](https://www.scratchapixel.com/lessons/advanced-rendering/volume-rendering-for-developers/intro-volume-rendering)
 * Other
   * [F3 App](http://www.syedrezaali.com/f3-mac-app/)
   * [glslb.in](http://glslb.in/) (defunct?)
@@ -613,6 +627,7 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
 
 * [Cinder](http://libcinder.org/)
 * [openFrameworks](http://www.openframeworks.cc/)
+* [Nap Framework](https://www.napframework.com/)
 
 ### Swift
 
@@ -692,6 +707,11 @@ A nice [roundup](https://twitter.com/golan/status/1496311115571212294) of browse
 * [ProsePainter](https://github.com/Morphogens/ProsePainter) - [info](https://twitter.com/_joelsimon/status/1458507619254030338)
 * [SIREN](https://twitter.com/cyrildiagne/status/1472612918852259844)
 * [Text2Mesh](https://threedle.github.io/text2mesh/)
+* [Github Copilot](https://next.github.com/projects/copilot-labs/)
+* [Midjourney](https://twitter.com/midjourney)
+* [Dall-E 2](https://openai.com/dall-e-2/)
+* [Stylegan](https://github.com/NVlabs/stylegan3)
+* [Open-Unmix](https://sigsep.github.io/open-unmix/js.html)
 
 ### Virtual Reality
 
@@ -735,6 +755,7 @@ A nice [roundup](https://twitter.com/golan/status/1496311115571212294) of browse
   * [MIDI Translator (OS X)](https://www.bome.com/products/miditranslator)
   * [iConnectMIDI2+](https://www.iconnectivity.com/products/midi/iconnectmidi2plus)
 * Lighting
+  * [Open Fixture library](https://open-fixture-library.org/american-dj) (database of lighting fixture info)
   * [ArtNet](https://en.wikipedia.org/wiki/Art-Net)
   * [DMX](https://en.wikipedia.org/wiki/DMX512)
   * [Doug Fleenor Design products](http://www.dfd.com/index.html)
@@ -803,7 +824,8 @@ A nice [roundup](https://twitter.com/golan/status/1496311115571212294) of browse
 * [TidalCycles](https://tidalcycles.org/)
 * [Magenta](https://magenta.tensorflow.org/studio)
 * [VCV Rack](https://vcvrack.com/Prototype) ([+ plugin docs](https://vcvrack.com/manual/PluginDevelopmentTutorial))
-* [HICE](http://hise.audio/)
+* [HICE](http://www.hise.audio/)
+* [Elementary Audio](https://www.elementary.audio/)
 
 #### Video + Image
 
@@ -895,6 +917,9 @@ A nice [roundup](https://twitter.com/golan/status/1496311115571212294) of browse
   * Lidar
     * [Ouster OS-1](https://www.ouster.io/product-os1/)
     * [Slamtec RPLidar](https://www.slamtec.com/en/Lidar/A3)
+    * High-end
+      * [SICK](https://www.sick.com/us/en/detection-and-ranging-solutions/2d-lidar-sensors/c/g91900)
+      * [Hokuyo](https://hokuyo-usa.com/products/lidar-obstacle-detection)
   * Radar
     * [Google Soli](https://atap.google.com/soli/)
   * Ultrasound vision
@@ -922,6 +947,7 @@ A nice [roundup](https://twitter.com/golan/status/1496311115571212294) of browse
 * Unique controllers
   * [Leap Motion](https://www.leapmotion.com/) [1](http://kolidar.com/Blog/wp-content/uploads/2012/07/Minority-report_2.jpg)
   * [handUI for Unity](https://github.com/crookookoo/handUI)
+  * [Mimu Gloves](https://mimugloves.com/)
   * [Myo](https://www.thalmic.com/myo/)
   * [Gest](https://gest.co/)
   * [Litho](https://www.litho.cc/)
@@ -980,7 +1006,7 @@ First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of
 
 Also, [3D Displays: Opportunities & Design Principles](https://www.bluecadet.com/news/3d-displays-opportunities-design-principles/) by Bluecadet
 
-And this great [survey of historic electronic display technologies](http://friendlywire.com/articles/displays/).
+And this great [survey of historic electronic display technologies](http://friendlywire.com/articles/displays/)
 
 * [Volumetric displays](https://www.lookingglassfactory.com/)
 * [Transparent displays](http://prodisplay.com/products/transparent-lcd-screen/)
@@ -1113,6 +1139,7 @@ And this great [survey of historic electronic display technologies](http://frien
   * [https://remake.autodesk.com/about](https://remake.autodesk.com/about)
   * [Resolume](https://www.resolume.com/)
   * [MadMapper](https://madmapper.com/)
+  * [maptasticjs](https://github.com/glowbox/maptasticjs)
 * LED lights
   * Addressable LEDs
     * [FadeCandy](http://www.misc.name/fadecandy/)
@@ -1231,6 +1258,7 @@ And this great [survey of historic electronic display technologies](http://frien
 * [Gray Area Festival](https://grayareafestival.io/)
 * [NODE forum](https://nodeforum.org/)
 * [FITC](https://fitc.ca/)
+* [Sonar +D](https://sonarplusd.com/)
 
 ### Videos
 
