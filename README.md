@@ -1002,7 +1002,7 @@ A nice [roundup](https://twitter.com/golan/status/1496311115571212294) of browse
 
 ## Unique Displays and Touchscreens
 
-First, check out [Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/) and [Guide to Projectors for Interactive Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations/blob/master/Guide%20to%20Projectors%20for%20Interactive%20Installations.md) by [@laserpilot](https://twitter.com/laserpilot).
+First, check out [Survey of Alternative Displays](https://blair-neal.gitbook.io/survey-of-alternative-displays/) and [Guide to Projectors for Interactive Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations/blob/master/Guide%20to%20Projectors%20for%20Interactive%20Installations.md) by [@laserpilot](https://twitter.com/laserpilot).
 
 Also, [3D Displays: Opportunities & Design Principles](https://www.bluecadet.com/news/3d-displays-opportunities-design-principles/) by Bluecadet
 
