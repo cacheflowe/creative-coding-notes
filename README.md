@@ -27,6 +27,7 @@ In addition to this list, check out these awesome lists:
 * [Open source, experimental, and tiny tools roundup by Everest Pipkin](http://everest-pipkin.com/teaching/tools.html)
 * [Graphics Programming Weekly](https://www.jendrikillner.com/article_database/)
 * [Visual Programming Codex](https://github.com/ivanreese/visual-programming-codex/blob/main/implementations.md)
+* [Generative Arts Newsletter](https://github.com/cdr6934/GenerativeArtsNewsletter/blob/main/IssueLinks.md)
 
 
 ## Creative Coding History
@@ -53,15 +54,18 @@ In addition to this list, check out these awesome lists:
   * [Manfred Mohr - Cubic Limit (1974)](https://www.youtube.com/watch?v=j4M28FEJFF8)
   * [The Lost Art of Canada's Doomed Pre-Internet Web (1970s-80s)](https://www.youtube.com/watch?v=vjMUe7hkwRs) (Telidon)
   * [Carla's Island (1981)](http://www.youtube.com/watch?v=kO-JB1WHmRc)
+  * [SIGGRAPH 1982 Art Exhibition Artist Interviews](https://vimeo.com/720322156)
   * [The Road to Point Reyes (1983)](http://lucasmuseum.org/works/detail/asset_id/1292)
   * [Calculated Movements by Larry Cuba (1985)](https://www.youtube.com/watch?v=OkyqP-g_LrY)
   * [Computer Music (Synthesizers, Synclavier) News Report w/Stanley Jordan (1986)](https://www.youtube.com/watch?v=duMStO826W0)
+  * [Vincent John Vincent - Immersive Video Gesture Control (1986)](https://www.youtube.com/watch?v=XeIOVHPRolo)
   * [Myron Krueger - Videoplace (1988)](https://www.youtube.com/watch?v=dmmxVA5xhuo) and [more](https://www.youtube.com/watch?v=d4DUIeXSEpk)
   * [Samia Halaby](https://www.youtube.com/watch?v=sDfIkXf3uzA)
   * [A brief history of computer drawing](http://golancourses.net/2016/lectures/2-02/)
   * [William Latham - BioGenesis (1993)](https://www.youtube.com/watch?v=1BkKayvtyg8)
   * [Karl Sims - Evolved Virtual Creatures (1994)](http://www.youtube.com/watch?v=JBgG_VSP7f8)
   * [Scott Snibbe - Motion Phone (1995)](https://www.youtube.com/watch?v=6AMeZaNou6w)
+  * [John Maeda (1990s)](https://www.youtube.com/watch?v=eWucS8B16hk)
   * [Romy Achituv & Camille Utterback - Text Rain (1999)](http://camilleutterback.com/projects/text-rain/)
   * [Golan Levin and Zach Lieberman - The Manual Input Sessions (2004)](https://vimeo.com/2375302)
 * Historic overviews
@@ -205,6 +209,7 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
 * [Dithering](https://surma.dev/things/ditherpunk/)
 * [Easing & interpolation](http://easings.net/)
 * [Edge detection](https://en.wikipedia.org/wiki/Edge_detection)
+* [Edge distance in Regular Polygons](https://observablehq.com/@mootari/polygon-edge-distance)
 * [Emergence](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art)
 * [Feedback](https://www.shadertoy.com/view/Xd2fWR) [2](https://www.youtube.com/watch?v=B4Kn3djJMCE&feature=youtu.be)
 * [FXAA](https://catlikecoding.com/unity/tutorials/custom-srp/fxaa/)
@@ -240,6 +245,7 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
 * [Particles](https://ciphrd.com/2021/07/07/particle-interactions-using-deposited-substrate-as-communication-layer-ds-cl/)
 * [Post-processing effects](http://filters.pixijs.download/dev/demo/index.html)
 * [Poisson Fill](https://mobile.twitter.com/patriciogv/status/1402000238123044875)
+* [Polygon expansion](https://www.amygoodchild.com/blog/polygons-packing-expanding)
 * [Reaction](http://www.karlsims.com/rd.html)-[diffusion](https://www.shadertoy.com/view/lld3z8)
 * [Space-filling algorithms](http://www.complexification.net/gallery/machines/boxFitting/boxFittingPRN.jpg)
 * [Strange Attractors](https://observablehq.com/@rreusser/strange-attractors-on-the-gpu-part-1)
@@ -348,7 +354,7 @@ Graphics Programming
 * [Casual Introduction to Low-Level Graphics Programming](http://stephaniehurlburt.com/blog/2016/10/28/casual-introduction-to-low-level-graphics-programming)
 * [Computational Geometry Tutorial](http://wykobi.com/tutorial.html)
 * [Graphics in Plain Language](https://renderdoc.org/blog/Graphics-in-Plain-Language/)
-* A [glossary](http://steve.hollasch.net/cgindex/)textured-particles-vert.glsl
+* A [glossary](http://steve.hollasch.net/cgindex/)
 * [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
 * [Lighthouse3d.com: GLSL Tutorial – Core](https://www.lighthouse3d.com/tutorials/glsl-tutorial/)
 * [The Graphics Codex](http://graphicscodex.com/)
@@ -480,6 +486,8 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
   * "Free" models
     * https://market.pmnd.rs/model/lucy
     * https://www.models-resource.com/
+    * https://thebasemesh.com
+    * https://poly.pizza
   * "Free" textures
     * https://ambientcg.com/list
 * Audio
@@ -859,6 +867,16 @@ A nice [roundup](https://twitter.com/golan/status/1496311115571212294) of browse
 * [BlackTrax](https://blacktrax.cast-soft.com/howitworks/)
 
 
+#### Windows automation
+
+* [MultiMonitorTool](https://www.nirsoft.net/utils/multi_monitor_tool.html)
+  * Get info & control physical displays, and move apps between them
+* [nircmd](https://www.nirsoft.net/utils/nircmd.html)
+  * A variety of deep Windows automation tools. Also can set an app to top of stack
+* [cmdow](https://github.com/ritchielawrence/cmdow)
+  * Control app windows - move, resize, hide, etc. Must use MultiMonitorTool to move betwee displays!
+
+
 ## Physical Computing
 
 #### Modern input devices
@@ -1169,6 +1187,7 @@ And this great [survey of historic electronic display technologies](http://frien
       * [Chiplotle!](http://sites.music.columbia.edu/cmc/chiplotle/)
       * [Instructables](https://www.instructables.com/Modifying-an-Old-HP7475a-Plotter-to-Work-Over-USB/)
 * 3d Printers
+* [Printers](https://twitter.com/flockaroo/status/1529067679998418945)
 * Spatial audio
   * [Envelop](http://www.envelop.us/)
 * Augmented & Mixed Reality
@@ -1205,6 +1224,7 @@ And this great [survey of historic electronic display technologies](http://frien
 * [Prosthetic Knowledge](http://prostheticknowledge.tumblr.com/)
 * [Flowing Data](https://flowingdata.com/)
 * [http://hackingforartists.com/](http://hackingforartists.com/)
+* [http://hackingforartists.com/](https://www.dataisnature.com/)
 * [OpenProcessing](http://openprocessing.org)
 * [WebGL Fundamentals](https://webglfundamentals.org)
 * [THREE.js Fundamentals](https://threejsfundamentals.org/)
@@ -1259,6 +1279,9 @@ And this great [survey of historic electronic display technologies](http://frien
 * [NODE forum](https://nodeforum.org/)
 * [FITC](https://fitc.ca/)
 * [Sonar +D](https://sonarplusd.com/)
+* [kikk festival](https://www.kikk.be/)
+* [Festival Arttec](https://www.festivalarttec.art/)
+* [New Media Castle](https://electriccastle.ro/new-media-castle)
 
 ### Videos
 
@@ -1357,3 +1380,11 @@ And this great [survey of historic electronic display technologies](http://frien
   * [Felix Woitzel](https://github.com/Flexi23) :: [@Flexi23](https://twitter.com/Flexi23)
   * [OutsideOfSociety](http://oos.moxiecode.com/blog/) :: [@oosmoxiecode](https://twitter.com/oosmoxiecode)
   * [Micah Scott](http://twitter.com/scanlime)
+* Women in creative technology
+  * [Suzanne Ciani](https://twitter.com/dusttodigital/status/1533126688967647234)
+  * [Daphne Oram](https://www.youtube.com/watch?v=xma3RDqTsjw)
+  * [Delia Derbyshire](https://www.youtube.com/watch?v=n2dvGQ32q8g)
+  * [Wendy Carlos](https://www.youtube.com/watch?v=wIq_WR8cl1E)
+  * [DJ Dave](https://www.youtube.com/watch?v=YvsoWehBbec)
+  * [Char Stiles](https://www.notion.so/blog/char-stiles)
+  * [Jessica Rosenkrantz](https://n-e-r-v-o-u-s.com/about_us.php)
