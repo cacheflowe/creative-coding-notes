@@ -47,6 +47,7 @@ In addition to this list, check out these awesome lists:
   - [Doris Chase - Circles (1969-1970)](https://www.youtube.com/watch?v=IkNpWG2LypQ)
   - [Edward Ihnatowicz - "Senster" (1970)](https://www.youtube.com/watch?v=1jDt5unArNk)
   - [Norman McLaren - Synchromy (1971)](https://www.youtube.com/watch?v=UmSzc8mBJCM)
+  - [Peter Foldes - Metadata (1971)](https://www.youtube.com/watch?v=R6FQf3Qbqa4) (first key frame computer animation)
   - [Erkki Kurenniemi - DIMI Ballet (1971)](https://www.youtube.com/watch?v=d-yHULQ2V5c)
   - [John Whitney - Matrix III (1972)](http://www.youtube.com/watch?v=ZrKgyY5aDvA)
   - [Ed Catmull & Fred Parke - first 3D rendered movie (1972)](https://vimeo.com/16292363)
@@ -182,7 +183,7 @@ In addition to this list, check out these awesome lists:
 
 ### Visual algorithms
 
-Check out this nice [visual list](https://thatcreativecode.page/) of some of the concepts below. And some code examples of another set of common [algorithms](https://github.com/v3ga/Processing), and also [here](https://www.complexity-explorables.org/).
+Check out this nice [visual list](https://thatcreativecode.page/) of some of the concepts below. And some code examples of another set of common [algorithms](https://github.com/v3ga/Processing), and also [here](https://www.complexity-explorables.org/explorables/).
 
 #### Commons tools & concepts
 
@@ -199,6 +200,7 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
   - [Understanding Multiple Neighborhood Cellular Automata](https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/)
 - [Collision detection](https://www.jeffreythompson.org/collision-detection/index.php)
   - [Inside or outside a polygon](https://twitter.com/FreyaHolmer/status/1232826293902888960)
+  - [Polygon intersections](https://gorillasun.de/blog/an-algorithm-for-polygon-intersections)
 - [Computer vision](https://en.wikipedia.org/wiki/Computer_vision) (CV)
 - [Convolution](https://www.youtube.com/watch?v=8rrHTtUzyZA)
   - [Computing gradients on grids of pixels and voxels](https://bartwronski.com/2021/02/28/computing-gradients-on-grids-forward-central-and-diagonal-differences/)
@@ -295,6 +297,7 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
   - [Shadows (2D, hard)](https://slembcke.github.io/SuperFastHardShadows)
   - [Shadows (2D, soft)](https://slembcke.github.io/SuperFastSoftShadows)
 - [Signed Distance Functions (SDF)](https://joyrok.com/What-Are-SDFs-Anyway)
+  - [Distance functions](https://kyndinfo.notion.site/Distance-7b1350a2b6374478a177c2ea275cc651) by @kynd
 - [Spherical mathematics](https://editor.p5js.org/codingtrain/sketches/qVs1hxtc), Quaternions and Euler rotation [1](http://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
 - [Sub Surface Scattering](https://therealmjp.github.io/posts/sss-intro/)
 - [Superformula](https://en.wikipedia.org/wiki/Superformula)
@@ -537,6 +540,8 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
     - [Muted.io](https://muted.io/d-major-scale/)
     - [Pianochord.io](https://pianochord.io/)
     - [tahti.studio](https://tahti.studio/)
+    - [Song of Life](https://songoflife.ukr.lk/)
+    - [Dittytoy](https://dittytoy.net/)
 - Drawing recognition
   - [$1 Unistroke Recognizer](http://depts.washington.edu/acelab/proj/dollar/index.html)
   - [Handwriting.js](https://www.chenyuho.com/project/handwritingjs/)
@@ -702,7 +707,7 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
 
 ### Machine learning
 
-A nice [roundup](https://twitter.com/golan/status/1496311115571212294) of browser-based tools built with ML tools, via @golan
+Here's a nice [roundup](https://twitter.com/golan/status/1496311115571212294) of browser-based tools built with ML tools, via @golan, and another [amazing list](https://pharmapsychotic.com/tools.html) of some of the latest generative ML tools.
 
 Courses
 
@@ -727,40 +732,50 @@ Tools
 - [DrumBot](https://twitter.com/notwaldorf/status/1201599495244537858)
 - [Synopsis](https://synopsis.video/)
 - [Imaginaire](https://twitter.com/liu_mingyu/status/1310690272355823617) ([GitHub](https://github.com/NVlabs/imaginaire))
-- [NeRF](https://dellaert.github.io/NeRF/)
 - [Eulerian Motion Fields](https://eulerian.cs.washington.edu/)
 - [Vocal Remover](https://vocalremover.org/)
 - [Reinforcement Learning Library w/JavaScript](https://github.com/polyzer/rllib.js/)
 - [ProsePainter](https://github.com/Morphogens/ProsePainter) - [info](https://twitter.com/_joelsimon/status/1458507619254030338)
 - [SIREN](https://twitter.com/cyrildiagne/status/1472612918852259844)
-- [Text2Mesh](https://threedle.github.io/text2mesh/)
 - [Github Copilot](https://next.github.com/projects/copilot-labs/)
 - [ClipMatrix](https://twitter.com/njetchev/status/1508746909401366531)
 - [3dPhoto](https://storage.googleapis.com/tfjs-models/demos/3dphoto/index.html)
-- Text generation
-  - [GPT-2](https://transformer.huggingface.co/doc/gpt2-large)
+- [Temporal Relational Reasoning in Videos](http://relation.csail.mit.edu/)
+- Photogrammetry
+  - [NeRF Studio](https://docs.nerf.studio/en/latest/)
+  - [NeRF](https://dellaert.github.io/NeRF/)
+- Text generation/editing
   - [RiTa](https://rednoise.org/rita/index.php)
+  - [GPT-2](https://transformer.huggingface.co/doc/gpt2-large)
+  - [Wordtune](https://www.wordtune.com/)
+  - [Rytr](https://rytr.me/)
 - Image generation
-  - [Stylegan](https://github.com/NVlabs/stylegan3)
-  - [StyleGAN-nada](https://github.com/rinongal/StyleGAN-nada)
   - [Poly](https://withpoly.com/)
+  - [StyleGAN-nada](https://github.com/rinongal/StyleGAN-nada)
+  - [Stylegan3](https://github.com/NVlabs/stylegan3)
 - Image generation (diffusion)
-  - [Midjourney](https://twitter.com/midjourney)
-  - [Dall-E 2](https://openai.com/dall-e-2/)
-  - [Disco Diffusion](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb)
-  - [Imagen](https://imagen.research.google/)
-  - [Craiyon (was Dall-E Mini)](https://www.craiyon.com)
+  - [DreamBooth](https://dreambooth.github.io/)
   - [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
     - [info](https://www.assemblyai.com/blog/how-to-run-stable-diffusion-locally-to-generate-images/)
     - [How to Draw Anything](https://andys.page/posts/how-to-draw/)
+    - [NMKD Stable Diffusion GUI](https://nmkd.itch.io/t2i-gui)
+    - [Stable Diffusion - 14 notebooks](https://twitter.com/stablediffusion/status/1580840619114582016)
+  - [Imagen](https://imagen.research.google/)
+  - [Dall-E 2](https://openai.com/dall-e-2/)
+  - [Disco Diffusion](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb)
+  - [Craiyon (was Dall-E Mini)](https://www.craiyon.com)
+  - [Midjourney](https://twitter.com/midjourney)
 - 3d models
+  - [Text2Mesh](https://threedle.github.io/text2mesh/)
   - [Clip-Mesh](https://www.nasir.lol/clipmesh)
   - [GET3D](https://github.com/nv-tlabs/GET3D)
   - [DreamFusion](https://dreamfusion3d.github.io/)
   - [3DiM](https://3d-diffusion.github.io/)
+  - [MDM: Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
 - Audio
   - Music generation
     - [OpenAI Jukebox](https://openai.com/blog/jukebox/)
+    - [MubertAI](https://github.com/MubertAI/Mubert-Text-to-Music)
   - Audio track-splitting
     - [Spleeter](https://waxy.org/2019/11/fast-and-free-music-separation-with-deezers-machine-learning-library/)
     - [Open-Unmix](https://sigsep.github.io/open-unmix/js.html)
@@ -768,6 +783,7 @@ Tools
     - [Descript](https://www.descript.com/)
     - [Adobe Shasta w/Enhance Speech](https://shasta.adobe.com/enhance)
     - [WellSaid](https://wellsaidlabs.com/) (text-to-speech)
+    - [FakeYou](https://fakeyou.com/) (voice deepfake)
 - Image/video upsampling (scale & framerate)
   - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
   - [RIFE](https://github.com/megvii-research/ECCV2022-RIFE)
@@ -776,9 +792,11 @@ Tools
 - Image effects
   - [Arbitrary style transfer in TensorFlow.js](https://github.com/reiinakano/arbitrary-image-stylization-tfjs)
   - [ClipDrop - Relight](https://clipdrop.co/relight)
+  - [Magic Eraser](https://www.magiceraser.io/)
 - Image search
   - [Clip retrieval](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai&index=laion5B&useMclip=false&query=Ornate+letter+S)
   - [Same Energy](https://same.energy/)
+-
 
 ### Virtual Reality
 
@@ -901,6 +919,10 @@ Tools
 - [imagemagick](https://imagemagick.org/)
 - [gifsicle](https://www.lcdf.org/gifsicle/)
 - [HAP video format](http://vdmx.vidvox.net/tutorials/using-the-hap-video-codec) (GPU-accelerated video)
+- Super-resolution & frame interpolation:
+  - https://nmkd.itch.io/flowframes/
+  - https://github.com/AaronFeng753/Waifu2x-Extension-GUI
+  - https://github.com/dthpham/butterflow
 
 #### 3d Scanning
 
@@ -1019,6 +1041,7 @@ Tools
   - [Linear Servo](https://www.servocity.com/lightweight-linear-servos/)
   - [M5StickC](https://shop.m5stack.com/products/m5stickc-plus-esp32-pico-mini-iot-development-kit)
     - [M5StickC physical OSC controller](https://github.com/KK4TEE/M5OSC)
+  - [IO-Lights MIDI Controller](https://instrumentsofthings.com/products/io-lights-midi-controller)
 - Unique controllers
   - [Leap Motion](https://www.leapmotion.com/) [1](http://kolidar.com/Blog/wp-content/uploads/2012/07/Minority-report_2.jpg)
   - [handUI for Unity](https://github.com/crookookoo/handUI)
@@ -1026,7 +1049,9 @@ Tools
   - [Myo](https://www.thalmic.com/myo/)
   - [Gest](https://gest.co/)
   - [Litho](https://www.litho.cc/)
+  - [SOMI-1](https://instrumentsofthings.com/)
   - Brainwaves / EEG
+    - [Unicorn](https://www.unicorn-bi.com/)
     - [Muse 2](https://choosemuse.com/muse-2/)
     - [NeuroSky MindWave](https://store.neurosky.com/pages/mindwave)
 - E-textiles
