@@ -46,6 +46,7 @@ In addition to this list, check out these awesome lists:
   - [Jim Henson - Cyclia projection mapping prototype (1968)](https://twitter.com/_vade/status/917079466337325057)
   - [Doris Chase - Circles (1969-1970)](https://www.youtube.com/watch?v=IkNpWG2LypQ)
   - [Edward Ihnatowicz - "Senster" (1970)](https://www.youtube.com/watch?v=1jDt5unArNk)
+  - [Harold Cohen - AARON (1970s)](https://computerhistory.org/blog/harold-cohen-and-aaron-a-40-year-collaboration/)
   - [Norman McLaren - Synchromy (1971)](https://www.youtube.com/watch?v=UmSzc8mBJCM)
   - [Peter Foldes - Metadata (1971)](https://www.youtube.com/watch?v=R6FQf3Qbqa4) (first key frame computer animation)
   - [Erkki Kurenniemi - DIMI Ballet (1971)](https://www.youtube.com/watch?v=d-yHULQ2V5c)
@@ -196,6 +197,7 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
 - [Blur (Gaussian)](https://blog.en.uwa4d.com/2022/08/11/screen-post-processing-effects-chapter-1-basic-algorithm-of-gaussian-blur-and-its-implementation/)
 - [Cellular autonoma](http://natureofcode.com/book/chapter-7-cellular-automata)
   - [Conway's classic Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+    - [Zoomable fractal Conway's Game of Life](https://oimo.io/works/life/)
   - [Dialogue](https://www.behance.net/gallery/115972193/Dialogue)
   - [Understanding Multiple Neighborhood Cellular Automata](https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/)
 - [Collision detection](https://www.jeffreythompson.org/collision-detection/index.php)
@@ -225,6 +227,7 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
   - [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
   - [1€ Filter](https://cristal.univ-lille.fr/~casiez/1euro/)
 - [Light Bouncing](https://www.philipzucker.com/aesthetic-javascript-eduction/)
+- [Linear Algebra](http://immersivemath.com/ila/index.html)
 - [Linear Interpolation](https://www.alanzucconi.com/2021/01/24/linear-interpolation/)
 - [Lissajous Curves](https://www.youtube.com/watch?v=glDU8Nsyidg)
 - [Lorenz & Strange Attractors](http://paulbourke.net/fractals/lorenz/)
@@ -257,6 +260,7 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
 - [Strange Attractors](https://observablehq.com/@rreusser/strange-attractors-on-the-gpu-part-1)
 - [Style Transfer](https://tenso.rs/demos/fast-neural-style/)
 - [Subdivision](https://www.boristhebrave.com/2021/08/14/recursive-subdivision-variants/)
+- [SVG](https://fffuel.co/sssvg/)
 - [Text rendering](https://babylonjs.medium.com/rendering-text-bf3bc53f7c2e)
 - [Tiling](https://babylonjs.medium.com/rendering-text-bf3bc53f7c2e)
   - [Escher-like Spiral Tilings](https://isohedral.ca/escher-like-spiral-tilings/)
@@ -283,6 +287,7 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
 - [Meshes](http://www.cmap.polytechnique.fr/~peyre/images/test_remeshing.jpg)
   - [Polygon meshes](https://en.wikipedia.org/wiki/Polygon_mesh)
   - [Mesh sampling](http://www.joesfer.com/?p=84)
+- [Normals](https://www.patreon.com/posts/lets-talk-about-80837090)
 - [NURBS](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline)
 - Optimization via [quadtrees](https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374) or [Octrees](http://www.i-programmer.info/programming/theory/1679-quadtrees-and-octrees.html)
 - [Physically-Based Shading](https://www.shadertoy.com/view/4sSfzK)
@@ -687,15 +692,8 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
 
 - [OpenCV](https://opencv.org/)
 - [OpenCV AI Kit](https://www.kickstarter.com/projects/opencv/opencv-ai-kit)
-- [YOLO](https://pjreddie.com/darknet/yolo/)
-- [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
-- [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-- [DensePose](http://densepose.org/)
-- [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
-- [PoseTrack](https://github.com/iqbalu/PoseTrack-CVPR2017)
 - [OpenTrack](https://github.com/opentrack/opentrack)
 - [OpenDataCam](https://github.com/opendatacam/opendatacam)
-- [BodyPix](https://blog.tensorflow.org/2019/11/updated-bodypix-2.html)
 - [VIBE](https://github.com/mkocabas/VIBE)
 - [OpenPTrack](http://openptrack.org/)
 - [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
@@ -714,45 +712,73 @@ Courses
 - [Making Art With GANs (ITP 2022)](https://www.youtube.com/watch?v=MR*J6abDZ2Q&list=PLWuCzxqIpJs826FfGGCU_WJJbCUNqtXiJ)
 - [fast.ai live coding & tutorials](https://www.youtube.com/watch?v=56*IyFjihEc&list=PLfYUBJiXbdtSLBPJ1GMx-sQWf6iNhb8mM&index=1)
 
-Resources
+Articles
 
+- [Searching for Posthumanist AI](https://cyberneticforests.substack.com/p/searching-for-posthumanist-ai)
+- [Tooled](https://ethanmarcotte.com/wrote/tooled/)
+- [I lost everything that made me love my job through Midjourney over night.](https://www.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/)
+- [Levi’s to Use AI-Generated Models to ‘Increase Diversity’](https://petapixel.com/2023/03/24/levis-to-use-ai-generated-models-to-increase-diversity/)
+
+Resources/lists
+
+- [Phygital](https://library.phygital.plus/)
+- [Pharmapsychotic](https://pharmapsychotic.com/tools.html)
 - [Machine Learning for Artists](http://ml4a.github.io/)
+- [Vondy](https://www.vondy.com/)
+
+Text-prompting guides
+
+- https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/
+- https://medium.com/artificial-corner/youre-using-chatgpt-wrong-here-s-how-to-be-ahead-of-99-of-chatgpt-users-886a50dabc54
 
 Tools
 
-- [Deeplearn.js](https://pair-code.github.io/deeplearnjs/docs/tutorials/index.html)
-- [Runway](https://runwayml.com/ml-lab/)
-- [ml5js](https://ml5js.org/) [demo from scratch](https://www.youtube.com/watch?v=8HEgeAbYphA)
-- [Wekinator](http://www.wekinator.org/)
-- [Mediapipe](https://github.com/google/mediapipe/)
-- [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
-  - [Shiffman tutorials](https://thecodingtrain.com/TeachableMachine/index.html)
-  - [Awesome Teachable Machine list](https://github.com/SashiDo/awesome-teachable-machine)
-- [Demucs](https://github.com/facebookresearch/demucs)
-- [DrumBot](https://twitter.com/notwaldorf/status/1201599495244537858)
-- [Synopsis](https://synopsis.video/)
-- [Imaginaire](https://twitter.com/liu_mingyu/status/1310690272355823617) ([GitHub](https://github.com/NVlabs/imaginaire))
-- [Eulerian Motion Fields](https://eulerian.cs.washington.edu/)
-- [Vocal Remover](https://vocalremover.org/)
-- [Reinforcement Learning Library w/JavaScript](https://github.com/polyzer/rllib.js/)
-- [ProsePainter](https://github.com/Morphogens/ProsePainter) - [info](https://twitter.com/_joelsimon/status/1458507619254030338)
-- [SIREN](https://twitter.com/cyrildiagne/status/1472612918852259844)
-- [Github Copilot](https://next.github.com/projects/copilot-labs/)
-- [ClipMatrix](https://twitter.com/njetchev/status/1508746909401366531)
-- [3dPhoto](https://storage.googleapis.com/tfjs-models/demos/3dphoto/index.html)
-- [Temporal Relational Reasoning in Videos](http://relation.csail.mit.edu/)
+- Friendly tools
+  - [Transformers.js](https://xenova.github.io/transformers.js/)
+  - [Deeplearn.js](https://pair-code.github.io/deeplearnjs/docs/tutorials/index.html)
+  - [Runway](https://runwayml.com/)
+  - [ml5js](https://ml5js.org/) [demo from scratch](https://www.youtube.com/watch?v=8HEgeAbYphA)
+  - [Wekinator](http://www.wekinator.org/)
+  - [Mediapipe](https://github.com/google/mediapipe/)
+  - [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
+    - [Shiffman tutorials](https://thecodingtrain.com/TeachableMachine/index.html)
+    - [Awesome Teachable Machine list](https://github.com/SashiDo/awesome-teachable-machine)
+- Computer Vision
+  - [Segment Anything](https://segment-anything.com/)
+    - [Magic Copy](https://github.com/kevmo314/magic-copy) browser extension
+  - [Mediapipe](https://github.com/google/mediapipe/)
+  - [YOLO](https://pjreddie.com/darknet/yolo/)
+  - [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
+  - [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - [DensePose](http://densepose.org/)
+  - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
+  - [PoseTrack](https://github.com/iqbalu/PoseTrack-CVPR2017)
+  - [BodyPix](https://blog.tensorflow.org/2019/11/updated-bodypix-2.html)
 - Photogrammetry
+  - [Instruct-NeRF2NeRF](https://instruct-nerf2nerf.github.io/)
   - [NeRF Studio](https://docs.nerf.studio/en/latest/)
   - [NeRF](https://dellaert.github.io/NeRF/)
-- Text generation/editing
-  - [RiTa](https://rednoise.org/rita/index.php)
-  - [GPT-2](https://transformer.huggingface.co/doc/gpt2-large)
-  - [Wordtune](https://www.wordtune.com/)
+  - [PaletteNeRF](https://palettenerf.github.io/)
+- Text (and code) generation/editing
+  - Locally-running tools:
+    - https://github.com/nomic-ai/gpt4all
+    - https://github.com/nomic-ai/gpt4all-ui
+    - https://github.com/oobabooga/text-generation-webui
+    - [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) + https://huggingface.co/datasets/tatsu-lab/alpaca
+    - https://github.com/Torantulino/Auto-GPT
+  - [LLaMA](https://cocktailpeanut.github.io/dalai/)
+  - [ChatGPT](https://openai.com/blog/chatgpt/)
+  - [Word Spinner](https://word-spinner.com/)
+  - [Github Copilot](https://next.github.com/projects/copilot-labs/)
+  - [BlenderGPT](https://github.com/gd3kr/BlenderGPT)
   - [Rytr](https://rytr.me/)
+  - [Wordtune](https://www.wordtune.com/)
+  - [GPT-2](https://transformer.huggingface.co/doc/gpt2-large)
+  - [RiTa](https://rednoise.org/rita/index.php)
 - Image generation
-  - [Poly](https://withpoly.com/)
-  - [StyleGAN-nada](https://github.com/rinongal/StyleGAN-nada)
   - [Stylegan3](https://github.com/NVlabs/stylegan3)
+  - [StyleGAN-nada](https://github.com/rinongal/StyleGAN-nada)
+  - [Poly](https://withpoly.com/)
 - Image generation (diffusion)
   - [DreamBooth](https://dreambooth.github.io/)
   - [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
@@ -760,43 +786,66 @@ Tools
     - [How to Draw Anything](https://andys.page/posts/how-to-draw/)
     - [NMKD Stable Diffusion GUI](https://nmkd.itch.io/t2i-gui)
     - [Stable Diffusion - 14 notebooks](https://twitter.com/stablediffusion/status/1580840619114582016)
+    - [ControlNet](https://github.com/lllyasviel/ControlNet)
   - [Imagen](https://imagen.research.google/)
   - [Dall-E 2](https://openai.com/dall-e-2/)
   - [Disco Diffusion](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb)
   - [Craiyon (was Dall-E Mini)](https://www.craiyon.com)
   - [Midjourney](https://twitter.com/midjourney)
+  - [Imaginaire](https://twitter.com/liu_mingyu/status/1310690272355823617) ([GitHub](https://github.com/NVlabs/imaginaire))
 - 3d models
-  - [Text2Mesh](https://threedle.github.io/text2mesh/)
-  - [Clip-Mesh](https://www.nasir.lol/clipmesh)
-  - [GET3D](https://github.com/nv-tlabs/GET3D)
-  - [DreamFusion](https://dreamfusion3d.github.io/)
-  - [3DiM](https://3d-diffusion.github.io/)
   - [MDM: Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
+  - [3DiM](https://3d-diffusion.github.io/)
+  - [DreamFusion](https://dreamfusion3d.github.io/)
+  - [GET3D](https://github.com/nv-tlabs/GET3D)
+  - [Clip-Mesh](https://www.nasir.lol/clipmesh)
+  - [Text2Mesh](https://threedle.github.io/text2mesh/)
 - Audio
   - Music generation
+    - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/)
+    - [Riffusion](https://www.riffusion.com/)
     - [OpenAI Jukebox](https://openai.com/blog/jukebox/)
     - [MubertAI](https://github.com/MubertAI/Mubert-Text-to-Music)
   - Audio track-splitting
-    - [Spleeter](https://waxy.org/2019/11/fast-and-free-music-separation-with-deezers-machine-learning-library/)
     - [Open-Unmix](https://sigsep.github.io/open-unmix/js.html)
+    - [Spleeter](https://waxy.org/2019/11/fast-and-free-music-separation-with-deezers-machine-learning-library/)
   - Speech
-    - [Descript](https://www.descript.com/)
-    - [Adobe Shasta w/Enhance Speech](https://shasta.adobe.com/enhance)
-    - [WellSaid](https://wellsaidlabs.com/) (text-to-speech)
+    - [Whisper](https://huggingface.co/spaces/sanchit-gandhi/whisper-jax) (speech-to-text)
+    - [FakeYou](https://fakeyou.com)
+    - [Bark](https://github.com/suno-ai/bark)
+    - [Prime Voice AI](https://beta.elevenlabs.io/)
+    - [Koe Recast](https://koe.ai/) (voice deepfake)
     - [FakeYou](https://fakeyou.com/) (voice deepfake)
+    - [WellSaid](https://wellsaidlabs.com/) (text-to-speech)
+    - [Adobe Shasta w/Enhance Speech](https://shasta.adobe.com/enhance)
+    - [Descript](https://www.descript.com/)
 - Image/video upsampling (scale & framerate)
   - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
   - [RIFE](https://github.com/megvii-research/ECCV2022-RIFE)
   - [DAIN](https://github.com/baowenbo/DAIN)
   - [image-super-resolution](https://github.com/idealo/image-super-resolution)
 - Image effects
-  - [Arbitrary style transfer in TensorFlow.js](https://github.com/reiinakano/arbitrary-image-stylization-tfjs)
-  - [ClipDrop - Relight](https://clipdrop.co/relight)
   - [Magic Eraser](https://www.magiceraser.io/)
+  - [ClipDrop - Relight](https://clipdrop.co/relight)
+  - [Arbitrary style transfer in TensorFlow.js](https://github.com/reiinakano/arbitrary-image-stylization-tfjs)
 - Image search
-  - [Clip retrieval](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai&index=laion5B&useMclip=false&query=Ornate+letter+S)
   - [Same Energy](https://same.energy/)
--
+  - [Clip retrieval](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai&index=laion5B&useMclip=false&query=Ornate+letter+S)
+- Copyright protection
+  - [Glaze](https://glaze.cs.uchicago.edu/)
+- Other
+  - [Demucs](https://github.com/facebookresearch/demucs)
+  - [DrumBot](https://twitter.com/notwaldorf/status/1201599495244537858)
+  - [Synopsis](https://synopsis.video/)
+  - [Eulerian Motion Fields](https://eulerian.cs.washington.edu/)
+  - [Vocal Remover](https://vocalremover.org/)
+  - [Reinforcement Learning Library w/JavaScript](https://github.com/polyzer/rllib.js/)
+  - [ProsePainter](https://github.com/Morphogens/ProsePainter) - [info](https://twitter.com/_joelsimon/status/1458507619254030338)
+  - [SIREN](https://twitter.com/cyrildiagne/status/1472612918852259844)
+  - [ClipMatrix](https://twitter.com/njetchev/status/1508746909401366531)
+  - [3dPhoto](https://storage.googleapis.com/tfjs-models/demos/3dphoto/index.html)
+  - [Temporal Relational Reasoning in Videos](http://relation.csail.mit.edu/)
+
 
 ### Virtual Reality
 
@@ -1057,6 +1106,7 @@ Tools
 - E-textiles
   - [Loomia](https://loomia.com/our-products)
 - Buttons / Encoders
+  - [Creator Micro](https://worklouder.cc/creator-micro/)
   - [Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
   - [XKeys](http://xkeys.com)
   - [Monogram (prev. Palette Kit)](https://monogramcc.com/)
@@ -1099,6 +1149,8 @@ Tools
   - [Home Assistant](https://www.home-assistant.io/)
   - [Sonoff](https://sonoff.tech/)
   - [Shelly](https://shelly.cloud/)
+- Circuit bending
+  - [BPMC Glitch Video Devices](https://glitchart.com/)
 
 ## Unique Displays and Touchscreens
 
@@ -1119,6 +1171,8 @@ And this great [survey of historic electronic display technologies](http://frien
     - [Raspberry Pi 4"](https://shop.pimoroni.com/products/hyperpixel-4-square?variant=30138251444307)
     - [Beldrueger’s NFT Display Guide](https://beldrueger.medium.com/beldruegers-nft-display-guide-f30e0c67f45b)
       - [Bluecanvas](https://www.bluecanvas.com/product/bluecanvas/list)
+  - Round screens & others
+    - [makerfabs.shop](https://makerfabs.shop/collections/round-display)
 - [Outdoor screens](https://lg-mri.com/)
 - LED floors
   - [BrightLogic](https://www.brightlogic.com/activefloor-system)
@@ -1215,6 +1269,7 @@ And this great [survey of historic electronic display technologies](http://frien
   - [Rated for Kinect Azure](https://www.cablematters.com/pc-512-135-active-usb-30-extension-cable-usb-3-extension-cable-usb-extension-cable-male-to-female.aspx)
   - [Rated for Kinect Azure - all options](https://www.newnex.com/technology-azure-kinect-extension.php)
 - [USB over fiber](https://www.l-com.com/usb-icron-usb-31-raven-3124-4-port-multimode-fiber-usb-extender-200m#)
+  - [Rated for Realsense](https://www.icronshop.com/icron-brand/usb-30-spectra-3022)
 - Dmx over ethernet - [female](https://www.amazon.com/TecNec-DMX-3XF-CAT5-3-pin-Female-Adapter/dp/B00KUTZW3Q) and [male](https://www.amazon.com/TecNec-DMX-3XM-CAT5-3-pin-Adapter-TecNec/dp/B00KUTR7MA)
 - [DMX over Wifi](https://www.idjnow.com/blizzard-lighting-wicicle-xmit-skywire-wireless-dmx-transmitter-and-10-receivers-package.html#3)
 - [USB over Wifi](https://www.amazon.co.uk/Silex-E1305-DS-510-Device-Server/dp/B00WS8QCP4/ref=pd_lpo_sbs_147_img_0?_encoding=UTF8&psc=1&refRID=FQRQB3YN278FZ6EMTKE2)
