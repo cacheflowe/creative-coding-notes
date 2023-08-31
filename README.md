@@ -191,7 +191,8 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
 - [Anti-aliasing algorithms](https://blog.codinghorror.com/fast-approximate-anti-aliasing-fxaa/)
   - [A comparison](https://twitter.com/Miamiamia0103/status/1490355292487487494)
 - [Barycentric vs. Bilinear](https://twitter.com/freyaholmer/status/1243583264713048065)
-- [Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw)
+- [Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw) by Freya Holmér
+  - [Bezier Curves](https://blog.richardekwonye.com/bezier-curves)
 - [Bilinear sampling](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/)
 - [Blob detection](https://en.wikipedia.org/wiki/Blob_detection)
 - [Blur (Gaussian)](https://blog.en.uwa4d.com/2022/08/11/screen-post-processing-effects-chapter-1-basic-algorithm-of-gaussian-blur-and-its-implementation/)
@@ -283,6 +284,7 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
 - [Half-Edge Data Structures](https://jerryyin.info/geometry-processing-algorithms/half-edge/)
 - [Logistic Regression](https://lisyarus.github.io/webgl/classification.html)
 - [Marching cubes](https://en.wikipedia.org/wiki/Marching_cubes) & Isosurfaces
+  - [Marching Cubes, Explained Using Marching Squares](https://blog.42yeah.is/algorithm/2023/07/15/marching-cubes.html)
 - [MatCap](https://github.com/nidorx/matcaps)
 - [Meshes](http://www.cmap.polytechnique.fr/~peyre/images/test_remeshing.jpg)
   - [Polygon meshes](https://en.wikipedia.org/wiki/Polygon_mesh)
@@ -566,6 +568,7 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
   - [MediaPipe - Facemesh](https://google.github.io/mediapipe/solutions/face_mesh.html)
   - [pico.js](https://nenadmarkus.com/p/picojs-intro/)
 - Body trackers
+  - [Kurku - Body tracking web MIDI controller](https://app.kurku.tech/)
   - [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
   - [PoseNet for installations](https://github.com/oveddan/posenet-for-installations)
   - [Handtrack.js](https://github.com/victordibia/handtrack.js)
@@ -709,11 +712,16 @@ Here's a nice [roundup](https://twitter.com/golan/status/1496311115571212294) of
 
 Courses
 
+- [deeplearning.ai](https://www.deeplearning.ai/)
 - [Making Art With GANs (ITP 2022)](https://www.youtube.com/watch?v=MR*J6abDZ2Q&list=PLWuCzxqIpJs826FfGGCU_WJJbCUNqtXiJ)
 - [fast.ai live coding & tutorials](https://www.youtube.com/watch?v=56*IyFjihEc&list=PLfYUBJiXbdtSLBPJ1GMx-sQWf6iNhb8mM&index=1)
+- Text-prompting guides
+  - https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/
+  - https://medium.com/artificial-corner/youre-using-chatgpt-wrong-here-s-how-to-be-ahead-of-99-of-chatgpt-users-886a50dabc54
 
 Articles
 
+- [The Many Ways that Digital Minds Can Know](https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/)
 - [Searching for Posthumanist AI](https://cyberneticforests.substack.com/p/searching-for-posthumanist-ai)
 - [Tooled](https://ethanmarcotte.com/wrote/tooled/)
 - [I lost everything that made me love my job through Midjourney over night.](https://www.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/)
@@ -726,14 +734,11 @@ Resources/lists
 - [Machine Learning for Artists](http://ml4a.github.io/)
 - [Vondy](https://www.vondy.com/)
 
-Text-prompting guides
-
-- https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/
-- https://medium.com/artificial-corner/youre-using-chatgpt-wrong-here-s-how-to-be-ahead-of-99-of-chatgpt-users-886a50dabc54
 
 Tools
 
 - Friendly tools
+  - [Microsoft Designer](https://designer.microsoft.com/)
   - [Transformers.js](https://xenova.github.io/transformers.js/)
   - [Deeplearn.js](https://pair-code.github.io/deeplearnjs/docs/tutorials/index.html)
   - [Runway](https://runwayml.com/)
@@ -744,6 +749,7 @@ Tools
     - [Shiffman tutorials](https://thecodingtrain.com/TeachableMachine/index.html)
     - [Awesome Teachable Machine list](https://github.com/SashiDo/awesome-teachable-machine)
 - Computer Vision
+  - [Omnimotion](https://omnimotion.github.io/) motion tracking
   - [Segment Anything](https://segment-anything.com/)
     - [Magic Copy](https://github.com/kevmo314/magic-copy) browser extension
   - [Mediapipe](https://github.com/google/mediapipe/)
@@ -770,6 +776,7 @@ Tools
   - [ChatGPT](https://openai.com/blog/chatgpt/)
   - [Word Spinner](https://word-spinner.com/)
   - [Github Copilot](https://next.github.com/projects/copilot-labs/)
+    - [Github Copilot Voice](https://marketplace.visualstudio.com/items?itemName=GitHub.heygithub)
   - [BlenderGPT](https://github.com/gd3kr/BlenderGPT)
   - [Rytr](https://rytr.me/)
   - [Wordtune](https://www.wordtune.com/)
@@ -780,6 +787,9 @@ Tools
   - [StyleGAN-nada](https://github.com/rinongal/StyleGAN-nada)
   - [Poly](https://withpoly.com/)
 - Image generation (diffusion)
+  - [Infinigen](https://infinigen.org/)
+  - [Recraft](https://www.recraft.ai/)
+  - [Styledrop](https://styledrop.github.io/)
   - [DreamBooth](https://dreambooth.github.io/)
   - [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
     - [info](https://www.assemblyai.com/blog/how-to-run-stable-diffusion-locally-to-generate-images/)
@@ -794,6 +804,7 @@ Tools
   - [Midjourney](https://twitter.com/midjourney)
   - [Imaginaire](https://twitter.com/liu_mingyu/status/1310690272355823617) ([GitHub](https://github.com/NVlabs/imaginaire))
 - 3d models
+  - [threestudio](https://github.com/threestudio-project/threestudio)
   - [MDM: Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
   - [3DiM](https://3d-diffusion.github.io/)
   - [DreamFusion](https://dreamfusion3d.github.io/)
@@ -802,6 +813,7 @@ Tools
   - [Text2Mesh](https://threedle.github.io/text2mesh/)
 - Audio
   - Music generation
+    - [Audiocraft](https://github.com/facebookresearch/audiocraft)
     - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/)
     - [Riffusion](https://www.riffusion.com/)
     - [OpenAI Jukebox](https://openai.com/blog/jukebox/)
@@ -810,6 +822,7 @@ Tools
     - [Open-Unmix](https://sigsep.github.io/open-unmix/js.html)
     - [Spleeter](https://waxy.org/2019/11/fast-and-free-music-separation-with-deezers-machine-learning-library/)
   - Speech
+    - [AudioPaLM](https://google-research.github.io/seanet/audiopalm/examples/) (speech/text/translation)
     - [Whisper](https://huggingface.co/spaces/sanchit-gandhi/whisper-jax) (speech-to-text)
     - [FakeYou](https://fakeyou.com)
     - [Bark](https://github.com/suno-ai/bark)
@@ -820,6 +833,7 @@ Tools
     - [Adobe Shasta w/Enhance Speech](https://shasta.adobe.com/enhance)
     - [Descript](https://www.descript.com/)
 - Image/video upsampling (scale & framerate)
+  - [PromptIR](https://github.com/va1shn9v/promptir) (image restoration)
   - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
   - [RIFE](https://github.com/megvii-research/ECCV2022-RIFE)
   - [DAIN](https://github.com/baowenbo/DAIN)
@@ -831,7 +845,8 @@ Tools
 - Image search
   - [Same Energy](https://same.energy/)
   - [Clip retrieval](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai&index=laion5B&useMclip=false&query=Ornate+letter+S)
-- Copyright protection
+- Copyright protection & adversarial attacks
+  - [Clip2Protect](https://fahadshamshad.github.io/Clip2Protect/)
   - [Glaze](https://glaze.cs.uchicago.edu/)
 - Other
   - [Demucs](https://github.com/facebookresearch/demucs)
@@ -965,6 +980,8 @@ Tools
 
 - Glipse Editor
 - [ffmpeg](https://ffmpeg.org/)
+  - [FFmpeg Guide](https://ffmpeg.guide/)
+  - [FFmpeg Explorer](https://ffmpeg.lav.io/)
 - [imagemagick](https://imagemagick.org/)
 - [gifsicle](https://www.lcdf.org/gifsicle/)
 - [HAP video format](http://vdmx.vidvox.net/tutorials/using-the-hap-video-codec) (GPU-accelerated video)
@@ -1003,6 +1020,12 @@ Tools
   - A variety of deep Windows automation tools. Also can set an app to top of stack
 - [cmdow](https://github.com/ritchielawrence/cmdow)
   - Control app windows - move, resize, hide, etc. Must use MultiMonitorTool to move betwee displays!
+
+#### Monitoring
+
+- [sudoSignals](https://www.sudosignals.com/)
+- [ampm](https://github.com/stimulant/ampm)
+- [Phoenix](https://github.com/HeliosInteractive/Phoenix)
 
 ## Physical Computing
 
@@ -1298,6 +1321,7 @@ And this great [survey of historic electronic display technologies](http://frien
   - [https://remake.autodesk.com/about](https://remake.autodesk.com/about)
   - [Resolume](https://www.resolume.com/)
   - [MadMapper](https://madmapper.com/)
+  - [LightAct](https://lightact.com/)
   - [maptasticjs](https://github.com/glowbox/maptasticjs)
 - LED lights
   - Addressable LEDs
