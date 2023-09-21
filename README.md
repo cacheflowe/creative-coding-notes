@@ -646,6 +646,7 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
   - [Simple Raymarching Example Scene](https://www.shadertoy.com/view/wd2SR3)
   - [Shader Coding: Ray Marching Tips & Tricks](https://www.youtube.com/watch?v=Vmb7VGBVZJA)
   - [Volume Rendering for Developers](https://www.scratchapixel.com/lessons/advanced-rendering/volume-rendering-for-developers/intro-volume-rendering)
+  - [Painting with Math: A Gentle Study of Raymarching](https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/)
 - Other
   - [F3 App](http://www.syedrezaali.com/f3-mac-app/)
   - [glslb.in](http://glslb.in/) (defunct?)
@@ -1023,6 +1024,7 @@ Tools
 
 #### Monitoring
 
+- [LaunchPad](https://github.com/bluecadet/launchpad) - ([read more](https://www.bluecadet.com/news/launchpad/))
 - [sudoSignals](https://www.sudosignals.com/)
 - [ampm](https://github.com/stimulant/ampm)
 - [Phoenix](https://github.com/HeliosInteractive/Phoenix)
@@ -1058,12 +1060,13 @@ Tools
     - Products:
       - [Kinect](https://www.microsoft.com/en-us/kinectforwindows/)
         - Machine learning for MS system [white paper](http://msdn.microsoft.com/en-us/library/jj131429.aspx)
+      - [Orbbec](http://www.orbbec3d.com/)
+        - [Femto (Kinect Azure replacement)](https://www.orbbec.com/products/tof-camera/femto-mega/)
+      - [Intel Realsense](https://software.intel.com/en-us/realsense/home)
       - [OpenPTrack](http://openptrack.org/)
       - [Xtion](https://www.asus.com/Commercial_3D_Sensor/Xtion_PRO/)
       - [Zed](https://www.stereolabs.com/)
       - [Structure Sensor for iPad](http://structure.io/)
-      - [Orbbec](http://www.orbbec3d.com/)
-      - [Intel Realsense](https://software.intel.com/en-us/realsense/home)
       - [Framos](https://www.framos.com/en/news/framos-launches-an-industrial-3d-gige-camera-based-on-intel-s-realsense-technology)
       - [Intel Euclid](https://click.intel.com/intelr-euclidtm-development-kit.html)
       - [Xovis](https://www.xovis.com/en/xovis/)
@@ -1145,6 +1148,7 @@ Tools
   - [I-PAC](http://www.ultimarc.com/ipac.html)
   - [Hub16](https://www.tindie.com/products/joshajohnson/hub16-programmable-macro-keyboard/)
   - [Adafruit Trellis](https://www.adafruit.com/product/4020)
+  - [Delcom USB buttons](https://www.delcomproducts.com/products.asp)
 - Touchscreen
   - [TUIO (protocol)](https://www.tuio.org/)
   - [Ubi Sensor](http://www.ubi-interactive.com/)
@@ -1183,7 +1187,13 @@ Also, [3D Displays: Opportunities & Design Principles](https://www.bluecadet.com
 
 And this great [survey of historic electronic display technologies](http://friendlywire.com/articles/displays/)
 
-- [Volumetric displays](https://www.lookingglassfactory.com/)
+- Volumetric displays
+  - [BlueCadet's 3D Displays article](https://www.bluecadet.com/news/3d-displays-opportunities-design-principles/)
+  - [Looking Glass](https://www.lookingglassfactory.com/)
+  - [Volumetric displays](https://www.lightfieldlab.com/)
+  - [Sony Spatial Reality Displays](https://pro.sony/ue_US/products/spatial-reality-displays/elf-sr1)
+  - [Dimenco Simulated Reality](https://www.dimenco.eu/)
+  - [Magnetic3d](https://magnetic3d.com/)
 - [Transparent displays](http://prodisplay.com/products/transparent-lcd-screen/)
 - [Transparent displays](http://store.apollodisplays.com/store/products/transparent-displays)
 - [Odd screen sizes](https://earthlcd.com/products/lcd-kits/xlk-10x1-usb-b/)
