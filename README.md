@@ -296,6 +296,7 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
 - [Projection (3D)](https://jsantell.com/3d-projection)
   - [Isometric projection](https://pikuma.com/blog/isometric-projection-in-games)
 - [Raytracing](https://si-ashbery.medium.com/raytracing-309fc44307e6)
+  - [What we talk about when we talk about Ray Tracing?](https://puye.blog/posts/Raytracing-EN/)
 - [Raymarching](https://www.shadertoy.com/view/4dSfRc)
 - [Volumetric Rendering](https://wallisc.github.io/rendering/2020/05/02/Volumetric-Rendering-Part-1.html)
 - [Quaternions](https://www.twitch.tv/videos/1162695404)
@@ -762,8 +763,9 @@ Tools
   - [PoseTrack](https://github.com/iqbalu/PoseTrack-CVPR2017)
   - [BodyPix](https://blog.tensorflow.org/2019/11/updated-bodypix-2.html)
 - Photogrammetry
-  - [Instruct-NeRF2NeRF](https://instruct-nerf2nerf.github.io/)
   - [NeRF Studio](https://docs.nerf.studio/en/latest/)
+  - [Gaussian Splatting is pretty cool!](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
+  - [Instruct-NeRF2NeRF](https://instruct-nerf2nerf.github.io/)
   - [NeRF](https://dellaert.github.io/NeRF/)
   - [PaletteNeRF](https://palettenerf.github.io/)
 - Text (and code) generation/editing
@@ -1012,6 +1014,7 @@ Tools
 - [Perception Neuron](https://www.neuronmocap.com/)
 - [RADiCAL](https://getrad.co/)
 - [BlackTrax](https://blacktrax.cast-soft.com/howitworks/)
+- [Pozyx](https://docs.pozyx.io/creator/positioning)
 
 #### Windows automation
 
@@ -1242,6 +1245,8 @@ And this great [survey of historic electronic display technologies](http://frien
 - [Neumi Atom](https://www.amazon.com/gp/product/B08MFFVD1P?th=1)
 - [Micca Speck](https://www.miccatron.com/micca-speck/)
 - [Satechi Cyclone](http://www.satechi.net/index.php/satechi-cyclone-micro-2-1080p-portable-media-mkv-avi-mov-player-adapter-with-sd-sdhc-memory-usb-slot-and-remote-control)
+- Raspberry Pi-based
+  - [mp4museum](https://mp4museum.org/) ([Github](https://github.com/JuliusCode/MP4MUSEUM))
 
 ## Hardware
 
@@ -1292,15 +1297,17 @@ And this great [survey of historic electronic display technologies](http://frien
 - [MIDI over ethernet](https://www.iconnectivity.com/blog/2018/3/7/ethernet-midi-for-live-musicians-an-iconnectivity-guide)
 - [USB over ethernet](https://www.amazon.com/WEme-Extender-Connection-Ethernet-Extention/dp/B01FHTCH68/)
   - [Rated for webcams](https://www.amazon.com/gp/product/B0744DX8JP/)
+- USB for Kinect/Realsense
   - [Rated for Realsense](https://www.lindy.co.uk/cables-adapters-c1/usb-c449/50m-hybrid-usb-3-0-cable-p9476)
   - [Rated for Kinect v1, 300ft](https://www.gefen.com/product/usb-20-extender-EXT-USB2.0-LR)
   - [Rated for Kinect v2](http://www.icron.com/products/icron-brand/usb-extenders/cat5/usb-3-0-spectra-3001-15/)
   - [Rated for Kinect v2 & Realsense](https://www.monoprice.com/product?p_id=16381&gclid=Cj0KCQjw3JXtBRC8ARIsAEBHg4nG4LxeN1Tjq2LOoOgPFDRVkWPmI_u38nnTKMjf8F_XI1T955KEPv0aAp16EALw_wcB)
-  - [Rated for Kinect v2 long distance](https://www.newnex.com/technology-kinect-extension.php)
-  - [Rated for Kinect Azure](https://www.ntcdistributing.com/usb-3-1/active-extension-cable/firenex-ulink-c-active-cable-a-m-to-c-m-8-m-and-16-m/)
-  - [Rated for Kinect Azure](https://www.ntcdistributing.com/usb-3-0/firenex-ulink-ex-active-cable-a-m-to-a-f/)
   - [Rated for Kinect Azure](https://www.cablematters.com/pc-512-135-active-usb-30-extension-cable-usb-3-extension-cable-usb-extension-cable-male-to-female.aspx)
-  - [Rated for Kinect Azure - all options](https://www.newnex.com/technology-azure-kinect-extension.php)
+  - [Newnex info for Kinect v2 long distance](https://www.newnex.com/technology-kinect-extension.php)
+  - [Newnex info for Kinect Azure long distance](https://www.newnex.com/technology-azure-kinect-extension.php)
+    - [Newnex FireNEX™-5000H+](https://www.ntcdistributing.com/repeater/2-port-usb-3-0-2-0-1-1-optical-fiber-repeater-firenex-5000h/)
+    - [Rated for Kinect Azure](https://www.ntcdistributing.com/usb-3-1/active-extension-cable/firenex-ulink-c-active-cable-a-m-to-c-m-8-m-and-16-m/)
+    - [Rated for Kinect Azure](https://www.ntcdistributing.com/usb-3-0/firenex-ulink-ex-active-cable-a-m-to-a-f/)
 - [USB over fiber](https://www.l-com.com/usb-icron-usb-31-raven-3124-4-port-multimode-fiber-usb-extender-200m#)
   - [Rated for Realsense](https://www.icronshop.com/icron-brand/usb-30-spectra-3022)
 - Dmx over ethernet - [female](https://www.amazon.com/TecNec-DMX-3XF-CAT5-3-pin-Female-Adapter/dp/B00KUTZW3Q) and [male](https://www.amazon.com/TecNec-DMX-3XM-CAT5-3-pin-Adapter-TecNec/dp/B00KUTR7MA)
