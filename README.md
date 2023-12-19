@@ -323,6 +323,7 @@ Some of these borrowed from @AmnonOwed @ [this repo](https://github.com/AmnonOwe
 - [Flocking](http://en.wikipedia.org/wiki/Flocking_%28behavior%29)
 - [Flow Fields](http://en.wikipedia.org/wiki/Vector_field)
 - [Fluid](http://madebyevan.com/webgl-water/) [dynamics](https://www.shadertoy.com/view/XdcXDN) & solvers
+  - [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html)
 - [Form-Finding](http://en.wikipedia.org/wiki/Stretched_grid_method)
 - [Fractal Modeling](http://en.wikipedia.org/wiki/Fractal)
 - [Fractals](http://fractalfoundation.org/OFC/OFC-10-4.html) & [Mandelbulbs](https://vimeo.com/56546771) [4](http://vimeo.com/12215994)
@@ -499,6 +500,7 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
   - [anime.js](https://animejs.com/) svg renderer & animation library
   - [SVGomg](https://jakearchibald.github.io/svgomg/) svg optimizer
 - 3d models
+  - [USD and glTF Resources Page](https://www.realtimerendering.com/usd_gltf.html)
   - .gltf validators
     - https://gltf-viewer.donmccurdy.com/
     - https://modelviewer.dev/editor/
@@ -648,6 +650,7 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
   - [Shader Coding: Ray Marching Tips & Tricks](https://www.youtube.com/watch?v=Vmb7VGBVZJA)
   - [Volume Rendering for Developers](https://www.scratchapixel.com/lessons/advanced-rendering/volume-rendering-for-developers/intro-volume-rendering)
   - [Painting with Math: A Gentle Study of Raymarching](https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/)
+  - [Ray Marching by kyndinfo](https://kyndinfo.notion.site/Ray-Marching-0fd3a518787541d3b8d24f218746958c)
 - Other
   - [F3 App](http://www.syedrezaali.com/f3-mac-app/)
   - [glslb.in](http://glslb.in/) (defunct?)
@@ -679,8 +682,12 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
 
 - [Unity](http://unity3d.com/)
 - [Unreal Engine](https://www.unrealengine.com)
+- [Godot](https://godotengine.org/)
+- [Stride](https://www.stride3d.net/)
 
 ### Node-based
+
+Check out this great [Visual Programming](https://github.com/ivanreese/visual-programming-codex/blob/main/implementations.md) resource
 
 - [VVVV](http://vvvv.org)
 - [Max/MSP](http://cycling74.com/products/max/)
@@ -695,6 +702,7 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
 
 ### Computer Vision / Image recognition
 
+- [MediaPipe](https://mediapipe.dev/)
 - [OpenCV](https://opencv.org/)
 - [OpenCV AI Kit](https://www.kickstarter.com/projects/opencv/opencv-ai-kit)
 - [OpenTrack](https://github.com/opentrack/opentrack)
@@ -770,6 +778,7 @@ Tools
   - [PaletteNeRF](https://palettenerf.github.io/)
 - Text (and code) generation/editing
   - Locally-running tools:
+    - https://ollama.ai/
     - https://github.com/nomic-ai/gpt4all
     - https://github.com/nomic-ai/gpt4all-ui
     - https://github.com/oobabooga/text-generation-webui
@@ -790,7 +799,9 @@ Tools
   - [StyleGAN-nada](https://github.com/rinongal/StyleGAN-nada)
   - [Poly](https://withpoly.com/)
 - Image generation (diffusion)
+  - [MultiDiffusion](https://multidiffusion.github.io/)
   - [Infinigen](https://infinigen.org/)
+  - [AnimateDiff](https://github.com/guoyww/AnimateDiff)
   - [Recraft](https://www.recraft.ai/)
   - [Styledrop](https://styledrop.github.io/)
   - [DreamBooth](https://dreambooth.github.io/)
@@ -815,13 +826,16 @@ Tools
   - [Clip-Mesh](https://www.nasir.lol/clipmesh)
   - [Text2Mesh](https://threedle.github.io/text2mesh/)
 - Audio
+  - https://github.com/csteinmetz1/ai-audio-startups
   - Music generation
+    - [MusicLM / Instrument Playground](https://artsandculture.google.com/experiment/8QFo2oQr2uT3pg)
     - [Audiocraft](https://github.com/facebookresearch/audiocraft)
     - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/)
     - [Riffusion](https://www.riffusion.com/)
     - [OpenAI Jukebox](https://openai.com/blog/jukebox/)
     - [MubertAI](https://github.com/MubertAI/Mubert-Text-to-Music)
   - Audio track-splitting
+    - [Mikrotakt](https://mikrotakt.app/)
     - [Open-Unmix](https://sigsep.github.io/open-unmix/js.html)
     - [Spleeter](https://waxy.org/2019/11/fast-and-free-music-separation-with-deezers-machine-learning-library/)
   - Speech
@@ -841,16 +855,19 @@ Tools
   - [RIFE](https://github.com/megvii-research/ECCV2022-RIFE)
   - [DAIN](https://github.com/baowenbo/DAIN)
   - [image-super-resolution](https://github.com/idealo/image-super-resolution)
+- Deepfakes
+  - [FaceFusion](https://github.com/facefusion/facefusion)
 - Image effects
   - [Magic Eraser](https://www.magiceraser.io/)
   - [ClipDrop - Relight](https://clipdrop.co/relight)
   - [Arbitrary style transfer in TensorFlow.js](https://github.com/reiinakano/arbitrary-image-stylization-tfjs)
 - Image search
+  - [River](https://river.maxbittker.com/)
   - [Same Energy](https://same.energy/)
+  - [Glaze](https://glaze.cs.uchicago.edu/)
   - [Clip retrieval](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai&index=laion5B&useMclip=false&query=Ornate+letter+S)
 - Copyright protection & adversarial attacks
   - [Clip2Protect](https://fahadshamshad.github.io/Clip2Protect/)
-  - [Glaze](https://glaze.cs.uchicago.edu/)
 - Other
   - [Demucs](https://github.com/facebookresearch/demucs)
   - [DrumBot](https://twitter.com/notwaldorf/status/1201599495244537858)
@@ -1011,6 +1028,7 @@ Tools
 
 #### Motion Capture
 
+- [Optitrack](https://optitrack.com/cameras/primex-22/buy.html)
 - [Perception Neuron](https://www.neuronmocap.com/)
 - [RADiCAL](https://getrad.co/)
 - [BlackTrax](https://blacktrax.cast-soft.com/howitworks/)
@@ -1056,10 +1074,11 @@ Tools
     - http://www.marshall-usa.com/cameras/
   - Depth cameras
     - Comparisons:
-      - [Overview of Depth Cameras](https://www.aivero.com/overview-of-depth-cameras/)
+      - [OAK-D Pro and Femto ZED Mini(Neural Depth Mode), pointcloud of new depth cameras comparison](https://www.youtube.com/watch?v=tqb_0xAqm3w)
       - [Stimulant's depth sensor shootout](https://stimulant.com/depth-sensor-shootout-2/)
       - [Depth camera silhouette segmentation approaches](https://github.com/antimodular/Silhouette-Segmentation-Approaches)
       - [iPi Depth Sensors Comparison](http://docs.ipisoft.com/Depth_Sensors_Comparison)
+      - [Overview of Depth Cameras](https://www.aivero.com/overview-of-depth-cameras/)
     - Products:
       - [Kinect](https://www.microsoft.com/en-us/kinectforwindows/)
         - Machine learning for MS system [white paper](http://msdn.microsoft.com/en-us/library/jj131429.aspx)
@@ -1370,6 +1389,7 @@ And this great [survey of historic electronic display technologies](http://frien
       - [Instructables](https://www.instructables.com/Modifying-an-Old-HP7475a-Plotter-to-Work-Over-USB/)
 - 3d Printers
 - [Printers](https://twitter.com/flockaroo/status/1529067679998418945)
+  - [Polaroid Lab](https://www.polaroid.com/en_us/products/polaroid-lab)
 - Spatial audio
   - [Envelop](http://www.envelop.us/)
 - Augmented & Mixed Reality
