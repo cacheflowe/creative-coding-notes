@@ -877,6 +877,7 @@ Tools
   - [Reinforcement Learning Library w/JavaScript](https://github.com/polyzer/rllib.js/)
   - [ProsePainter](https://github.com/Morphogens/ProsePainter) - [info](https://twitter.com/_joelsimon/status/1458507619254030338)
   - [SIREN](https://twitter.com/cyrildiagne/status/1472612918852259844)
+  - [Remover.studio](https://vocalremover.co/)
   - [ClipMatrix](https://twitter.com/njetchev/status/1508746909401366531)
   - [3dPhoto](https://storage.googleapis.com/tfjs-models/demos/3dphoto/index.html)
   - [Temporal Relational Reasoning in Videos](http://relation.csail.mit.edu/)
