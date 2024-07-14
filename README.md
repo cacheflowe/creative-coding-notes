@@ -59,7 +59,7 @@ In addition to this list, check out these awesome lists:
   - [The Lost Art of Canada's Doomed Pre-Internet Web (1970s-80s)](https://www.youtube.com/watch?v=vjMUe7hkwRs) (Telidon)
   - [Carla's Island (1981)](http://www.youtube.com/watch?v=kO-JB1WHmRc)
   - [SIGGRAPH 1982 Art Exhibition Artist Interviews](https://vimeo.com/720322156)
-  - [The Road to Point Reyes (1983)](http://lucasmuseum.org/works/detail/asset_id/1292)
+  - [The Road to Point Reyes (1983)](https://www.sfgate.com/california-parks/article/how-point-reyes-image-launched-pixar-19381218.php)
   - [Calculated Movements by Larry Cuba (1985)](https://www.youtube.com/watch?v=OkyqP-g_LrY)
   - [Computer Music (Synthesizers, Synclavier) News Report w/Stanley Jordan (1986)](https://www.youtube.com/watch?v=duMStO826W0)
   - [Vincent John Vincent - Immersive Video Gesture Control (1986)](https://www.youtube.com/watch?v=XeIOVHPRolo)
@@ -232,6 +232,7 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
 - [Linear Interpolation](https://www.alanzucconi.com/2021/01/24/linear-interpolation/)
 - [Lissajous Curves](https://www.youtube.com/watch?v=glDU8Nsyidg)
 - [Lorenz & Strange Attractors](http://paulbourke.net/fractals/lorenz/)
+- [LUT (lookup tables)](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 - [Map projections](https://observablehq.com/collection/@fil/projections)
 - [Marching Squares](https://editor.p5js.org/codingtrain/sketches/wwB-AA4i-)
 - [Metaballs](https://www.youtube.com/watch?v=6oMZb3yP_H8)
@@ -253,6 +254,8 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
   - [A Simple Solution for Shape Packing in 2D](https://gorillasun.de/blog/a-simple-solution-for-shape-packing-in-2d)
 - [Parallax](https://en.wikipedia.org/wiki/Parallax)
 - [Particles](https://ciphrd.com/2021/07/07/particle-interactions-using-deposited-substrate-as-communication-layer-ds-cl/)
+- Physics engines
+  - [Soft-body physics](https://www.gorillasun.de/blog/soft-body-physics-and-blobs/)
 - [Post-processing effects](http://filters.pixijs.download/dev/demo/index.html)
 - [Poisson Fill](https://mobile.twitter.com/patriciogv/status/1402000238123044875)
 - [Polygon expansion](https://www.amygoodchild.com/blog/polygons-packing-expanding)
@@ -269,8 +272,8 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
 - [Triangulation](https://lindenreidblog.com/2017/12/03/simple-mesh-tessellation-triangulation-tutorial/)
 - [UV Coordinates](https://beforesandafters.com/2021/01/26/wrapping-around-the-uv-map-in-80-frames%e2%80%a8/)
 - [Vectors](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1)
-- [Voronoi](http://cs.nyu.edu/~ajsecord/npar2002/html/stipples-img16.png) [2](http://ultimaker.ipbhost.com/uploads/gallery/album_13/gallery_2943_13_8700870.jpg)
-  - [Crafting Organic Patterns With Voronoi Tessellations](https://georgefrancis.dev/writing/crafting-organic-patterns-with-voronoi-tessellations/)
+- [Voronoi](https://builtin.com/data-science/voronoi-diagram)
+  - [Crafting Organic Patterns With Voronoi Tessellations](https://georgefrancis.dev/writing/voronoi-grids/)
 - [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
 
 #### 3D / spatial concepts
@@ -306,10 +309,12 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
   - [Shadows (2D, soft)](https://slembcke.github.io/SuperFastSoftShadows)
 - [Signed Distance Functions (SDF)](https://joyrok.com/What-Are-SDFs-Anyway)
   - [Distance functions](https://kyndinfo.notion.site/Distance-7b1350a2b6374478a177c2ea275cc651) by @kynd
+  - [Glyphs, shapes, fonts, signed distance fields](https://www.youtube.com/watch?v=1b5hIMqz_wM)
 - [Spherical mathematics](https://editor.p5js.org/codingtrain/sketches/qVs1hxtc), Quaternions and Euler rotation [1](http://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
 - [Sub Surface Scattering](https://therealmjp.github.io/posts/sss-intro/)
 - [Superformula](https://en.wikipedia.org/wiki/Superformula)
 - [Voxels](http://rjzarah.blog.com/files/2011/10/voxel_pixelart.gif)
+- [Vertex shaders](https://www.davepagurek.com/programming/shader-domain-warping/)
 
 #### Natural simulations
 
@@ -525,6 +530,7 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
   - [essentia.js](https://mtg.github.io/essentia.js/)
   - [Handel](https://handel-pl.github.io/)
   - [Strudel / TidalCycles](https://strudel.tidalcycles.org/tutorial/)
+  - [Mercury](https://github.com/tmhglnd/mercury)
   - [Crunker](https://github.com/jaggad/crunker)
   - [Gibber](https://gibber.cc/)
   - Instruments
@@ -571,12 +577,14 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
   - [MediaPipe - Facemesh](https://google.github.io/mediapipe/solutions/face_mesh.html)
   - [pico.js](https://nenadmarkus.com/p/picojs-intro/)
 - Body trackers
+  - [ml5 bodypose/movenet](https://editor.p5js.org/ml5/sketches/c8sl_hGmN)
+    - [MoveNet](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html)
   - [Kurku - Body tracking web MIDI controller](https://app.kurku.tech/)
   - [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
   - [PoseNet for installations](https://github.com/oveddan/posenet-for-installations)
   - [Handtrack.js](https://github.com/victordibia/handtrack.js)
   - [YoHa](https://github.com/handtracking-io/yoha)
-  - [MoveNet](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html)
+  - [Engeenee](https://engeenee.com/) (virtual try-on library)
   - [Mediapipe - Pose](https://google.github.io/mediapipe/solutions/pose)
     - [BlazePose (3d)](https://blog.tensorflow.org/2021/08/3d-pose-detection-with-mediapipe-blazepose-ghum-tfjs.html)
 - Fonts
@@ -651,6 +659,7 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
   - [Volume Rendering for Developers](https://www.scratchapixel.com/lessons/advanced-rendering/volume-rendering-for-developers/intro-volume-rendering)
   - [Painting with Math: A Gentle Study of Raymarching](https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/)
   - [Ray Marching by kyndinfo](https://kyndinfo.notion.site/Ray-Marching-0fd3a518787541d3b8d24f218746958c)
+  - [Raymarching explained interactively](https://imadr.me/raymarching-explained-interactively/)
 - Other
   - [F3 App](http://www.syedrezaali.com/f3-mac-app/)
   - [glslb.in](http://glslb.in/) (defunct?)
@@ -702,6 +711,7 @@ Check out this great [Visual Programming](https://github.com/ivanreese/visual-pr
 
 ### Computer Vision / Image recognition
 
+- [Ocean](https://facebookresearch.github.io/ocean/)
 - [MediaPipe](https://mediapipe.dev/)
 - [OpenCV](https://opencv.org/)
 - [OpenCV AI Kit](https://www.kickstarter.com/projects/opencv/opencv-ai-kit)
@@ -759,6 +769,7 @@ Tools
     - [Shiffman tutorials](https://thecodingtrain.com/TeachableMachine/index.html)
     - [Awesome Teachable Machine list](https://github.com/SashiDo/awesome-teachable-machine)
 - Computer Vision
+  - [RMBG](https://huggingface.co/briaai/RMBG-1.4)
   - [Omnimotion](https://omnimotion.github.io/) motion tracking
   - [Segment Anything](https://segment-anything.com/)
     - [Magic Copy](https://github.com/kevmo314/magic-copy) browser extension
@@ -828,6 +839,12 @@ Tools
 - Audio
   - https://github.com/csteinmetz1/ai-audio-startups
   - Music generation
+    - [Stable Audio](https://stability.ai/news/stable-audio-2-0)
+      - [Stable Radio](https://www.youtube.com/watch?v=yvOXZ6SV2Rk)
+    - [Google MusicFx](https://aitestkitchen.withgoogle.com/tools/music-fx?isMusicFxLive=true)
+    - [Suno.ai](https://www.suno.ai/)
+    - [Udio](https://www.udio.com/)
+    - [Output Co-producer](https://coproducer.output.com/)
     - [MusicLM / Instrument Playground](https://artsandculture.google.com/experiment/8QFo2oQr2uT3pg)
     - [Audiocraft](https://github.com/facebookresearch/audiocraft)
     - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/)
@@ -995,6 +1012,8 @@ Tools
 - [VCV Rack](https://vcvrack.com/Prototype) ([+ plugin docs](https://vcvrack.com/manual/PluginDevelopmentTutorial))
 - [HICE](http://www.hise.audio/)
 - [Elementary Audio](https://www.elementary.audio/)
+- [RNBO](https://rnbo.cycling74.com/)
+- [Bela](https://bela.io/products/bela-and-bela-mini/)
 
 #### Video + Image
 
@@ -1028,6 +1047,7 @@ Tools
 
 #### Motion Capture
 
+- [move.ai](https://www.move.ai/)
 - [Optitrack](https://optitrack.com/cameras/primex-22/buy.html)
 - [Perception Neuron](https://www.neuronmocap.com/)
 - [RADiCAL](https://getrad.co/)
@@ -1058,8 +1078,12 @@ Tools
 - Mouse / tablet
 - Cameras
   - See @laserpilot's [Guide to Cameras for Interactive Installations](https://github.com/laserpilot/Guide_To_Cameras_Interactive_Installations)
+  - Lens-mounting info
+    - C/CS Mount notes: https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=14066
+    - https://www.edmundoptics.com/knowledge-center/video/tutorials/understanding-camera-mounting-interfaces/
   - Webcams
-    - https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S/
+    - [Mokose](https://amazon.com/dp/B07YZPJ2CM/)
+    - [Logitech HD Pro Webcam C920](https://www.amazon.com/dp/B006JH8T3S/)
     - https://www.logitech.com/en-us/product/4k-pro-webcam?crid=34
     - https://www.amazon.com/dp/B01N8QBO2G/ref=asc_df_B01N8QBO2G5276731/
     - https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Doffice-products&field-keywords=ELP+Webcam
@@ -1067,7 +1091,7 @@ Tools
     - http://www.cctvcameradvrs.com/3.7mm-f2.8-m12-mount-pinhole-cctv-camera-lens-ir-350nm-650nm
     - https://www.axis.com/gb/en/products/axis-p12-series
     - https://www.axis.com/gb/en/products/axis-f-series
-    - https://www.ptgrey.com/
+    - https://www.flir.com/iis/machine-vision/
     - https://www.vivotek.com/
     - https://www.theimagingsource.com/products/industrial-cameras/usb-3.1-monochrome/
     - http://www.z-cam.com/
@@ -1172,6 +1196,7 @@ Tools
   - [Adafruit Trellis](https://www.adafruit.com/product/4020)
   - [Delcom USB buttons](https://www.delcomproducts.com/products.asp)
 - Touchscreen
+  - [PQ Labs](https://www.pqlabs.com/multi-touch-wall.html)
   - [TUIO (protocol)](https://www.tuio.org/)
   - [Ubi Sensor](http://www.ubi-interactive.com/)
   - [Displax](http://www.displax.com/)
@@ -1179,8 +1204,8 @@ Tools
   - [AirScan](http://www.coolux.de/products/airscan/)
   - [ProDisplay](http://prodisplay.com/)
   - [Elo](https://www.elotouch.com/all-products)
+    - [Samsung](https://www.samsung.com/levant/business/smart-signage/others/pmf-bc-series-lh55pmfxtbc-ue/)
   - [Ideum](http://ideum.com/touch-walls/)
-  - [PQ Labs](https://www.pqlabs.com/)
   - [Horizon Display](http://www.horizondisplay.com/)
   - [Eyefactive](https://www.eyefactive.com/en/multitouch-wall-bar-counter-omega)
   - [Samsung](https://www.samsung.com/us/business/products/displays/direct-view-led/explore/)
@@ -1317,6 +1342,7 @@ And this great [survey of historic electronic display technologies](http://frien
 - [USB over ethernet](https://www.amazon.com/WEme-Extender-Connection-Ethernet-Extention/dp/B01FHTCH68/)
   - [Rated for webcams](https://www.amazon.com/gp/product/B0744DX8JP/)
 - USB for Kinect/Realsense
+  - [depthkit article](https://docs.depthkit.tv/docs/studio-hardware-requirements#cables-data-power-sync)
   - [Rated for Realsense](https://www.lindy.co.uk/cables-adapters-c1/usb-c449/50m-hybrid-usb-3-0-cable-p9476)
   - [Rated for Kinect v1, 300ft](https://www.gefen.com/product/usb-20-extender-EXT-USB2.0-LR)
   - [Rated for Kinect v2](http://www.icron.com/products/icron-brand/usb-extenders/cat5/usb-3-0-spectra-3001-15/)
