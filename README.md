@@ -31,6 +31,8 @@ In addition to this list, check out these awesome lists:
 
 ## Creative Coding History
 
+Check [this list](https://learn.newmedia.dog/resources/av-timeline/) as well
+
 - Computer graphics & generative art roots
   - [How computers made art from bombs and weather machines](https://www.bbc.com/future/article/20180927-how-computers-made-art-from-bombs-and-weather-machines)
   - [Algorithmic Signs - Five pioneers of computer art in conversation](https://www.youtube.com/watch?v=Hka-lXjoEhM)
@@ -213,6 +215,7 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
   - [DLA example](https://www.complexity-explorables.org/explorables/particularly-stuck/)
 - [Dilation](https://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm) / [Erosion](https://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm)
 - [Dithering](https://surma.dev/things/ditherpunk/)
+  - [The Art of Dithering and Retro Shading for the Web](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
 - [Easing & interpolation](http://easings.net/)
 - [Edge detection](https://en.wikipedia.org/wiki/Edge_detection)
 - [Edge distance in Regular Polygons](https://observablehq.com/@mootari/polygon-edge-distance)
@@ -259,6 +262,8 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
 - [Post-processing effects](http://filters.pixijs.download/dev/demo/index.html)
 - [Poisson Fill](https://mobile.twitter.com/patriciogv/status/1402000238123044875)
 - [Polygon expansion](https://www.amygoodchild.com/blog/polygons-packing-expanding)
+- [Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
+- [Raster vs Vector graphics](https://www.scipress.io/post/A8bwlINqd0n3prteVEJh/Digital-images)
 - [Reaction](http://www.karlsims.com/rd.html)-[diffusion](https://www.shadertoy.com/view/lld3z8)
 - [Space-filling algorithms](http://www.complexification.net/gallery/machines/boxFitting/boxFittingPRN.jpg)
 - [Strange Attractors](https://observablehq.com/@rreusser/strange-attractors-on-the-gpu-part-1)
@@ -404,6 +409,7 @@ Graphics Programming
 - [Graphics Pipelines for Young Bloods](https://www.jeremyong.com/cpp/2021/05/20/graphics-pipelines-for-young-bloods/)
 - [The Jacob's Ladder of coding](https://medium.com/@thi.ng/the-jacob-s-ladder-of-coding-4b12477a26c1)
 - [An aerial perspective on Generative Design](https://timrodenbroeker.de/an-aerial-perspective-on-generative-design/)
+- [How fast is javascript? Simulating 20,000,000 particles](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
 
 Audio programming:
 
@@ -761,7 +767,11 @@ Tools
   - [Microsoft Designer](https://designer.microsoft.com/)
   - [Transformers.js](https://xenova.github.io/transformers.js/)
   - [Deeplearn.js](https://pair-code.github.io/deeplearnjs/docs/tutorials/index.html)
-  - [Runway](https://runwayml.com/)
+  - Video Generation
+    - [Runway](https://runwayml.com/)
+    - [Luma Labs Dream Machine](https://lumalabs.ai/dream-machine)
+    - [Sora](https://openai.com/index/sora/)
+    - [Stable Video Diffusion](https://stability.ai/stable-video)
   - [ml5js](https://ml5js.org/) [demo from scratch](https://www.youtube.com/watch?v=8HEgeAbYphA)
   - [Wekinator](http://www.wekinator.org/)
   - [Mediapipe](https://github.com/google/mediapipe/)
@@ -769,6 +779,7 @@ Tools
     - [Shiffman tutorials](https://thecodingtrain.com/TeachableMachine/index.html)
     - [Awesome Teachable Machine list](https://github.com/SashiDo/awesome-teachable-machine)
 - Computer Vision
+  - [Depth estimation](https://huggingface.co/spaces/Xenova/webgpu-realtime-depth-estimation)
   - [RMBG](https://huggingface.co/briaai/RMBG-1.4)
   - [Omnimotion](https://omnimotion.github.io/) motion tracking
   - [Segment Anything](https://segment-anything.com/)
@@ -839,11 +850,12 @@ Tools
 - Audio
   - https://github.com/csteinmetz1/ai-audio-startups
   - Music generation
+    - [Suno.ai](https://www.suno.ai/)
+    - [Udio](https://www.udio.com/)
+    - [LoudMe](https://loudme.ai/)
     - [Stable Audio](https://stability.ai/news/stable-audio-2-0)
       - [Stable Radio](https://www.youtube.com/watch?v=yvOXZ6SV2Rk)
     - [Google MusicFx](https://aitestkitchen.withgoogle.com/tools/music-fx?isMusicFxLive=true)
-    - [Suno.ai](https://www.suno.ai/)
-    - [Udio](https://www.udio.com/)
     - [Output Co-producer](https://coproducer.output.com/)
     - [MusicLM / Instrument Playground](https://artsandculture.google.com/experiment/8QFo2oQr2uT3pg)
     - [Audiocraft](https://github.com/facebookresearch/audiocraft)
@@ -1225,6 +1237,9 @@ Tools
   - [Shelly](https://shelly.cloud/)
 - Circuit bending
   - [BPMC Glitch Video Devices](https://glitchart.com/)
+- Travel keyboards
+  - [Logitech K400](https://www.logitech.com/en-us/products/keyboards/k400-plus-touchpad-keyboard.920-007119.html)
+  - [ThinkPad TrackPoint](https://www.lenovo.com/us/en/p/accessories-and-software/keyboards-and-mice/keyboards/)
 
 ## Unique Displays and Touchscreens
 
@@ -1234,15 +1249,19 @@ Also, [3D Displays: Opportunities & Design Principles](https://www.bluecadet.com
 
 And this great [survey of historic electronic display technologies](http://friendlywire.com/articles/displays/)
 
-- Volumetric displays
+- Volumetric/Holographic displays
+  - [Voxon](https://voxon.co/)
   - [BlueCadet's 3D Displays article](https://www.bluecadet.com/news/3d-displays-opportunities-design-principles/)
   - [Looking Glass](https://www.lookingglassfactory.com/)
   - [Volumetric displays](https://www.lightfieldlab.com/)
   - [Sony Spatial Reality Displays](https://pro.sony/ue_US/products/spatial-reality-displays/elf-sr1)
   - [Dimenco Simulated Reality](https://www.dimenco.eu/)
   - [Magnetic3d](https://magnetic3d.com/)
-- [Transparent displays](http://prodisplay.com/products/transparent-lcd-screen/)
-- [Transparent displays](http://store.apollodisplays.com/store/products/transparent-displays)
+- Transparent displays
+  - [DetaiLED](https://www.detailedsolutions.com/projects/vueorleans)
+  - [Ghost-OLED](https://crystal-display.com/products/transparent-cds-oled/)
+  - [Prodisplay](http://prodisplay.com/products/transparent-lcd-screen/)
+  - [Apollo Displays](http://store.apollodisplays.com/store/products/transparent-displays)
 - [Odd screen sizes](https://earthlcd.com/products/lcd-kits/xlk-10x1-usb-b/)
   - Square screens
     - [Litemax](https://www.assured-systems.com/us/product/litemax-ssh3325-y-332-sunlight-readable-1000nit-square-lcd-display/)
