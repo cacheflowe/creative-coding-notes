@@ -178,7 +178,7 @@ Check [this list](https://learn.newmedia.dog/resources/av-timeline/) as well
 - Oscillation
 - Basic trigonometry (movement & orientation)
 - Nature / fractals / Recursion
-- [Higher level math](http://acko.net/files/fullfrontal/fullfrontal/slides-net/)
+- [Higher level math](https://acko.net/files/fullfrontal/fullfrontal/wdcode/online.html)
   - [Math as Code](https://github.com/Jam3/math-as-code) by Jam3
 - [Shaping functions](https://www.flickr.com/photos/kynd/9546075099)
 - 3D
@@ -206,6 +206,7 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
 - [Collision detection](https://www.jeffreythompson.org/collision-detection/index.php)
   - [Inside or outside a polygon](https://twitter.com/FreyaHolmer/status/1232826293902888960)
   - [Polygon intersections](https://gorillasun.de/blog/an-algorithm-for-polygon-intersections)
+  - [Sort, sweep, and prune: Collision detection algorithms](https://leanrada.com/notes/sweep-and-prune/)
 - [Computer vision](https://en.wikipedia.org/wiki/Computer_vision) (CV)
 - [Convolution](https://www.youtube.com/watch?v=8rrHTtUzyZA)
   - [Computing gradients on grids of pixels and voxels](https://bartwronski.com/2021/02/28/computing-gradients-on-grids-forward-central-and-diagonal-differences/)
@@ -771,7 +772,6 @@ Tools
     - [Runway](https://runwayml.com/)
     - [Luma Labs Dream Machine](https://lumalabs.ai/dream-machine)
     - [Sora](https://openai.com/index/sora/)
-    - [Stable Video Diffusion](https://stability.ai/stable-video)
   - [ml5js](https://ml5js.org/) [demo from scratch](https://www.youtube.com/watch?v=8HEgeAbYphA)
   - [Wekinator](http://www.wekinator.org/)
   - [Mediapipe](https://github.com/google/mediapipe/)
@@ -839,6 +839,10 @@ Tools
   - [Craiyon (was Dall-E Mini)](https://www.craiyon.com)
   - [Midjourney](https://twitter.com/midjourney)
   - [Imaginaire](https://twitter.com/liu_mingyu/status/1310690272355823617) ([GitHub](https://github.com/NVlabs/imaginaire))
+- Video generation
+  - [MIMO](https://github.com/menyifang/MIMO)
+  - [Stable Video Diffusion](https://stability.ai/stable-video)
+  - [CogVideoX](https://huggingface.co/THUDM/CogVideoX-5b)
 - 3d models
   - [threestudio](https://github.com/threestudio-project/threestudio)
   - [MDM: Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
@@ -850,6 +854,7 @@ Tools
 - Audio
   - https://github.com/csteinmetz1/ai-audio-startups
   - Music generation
+    - [Melodio](https://www.melodio.ai/)
     - [Suno.ai](https://www.suno.ai/)
     - [Udio](https://www.udio.com/)
     - [LoudMe](https://loudme.ai/)
@@ -973,7 +978,7 @@ Tools
   - [BlackHole](https://github.com/ExistentialAudio/BlackHole) (Soundflower replacement for OS X)
   - [MIDI-OX](http://www.midiox.com/)
 
-### Multi-protocol timeline tools & stage helpers
+### Multi-protocol timeline tools & show control systems
 
 - [Vezer](https://imimot.com/vezer/)
 - [Chataigne](http://benjamin.kuperberg.fr/chataigne/en)
@@ -1060,6 +1065,7 @@ Tools
 #### Motion Capture
 
 - [move.ai](https://www.move.ai/)
+- [Vicon](https://www.vicon.com/software/markerless/)
 - [Optitrack](https://optitrack.com/cameras/primex-22/buy.html)
 - [Perception Neuron](https://www.neuronmocap.com/)
 - [RADiCAL](https://getrad.co/)
@@ -1078,6 +1084,7 @@ Tools
 #### Monitoring
 
 - [LaunchPad](https://github.com/bluecadet/launchpad) - ([read more](https://www.bluecadet.com/news/launchpad/))
+- [ISAAC](https://www.isaacplatform.com/)
 - [sudoSignals](https://www.sudosignals.com/)
 - [ampm](https://github.com/stimulant/ampm)
 - [Phoenix](https://github.com/HeliosInteractive/Phoenix)
@@ -1154,7 +1161,7 @@ Tools
     - [Google Soli](https://atap.google.com/soli/)
   - Ultrasound vision
     - [Topsens TS3](https://toposens.com/ts3/)
-- Touch surfaces
+- Touch app surfaces
   - [TC-Data](http://www.bitshapesoftware.com/instruments/tc-data/)
   - [TouchOSC](https://hexler.net/touchosc)
   - [Lemur](https://liine.net/en/products/lemur/)
@@ -1176,7 +1183,7 @@ Tools
     - [M5StickC physical OSC controller](https://github.com/KK4TEE/M5OSC)
   - [IO-Lights MIDI Controller](https://instrumentsofthings.com/products/io-lights-midi-controller)
 - Unique controllers
-  - [Leap Motion](https://www.leapmotion.com/) [1](http://kolidar.com/Blog/wp-content/uploads/2012/07/Minority-report_2.jpg)
+  - [Leap Motion](https://www.leapmotion.com/)
   - [handUI for Unity](https://github.com/crookookoo/handUI)
   - [Mimu Gloves](https://mimugloves.com/)
   - [Myo](https://www.thalmic.com/myo/)
@@ -1208,7 +1215,9 @@ Tools
   - [Adafruit Trellis](https://www.adafruit.com/product/4020)
   - [Delcom USB buttons](https://www.delcomproducts.com/products.asp)
 - Touchscreen
+  - [Scape](https://www.interactive-scape.com/)
   - [PQ Labs](https://www.pqlabs.com/multi-touch-wall.html)
+  - [Zytronic](https://www.zytronic.co.uk/technology/multi-touch/)
   - [TUIO (protocol)](https://www.tuio.org/)
   - [Ubi Sensor](http://www.ubi-interactive.com/)
   - [Displax](http://www.displax.com/)
@@ -1258,6 +1267,7 @@ And this great [survey of historic electronic display technologies](http://frien
   - [Dimenco Simulated Reality](https://www.dimenco.eu/)
   - [Magnetic3d](https://magnetic3d.com/)
 - Transparent displays
+  - [Muxwave](https://www.muxwave.com/)
   - [DetaiLED](https://www.detailedsolutions.com/projects/vueorleans)
   - [Ghost-OLED](https://crystal-display.com/products/transparent-cds-oled/)
   - [Prodisplay](http://prodisplay.com/products/transparent-lcd-screen/)
