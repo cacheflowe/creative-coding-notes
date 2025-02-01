@@ -262,10 +262,12 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
   - [Soft-body physics](https://www.gorillasun.de/blog/soft-body-physics-and-blobs/)
 - [Post-processing effects](http://filters.pixijs.download/dev/demo/index.html)
 - [Poisson Fill](https://mobile.twitter.com/patriciogv/status/1402000238123044875)
+- [Poisson Disk Sampling](https://sighack.com/post/poisson-disk-sampling-bridsons-algorithm)
 - [Polygon expansion](https://www.amygoodchild.com/blog/polygons-packing-expanding)
 - [Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 - [Raster vs Vector graphics](https://www.scipress.io/post/A8bwlINqd0n3prteVEJh/Digital-images)
 - [Reaction](http://www.karlsims.com/rd.html)-[diffusion](https://www.shadertoy.com/view/lld3z8)
+- [Reintegration Tracking](https://michaelmoroz.github.io/Reintegration-Tracking/)
 - [Space-filling algorithms](http://www.complexification.net/gallery/machines/boxFitting/boxFittingPRN.jpg)
 - [Strange Attractors](https://observablehq.com/@rreusser/strange-attractors-on-the-gpu-part-1)
 - [Style Transfer](https://tenso.rs/demos/fast-neural-style/)
@@ -1062,8 +1064,13 @@ Tools
   - [Scandy Pro](https://www.scandy.co/apps/scandy-pro)
   - [IN3D](https://in3d.io/)
 
-#### Motion Capture
+#### Motion Capture / People-tracking
 
+- [Supervision](https://github.com/roboflow/supervision)
+- [Butlr](https://www.butlr.com/)
+- [Stage Precision](https://www.stageprecision.com/)
+- [OnInOff](https://www.oninoff.com/theproduct/)
+- [Xovis](https://www.xovis.com/)
 - [move.ai](https://www.move.ai/)
 - [Vicon](https://www.vicon.com/software/markerless/)
 - [Optitrack](https://optitrack.com/cameras/primex-22/buy.html)
@@ -1165,6 +1172,10 @@ Tools
   - [TC-Data](http://www.bitshapesoftware.com/instruments/tc-data/)
   - [TouchOSC](https://hexler.net/touchosc)
   - [Lemur](https://liine.net/en/products/lemur/)
+- Sensor kits
+  - [M5Stack](https://shop.m5stack.com/products/)
+  - [Brainboxes](https://www.brainboxes.com/)
+  - [Nexmosphere](https://www.nexmosphere.com/products)
 - Accelerometer/position
   - [Playstation Move](http://us.playstation.com/ps3/accessories/playstation-move-motion-controller-ps3.html)
   - [Nintendo Wiimote](https://en.wikipedia.org/wiki/Wii_Remote)
@@ -1191,6 +1202,7 @@ Tools
   - [Litho](https://www.litho.cc/)
   - [SOMI-1](https://instrumentsofthings.com/)
   - Brainwaves / EEG
+    - [Emotiv](https://www.emotiv.com/products/epoc-x)
     - [Unicorn](https://www.unicorn-bi.com/)
     - [Muse 2](https://choosemuse.com/muse-2/)
     - [NeuroSky MindWave](https://store.neurosky.com/pages/mindwave)
@@ -1207,7 +1219,7 @@ Tools
   - [MPJA](http://www.mpja.com/Switches-Electronic/departments/117/)
   - [Sensel Morph](https://sensel.com/pages/morph)
   - [ROLI Lightpad](https://roli.com/products/blocks/lightpad-m)
-  - [Phidgets](https://www.phidgets.com/?tier=1&catid=4&pcid=2)
+  - [Phidgets](https://www.phidgets.com/)
   - [Tornado Spinner](https://tornadospinner.com/)
   - [Spintrak](http://www.ultimarc.com/SpinTrak.htm)
   - [I-PAC](http://www.ultimarc.com/ipac.html)
@@ -1215,6 +1227,7 @@ Tools
   - [Adafruit Trellis](https://www.adafruit.com/product/4020)
   - [Delcom USB buttons](https://www.delcomproducts.com/products.asp)
 - Touchscreen
+  - [Multitaction](https://www.multitaction.com/)
   - [Scape](https://www.interactive-scape.com/)
   - [PQ Labs](https://www.pqlabs.com/multi-touch-wall.html)
   - [Zytronic](https://www.zytronic.co.uk/technology/multi-touch/)
@@ -1236,10 +1249,15 @@ Tools
 - Bluetooth
   - [Quuppa](https://quuppa.com/technology/products/)
 - Voice recognition
+  - [Whisper WebGPU](https://huggingface.co/spaces/Xenova/realtime-whisper-webgpu)
   - [Rhasspy](https://github.com/synesthesiam/rhasspy)
   - [Sphinx](https://cmusphinx.github.io/wiki/download/)
   - [alphacephei](https://alphacephei.com/en/)
   - [Picovoice](https://picovoice.ai/)
+- RFID
+  - [ThingMagic](https://www.atlasrfidstore.com/thingmagic-usb-pro-rfid-reader/)
+  - [Alien Technology](https://www.alientechnology.com/products/readers/)
+  - [Impinj Speedway](https://www.atlasrfidstore.com/impinj-speedway-revolution-r420-uhf-rfid-reader-4-port/)
 - Home Automation
   - [Home Assistant](https://www.home-assistant.io/)
   - [Sonoff](https://sonoff.tech/)
@@ -1260,6 +1278,7 @@ And this great [survey of historic electronic display technologies](http://frien
 
 - Volumetric/Holographic displays
   - [Voxon](https://voxon.co/)
+  - [Holofiction](https://www.holofiction.hr/en/solutions/holographic-display/) pepper's ghost
   - [BlueCadet's 3D Displays article](https://www.bluecadet.com/news/3d-displays-opportunities-design-principles/)
   - [Looking Glass](https://www.lookingglassfactory.com/)
   - [Volumetric displays](https://www.lightfieldlab.com/)
@@ -1282,9 +1301,12 @@ And this great [survey of historic electronic display technologies](http://frien
       - [Bluecanvas](https://www.bluecanvas.com/product/bluecanvas/list)
   - Round screens & others
     - [makerfabs.shop](https://makerfabs.shop/collections/round-display)
+    - [doitvision](https://www.doitvision.com/ring-led-screen/)
 - [Outdoor screens](https://lg-mri.com/)
 - LED floors
   - [BrightLogic](https://www.brightlogic.com/activefloor-system)
+  - [YesTech](https://yestecheurope.com/project/yestech-mg-dance-floor-interactive/)
+  - [ROE](https://www.roevisual.com/us-en/products/black-marble-interactive-floor)
   - [NovaStar](https://techledwall.com/producto/led-video-wall-novastar-p3-91mm-floor-9-8-x-5-2-indoor-turn-key-led-system-18-panels/)
 - [Flexible displays](https://www.royole.com/us/flexible-display)
 - [Flexible LED tile](https://www.planar.com/products/led-video-walls/carbonlight/cli-flex/)
@@ -1293,9 +1315,10 @@ And this great [survey of historic electronic display technologies](http://frien
 - [HUB75/SmartMatrix panels](https://github.com/pixelmatix/SmartMatrix/wiki/HUB75-Panels)
   - [SmartMatrix](http://docs.pixelmatix.com/SmartMatrix/index.html)
 
-### Big Displays
+### Big Displays / Control systems / Media Servers
 
 - [Watchout](http://www.dataton.com/watchout)
+- [Pixera](https://pixera.one/)
 - [Matrox TripleHead2Go](http://www.matrox.com/graphics/en/products/gxm/th2go/displayport/)
 - [Ambery HDMI multi-screen layout](http://www.ambery.com/2x2hdvgaviwa.html)
 - [Datapath FX4](https://www.datapath.co.uk/datapath-products/multi-display-products/datapath-fx4)
@@ -1410,6 +1433,7 @@ And this great [survey of historic electronic display technologies](http://frien
 - Projection mapping
   - [http://www.agisoft.com/](http://www.agisoft.com/)
   - [https://remake.autodesk.com/about](https://remake.autodesk.com/about)
+  - [Poet](https://www.poet.software/)
   - [Resolume](https://www.resolume.com/)
   - [MadMapper](https://madmapper.com/)
   - [LightAct](https://lightact.com/)
