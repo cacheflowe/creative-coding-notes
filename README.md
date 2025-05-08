@@ -1,3 +1,7 @@
+<!--
+title: Creative Coding Notes
+description: A collection of creative coding links.
+-->
 # Creative Coding Notes
 
 ## Table of Contents
@@ -425,6 +429,7 @@ Audio programming:
 Math:
 
 - http://www.katjaas.nl/home/home.html
+- [Calculus for Makers](https://kyndinfo.notion.site/Calculus-for-Makers-bb98c726f0d24b758972a984cb4b357b) by kyndinfo
 
 Machine Learning:
 
@@ -502,13 +507,14 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
   - [Hydra](https://github.com/ojack/hydra)
   - [Hedron](https://github.com/nudibranchrecords/hedron)
 - Rendering tools
+  - [vfx-js](https://amagi.dev/vfx-js/)
+  - [CanvasFilters](https://github.com/kig/canvasfilters)
+  - [html2canvas](https://github.com/niklasvh/html2canvas)
   - [GLFX.js](http://evanw.github.io/glfx.js/)
   - [GifLoopCoder](http://www.gifloopcoder.com/)
   - [ccapture.js](https://github.com/spite/ccapture.js/)
   - [whammy.js](https://github.com/antimatter15/whammy)
   - [gif.js](https://jnordberg.github.io/gif.js/)
-  - [html2canvas](https://github.com/niklasvh/html2canvas)
-  - [CanvasFilters](https://github.com/kig/canvasfilters)
 - SVG
   - [two.js](https://two.js.org/) svg renderer
   - [anime.js](https://animejs.com/) svg renderer & animation library
@@ -634,6 +640,7 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
   - [Book of Shaders](http://thebookofshaders.com/) (+ [Editor](http://editor.thebookofshaders.com/))
   - [28 GLSL tutorials](https://www.shadertoy.com/view/Md23DV)
   - [stackgl Shader School](https://github.com/stackgl/shader-school)
+  - [Learn Shader Programming with Rick and Morty](https://danielchasehooper.com/posts/code-animated-rick/)
 - Web-based coding playgrounds
   - [GLSL Sandbox](http://glslsandbox.com/)
   - [Shadertoy](http://shadertoy.com)
@@ -1040,6 +1047,7 @@ Tools
 - [ffmpeg](https://ffmpeg.org/)
   - [FFmpeg Guide](https://ffmpeg.guide/)
   - [FFmpeg Explorer](https://ffmpeg.lav.io/)
+  - [FFmpeg Batch AV Converter](https://ffmpeg-batch.sourceforge.io/)
 - [imagemagick](https://imagemagick.org/)
 - [gifsicle](https://www.lcdf.org/gifsicle/)
 - [HAP video format](http://vdmx.vidvox.net/tutorials/using-the-hap-video-codec) (GPU-accelerated video)
@@ -1159,11 +1167,16 @@ Tools
   - Bullet-time cameras
     - [Xangle](https://xanglecs.com/)
   - Lidar
-    - [Ouster OS-1](https://www.ouster.io/product-os1/)
-    - [Slamtec RPLidar](https://www.slamtec.com/en/Lidar/A3)
-    - High-end
-      - [SICK](https://www.sick.com/us/en/detection-and-ranging-solutions/2d-lidar-sensors/c/g91900)
+    - Articles about lidar:
+      - [tangramvision.com](https://www.tangramvision.com/blog/sensors-201-scanning-and-solid-state-lidar)
+    - Frameworks
+      - [augmenta.tech](https://augmenta.tech/)
+    - Sensors
+      - [Ouster OS-1](https://www.ouster.io/product-os1/)
       - [Hokuyo](https://hokuyo-usa.com/products/lidar-obstacle-detection)
+      - [SICK](https://www.sick.com/us/en/detection-and-ranging-solutions/2d-lidar-sensors/c/g91900)
+      - [Blickfield](https://www.blickfeld.com/)
+      - [Slamtec RPLidar](https://www.slamtec.com/en/Lidar/A3)
   - Radar
     - [Google Soli](https://atap.google.com/soli/)
   - Ultrasound vision
@@ -1174,6 +1187,7 @@ Tools
   - [Lemur](https://liine.net/en/products/lemur/)
 - Sensor kits
   - [M5Stack](https://shop.m5stack.com/products/)
+  - [Phidgets](https://www.phidgets.com/)
   - [Brainboxes](https://www.brainboxes.com/)
   - [Nexmosphere](https://www.nexmosphere.com/products)
 - Accelerometer/position
@@ -1219,7 +1233,6 @@ Tools
   - [MPJA](http://www.mpja.com/Switches-Electronic/departments/117/)
   - [Sensel Morph](https://sensel.com/pages/morph)
   - [ROLI Lightpad](https://roli.com/products/blocks/lightpad-m)
-  - [Phidgets](https://www.phidgets.com/)
   - [Tornado Spinner](https://tornadospinner.com/)
   - [Spintrak](http://www.ultimarc.com/SpinTrak.htm)
   - [I-PAC](http://www.ultimarc.com/ipac.html)
@@ -1227,25 +1240,27 @@ Tools
   - [Adafruit Trellis](https://www.adafruit.com/product/4020)
   - [Delcom USB buttons](https://www.delcomproducts.com/products.asp)
 - Touchscreen
-  - [Multitaction](https://www.multitaction.com/)
-  - [Scape](https://www.interactive-scape.com/)
   - [PQ Labs](https://www.pqlabs.com/multi-touch-wall.html)
   - [Zytronic](https://www.zytronic.co.uk/technology/multi-touch/)
   - [TUIO (protocol)](https://www.tuio.org/)
   - [Ubi Sensor](http://www.ubi-interactive.com/)
-  - [Displax](http://www.displax.com/)
   - [Monster Devices](http://monsterdev.pl/) (dead)
   - [AirScan](http://www.coolux.de/products/airscan/)
   - [ProDisplay](http://prodisplay.com/)
   - [Elo](https://www.elotouch.com/all-products)
     - [Samsung](https://www.samsung.com/levant/business/smart-signage/others/pmf-bc-series-lh55pmfxtbc-ue/)
-  - [Ideum](http://ideum.com/touch-walls/)
   - [Horizon Display](http://www.horizondisplay.com/)
   - [Eyefactive](https://www.eyefactive.com/en/multitouch-wall-bar-counter-omega)
   - [Samsung](https://www.samsung.com/us/business/products/displays/direct-view-led/explore/)
   - [Dynascan](https://www.dynascandisplay.com/)
   - [Baanto](https://baanto.com/)
   - [Pimoroni](https://shop.pimoroni.com/products/hyperpixel-4-square?variant=30138251444307)
+- Touchscreen w/extra features
+  - [Scape](https://www.interactive-scape.com/products/scape-x-stickers)
+  - [TSI Touch](https://tsitouch.com/sony-screens/)
+  - [Ideum](http://ideum.com/touch-walls/)
+  - [Multitaction](https://www.multitaction.com/)
+  - [Displax](http://www.displax.com/)
 - Bluetooth
   - [Quuppa](https://quuppa.com/technology/products/)
 - Voice recognition
@@ -1261,7 +1276,7 @@ Tools
 - Home Automation
   - [Home Assistant](https://www.home-assistant.io/)
   - [Sonoff](https://sonoff.tech/)
-  - [Shelly](https://shelly.cloud/)
+  - [Shelly](https://www.shelly.com/)
 - Circuit bending
   - [BPMC Glitch Video Devices](https://glitchart.com/)
 - Travel keyboards
@@ -1281,16 +1296,23 @@ And this great [survey of historic electronic display technologies](http://frien
   - [Holofiction](https://www.holofiction.hr/en/solutions/holographic-display/) pepper's ghost
   - [BlueCadet's 3D Displays article](https://www.bluecadet.com/news/3d-displays-opportunities-design-principles/)
   - [Looking Glass](https://www.lookingglassfactory.com/)
+  - [Magnetic3d](https://magnetic3d.com/)
   - [Volumetric displays](https://www.lightfieldlab.com/)
   - [Sony Spatial Reality Displays](https://pro.sony/ue_US/products/spatial-reality-displays/elf-sr1)
   - [Dimenco Simulated Reality](https://www.dimenco.eu/)
-  - [Magnetic3d](https://magnetic3d.com/)
 - Transparent displays
   - [Muxwave](https://www.muxwave.com/)
   - [DetaiLED](https://www.detailedsolutions.com/projects/vueorleans)
   - [Ghost-OLED](https://crystal-display.com/products/transparent-cds-oled/)
   - [Prodisplay](http://prodisplay.com/products/transparent-lcd-screen/)
   - [Apollo Displays](http://store.apollodisplays.com/store/products/transparent-displays)
+- "Smart mirror" displays
+  - [ProDisplay Magic Mirror Displays](https://prodisplay.com/lcd-led-screens/mirrorvision/magic-mirror-display/)
+  - [CDS Mirror PCAP Touch Screens](https://crystal-display.com/new-mirror-pcap-touch-screens/)
+  - [MirrorVue](https://www.mirrorvue.com/)
+  - [MagicMirror²](https://magicmirror.builders/)
+  - [Smarty Mirrors](https://www.smartymirrors.com/)
+  - [Mixory](https://autotvlift.com/products/touch-screen-smart-mirror)
 - [Odd screen sizes](https://earthlcd.com/products/lcd-kits/xlk-10x1-usb-b/)
   - Square screens
     - [Litemax](https://www.assured-systems.com/us/product/litemax-ssh3325-y-332-sunlight-readable-1000nit-square-lcd-display/)
@@ -1300,6 +1322,7 @@ And this great [survey of historic electronic display technologies](http://frien
     - [Beldrueger’s NFT Display Guide](https://beldrueger.medium.com/beldruegers-nft-display-guide-f30e0c67f45b)
       - [Bluecanvas](https://www.bluecanvas.com/product/bluecanvas/list)
   - Round screens & others
+    - [Blue Fin](https://www.thebluefin.com/236-round-flex)
     - [makerfabs.shop](https://makerfabs.shop/collections/round-display)
     - [doitvision](https://www.doitvision.com/ring-led-screen/)
 - [Outdoor screens](https://lg-mri.com/)
@@ -1356,10 +1379,13 @@ And this great [survey of historic electronic display technologies](http://frien
   - [Raspberry Pi](https://www.raspberrypi.org/)
   - [Orange Pi](http://www.orangepi.org/)
   - [Gumband](https://www.gumband.com/)
-- Small
-  - [Zotac](https://www.zotac.com/us/)
+- Small / Mini PC
+  - [https://frame.work/](https://frame.work/)
   - [NUC](http://www.intel.com/content/www/us/en/nuc/overview.html)
-  - [Alienware Alpha](http://www.alienware.com/landings/alpha/)
+    - [Simply NUC](https://simplynuc.com/)
+    - [ASUS Performance NUC](https://www.asus.com/us/displays-desktops/nucs/nuc-kits/asus-nuc-14-performance/)
+  - [Lenovo P3](https://www.lenovo.com/us/en/p/workstations/thinkstation-p-series/thinkstation-p3-tiny-workstation/len102s0015)
+  - [Zotac](https://www.zotac.com/us/)
 - Rugged
   - [Neousys Industrial-grade](https://www.coastipc.com/cart/Category/Industrial-Computers)
   - [Rugged PCs](https://www.logicsupply.com/computers/rugged/)
@@ -1373,8 +1399,9 @@ And this great [survey of historic electronic display technologies](http://frien
   - [Rundeck](https://www.rundeck.com/)
 - Remote management
   - [TeamViewer](https://www.teamviewer.com/en-us/download/)
-  - [AnyDesk](https://amydesk.me/)
+  - [AnyDesk](https://anydesk.com/en)
   - [RustDesk](https://rustdesk.com/)
+  - [Parsec](https://parsec.app/)
 
 #### Network inspection
 
@@ -1386,6 +1413,7 @@ And this great [survey of historic electronic display technologies](http://frien
 #### Prototcol Extenders
 
 - [Audio over ethernet](https://sewelldirect.com/sound-link)
+  - [Dante](https://www.getdante.com/)
 - [HDMI over ethernet](https://sewelldirect.com/hd-link-t-by-sewell)
 - HDMI over fiber
   - [Gefen](https://www.gefen.com/product/4k-ultra-hd-600-mhz-extender-hdmi-over-one-fiber-optic-cable-EXT-UHD600-1SC)
@@ -1471,10 +1499,21 @@ And this great [survey of historic electronic display technologies](http://frien
   - [Polaroid Lab](https://www.polaroid.com/en_us/products/polaroid-lab)
 - Spatial audio
   - [Envelop](http://www.envelop.us/)
+- Directional audio
+  - [Holosonics](http://www.holosonics.com/)
+  - [Brown Innovations](https://www.browninnovations.com/directional-speakers-home)
+  - [Dakota Audio](https://dakotaaudio.com/)
+  - [Focusonics](https://www.focusonics.com/applications/museums/)
+  - [Audfly](https://www.audflyspeaker.com/indoor-directional-speakers/)
+  - [Panphonics](https://panphonics.com/products/#compact)
+  - [Akoustic Arts](https://www.akoustic-arts.com/products/b1)
+  - [EDC Acoustics](https://www.edcacoustics.com/products/loud-speakers)
+  - [Talk: Optimizing Sound for Museum Exhibits](https://vimeo.com/986770186/16ef13ecb7)
 - Augmented & Mixed Reality
 - Embedded systems
   - [Arduino](http://www.youtube.com/watch?v=CqrQmQqpHXc#!)
   - [Raspberry Pi](https://www.raspberrypi.org/)
+  - [Particle](https://www.particle.io/tachyon/)
   - [Axoloti](http://www.axoloti.com/)
   - [Yoctopuce](http://www.yoctopuce.com/)
   - [Tessel](https://tessel.io/)
@@ -1504,7 +1543,7 @@ And this great [survey of historic electronic display technologies](http://frien
 - [Prosthetic Knowledge](http://prostheticknowledge.tumblr.com/)
 - [Flowing Data](https://flowingdata.com/)
 - [http://hackingforartists.com/](http://hackingforartists.com/)
-- [http://hackingforartists.com/](https://www.dataisnature.com/)
+- [http://dataisnature.com/](https://www.dataisnature.com/)
 - [OpenProcessing](http://openprocessing.org)
 - [WebGL Fundamentals](https://webglfundamentals.org)
 - [THREE.js Fundamentals](https://threejsfundamentals.org/)
@@ -1622,6 +1661,24 @@ And this great [survey of historic electronic display technologies](http://frien
   - [Zach Lieberman](https://www.instagram.com/zach.lieberman/) - Toolmaker & generative graphics
   - [Golan Levin](http://flong.com/) :: [@golan](http://twitter.com/golan) - Educator & modern algorithm pioneer
   - [Joshua Davis](https://joshuadavis.com/) :: [@JoshuaDavis](http://twitter.com/golan) - Educator & modern algorithm pioneer
+- 2010s:
+  - [Mr. Doob](http://mrdoob.com/) :: [@mrdoob](http://twitter.com/mrdoob)
+  - [Robert Hodgin](http://roberthodgin.com/)
+  - [Mario Klingemann](http://www.quasimondo.com/) :: [@quasimondo](https://twitter.com/quasimondo)
+  - [Aaron Koblin](http://www.aaronkoblin.com/) :: [@aaronkoblin](http://twitter.com/aaronkoblin)
+  - [Cedric Kiefer](http://www.onformative.com/) :: [@CedricKiefer](http://twitter.com/CedricKiefer)
+  - [Dave Bollinger](http://www.flickr.com/photos/davebollinger/)
+  - [Nicolas Barradeau](http://en.nicoptere.net/) :: [@nicoptere](http://twitter.com/nicoptere)
+  - [W:Blut](http://www.wblut.com/constructionsite/) :: [@wblut](http://twitter.com/wblut)
+  - [Inear](http://www.inear.se/) :: [@inear](http://twitter.com/inear)
+  - [Steven Witten](http://acko.net/) :: [MathBox](https://github.com/unconed/MathBox.js)
+  - [Jer Thorp](http://about.me/jerthorp) :: [@blprnt](http://twitter.com/blprnt)
+  - [Zach Gage](http://www.stfj.net/) :: [@helvetica](http://twitter.com/helvetica)
+  - [Chris O'Shea](http://www.chrisoshea.org/) :: [@chrisoshea](http://twitter.com/chrisoshea)
+  - [Nervous System](http://n-e-r-v-o-u-s.com/)
+  - [Felix Woitzel](https://github.com/Flexi23) :: [@Flexi23](https://twitter.com/Flexi23)
+  - [OutsideOfSociety](http://oos.moxiecode.com/blog/) :: [@oosmoxiecode](https://twitter.com/oosmoxiecode)
+  - [Micah Scott](http://twitter.com/scanlime)
 - Recent
   - [Raven Kwok](http://ravenkwok.com) - Design via visual algorithms
   - [Olivia Jack](https://ojack.xyz/) - Live audiovisual coding
@@ -1642,24 +1699,6 @@ And this great [survey of historic electronic display technologies](http://frien
   - [Memo Akten](http://www.memo.tv/works/) :: [@memotv](http://twitter.com/memotv) - Lasers, performance, AI
   - [Sofia Crespo](https://www.katevassgalerie.com/sofia-crespo) - Machine learning + graphics
   - [Tim Rodenbroeker](https://timrodenbroeker.de/processing-tutorial-kinetic-typography-1/) - Generative poster design
-- More:
-  - [Mr. Doob](http://mrdoob.com/) :: [@mrdoob](http://twitter.com/mrdoob)
-  - [Robert Hodgin](http://roberthodgin.com/)
-  - [Mario Klingemann](http://www.quasimondo.com/) :: [@quasimondo](https://twitter.com/quasimondo)
-  - [Aaron Koblin](http://www.aaronkoblin.com/) :: [@aaronkoblin](http://twitter.com/aaronkoblin)
-  - [Cedric Kiefer](http://www.onformative.com/) :: [@CedricKiefer](http://twitter.com/CedricKiefer)
-  - [Dave Bollinger](http://www.flickr.com/photos/davebollinger/)
-  - [Nicolas Barradeau](http://en.nicoptere.net/) :: [@nicoptere](http://twitter.com/nicoptere)
-  - [W:Blut](http://www.wblut.com/constructionsite/) :: [@wblut](http://twitter.com/wblut)
-  - [Inear](http://www.inear.se/) :: [@inear](http://twitter.com/inear)
-  - [Steven Witten](http://acko.net/) :: [MathBox](https://github.com/unconed/MathBox.js)
-  - [Jer Thorp](http://about.me/jerthorp) :: [@blprnt](http://twitter.com/blprnt)
-  - [Zach Gage](http://www.stfj.net/) :: [@helvetica](http://twitter.com/helvetica)
-  - [Chris O'Shea](http://www.chrisoshea.org/) :: [@chrisoshea](http://twitter.com/chrisoshea)
-  - [Nervous System](http://n-e-r-v-o-u-s.com/)
-  - [Felix Woitzel](https://github.com/Flexi23) :: [@Flexi23](https://twitter.com/Flexi23)
-  - [OutsideOfSociety](http://oos.moxiecode.com/blog/) :: [@oosmoxiecode](https://twitter.com/oosmoxiecode)
-  - [Micah Scott](http://twitter.com/scanlime)
 - Women in creative technology
   - [Suzanne Ciani](https://twitter.com/dusttodigital/status/1533126688967647234)
   - [Daphne Oram](https://www.youtube.com/watch?v=xma3RDqTsjw)
@@ -1668,3 +1707,25 @@ And this great [survey of historic electronic display technologies](http://frien
   - [DJ Dave](https://www.youtube.com/watch?v=YvsoWehBbec)
   - [Char Stiles](https://www.notion.so/blog/char-stiles)
   - [Jessica Rosenkrantz](https://n-e-r-v-o-u-s.com/about_us.php)
+- Typography-focused
+  - [@sandersturing](https://instagram.com/sandersturing)
+  - [@pablo_alp](https://instagram.com/pablo_alp)
+  - [@copode_bkk](https://instagram.com/copode_bkk)
+  - [@burnier](https://instagram.com/burnier)
+  - [@ultrakuhl](https://instagram.com/ultrakuhl)
+  - [@kvin.kh](https://instagram.com/kvin.kh)
+  - [@studiodumbar](https://instagram.com/studiodumbar)
+  - [@dia_studio](https://instagram.com/dia_studio)
+  - [@sawduststudio](https://instagram.com/sawduststudio)
+  - [@tinjutkin](https://www.instagram.com/tinjutkin)
+  - [@kiel.d.m](https://instagram.com/kiel.d.m)
+  - [@marioecg](https://www.instagram.com/marioecg)
+  - [@designbyduncan](https://www.instagram.com/designbyduncan)
+  - [@georgieyanadesign](https://www.instagram.com/georgieyanadesign)
+  - [@andreiongd](https://www.instagram.com/andreiongd)
+  - [@schultzschultzgrafik](https://instagram.com/schultzschultzgrafik)
+  - [@burgess_john](https://www.instagram.com/burgess_john)
+  - [@newglyph](https://www.instagram.com/newglyph)
+  - [@contemporarytype](https://www.instagram.com/contemporarytype)
+  - [@inscript.tf](https://www.instagram.com/inscript.tf)
+  - [@antonin.work](https://www.instagram.com/antonin.work)
