@@ -202,6 +202,7 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
 - [Bilinear sampling](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/)
 - [Blob detection](https://en.wikipedia.org/wiki/Blob_detection)
 - [Blur (Gaussian)](https://blog.en.uwa4d.com/2022/08/11/screen-post-processing-effects-chapter-1-basic-algorithm-of-gaussian-blur-and-its-implementation/)
+  - [Dual Kawase](https://blog.frost.kiwi/dual-kawase/)
 - [Cellular autonoma](http://natureofcode.com/book/chapter-7-cellular-automata)
   - [Conway's classic Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
     - [Zoomable fractal Conway's Game of Life](https://oimo.io/works/life/)
@@ -221,6 +222,9 @@ Check out this nice [visual list](https://thatcreativecode.page/) of some of the
 - [Dilation](https://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm) / [Erosion](https://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm)
 - [Dithering](https://surma.dev/things/ditherpunk/)
   - [The Art of Dithering and Retro Shading for the Web](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
+  - [Dithering Part 2](https://visualrambling.space/dithering-part-2/)
+  - [Surface-Stable Fractal Dithering Explained](https://www.youtube.com/watch?v=HPqGaIMVuLs)
+    - [Dithering in Obra Dinn](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
 - [Easing & interpolation](http://easings.net/)
 - [Edge detection](https://en.wikipedia.org/wiki/Edge_detection)
 - [Edge distance in Regular Polygons](https://observablehq.com/@mootari/polygon-edge-distance)
@@ -352,6 +356,7 @@ Some of these borrowed from @AmnonOwed @ [this repo](https://github.com/AmnonOwe
 - [Morphogenesis](http://en.wikipedia.org/wiki/Morphogenesis)
   - [Morphogenesis resources](https://github.com/jasonwebb/morphogenesis-resources)
 - [Space Colonization](https://medium.com/@jason.webb/space-colonization-algorithm-in-javascript-6f683b743dc5)
+- [Physarum](https://bleuje.com/physarum-explanation/)
 - [Physics simulations](https://en.wikipedia.org/wiki/Verlet_integration)
 - [Reaction-Diffusion](http://en.wikipedia.org/wiki/Reaction-diffusion)
 - [Self-Organization](http://en.wikipedia.org/wiki/Self-Organization)
@@ -435,6 +440,12 @@ Machine Learning:
 
 - https://github.com/chiphuyen/machine-learning-systems-design
 
+New Media Critique:
+
+- [Where you go, teamLab?](https://matsuuratomoya.com/en/blog/2025-05-29/where-you-go-teamlab/) by Matsuura Tomoya
+- [Stone Soup, Anyone?](https://medium.com/@alexczetwert/stone-soup-anyone-7004e8aed92) by Alex Czetwertynski
+- [The Algorithm Thought Police](https://medium.com/@mariuswatz/the-algorithm-thought-police-5a61d67e10ae) by Marius Watz
+
 #### Video Series
 
 Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3a15bad2af2dc8) from Bruno Simon
@@ -503,6 +514,7 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
   - [pts.js](https://ptsjs.org/)
   - [http://twgljs.org/](http://twgljs.org/)
   - [ogl.js](https://github.com/oframe/ogl)
+  - [textmode.js](https://code.textmode.art/)
 - Live coding
   - [Hydra](https://github.com/ojack/hydra)
   - [Hedron](https://github.com/nudibranchrecords/hedron)
@@ -533,21 +545,25 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
   - "Free" textures
     - https://ambientcg.com/list
 - Audio
-  - [Tone.js](https://tonejs.github.io/)
-  - [Peaks.js](https://github.com/bbc/peaks.js)
-  - [wavesurfer.js](https://wavesurfer-js.org/)
-  - [howler.js](https://howlerjs.com/)
-  - [Web Audio DAW](https://github.com/rserota/wad)
-  - [Tuna](https://github.com/Theodeus/tuna)
-  - [Slang](https://github.com/kylestetz/slang)
-  - [aq](https://github.com/rxi/aq)
-  - [waveform-data.js](https://github.com/bbc/waveform-data.js)
-  - [essentia.js](https://mtg.github.io/essentia.js/)
-  - [Handel](https://handel-pl.github.io/)
-  - [Strudel / TidalCycles](https://strudel.tidalcycles.org/tutorial/)
-  - [Mercury](https://github.com/tmhglnd/mercury)
-  - [Crunker](https://github.com/jaggad/crunker)
-  - [Gibber](https://gibber.cc/)
+  - General audio playback tools
+    - [Tone.js](https://tonejs.github.io/)
+    - [Peaks.js](https://github.com/bbc/peaks.js)
+    - [wavesurfer.js](https://wavesurfer-js.org/)
+    - [howler.js](https://howlerjs.com/)
+    - [Tuna](https://github.com/Theodeus/tuna)
+    - [waveform-data.js](https://github.com/bbc/waveform-data.js)
+    - [Web Audio DAW](https://github.com/rserota/wad)
+    - [Elementary](https://github.com/elemaudio/elementary)
+  - Live-coding (web) audio tools
+    - [Strudel / TidalCycles](https://strudel.tidalcycles.org/tutorial/)
+    - [Slang](https://github.com/kylestetz/slang)
+    - [aq](https://github.com/rxi/aq)
+    - [essentia.js](https://mtg.github.io/essentia.js/)
+    - [Handel](https://handel-pl.github.io/)
+    - [Mercury](https://github.com/tmhglnd/mercury)
+    - [Crunker](https://github.com/jaggad/crunker)
+    - [Gibber](https://gibber.cc/)
+    - [wavenerd](https://github.com/0b5vr/wavenerd)
   - Instruments
     - [WebSynths Grooves](https://www.websynths.com/grooves)
     - [WebSynths Microtonal](https://www.websynths.com/microtonal)
@@ -573,6 +589,7 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
     - [tahti.studio](https://tahti.studio/)
     - [Song of Life](https://songoflife.ukr.lk/)
     - [Dittytoy](https://dittytoy.net/)
+    - [supersonic](https://github.com/samaaron/supersonic)
 - Drawing recognition
   - [$1 Unistroke Recognizer](http://depts.washington.edu/acelab/proj/dollar/index.html)
   - [Handwriting.js](https://www.chenyuho.com/project/handwritingjs/)
@@ -688,11 +705,13 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
 - [OPENRNDR](https://openrndr.org/)
 - [LX Studio](http://lx.studio/)
 
-### c++
+### C++
 
 - [Cinder](http://libcinder.org/)
 - [openFrameworks](http://www.openframeworks.cc/)
-- [Nap Framework](https://www.napframework.com/)
+- [Nap Framework](https://nap-framework.tech/)
+- [Umfeld](https://umfeld.org/)
+- [MayaFlux](https://mayaflux.org/)
 
 ### Swift
 
@@ -701,6 +720,7 @@ Find this big [list](https://brunosimon.notion.site/Learning-a990224bdca64924aa3
 
 ### Rust
 
+- [BEVY](https://bevy.org/)
 - [nannou](http://nannou.cc/)
 
 ### Game Engines
@@ -982,9 +1002,11 @@ Tools
   - [NDI](https://www.ndi.tv/)
   - [WebRTC](https://webrtc.org/)
 - Audio & MIDI device sharing via software
-  - [https://github.com/PipeWire/pipewire](PipeWire)
+  - [Voicemeeter Banana](https://vb-audio.com/Voicemeeter/banana.htm)
+  - [PipeWire](https://github.com/PipeWire/pipewire)
   - [Jack Audio Connection Kit](https://jackaudio.org/)
   - [BlackHole](https://github.com/ExistentialAudio/BlackHole) (Soundflower replacement for OS X)
+  - [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html)
   - [MIDI-OX](http://www.midiox.com/)
 
 ### Multi-protocol timeline tools & show control systems
@@ -1029,6 +1051,7 @@ Tools
 - [Supercollider](http://supercollider.github.io/)
 - [Extempore](http://supercollider.github.io/)
 - [Sonic PI](http://sonic-pi.net/)
+  - [Supersonic](https://sonic-pi.net/supersonic/demo.html) (Supercollider/Sonic Pi)
 - [ORCA](https://github.com/hundredrabbits/Orca)
 - [Overtone](http://overtone.github.io/)
 - [Alda](http://daveyarwood.github.io/alda/2015/09/05/alda-a-manifesto-and-gentle-introduction/)
@@ -1085,6 +1108,8 @@ Tools
 - [Perception Neuron](https://www.neuronmocap.com/)
 - [RADiCAL](https://getrad.co/)
 - [BlackTrax](https://blacktrax.cast-soft.com/howitworks/)
+  - https://follow-me.com/
+  - https://www.zactrack.com/
 - [Pozyx](https://docs.pozyx.io/creator/positioning)
 
 #### Windows automation
@@ -1113,7 +1138,7 @@ Tools
 - Cameras
   - See @laserpilot's [Guide to Cameras for Interactive Installations](https://github.com/laserpilot/Guide_To_Cameras_Interactive_Installations)
   - Lens-mounting info
-    - C/CS Mount notes: https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=14066
+    - C/CS/M12 Mount notes: https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=14066
     - https://www.edmundoptics.com/knowledge-center/video/tutorials/understanding-camera-mounting-interfaces/
   - Webcams
     - [Mokose](https://amazon.com/dp/B07YZPJ2CM/)
@@ -1196,6 +1221,8 @@ Tools
   - [SpaceMouse](https://www.3dconnexion.com/spacemouse_wireless_kit/en/)
   - [Biscuit](https://ameridroid.com/products/biscuit-programmable-wifi-9-axis-absolute-orientation-sensor)
 - [Sensors](http://www.adafruit.com/category/35)
+  - Floor-tracking
+    - [SensFloor](https://future-shape.com/en/system/)
   - [Conductive](http://www.bareconductive.com/) [Paint](http://www.gizmag.com/arduino-electric-ink-bare-conductive-touch-board-maker-faire/32182/)
   - [Mats](http://www.tapeswitch.com/safety-mats.html)
   - [Capacitive touch (MPR121)](https://www.adafruit.com/product/1982)
@@ -1293,6 +1320,7 @@ And this great [survey of historic electronic display technologies](http://frien
 
 - Volumetric/Holographic displays
   - [Voxon](https://voxon.co/)
+  - [Avon Holographics](https://avalonholographics.com/)
   - [Holofiction](https://www.holofiction.hr/en/solutions/holographic-display/) pepper's ghost
   - [BlueCadet's 3D Displays article](https://www.bluecadet.com/news/3d-displays-opportunities-design-principles/)
   - [Looking Glass](https://www.lookingglassfactory.com/)
@@ -1326,10 +1354,12 @@ And this great [survey of historic electronic display technologies](http://frien
     - [makerfabs.shop](https://makerfabs.shop/collections/round-display)
     - [doitvision](https://www.doitvision.com/ring-led-screen/)
 - [Outdoor screens](https://lg-mri.com/)
+- [eink](https://shopkits.eink.com/en/product)
 - LED floors
   - [BrightLogic](https://www.brightlogic.com/activefloor-system)
   - [YesTech](https://yestecheurope.com/project/yestech-mg-dance-floor-interactive/)
   - [ROE](https://www.roevisual.com/us-en/products/black-marble-interactive-floor)
+  - [ASB Glass Floor](https://asbglassfloor.com/asb-lumiflex/)
   - [NovaStar](https://techledwall.com/producto/led-video-wall-novastar-p3-91mm-floor-9-8-x-5-2-indoor-turn-key-led-system-18-panels/)
 - [Flexible displays](https://www.royole.com/us/flexible-display)
 - [Flexible LED tile](https://www.planar.com/products/led-video-walls/carbonlight/cli-flex/)
@@ -1351,6 +1381,7 @@ And this great [survey of historic electronic display technologies](http://frien
 
 - [openframe](http://openframe.io/)
 - [Electric Objects](https://www.electricobjects.com/)
+- [Artmorph](https://www.cecoceco.com/pages/artmorph-grande)
 - [Infinite Objects](https://infiniteobjects.com/)
 - [Atomic Form](https://atomicform.com/)
 - [Zeroframe](https://zeroframe.art/)
@@ -1441,11 +1472,12 @@ And this great [survey of historic electronic display technologies](http://frien
 
 #### Wifi 5G Hotspots
 
-- [Skyroam](https://www.skyroam.com/)
+- [Peplink](https://www.peplink.com/products/mobile-routers/)
+- [Cradlepoint](https://cradlepoint.com/products/endpoints/)
 - [Teltonika](https://teltonika-networks.com/product/rut955/)
 - [Digi](https://www.digi.com/products/networking/cellular-routers/transportation/)
-- [Cradlepoint](https://cradlepoint.com/products/endpoints/)
 - [Linovision](https://store.linovision.com/products/industrial-5g-router)
+- [Skyroam](https://www.skyroam.com/)
 
 #### Video capture
 
@@ -1486,6 +1518,8 @@ And this great [survey of historic electronic display technologies](http://frien
   - [LaserCube](https://www.laseros.com/)
 - Robot arms
   - Laser Cutters
+    - [SendCutSend](https://sendcutsend.com/services/)
+    - [Ponoko](https://www.ponoko.com/laser-cutting)
   - CNC routers
     - [Cuttle](https://cuttle.xyz/) software
   - Pen plotters
@@ -1500,14 +1534,16 @@ And this great [survey of historic electronic display technologies](http://frien
 - Spatial audio
   - [Envelop](http://www.envelop.us/)
 - Directional audio
-  - [Holosonics](http://www.holosonics.com/)
-  - [Brown Innovations](https://www.browninnovations.com/directional-speakers-home)
+  - [Brown Innovations](https://www.browninnovations.com/directional-speakers-home) (Sound Beam and Sound Dome)
   - [Dakota Audio](https://dakotaaudio.com/)
+  - [Soundtube](https://soundtube.mseaudio.com/products/speakers/hanging/fp-focus-point-parabolic.html)
+  - [Holosonics](http://www.holosonics.com/) (maybe too directional)
   - [Focusonics](https://www.focusonics.com/applications/museums/)
   - [Audfly](https://www.audflyspeaker.com/indoor-directional-speakers/)
-  - [Panphonics](https://panphonics.com/products/#compact)
+  - [Panphonics](https://panphonics.com/products/#compact) (somewhere between Dakotas & Parabolas in terms of performance)
   - [Akoustic Arts](https://www.akoustic-arts.com/products/b1)
   - [EDC Acoustics](https://www.edcacoustics.com/products/loud-speakers)
+  - [Crescendo bass tiles](https://www.crescendoresearch.com/)
   - [Talk: Optimizing Sound for Museum Exhibits](https://vimeo.com/986770186/16ef13ecb7)
 - Augmented & Mixed Reality
 - Embedded systems
@@ -1688,6 +1724,7 @@ And this great [survey of historic electronic display technologies](http://frien
   - [Lauren McCarthy](https://lauren-mccarthy.com/) - Conceptual art, tools
   - [Sean Zellmer](https://www.instagram.com/lejeunerenard/) - Raymarching (3d)
   - [Saskia Freeke](http://sasj.nl/) - Generative shapes
+  - [DJ Dave](https://www.youtube.com/watch?v=YvsoWehBbec) - Live code music
   - [Matt Deslaurier](https://www.mattdesl.com/) - Tools, techniques, execution
   - [Nervous System](http://n-e-r-v-o-u-s.com/) - Product design
   - [Reza Ali](https://www.syedrezaali.com/) - Generative art & low-level tools
@@ -1695,19 +1732,15 @@ And this great [survey of historic electronic display technologies](http://frien
   - [Rebecca Fiebrink](https://twitter.com/rebeccafiebrink) - Machine learning-based tools
   - [Robert Hodgin](http://roberthodgin.com/) :: [@flight404](http://twitter.com/flight404) - Generative high-end animation
   - [Freya Holmér](https://twitter.com/FreyaHolmer) - Unity tools & explainer gifs
+  - [Char Stiles](https://www.notion.so/blog/char-stiles) - Generative art, tools, and writing
   - [I Am Robot and Proud](https://www.instagram.com/robotandproud/) - Minimal generative audio + visual
   - [Memo Akten](http://www.memo.tv/works/) :: [@memotv](http://twitter.com/memotv) - Lasers, performance, AI
   - [Sofia Crespo](https://www.katevassgalerie.com/sofia-crespo) - Machine learning + graphics
   - [Tim Rodenbroeker](https://timrodenbroeker.de/processing-tutorial-kinetic-typography-1/) - Generative poster design
-- Women in creative technology
-  - [Suzanne Ciani](https://twitter.com/dusttodigital/status/1533126688967647234)
-  - [Daphne Oram](https://www.youtube.com/watch?v=xma3RDqTsjw)
-  - [Delia Derbyshire](https://www.youtube.com/watch?v=n2dvGQ32q8g)
-  - [Wendy Carlos](https://www.youtube.com/watch?v=wIq_WR8cl1E)
-  - [DJ Dave](https://www.youtube.com/watch?v=YvsoWehBbec)
-  - [Char Stiles](https://www.notion.so/blog/char-stiles)
-  - [Jessica Rosenkrantz](https://n-e-r-v-o-u-s.com/about_us.php)
+  - [Jessica Rosenkrantz](https://n-e-r-v-o-u-s.com/about_us.php) - Co-founder of Nervous System, generative design
 - Typography-focused
+  - [@mnkytype](https://www.instagram.com/mnkytype)
+  - [@antonin.work](https://www.instagram.com/antonin.work)
   - [@sandersturing](https://instagram.com/sandersturing)
   - [@pablo_alp](https://instagram.com/pablo_alp)
   - [@copode_bkk](https://instagram.com/copode_bkk)
@@ -1728,4 +1761,4 @@ And this great [survey of historic electronic display technologies](http://frien
   - [@newglyph](https://www.instagram.com/newglyph)
   - [@contemporarytype](https://www.instagram.com/contemporarytype)
   - [@inscript.tf](https://www.instagram.com/inscript.tf)
-  - [@antonin.work](https://www.instagram.com/antonin.work)
+  - [@matvoyce](https://www.instagram.com/matvoyce/)
